@@ -1,0 +1,553 @@
+- generic [ref=f164e1]:
+  - generic [ref=f164e4]:
+    - generic:
+      - link "logo":
+        - /url: /
+        - img "logo"
+    - textbox "¿Qué estás buscando?" [ref=f164e6]
+    - generic [ref=f164e7]:
+      - generic [ref=f164e8]: "0"
+      - button [ref=f164e13] [cursor=pointer]
+  - region "Ventajas de comprar en Patinete Store" [ref=f164e14]:
+    - generic [ref=f164e16]:
+      - generic [ref=f164e17]:
+        - generic [ref=f164e18]: ALMACÉN EN ESPAÑA
+        - generic [ref=f164e19]: ENVÍOS EN 24-48 HORAS
+        - generic [ref=f164e20]: •
+        - generic [ref=f164e21]: TIENDA Nº1 DE PATINETES EN ESPAÑA
+        - generic [ref=f164e22]: •
+        - generic [ref=f164e23]: ★
+        - link "+2.500 RESEÑAS EN GOOGLE" [ref=f164e24] [cursor=pointer]:
+          - /url: https://share.google/RuIHo1gsaQe1QaF8z
+        - generic [ref=f164e25]: •
+        - generic [ref=f164e26]:
+          - text: ¡VINILO
+          - generic [ref=f164e27]: GRATIS
+          - text: CON LA COMPRA DE TU PATINETE!
+      - generic [ref=f164e28]:
+        - generic [ref=f164e29]: ALMACÉN EN ESPAÑA
+        - generic [ref=f164e30]: ENVÍOS EN 24-48 HORAS
+        - generic [ref=f164e31]: •
+        - generic [ref=f164e32]: TIENDA Nº1 DE PATINETES EN ESPAÑA
+        - generic [ref=f164e33]: •
+        - generic [ref=f164e34]: ★
+        - generic [ref=f164e35]: +2.500 RESEÑAS EN GOOGLE
+        - generic [ref=f164e36]: •
+        - generic [ref=f164e37]:
+          - text: ¡VINILO
+          - generic [ref=f164e38]: GRATIS
+          - text: CON LA COMPRA DE TU PATINETE!
+  - link "Saltar al contenido" [ref=f164e39] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=f164e40]:
+    - banner [ref=f164e41]:
+      - generic [ref=f164e42]:
+        - text:   
+        - navigation [ref=f164e44]:
+          - link [ref=f164e46] [cursor=pointer]:
+            - /url: https://patinetestore.com/
+            - img "Patinete Store | Venta de patinetes eléctricos y repuestos de patinete" [ref=f164e47]
+          - list [ref=f164e49]:
+            - listitem [ref=f164e50]:
+              - button "Menú" [ref=f164e51] [cursor=pointer]:
+                - generic [ref=f164e52]: 
+          - text:  
+          - list [ref=f164e54]:
+            - listitem [ref=f164e55]:
+              - button "Ver carrito" [ref=f164e56] [cursor=pointer]:
+                - generic [ref=f164e57]: 
+        - text:     
+        - search "Buscar productos" [ref=f164e63]:
+          - searchbox "Buscar" [ref=f164e65]
+    - navigation [ref=f164e70]:
+      - generic [ref=f164e71]:
+        - link "Patinetes eléctricos" [ref=f164e72] [cursor=pointer]:
+          - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/
+        - text: »
+        - link "Smartgyro" [ref=f164e73] [cursor=pointer]:
+          - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/smartgyro/
+    - main [ref=f164e75]:
+      - generic [ref=f164e78]:
+        - generic [ref=f164e80]:
+          - generic [ref=f164e84]:
+            - generic [ref=f164e85]: OFERTÓN!
+            - generic [ref=f164e86]:
+              - generic [ref=f164e87] [cursor=pointer]:
+                - generic:
+                  - link [ref=f164e89]:
+                    - /url: https://patinetestore.com/wp-content/uploads/2026/02/Smartgyro-k5-prolr.jpg
+                    - img "Patinete Eléctrico Smartgyro K5 PRO LR" [ref=f164e90]
+                  - link [ref=f164e92]:
+                    - /url: https://patinetestore.com/wp-content/uploads/2026/02/smartgyro-k5-pro-lateral.jpg
+                    - img "Patinete Eléctrico Smartgyro K5 PRO LR" [ref=f164e93]
+              - list [ref=f164e94]:
+                - listitem [ref=f164e95] [cursor=pointer]:
+                  - img "Patinete Eléctrico Smartgyro K5 PRO LR" [ref=f164e96]
+                - listitem [ref=f164e97] [cursor=pointer]:
+                  - img "Patinete Eléctrico Smartgyro K5 PRO LR" [ref=f164e98]
+          - generic [ref=f164e99]:
+            - heading "Patinete Eléctrico Smartgyro K5 PRO LR" [level=1] [ref=f164e100]
+            - paragraph [ref=f164e102]:
+              - deletion [ref=f164e103]:
+                - generic [ref=f164e105]:
+                  - generic [ref=f164e106]: €
+                  - text: 879,00
+              - generic [ref=f164e107]: "El precio original era: €879,00."
+              - insertion [ref=f164e108]:
+                - generic [ref=f164e110]:
+                  - generic [ref=f164e111]: €
+                  - text: 774,00
+              - generic [ref=f164e112]: "El precio actual es: €774,00."
+            - note [ref=f164e114]:
+              - strong [ref=f164e117]: Envío en 24-48 horas
+            - generic [ref=f164e118]:
+              - img "🚚" [ref=f164e120]
+              - generic [ref=f164e121]: Envío gratis. Recíbelo el 8 de octubre
+            - paragraph [ref=f164e123]:
+              - strong [ref=f164e124]: Patinete eléctrico Smartgyro K5 PRO LR
+              - text: certificado DGT con 900W nominal / 2000W máximo, 48V, batería 20.000 mAh, autonomía hasta 75 km, 10 pulgadas tubeless y triple frenada con disco delantero, disco trasero y regenerativa. Ideal para quien quiere el K5 PRO con más batería y más margen para rutas largas.
+            - generic [ref=f164e125]:
+              - generic [ref=f164e127]:
+                - heading "Datos necesarios para la Gestión DGT" [level=3] [ref=f164e128]
+                - paragraph [ref=f164e129]: Completa estos datos para que podamos gestionar el alta DGT correctamente.
+                - generic [ref=f164e130]:
+                  - generic [ref=f164e131]: ¿tienes Clave movil o certificado digital? *
+                  - combobox "¿tienes Clave movil o certificado digital? *" [ref=f164e132]:
+                    - option "Selecciona una opción" [selected]
+                    - option "Tengo Clave movil"
+                    - option "Tengo certificado digital"
+                    - option "No tengo ninguna"
+                - generic [ref=f164e133]:
+                  - generic [ref=f164e134]: Adjunto DNI cara A *
+                  - generic [ref=f164e135]:
+                    - button "Adjunto DNI cara A *" [ref=f164e136]
+                    - button "Seleccionar archivo" [ref=f164e137] [cursor=pointer]
+                    - generic [ref=f164e138]: Ningún archivo seleccionado
+                - generic [ref=f164e139]:
+                  - generic [ref=f164e140]: Adjunto DNI cara B *
+                  - generic [ref=f164e141]:
+                    - button "Adjunto DNI cara B *" [ref=f164e142]
+                    - button "Seleccionar archivo" [ref=f164e143] [cursor=pointer]
+                    - generic [ref=f164e144]: Ningún archivo seleccionado
+              - generic [ref=f164e145]:
+                - generic [ref=f164e146]:
+                  - generic [ref=f164e147]: TRÁMITES NECESARIOS PARA CIRCULAR LEGALMENTE
+                  - generic [ref=f164e154]:
+                    - generic [ref=f164e155]:
+                      - checkbox "Matrícula DGT MATRICULAR MI PATINETE Una vez tengas el patinete inscrito en la DGT contacta con nosotros y te enviaremos tu matrícula homologada. 9,90 €"
+                      - generic [ref=f164e157] [cursor=pointer]:
+                        - img "Matrícula DGT" [ref=f164e161]
+                        - generic [ref=f164e162]:
+                          - generic [ref=f164e163]: MATRICULAR MI PATINETE
+                          - generic [ref=f164e164]: Una vez tengas el patinete inscrito en la DGT contacta con nosotros y te enviaremos tu matrícula homologada.
+                        - generic [ref=f164e165]: 9,90 €
+                    - generic [ref=f164e167]:
+                      - checkbox "Seguro patinete ASEGURAR EL PATINETE Desde 3,40€/mes Una vez adquieras el patinete, te contactaremos para ayudarte en la gestión del alta de tu seguro obligatorio. Desde 3,40€/mes"
+                      - generic [ref=f164e169] [cursor=pointer]:
+                        - img "Seguro patinete" [ref=f164e173]
+                        - generic [ref=f164e174]:
+                          - generic [ref=f164e175]: ASEGURAR EL PATINETE
+                          - generic [ref=f164e176]: Desde 3,40€/mes
+                          - generic [ref=f164e177]: Una vez adquieras el patinete, te contactaremos para ayudarte en la gestión del alta de tu seguro obligatorio.
+                        - generic [ref=f164e178]: Desde 3,40€/mes
+                - generic [ref=f164e180]:
+                  - generic [ref=f164e181]:
+                    - strong [ref=f164e182]: Tu configuración
+                    - generic [ref=f164e183]: Revisa qué incluye tu patinete antes de añadirlo al carrito.
+                  - generic [ref=f164e184]:
+                    - generic [ref=f164e185]: Patinete Eléctrico Smartgyro K5 PRO LR
+                    - strong [ref=f164e186]: 774,00 €
+                  - generic [ref=f164e188]: Selecciona mejoras, accesorios o servicios y aparecerán aquí.
+                  - generic [ref=f164e189]:
+                    - generic [ref=f164e190]: Mejoras y servicios
+                    - strong [ref=f164e191]: 0,00 €
+                  - generic [ref=f164e192]:
+                    - generic [ref=f164e193]: Precio total
+                    - generic [ref=f164e194]: 774,00 €
+              - button "Añadir al carrito" [ref=f164e195] [cursor=pointer]
+              - button "Comprar ahora" [ref=f164e196] [cursor=pointer]
+            - generic [ref=f164e197]:
+              - generic [ref=f164e198]: "SKU: PS-1024"
+              - generic [ref=f164e199]:
+                - text: "Categorías:"
+                - link "Patinetes eléctricos" [ref=f164e200] [cursor=pointer]:
+                  - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/
+                - text: ","
+                - link "Smartgyro" [ref=f164e201] [cursor=pointer]:
+                  - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/smartgyro/
+              - generic [ref=f164e202]:
+                - text: "Marca:"
+                - link "Smartgyro" [ref=f164e203] [cursor=pointer]:
+                  - /url: https://patinetestore.com/marca/smartgyro/
+          - text:                                
+        - region "Vídeos del producto" [ref=f164e204]:
+          - heading "Vídeos del producto" [level=2] [ref=f164e205]
+          - generic [ref=f164e206]:
+            - iframe [ref=f164e209]:
+              - region "TikTok video player" [ref=f166e1]:
+                - generic [ref=f166e2]:
+                  - img "Video Cover"
+                - link "Visit patinetestore's video on TikTok" [ref=f166e6] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@patinetestore/video/7613443359012621591?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7613443359012621591%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7613443359012621591
+                - link "Visit PATINETE STORE 🏁' profile on TikTok" [ref=f166e8] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@patinetestore?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7613443359012621591%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7613443359012621591
+                  - generic [ref=f166e11]:
+                    - generic [ref=f166e12]: PATINETE STORE 🏁
+                    - generic [ref=f166e13]: patinetestore
+                - button "Play video" [ref=f166e15] [cursor=pointer]
+                - generic [ref=f166e17]:
+                  - slider "Seek video" [ref=f166e19]
+                  - generic [ref=f166e21]:
+                    - generic [ref=f166e22]:
+                      - button "Play" [ref=f166e23] [cursor=pointer]
+                      - generic [ref=f166e26]:
+                        - button "Mute" [ref=f166e27] [cursor=pointer]
+                        - slider "Volume" [ref=f166e31] [cursor=pointer]
+                      - generic [ref=f166e34]: 00:00/02:32
+                    - generic [ref=f166e35]:
+                      - button "Settings" [ref=f166e36] [cursor=pointer]
+                      - button "Enter fullscreen" [ref=f166e42] [cursor=pointer]
+                - generic [ref=f166e45]:
+                  - link "Like this post on TikTok" [ref=f166e46] [cursor=pointer]:
+                    - /url: https://www.tiktok.com/@patinetestore/video/7613443359012621591?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7613443359012621591%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7613443359012621591
+                    - generic [ref=f166e49]: "3856"
+                  - link "Comment this post on TikTok" [ref=f166e50] [cursor=pointer]:
+                    - /url: https://www.tiktok.com/@patinetestore/video/7613443359012621591?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7613443359012621591%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7613443359012621591
+                    - generic [ref=f166e53]: "95"
+                  - link "Share this post on TikTok" [ref=f166e54] [cursor=pointer]:
+                    - /url: https://www.tiktok.com/@patinetestore/video/7613443359012621591?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7613443359012621591%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7613443359012621591
+                    - generic [ref=f166e57]: "265"
+            - generic [ref=f164e210]:
+              - heading "Vídeo 1 de Patinete Eléctrico Smartgyro K5 PRO LR" [level=3] [ref=f164e211]
+              - paragraph [ref=f164e212]: Vídeo 1 sobre Patinete Eléctrico Smartgyro K5 PRO LR. Review, funcionamiento y detalles del producto.
+        - generic [ref=f164e214]:
+          - generic [ref=f164e216]:
+            - generic [ref=f164e217]:
+              - heading "Características técnicas" [level=2] [ref=f164e218]
+              - generic [ref=f164e219]: de Patinete Eléctrico Smartgyro K5 PRO LR
+            - generic [ref=f164e220]:
+              - generic [ref=f164e221]:
+                - img "Motor trasero" [ref=f164e222]
+                - generic [ref=f164e223]: Motor trasero
+                - generic [ref=f164e224]: 1 × 900 W nominal / 2.000 W pico, 48 V
+              - generic [ref=f164e225]:
+                - img "Batería" [ref=f164e226]
+                - generic [ref=f164e227]: Batería
+                - generic [ref=f164e228]: Hasta 75 km (48V 20Ah)
+              - generic [ref=f164e229]:
+                - img "Velocidad" [ref=f164e230]
+                - generic [ref=f164e231]: Velocidad
+                - generic [ref=f164e232]: 25 km/h; no se halló una máxima deslimitada verificable
+              - generic [ref=f164e233]:
+                - img "Deslimitar" [ref=f164e234]
+                - generic [ref=f164e235]: Deslimitar
+                - generic [ref=f164e236]: No especificado
+              - generic [ref=f164e237]:
+                - img "Frenos" [ref=f164e238]
+                - generic [ref=f164e239]: Frenos
+                - generic [ref=f164e240]: "Triple frenada: disco delantero, disco trasero y regenerativa"
+              - generic [ref=f164e241]:
+                - img "Neumáticos" [ref=f164e242]
+                - generic [ref=f164e243]: Neumáticos
+                - generic [ref=f164e244]: 10 pulgadas neumáticos tubeless
+              - generic [ref=f164e245]:
+                - img "Peso" [ref=f164e246]
+                - generic [ref=f164e247]: Peso
+                - generic [ref=f164e248]: 26.55 kg
+          - generic [ref=f164e250]:
+            - generic [ref=f164e251]:
+              - link [expanded] [ref=f164e252] [cursor=pointer]:
+                - /url: "#accordion-item-description"
+                - button "Toggle" [ref=f164e253]:
+                  - generic [ref=f164e254]: 
+                - text: Descripción
+              - generic "Toggle Descripción" [ref=f164e255]:
+                - generic [ref=f164e256]:
+                  - generic [ref=f164e257]:
+                    - paragraph [ref=f164e258]: Smartgyro Autonomía larga
+                    - 'heading "Patinete eléctrico Smartgyro K5 PRO LR: análisis y compra en Patinete Store" [level=2] [ref=f164e259]'
+                    - paragraph [ref=f164e260]: "Smartgyro Autonomía larga Patinete eléctrico Smartgyro K5 PRO LR: análisis y compra en Patinete Store SmartGyro K5 Pro LR – Potencia real y autonomía larga Si buscas un patinete que no se quede corto, el SmartGyro K5 Pro LR 20Ah es uno de los más completos del mercado. Tiene 900W nominales y hasta 2000W de potencia máxima , lo que significa aceleración fuert"
+                  - generic [ref=f164e261]:
+                    - generic [ref=f164e262]:
+                      - paragraph [ref=f164e263]: Potencia
+                      - paragraph [ref=f164e264]: 2000W
+                    - generic [ref=f164e265]:
+                      - paragraph [ref=f164e266]: Batería
+                      - paragraph [ref=f164e267]: 20.000 mAh
+                    - generic [ref=f164e268]:
+                      - paragraph [ref=f164e269]: Autonomía
+                      - paragraph [ref=f164e270]: hasta 75 km
+                    - generic [ref=f164e271]:
+                      - paragraph [ref=f164e272]: Ruedas
+                      - paragraph [ref=f164e273]: 10 pulgadas tubeless
+                    - generic [ref=f164e274]:
+                      - paragraph [ref=f164e275]: Frenos
+                      - paragraph [ref=f164e276]: triple frenada con disco delantero, disco trasero y regenerativa
+                  - generic [ref=f164e277]:
+                    - generic [ref=f164e278]:
+                      - heading "Para quién es el Patinete eléctrico Smartgyro K5 PRO LR" [level=2] [ref=f164e279]
+                      - paragraph [ref=f164e280]: Este modelo encaja para quien quiere el K5 PRO con más batería y más margen para rutas largas. Dentro de Smartgyro, destaca porque misma base que K5 PRO, pero con batería 20Ah y hasta 75 km.
+                      - list [ref=f164e281]:
+                        - listitem [ref=f164e282]: Buena opción si buscas k5 pro con soporte, repuestos y taller especializado.
+                        - listitem [ref=f164e283]: Recomendado comprobar autonomía real según peso, presión de neumáticos, desnivel y modo de conducción.
+                        - listitem [ref=f164e284]: La velocidad legal en vía pública está limitada por normativa VMP; las prestaciones deben usarse dentro del marco permitido.
+                    - complementary [ref=f164e285]:
+                      - heading "Resumen Patinete Store" [level=3] [ref=f164e286]
+                      - paragraph [ref=f164e287]: Patinete Eléctrico Smartgyro K5 PRO LR es una compra lógica si quieres misma base que K5 PRO, pero con batería 20Ah y hasta 75 km. Si dudas entre varios Smartgyro, revisa la comparativa justo debajo para subir o bajar un escalón sin perderte entre modelos.
+                  - generic [ref=f164e288]:
+                    - heading "Características técnicas del Patinete eléctrico Smartgyro K5 PRO LR" [level=2] [ref=f164e289]
+                    - table [ref=f164e290]:
+                      - rowgroup [ref=f164e291]:
+                        - row [ref=f164e292]:
+                          - cell "Motor" [ref=f164e293]
+                          - cell "900W nominal / 2000W máximo, 48V" [ref=f164e294]
+                        - row [ref=f164e295]:
+                          - cell "Batería" [ref=f164e296]
+                          - cell "20.000 mAh" [ref=f164e297]
+                        - row [ref=f164e298]:
+                          - cell "Autonomía" [ref=f164e299]
+                          - cell "hasta 75 km" [ref=f164e300]
+                        - row [ref=f164e301]:
+                          - cell "Ruedas" [ref=f164e302]
+                          - cell "10 pulgadas tubeless" [ref=f164e303]
+                        - row [ref=f164e304]:
+                          - cell "Frenos" [ref=f164e305]
+                          - cell "triple frenada con disco delantero, disco trasero y regenerativa" [ref=f164e306]
+                        - row [ref=f164e307]:
+                          - cell "Suspensión / confort" [ref=f164e308]
+                          - cell "suspensión delantera invertida y trasera helicoidal" [ref=f164e309]
+                        - row [ref=f164e310]:
+                          - cell "APP / bloqueo" [ref=f164e311]
+                          - cell "APP smartGyro NEO con NFC" [ref=f164e312]
+                        - row [ref=f164e313]:
+                          - cell "Homologación" [ref=f164e314]
+                          - cell "certificado DGT" [ref=f164e315]
+                        - row [ref=f164e316]:
+                          - cell "Peso / enfoque" [ref=f164e317]
+                          - cell "MOM hasta 25 kg según categoría VPL" [ref=f164e318]
+                  - generic [ref=f164e319]:
+                    - 'heading "Comparativa Smartgyro: por debajo y por encima" [level=2] [ref=f164e320]'
+                    - paragraph [ref=f164e321]: "Hemos ordenado los patinetes Smartgyro de Patinete Store por prestaciones reales: potencia, autonomía, frenos, suspensión, doble motor y enfoque de uso. Así puedes situar este modelo dentro de la gama sin comparar fichas a ciegas."
+                    - generic [ref=f164e322]:
+                      - link [ref=f164e323] [cursor=pointer]:
+                        - /url: https://patinetestore.com/producto/smartgyro-raptor-evo/
+                        - paragraph [ref=f164e324]: Un escalón por debajo
+                        - heading "Patinete Eléctrico Smartgyro Raptor EVO" [level=3] [ref=f164e325]
+                        - paragraph [ref=f164e326]: "Más sencillo o económico: 2000W, 48V 16Ah y hasta 60 km."
+                      - paragraph [ref=f164e327]:
+                        - link [ref=f164e328] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/smartgyro-raptor-evo/
+                      - generic [ref=f164e329]:
+                        - paragraph [ref=f164e330]: Modelo actual
+                        - heading "Patinete Eléctrico Smartgyro K5 PRO LR" [level=3] [ref=f164e331]
+                        - paragraph [ref=f164e332]: 2000W, 20.000 mAh, hasta 75 km. misma base que K5 PRO, pero con batería 20Ah y hasta 75 km.
+                      - paragraph [ref=f164e333]:
+                        - link [ref=f164e334] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/smartgyro-raptor-evo-lr/
+                      - link [ref=f164e335] [cursor=pointer]:
+                        - /url: https://patinetestore.com/producto/smartgyro-raptor-evo-lr/
+                        - paragraph [ref=f164e336]: Un escalón por encima
+                        - heading "Patinete Eléctrico Smartgyro Raptor EVO LR" [level=3] [ref=f164e337]
+                        - paragraph [ref=f164e338]: "Sube un escalón: 2000W, 48V 20Ah, hasta 75 km y más batería que el Raptor EVO estándar."
+                      - paragraph [ref=f164e339]:
+                        - link [ref=f164e340] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/smartgyro-raptor-evo-lr/
+                  - generic [ref=f164e341]:
+                    - generic [ref=f164e342]:
+                      - heading "Antes de comprar este Smartgyro" [level=2] [ref=f164e343]
+                      - list [ref=f164e344]:
+                        - listitem [ref=f164e345]: Confirma que la autonomía se ajusta a tu ruta diaria y deja margen para frío, cuestas y peso.
+                        - listitem [ref=f164e346]: Mantén neumáticos, frenos y tornillería revisados para conservar estabilidad y seguridad.
+                        - listitem [ref=f164e347]: Si necesitas matrícula, seguro o revisión, Patinete Store puede ayudarte con la puesta a punto.
+                    - complementary [ref=f164e348]:
+                      - heading "Consejo de taller" [level=3] [ref=f164e349]
+                      - paragraph [ref=f164e350]: En patinetes Smartgyro conviene revisar conectores, presión de ruedas y ajuste de frenos tras los primeros usos. Si vienes de un modelo más básico, notarás más peso y más capacidad de empuje; ajusta la conducción progresivamente.
+                  - generic [ref=f164e351]:
+                    - heading "Preguntas frecuentes sobre Patinete eléctrico Smartgyro K5 PRO LR" [level=2] [ref=f164e352]
+                    - generic [ref=f164e353]:
+                      - group [ref=f164e354]:
+                        - generic "¿Está homologado por la DGT?" [ref=f164e355] [cursor=pointer]
+                        - paragraph [ref=f164e356]: Sí, este modelo se trabaja como certificado DGT. Para circular legalmente respeta la normativa VMP y conserva la identificación del vehículo.
+                      - group [ref=f164e357]:
+                        - generic "¿Cuánta autonomía real puedo esperar?" [ref=f164e358] [cursor=pointer]
+                      - group [ref=f164e359]:
+                        - generic "¿Cuál es el Smartgyro superior o inferior?" [ref=f164e360] [cursor=pointer]
+            - generic: 
+          - generic [ref=f164e361]:
+            - heading "Más Smartgyro que te pueden interesar:" [level=2] [ref=f164e362]
+            - generic [ref=f164e363]:
+              - generic [ref=f164e365]:
+                - generic [ref=f164e366]: OFERTÓN!
+                - generic [ref=f164e367]:
+                  - generic [ref=f164e368]:
+                    - generic:
+                      - link "Smartgyro Raptor EVO DUAL":
+                        - /url: https://patinetestore.com/producto/smartgyro-raptor-evo-dual/
+                        - img "Smartgyro Raptor EVO DUAL" [ref=f164e369] [cursor=pointer]
+                    - generic:
+                      - button "Vista Rápida"
+                  - generic [ref=f164e370]:
+                    - generic [ref=f164e371]:
+                      - generic [ref=f164e372]: Envío en 24-48 horas
+                      - paragraph [ref=f164e375]:
+                        - link "Patinete Eléctrico Smartgyro Raptor EVO DUAL" [ref=f164e376] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/smartgyro-raptor-evo-dual/
+                    - generic [ref=f164e378]:
+                      - deletion [ref=f164e379]:
+                        - generic [ref=f164e380]: €999,00
+                      - generic [ref=f164e382]: "El precio original era: €999,00."
+                      - insertion [ref=f164e383]:
+                        - generic [ref=f164e384]: €944,00
+                      - generic [ref=f164e386]: "El precio actual es: €944,00."
+              - generic [ref=f164e389]:
+                - generic [ref=f164e390]: OFERTÓN!
+                - generic [ref=f164e391]:
+                  - generic [ref=f164e392]:
+                    - generic:
+                      - link "Smartgyro Raptor EVO DUAL LR":
+                        - /url: https://patinetestore.com/producto/smartgyro-raptor-evo-dual-lr/
+                        - img "Smartgyro Raptor EVO DUAL LR" [ref=f164e393] [cursor=pointer]
+                    - generic:
+                      - button "Vista Rápida"
+                  - generic [ref=f164e394]:
+                    - generic [ref=f164e395]:
+                      - generic [ref=f164e396]: Envío en 24-48 horas
+                      - paragraph [ref=f164e399]:
+                        - link "Patinete Eléctrico Smartgyro Raptor EVO DUAL LR" [ref=f164e400] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/smartgyro-raptor-evo-dual-lr/
+                    - generic [ref=f164e402]:
+                      - deletion [ref=f164e403]:
+                        - generic [ref=f164e404]: €1.198,64
+                      - generic [ref=f164e406]: "El precio original era: €1.198,64."
+                      - insertion [ref=f164e407]:
+                        - generic [ref=f164e408]: €1.079,00
+                      - generic [ref=f164e410]: "El precio actual es: €1.079,00."
+              - generic [ref=f164e413]:
+                - generic [ref=f164e414]: OFERTÓN!
+                - generic [ref=f164e415]:
+                  - generic [ref=f164e416]:
+                    - generic:
+                      - link "Smartgyro Rockway GT 2026":
+                        - /url: https://patinetestore.com/producto/smartgyro-rockway-gt-2026/
+                        - img "Smartgyro Rockway GT 2026" [ref=f164e417] [cursor=pointer]
+                    - generic:
+                      - button "Vista Rápida"
+                  - generic [ref=f164e418]:
+                    - generic [ref=f164e419]:
+                      - generic [ref=f164e420]: Envío en 24-48 horas
+                      - paragraph [ref=f164e423]:
+                        - link "Patinete Eléctrico Smartgyro Rockway GT 2026" [ref=f164e424] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/smartgyro-rockway-gt-2026/
+                    - generic [ref=f164e425]:
+                      - generic [ref=f164e426]: Compatible con Smartgyro Rockway GT
+                      - generic [ref=f164e427]:
+                        - deletion [ref=f164e428]:
+                          - generic [ref=f164e429]: €1.090,00
+                        - generic [ref=f164e431]: "El precio original era: €1.090,00."
+                        - insertion [ref=f164e432]:
+                          - generic [ref=f164e433]: €595,00
+                        - generic [ref=f164e435]: "El precio actual es: €595,00."
+              - generic [ref=f164e438]:
+                - generic [ref=f164e439]: OFERTÓN!
+                - generic [ref=f164e440]:
+                  - generic [ref=f164e441]:
+                    - generic:
+                      - link "Smartgyro Rockway GTS 2026":
+                        - /url: https://patinetestore.com/producto/smartgyro-rockway-gts-2026/
+                        - img "Smartgyro Rockway GTS 2026" [ref=f164e442] [cursor=pointer]
+                    - generic:
+                      - button "Vista Rápida"
+                  - generic [ref=f164e443]:
+                    - generic [ref=f164e444]:
+                      - generic [ref=f164e445]: Envío en 24-48 horas
+                      - paragraph [ref=f164e448]:
+                        - link "Patinete Eléctrico Smartgyro Rockway GTS 2026" [ref=f164e449] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/smartgyro-rockway-gts-2026/
+                    - generic [ref=f164e451]:
+                      - deletion [ref=f164e452]:
+                        - generic [ref=f164e453]: €1.090,00
+                      - generic [ref=f164e455]: "El precio original era: €1.090,00."
+                      - insertion [ref=f164e456]:
+                        - generic [ref=f164e457]: €774,00
+                      - generic [ref=f164e459]: "El precio actual es: €774,00."
+    - contentinfo [ref=f164e461]:
+      - region "Instagram feed" [ref=f164e466]:
+        - link "patinetestore_ on Instagram" [ref=f164e468] [cursor=pointer]:
+          - /url: https://www.instagram.com/patinetestore_/
+          - generic [ref=f164e474]:
+            - heading "patinetestore_" [level=3] [ref=f164e475]
+            - paragraph [ref=f164e476]:
+              - text: Tienda y Taller patinetes eléctricos
+              - img "🏁" [ref=f164e477]
+              - img "🥷🏽" [ref=f164e478]
+              - img "🛴" [ref=f164e479]
+              - text: Avenida del Cid, 4 Valencia
+        - list [ref=f164e480]:
+          - listitem [ref=f164e481]:
+            - 'link "asmr #patinete #escooter #asmr" [ref=f164e483] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeFNuD-IZ0m/
+          - listitem [ref=f164e487]:
+            - 'link "Como vinilar patinete eléctrico #patinete #vinilar" [ref=f164e489] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeB57zCo_Oz/
+          - listitem [ref=f164e493]:
+            - 'link "Always back to the line#escooter #crash #dualt" [ref=f164e495] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeAN95qRJH-/
+          - listitem [ref=f164e499]:
+            - link "Si vas a hacer el canelo, hazlo cuando no hay nadi" [ref=f164e501] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/Dd_jt9NIDvP/
+          - listitem [ref=f164e505]:
+            - 'link "Como copiar llave NFC en patinete eléctrico #nfc #" [ref=f164e507] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/Dd8_W1_ITu9/
+          - listitem [ref=f164e511]:
+            - 'link "Hemos comprado los nuevos Ecoxtrem Armored PRO #pa" [ref=f164e513] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/Dd600xwo6-O/
+        - generic [ref=f164e517]:
+          - button "Cargar más" [ref=f164e518] [cursor=pointer]
+          - link "Seguir en Instagram" [ref=f164e521] [cursor=pointer]:
+            - /url: https://www.instagram.com/patinetestore_/
+      - generic [ref=f164e525]:
+        - link [ref=f164e527] [cursor=pointer]:
+          - /url: https://patinetestore.com/
+        - list [ref=f164e530]:
+          - listitem [ref=f164e531]:
+            - link "Aviso legal" [ref=f164e532] [cursor=pointer]:
+              - /url: https://patinetestore.com/aviso-legal/
+          - listitem [ref=f164e533]:
+            - link "Política de devolución y reembolsos" [ref=f164e534] [cursor=pointer]:
+              - /url: https://patinetestore.com/politica-de-devolucion-y-reembolsos/
+          - listitem [ref=f164e535]:
+            - link "Métodos de pago" [ref=f164e536] [cursor=pointer]:
+              - /url: https://patinetestore.com/metodos-de-pago/
+          - listitem [ref=f164e537]:
+            - link "Política de privacidad" [ref=f164e538] [cursor=pointer]:
+              - /url: https://patinetestore.com/privacy-policy/
+          - listitem [ref=f164e539]:
+            - link "Mapa del sitio" [ref=f164e540] [cursor=pointer]:
+              - /url: https://patinetestore.com/sitemap_index.xml
+          - listitem [ref=f164e541]:
+            - link "Blog" [ref=f164e542] [cursor=pointer]:
+              - /url: https://patinetestore.com/blog/
+          - listitem [ref=f164e543]:
+            - link "Acceso B2B" [ref=f164e544] [cursor=pointer]:
+              - /url: https://patinetestore.com/my-account/
+      - generic [ref=f164e546]:
+        - group "Payment icons" [ref=f164e548]:
+          - generic [ref=f164e549]: Visa
+          - generic [ref=f164e553]: Klarna
+          - generic [ref=f164e566]: Apple Pay
+          - generic [ref=f164e570]: Cash On Delivery
+          - generic [ref=f164e574]: Cash on Pickup
+          - generic [ref=f164e578]: Google Pay
+          - generic [ref=f164e582]: MasterCard
+          - generic [ref=f164e589]: PayPal
+          - generic [ref=f164e593]: Revolut
+        - generic [ref=f164e599]:
+          - text: Copyright 2026 ©
+          - strong [ref=f164e600]: Patinete Store
+  - text:          
+  - generic:
+    - button "¡Contacta con nosotros! Abrir chat" [ref=f164e601] [cursor=pointer]:
+      - generic: ¡Contacta con nosotros!
+    - generic: "1"
+    - dialog "Patinete Store"
+  - status [ref=f164e603]

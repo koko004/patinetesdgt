@@ -1,0 +1,22 @@
+[    2094ms] [LOG] Beautiful Consent Service up. @ https://bc-prod-config.empathy.co/assets/index.js:23
+[    2364ms] [LOG] Shopify features loaded @ https://bc-prod-config.empathy.co/assets/content.kHIStm_Q.js:7
+[    2493ms] [INFO] %c[TikTok] 
+
+We're hiring!
+Are you ready to make a change?
+Check out some of our available positions at https://careers.tiktok.com/ color: #fe2c55 @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/falcon/embed/embed_lib_v1.0.13.js:0
+[    3114ms] [INFO] . @ https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.223/webmssdk.js:0
+[    5560ms] Uncaught TypeError: Cannot read properties of undefined (reading 'prod')
+    at fg (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.294/webmssdk_ex.js:0:26469)
+    at b (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.294/webmssdk_ex.js:0:21402)
+    at fg (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.294/webmssdk_ex.js:0:20330)
+    at n (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ttweb_webmssdk_ex/1.0.0.294/webmssdk_ex.js:0:26151)
+    at b (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.223/webmssdk.js:0:46591)
+    at Ab (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.223/webmssdk.js:0:44451)
+    at n (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.223/webmssdk.js:0:90307)
+[    5956ms] [WARNING] []Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content. @ https://www.youtube.com/embed/mDMglHdzexg?autoplay=0&rel=0:0
+[    5981ms] [WARNING] []Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content. @ https://www.youtube.com/embed/wkNepuTtgSA?autoplay=0&rel=0:0
+[    6013ms] [WARNING] []Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content. @ https://www.youtube.com/embed/mDMglHdzexg?rel=0&showinfo=0:0
+[    6091ms] [WARNING] No available adapters. @ https://www.youtube.com/embed/mDMglHdzexg?autoplay=0&rel=0:0
+[    6369ms] [WARNING] No available adapters. @ https://www.youtube.com/embed/wkNepuTtgSA?autoplay=0&rel=0:0
+[    6429ms] [WARNING] No available adapters. @ https://www.youtube.com/embed/mDMglHdzexg?rel=0&showinfo=0:0

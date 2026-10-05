@@ -1,0 +1,469 @@
+- generic [ref=f114e1]:
+  - alertdialog [ref=f114e2]:
+    - generic [ref=f114e3]:
+      - generic [ref=f114e4]:
+        - heading "Consentimiento para el uso de cookies" [level=2] [ref=f114e5]
+        - paragraph [ref=f114e6]:
+          - text: Nosotros y nuestros partners, incluido Shopify, utilizamos cookies y otras tecnologías para personalizar tu experiencia, mostrarte anuncios y realizar informes y estadísticas, y no utilizaremos cookies ni otras tecnologías para estos fines a menos que las aceptes. Obtén más información en nuestra
+          - link "Política de privacidad" [ref=f114e7] [cursor=pointer]:
+            - /url: http://electyum.com/policies/privacy-policy
+      - generic [ref=f114e8]:
+        - button "Administrar preferencias" [ref=f114e9]
+        - button "Aceptar" [ref=f114e10]
+        - button "Rechazar" [ref=f114e11]
+  - link "Ir directamente al contenido" [ref=f114e12] [cursor=pointer]:
+    - /url: "#MainContent"
+  - banner [ref=f114e14]:
+    - generic [ref=f114e17]:
+      - generic [ref=f114e18]:
+        - link [ref=f114e19] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=f114e23]:
+          - list [ref=f114e26]:
+            - generic:
+              - link "PATINETES" [ref=f114e27] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+              - link "PATINETES HOMOLOGADOS" [ref=f114e29] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - menuitem "Más" [ref=f114e32] [cursor=pointer]
+      - generic [ref=f114e34]:
+        - button "Abrir selector de región e idioma EUR" [ref=f114e36] [cursor=pointer]:
+          - generic [ref=f114e37]: Abrir selector de región e idioma
+          - generic [ref=f114e38]: EUR
+        - button "Abrir búsqueda" [ref=f114e40] [cursor=pointer]
+        - generic [ref=f114e41]:
+          - button "Abrir menú de cuenta" [ref=f114e43] [cursor=pointer]
+          - 'button "Abrir carrito Total de artículos en el carrito: 0" [ref=f114e49] [cursor=pointer]':
+            - generic [ref=f114e51]:
+              - status:
+                - generic [ref=f114e53]: "Total de artículos en el carrito: 0"
+  - main [ref=f114e54]:
+    - generic [ref=f114e57]:
+      - link "Ir directamente a la información del producto" [ref=f114e58] [cursor=pointer]:
+        - /url: "#ProductInformation-template--26141808394565__main"
+      - generic [ref=f114e59]:
+        - generic [ref=f114e62]:
+          - generic [ref=f114e63]:
+            - generic:
+              - button "Diapositiva anterior" [ref=f114e64] [cursor=pointer]
+              - button "Siguiente diapositiva" [ref=f114e65] [cursor=pointer]
+            - img "Patinete Eléctrico Dualtron Sonic Alien" [ref=f114e70]
+          - generic [ref=f114e85]:
+            - button "Diapositiva 1 de 4" [ref=f114e86] [cursor=pointer]:
+              - img "Patinete Eléctrico Dualtron Sonic Alien" [ref=f114e87]
+            - button "Diapositiva 2 de 4" [ref=f114e88] [cursor=pointer]:
+              - img "Dualtron Sonic Alien" [ref=f114e89]
+            - button "Diapositiva 3 de 4" [ref=f114e90] [cursor=pointer]:
+              - img "Patinete Eléctrico Dualtron Sonic Alien" [ref=f114e91]
+            - button "Diapositiva 4 de 4" [ref=f114e92] [cursor=pointer]:
+              - img "Patinete Eléctrico Dualtron Sonic Alien" [ref=f114e93]
+        - generic [ref=f114e96]:
+          - heading "Patinete Eléctrico Dualtron Sonic Alien" [level=1] [ref=f114e98]
+          - generic [ref=f114e99]:
+            - generic [ref=f114e100]:
+              - group [ref=f114e101]:
+                - generic [ref=f114e102]: Precio de oferta
+                - text: €3.880,00 EUR
+              - group [ref=f114e103]:
+                - generic [ref=f114e104]: Precio habitual
+                - text: €5.190,00 EUR
+            - generic [ref=f114e105]: Aranceles e impuestos incluidos. Envío calculado en el pago.
+          - iframe [ref=f114e111]:
+            - generic [ref=f119e5]:
+              - generic [ref=f119e6]:
+                - generic [ref=f119e7]:
+                  - generic [ref=f119e9]:
+                    - strong [ref=f119e10]: 292,00 €
+                    - text: al mes
+                  - generic [ref=f119e12]:
+                    - generic [ref=f119e13]: x12
+                    - generic [ref=f119e14] [cursor=pointer]: x6
+                    - generic [ref=f119e15] [cursor=pointer]: x3 sin coste
+                    - text: +info
+                - img "SeQura logo" [ref=f119e17] [cursor=pointer]
+              - paragraph [ref=f119e27]: A plazos hasta 3000,00 €. Primer pago de 1172,00 €
+          - paragraph [ref=f114e113]: Homologado por la DGT ✅
+          - generic [ref=f114e115]:
+            - paragraph [ref=f114e116]:
+              - text: El
+              - strong [ref=f114e117]: Dualtron Sonic Alien
+              - text: es un patinete eléctrico premium de Dualtron, marca de referencia mundial en movilidad eléctrica de alta gama. Fabricación de precisión, baterías de alta capacidad y tecnología de suspensión avanzada para la experiencia de conducción más exigente.
+            - paragraph [ref=f114e118]:
+              - text: El
+              - strong [ref=f114e119]: Dualtron Sonic Alien
+              - text: "es un patinete eléctrico plegable ideal para la movilidad urbana. Ligero, compacto y con autonomía suficiente para el día a día: la alternativa sostenible para ir al trabajo, a clase o moverse por la ciudad sin atascos ni problemas de aparcamiento."
+            - list [ref=f114e120]:
+              - listitem [ref=f114e121]:
+                - strong [ref=f114e122]: "🚀 Motor Dual:"
+                - text: Nominal 2500W x2 - máxima 5600W x2
+              - listitem [ref=f114e123]:
+                - strong [ref=f114e124]: "🔋 Autonomía:"
+                - text: Hasta 125 Km
+              - listitem [ref=f114e125]:
+                - strong [ref=f114e126]: "🔋 Batería:"
+                - text: 72V 40Ah
+              - listitem [ref=f114e127]:
+                - strong [ref=f114e128]: "⚡ Velocidad Limitada:"
+                - text: Hasta 25 Km/h - Alcance 110 km/h (Uso privado)
+              - listitem [ref=f114e129]:
+                - strong [ref=f114e130]: "🛞 Ruedas:"
+                - text: 11″ Ultra Anchos (Tubeless)
+              - listitem [ref=f114e131]:
+                - text: 🛑
+                - strong [ref=f114e132]: "Frenos:"
+                - text: Freno hidráulico CBS NUTT, 4 pistones, disco 160 mm +EBS+ABS
+              - listitem [ref=f114e133]:
+                - strong [ref=f114e134]: 📱 APP móvil -
+                - text: iOS/Android
+            - paragraph [ref=f114e135]:
+              - strong [ref=f114e136]: "Ideal para:"
+            - list [ref=f114e137]:
+              - listitem [ref=f114e138]: ✅ Desplazamientos urbanos diarios al trabajo, estudios o gestiones
+              - listitem [ref=f114e139]: ✅ Transporte combinado con metro, autobús o tren (último kilómetro)
+              - listitem [ref=f114e140]: ✅ Reducir el uso del coche en ciudad y ahorrar en gasolina y aparcamiento
+            - paragraph [ref=f114e141]:
+              - strong [ref=f114e142]: "Ideal para:"
+            - list [ref=f114e143]:
+              - listitem [ref=f114e144]: ✅ Usuarios avanzados que buscan el máximo rendimiento y autonomía
+              - listitem [ref=f114e145]: ✅ Trayectos largos y exigentes donde la calidad de componentes marca la diferencia
+              - listitem [ref=f114e146]: ✅ Coleccionistas y entusiastas de los mejores patinetes eléctricos del mundo
+          - paragraph [ref=f114e148]:
+            - strong [ref=f114e149]: 🚚 Envíos
+            - strong [ref=f114e150]: Envío express 48h
+          - generic [ref=f114e153]:
+            - heading "Comprados juntos..." [level=4] [ref=f114e156]
+            - generic [ref=f114e157]:
+              - generic "Carga de recomendaciones de productos" [ref=f114e158]
+              - generic "Carga de recomendaciones de productos" [ref=f114e159]
+          - generic [ref=f114e161]:
+            - status [ref=f114e162]
+            - generic [ref=f114e164]:
+              - generic [ref=f114e165]:
+                - button "Disminuir cantidad" [ref=f114e166] [cursor=pointer]
+                - spinbutton "Cantidad" [ref=f114e168]: "1"
+                - button "Aumentar cantidad" [ref=f114e169] [cursor=pointer]
+              - button "Agregar al carrito" [ref=f114e173] [cursor=pointer]:
+                - generic [ref=f114e176]: Agregada
+              - generic [ref=f114e180]:
+                - generic [ref=f114e183]:
+                  - iframe [ref=f114e184]:
+                    - generic "Payment Button" [ref=f116e2]:
+                      - link "PayPal" [ref=f116e5] [cursor=pointer]
+                  - iframe [ref=f114e185]
+                - link "Más opciones de pago" [ref=f114e187] [cursor=pointer]:
+                  - /url: "#"
+    - generic [ref=f114e192]:
+      - heading "Patinete Eléctrico Dualtron Sonic Alien" [level=2] [ref=f114e194]
+      - generic [ref=f114e196]:
+        - 'heading "Dualtron Sonic Modelo A Alien: El Patinete Eléctrico de 8000W más Avanzado" [level=3] [ref=f114e197]'
+        - paragraph [ref=f114e198]:
+          - text: El
+          - strong [ref=f114e199]: Dualtron Sonic Modelo A
+          - text: ", conocido bajo el nombre en clave"
+          - strong [ref=f114e200]: ALIEN
+          - text: ", representa la cúspide de la movilidad eléctrica de alto rendimiento. Diseñado por Minimotors para usuarios que no aceptan compromisos, este patinete combina una potencia bruta con tecnología de grado automotriz y un sistema de seguridad avanzado. No es solo un vehículo, es una nueva categoría de movilidad eléctrica diseñada para dominar tanto la ciudad como los trayectos de largo alcance."
+        - heading "Potencia y Rendimiento Extremo" [level=3] [ref=f114e201]
+        - paragraph [ref=f114e202]:
+          - text: En el núcleo del Sonic Modelo A late un sistema de
+          - strong [ref=f114e203]: motor dual
+          - text: capaz de entregar una potencia nominal de 2 x 2000W (4000W constantes), alcanzando un
+          - strong [ref=f114e204]: pico máximo de potencia de 8000W
+          - text: . Esta configuración permite una aceleración fulgurante y la capacidad de superar pendientes pronunciadas sin pérdida de rendimiento.
+        - list [ref=f114e205]:
+          - listitem [ref=f114e206]:
+            - strong [ref=f114e207]: "Velocidad máxima:"
+            - text: Hasta 100 km/h (Uso limitado exclusivamente a vías privadas).
+          - listitem [ref=f114e208]:
+            - strong [ref=f114e209]: "Modo Turbo One-Touch:"
+            - text: Activación instantánea para una entrega de par motor máxima en momentos críticos.
+          - listitem [ref=f114e210]:
+            - strong [ref=f114e211]: "Homologación:"
+            - text: Este modelo cumple con las normativas actuales, incluyendo el certificado de circulación de la DGT.
+        - heading "Autonomía y Tecnología de Batería" [level=3] [ref=f114e212]
+        - paragraph [ref=f114e213]:
+          - text: Equipado con una batería de alta gama de
+          - strong [ref=f114e214]: 72V y 40Ah
+          - text: ", utilizando celdas de tecnología"
+          - strong [ref=f114e215]: Samsung
+          - text: ", el ALIEN garantiza una durabilidad superior y una estabilidad térmica excepcional."
+        - list [ref=f114e216]:
+          - listitem [ref=f114e217]:
+            - strong [ref=f114e218]: "Autonomía:"
+            - text: Hasta 125 km con una sola carga (dependiendo de las condiciones de conducción).
+          - listitem [ref=f114e219]:
+            - strong [ref=f114e220]: "Carga Rápida:"
+            - text: Gracias a su sistema de puerto dual, puede cargarse completamente en solo 4 horas utilizando dos cargadores rápidos, o en 8 horas con un cargador estándar de 5A.
+          - listitem [ref=f114e221]:
+            - strong [ref=f114e222]: "BMS Inteligente:"
+            - text: Sistema de gestión de batería que monitoriza voltaje, corriente y temperatura en tiempo real para prevenir sobrecalentamientos y cortocircuitos.
+        - heading "Ingeniería de Control y Seguridad Avanzada" [level=3] [ref=f114e223]
+        - paragraph [ref=f114e224]: El Dualtron Sonic redefine la seguridad en patinetes de alta velocidad mediante la integración de sistemas de frenado coordinados.
+        - list [ref=f114e225]:
+          - listitem [ref=f114e226]:
+            - strong [ref=f114e227]: "Frenos Hidráulicos NUTT de 4 pistones:"
+            - text: Con discos de 160 mm para una potencia de frenado inigualable.
+          - listitem [ref=f114e228]:
+            - strong [ref=f114e229]: "Tecnología CBS (Sistema de Frenado Combinado):"
+            - text: Al accionar el freno delantero, el sistema distribuye automáticamente la potencia de frenado (50% delantero / 50% trasero) para una parada equilibrada.
+          - listitem [ref=f114e230]:
+            - strong [ref=f114e231]: "Asistencia Electrónica:"
+            - text: Incluye sistemas ABS y EBS para evitar bloqueos y optimizar la recuperación de energía.
+          - listitem [ref=f114e232]:
+            - strong [ref=f114e233]: "Suspensión Ajustable:"
+            - text: Chasis robusto con amortiguación delantera y trasera ajustable, diseñada para aislar vibraciones incluso en condiciones extremas.
+        - heading "Centro de Control y Conectividad" [level=3] [ref=f114e234]
+        - paragraph [ref=f114e235]: La cabina del piloto ha sido diseñada para ofrecer una experiencia inteligente y ergonómica.
+        - list [ref=f114e236]:
+          - listitem [ref=f114e237]:
+            - strong [ref=f114e238]: "Pantalla TFT Color EYA:"
+            - text: Centro de información de alta resolución que muestra velocidad, autonomía, modo de conducción y voltímetro en tiempo real. Incluye sensor de luz ambiental para ajuste automático de brillo.
+          - listitem [ref=f114e239]:
+            - strong [ref=f114e240]: "Sistema de Bus CAN:"
+            - text: Comunicación de calidad automotriz entre motores, controlador y batería para diagnósticos precisos.
+          - listitem [ref=f114e241]:
+            - strong [ref=f114e242]: "GPS Integrado:"
+            - text: Seguimiento en tiempo real a través de la aplicación móvil (iOS/Android) para mayor seguridad antirrobo.
+          - listitem [ref=f114e243]:
+            - strong [ref=f114e244]: "Iluminación:"
+            - text: Faros de alta visibilidad, intermitentes secuenciales y luces de advertencia traseras integradas.
+        - heading "Mantenimiento Simplificado e Innovación Térmica" [level=3] [ref=f114e245]
+        - paragraph [ref=f114e246]: El diseño del ALIEN piensa en la longevidad y la facilidad de uso.
+        - list [ref=f114e247]:
+          - listitem [ref=f114e248]:
+            - strong [ref=f114e249]: "Refrigeración Centrífuga Patentada:"
+            - text: Sistema de refrigeración pasiva inteligente. Las rejillas de ventilación se abren a altas velocidades para liberar calor y se sellan al reducir la velocidad, protegiendo los componentes internos sin consumo eléctrico adicional.
+          - listitem [ref=f114e250]:
+            - strong [ref=f114e251]: "Diseño Modular de Ruedas:"
+            - text: Permite desmontar de forma independiente el neumático, el buje o el motor, facilitando enormemente las reparaciones o el cambio de neumáticos de 11 pulgadas tubeless.
+          - listitem [ref=f114e252]:
+            - strong [ref=f114e253]: "Controlador de Alta Eficiencia:"
+            - text: Alojado en una carcasa modular debajo de la plataforma para un cableado más limpio y reparaciones más rápidas.
+        - heading "Especificaciones Técnicas Resumidas" [level=3] [ref=f114e254]
+        - list [ref=f114e255]:
+          - listitem [ref=f114e256]:
+            - strong [ref=f114e257]: "Motores:"
+            - text: Dual 2000W Nominal (8000W Pico)
+          - listitem [ref=f114e258]:
+            - strong [ref=f114e259]: "Batería:"
+            - text: 72V 40Ah Samsung
+          - listitem [ref=f114e260]:
+            - strong [ref=f114e261]: "Velocidad Máxima:"
+            - text: 100 km/h (Vías privadas)
+          - listitem [ref=f114e262]:
+            - strong [ref=f114e263]: "Autonomía:"
+            - text: 125 km
+          - listitem [ref=f114e264]:
+            - strong [ref=f114e265]: "Frenos:"
+            - text: Hidráulicos NUTT 4 pistones + Discos 160mm + CBS
+          - listitem [ref=f114e266]:
+            - strong [ref=f114e267]: "Ruedas:"
+            - text: 11 pulgadas Tubeless Ultra-Anchas
+          - listitem [ref=f114e268]:
+            - strong [ref=f114e269]: "Dimensiones Desplegado:"
+            - text: 1310 x 288 x 1366 mm
+          - listitem [ref=f114e270]:
+            - strong [ref=f114e271]: "Dimensiones Plegado:"
+            - text: 1310 x 288 x 580 mm
+          - listitem [ref=f114e272]:
+            - strong [ref=f114e273]: "Certificación:"
+            - text: Homologado por la DGT
+        - paragraph [ref=f114e274]:
+          - text: El
+          - strong [ref=f114e275]: Dualtron Sonic Modelo A (ALIEN)
+          - text: es la herramienta definitiva para quienes buscan la máxima potencia sin sacrificar la seguridad y la tecnología inteligente. Ideal para usuarios expertos que requieren un vehículo fiable para largas distancias y un rendimiento de competición.
+        - paragraph [ref=f114e276]:
+          - text: Rendimiento Extremo con Homologación DGT y Batería Samsung de Larga Autonomía Si buscas el máximo exponente en
+          - strong [ref=f114e277]: movilidad eléctrica de alto rendimiento
+          - text: ", el"
+          - strong [ref=f114e278]: Dualtron Sonic Modelo A (Alien)
+          - text: es la elección definitiva. Este
+          - strong [ref=f114e279]: patinete eléctrico de alta gama
+          - text: destaca en el mercado actual por su impresionante sistema de
+          - strong [ref=f114e280]: doble motor
+          - text: ", capaz de generar una potencia pico de"
+          - strong [ref=f114e281]: 8000W
+          - text: . A diferencia de otros modelos de gran potencia, el Sonic Alien es un
+          - strong [ref=f114e282]: patinete eléctrico homologado por la DGT
+          - text: ", lo que garantiza que cumple con los estándares de seguridad y legalidad vigentes, permitiéndote disfrutar de una"
+          - strong [ref=f114e283]: velocidad de hasta 100 km/h
+          - text: en entornos privados con total confianza y estabilidad.
+        - paragraph [ref=f114e284]:
+          - text: La ingeniería coreana de Minimotors se eleva a un nuevo nivel gracias a la integración de una
+          - strong [ref=f114e285]: batería Samsung de 72V 40Ah
+          - text: ", diseñada para ofrecer una"
+          - strong [ref=f114e286]: autonomía de hasta 125 km
+          - text: . Este modelo no solo es potente, sino también inteligente, incorporando
+          - strong [ref=f114e287]: frenos hidráulicos NUTT con sistema CBS
+          - text: ", pantalla TFT a color y conectividad GPS mediante App. Al"
+          - strong [ref=f114e288]: comprar el Dualtron Sonic Alien
+          - text: ", inviertes en un vehículo con"
+          - strong [ref=f114e289]: tecnología de bus CAN
+          - text: y refrigeración patentada, posicionándolo como el mejor
+          - strong [ref=f114e290]: patinete eléctrico potente y seguro
+          - text: para usuarios profesionales que exigen durabilidad, carga rápida y un mantenimiento simplificado.
+    - generic [ref=f114e298]:
+      - paragraph [ref=f114e300]:
+        - strong [ref=f114e301]: Hasta 140Km
+        - text: de libertad 🔋
+      - paragraph [ref=f114e303]:
+        - text: Con su batería de
+        - strong [ref=f114e304]: 72V 40Ah
+        - text: y motor de
+        - strong [ref=f114e305]: 5600W x2
+        - text: ", tendrás garantizadas horas de autonomía para todos tus trayectos diarios. ¡Circula ahora sin preocupaciones!"
+    - generic [ref=f114e309]:
+      - heading "Related products" [level=3] [ref=f114e312]
+      - generic [ref=f114e313]:
+        - generic "Carga de recomendaciones de productos" [ref=f114e314]
+        - generic "Carga de recomendaciones de productos" [ref=f114e315]
+        - generic "Carga de recomendaciones de productos" [ref=f114e316]
+        - generic "Carga de recomendaciones de productos" [ref=f114e317]
+    - generic [ref=f114e327]:
+      - generic [ref=f114e329]:
+        - heading "Capacidad de motor ⚙️" [level=2] [ref=f114e331]
+        - paragraph [ref=f114e333]: Potencia nominal 2500W x2 - Potencia máxima 5600W x2
+        - paragraph [ref=f114e335]:
+          - text: Pico máximo con
+          - strong [ref=f114e336]: 5600W x2
+          - text: de potencia máxima para nunca dejarte tirado ;)
+      - generic [ref=f114e338]:
+        - heading "Batería y autonomía 🔋" [level=2] [ref=f114e340]
+        - generic [ref=f114e341]:
+          - paragraph [ref=f114e342]:
+            - text: Batería de
+            - strong [ref=f114e343]: 72V 40Ah
+            - text: ", con la que podrás hacer"
+            - strong [ref=f114e344]: Hasta 140Km
+          - paragraph [ref=f114e345]:
+            - text: Disfruta de tu
+            - strong [ref=f114e346]: Patinete Eléctrico Dualtron Sonic Alien
+            - text: sin preocuparte por la carga!
+      - generic [ref=f114e348]:
+        - heading "Suspensión y ruedas 🛞" [level=2] [ref=f114e350]
+        - generic [ref=f114e351]:
+          - paragraph [ref=f114e352]:
+            - text: Ruedas de
+            - strong [ref=f114e353]: Neumáticos de 11″
+            - text: ", con agarre y seguridad en cada trayecto."
+          - paragraph [ref=f114e354]:
+            - text: Suspensión
+            - strong [ref=f114e355]: Juntas ajustables delanteras y traseras
+            - text: para una conducción cómoda y estable.
+    - generic [ref=f114e364]:
+      - heading "Related products" [level=3] [ref=f114e367]
+      - generic [ref=f114e368]:
+        - generic "Carga de recomendaciones de productos" [ref=f114e369]
+        - generic "Carga de recomendaciones de productos" [ref=f114e370]
+        - generic "Carga de recomendaciones de productos" [ref=f114e371]
+        - generic "Carga de recomendaciones de productos" [ref=f114e372]
+    - generic [ref=f114e381]:
+      - generic [ref=f114e382]:
+        - paragraph [ref=f114e385]: Homologado por la DGT ✅
+        - paragraph [ref=f114e388]: Homologado por la DGT ✅
+        - paragraph [ref=f114e391]: Homologado por la DGT ✅
+        - paragraph [ref=f114e394]: Homologado por la DGT ✅
+      - generic [ref=f114e395]:
+        - paragraph [ref=f114e398]: Homologado por la DGT ✅
+        - paragraph [ref=f114e401]: Homologado por la DGT ✅
+        - paragraph [ref=f114e404]: Homologado por la DGT ✅
+        - paragraph [ref=f114e407]: Homologado por la DGT ✅
+    - generic [ref=f114e417]:
+      - generic [ref=f114e419]:
+        - heading "Garantía de 2 años 🔓" [level=2] [ref=f114e421]
+        - paragraph [ref=f114e423]: Somos los distribuidores oficiales de la marca en España y Europa
+      - generic [ref=f114e425]:
+        - heading "Envios 🚚" [level=2] [ref=f114e427]
+        - paragraph [ref=f114e429]: Aquí va información sobre los envíos y lo rápido que somos o lo barato que son
+        - paragraph [ref=f114e431]: Envío express 48h
+      - generic [ref=f114e433]:
+        - heading "Atención al cliente 📞" [level=2] [ref=f114e435]
+        - paragraph [ref=f114e437]: Envío express 48h
+    - generic [ref=f114e452]:
+      - heading "Preguntas frecuentes" [level=3] [ref=f114e454]
+      - generic [ref=f114e455]:
+        - group [ref=f114e457]:
+          - generic "Cual es nuestra politica postventa?" [ref=f114e458] [cursor=pointer]
+        - group [ref=f114e460]:
+          - generic "Are any purchases final sale?" [ref=f114e461] [cursor=pointer]
+        - group [ref=f114e463]:
+          - generic "When will I get my order?" [ref=f114e464] [cursor=pointer]
+        - group [ref=f114e466]:
+          - generic "Where are your products manufactured?" [ref=f114e467] [cursor=pointer]
+        - group [ref=f114e469]:
+          - generic "How much does shipping cost?" [ref=f114e470] [cursor=pointer]
+  - generic [ref=f114e475]:
+    - generic [ref=f114e477]:
+      - generic [ref=f114e479]:
+        - group [ref=f114e481]:
+          - generic "Tienda" [ref=f114e482]
+          - list [ref=f114e484]:
+            - listitem [ref=f114e485]:
+              - link "PATINETES" [ref=f114e486] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+            - listitem [ref=f114e487]:
+              - link "PATINETES HOMOLOGADOS" [ref=f114e488] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - listitem [ref=f114e489]:
+              - link "MOTOS ELÉCTRICAS" [ref=f114e490] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f114e491]:
+              - link "BICIS ELÉCTRICAS" [ref=f114e492] [cursor=pointer]:
+                - /url: /collections/bicicletas-electricas
+            - listitem [ref=f114e493]:
+              - link "MOVILIDAD INFANTIL" [ref=f114e494] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-ninos
+            - listitem [ref=f114e495]:
+              - link "MOVILIDAD REDUCIDA" [ref=f114e496] [cursor=pointer]:
+                - /url: /collections/scooters-movilidad-reducida
+            - listitem [ref=f114e497]:
+              - link "KARTS ELÉCTRICOS" [ref=f114e498] [cursor=pointer]:
+                - /url: /collections/karts-electricos
+            - listitem [ref=f114e499]:
+              - link "COCHES ELÉCTRICOS" [ref=f114e500] [cursor=pointer]:
+                - /url: /collections/coches-electricos
+            - listitem [ref=f114e501]:
+              - link "MOTOS de GASOLINA" [ref=f114e502] [cursor=pointer]:
+                - /url: /collections/motos-gasolina
+            - listitem [ref=f114e503]:
+              - link "Contacto" [ref=f114e504] [cursor=pointer]:
+                - /url: /pages/contact
+        - group [ref=f114e506]:
+          - generic "Información" [ref=f114e507]
+          - list [ref=f114e509]:
+            - listitem [ref=f114e510]:
+              - link "Financiar patinete eléctrico" [ref=f114e511] [cursor=pointer]:
+                - /url: /pages/como-financiar-un-patinete-electrico
+            - listitem [ref=f114e512]:
+              - link "Términos y condiciones" [ref=f114e513] [cursor=pointer]:
+                - /url: /policies/terms-of-service
+            - listitem [ref=f114e514]:
+              - link "Política de envíos" [ref=f114e515] [cursor=pointer]:
+                - /url: /policies/shipping-policy
+            - listitem [ref=f114e516]:
+              - link "Devoluciones y garantías" [ref=f114e517] [cursor=pointer]:
+                - /url: /policies/refund-policy
+            - listitem [ref=f114e518]:
+              - link "(+34) 689313556" [ref=f114e519] [cursor=pointer]:
+                - /url: https://wa.me/34689313556
+            - listitem [ref=f114e520]:
+              - link "sat@electyum.com" [ref=f114e521] [cursor=pointer]:
+                - /url: mailto:sat@electyum.com
+      - generic [ref=f114e522]:
+        - generic [ref=f114e523]: suscríbete para descuentitos!
+        - generic [ref=f114e525]:
+          - generic [ref=f114e526]: Correo electrónico
+          - textbox "Correo electrónico" [ref=f114e527]:
+            - /placeholder: Dirección de correo electrónico
+          - button "Registrarse" [ref=f114e528]
+    - generic [ref=f114e531]:
+      - generic [ref=f114e532]:
+        - generic [ref=f114e534]:
+          - text: © 2026
+          - link "Electyum" [ref=f114e535] [cursor=pointer]:
+            - /url: /
+        - button "Términos y políticas" [ref=f114e537] [cursor=pointer]
+      - generic [ref=f114e539]:
+        - link "Instagram" [ref=f114e541] [cursor=pointer]:
+          - /url: https://instagram.com/electyum
+        - link "Youtube" [ref=f114e545] [cursor=pointer]:
+          - /url: https://www.youtube.com/@electyummovilidadinteligen6279

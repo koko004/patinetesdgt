@@ -1,0 +1,13 @@
+[    3616ms] [WARNING] Mixed Content: The page at 'https://sabway.es/shop/203-patinetes-electricos-homologados?order=product.position.asc&productListView=grid' was loaded over HTTPS, but requested an insecure element 'http://sabway.es/shop/img/cms/Seguro%20VMP/Banner%20vertical%20matri%CC%81cula%2011,99%E2%82%AC.jpg'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ https://sabway.es/shop/203-patinetes-electricos-homologados?order=product.position.asc&productListView=grid:0
+[    3947ms] [WARNING] Mixed Content: The page at 'https://sabway.es/shop/203-patinetes-electricos-homologados?order=product.position.asc&productListView=grid' was loaded over HTTPS, but requested an insecure element 'http://sabway.es/shop/img/cms/Seguro%20VMP/Banner%20vertical%20matri%CC%81cula%2011,99%E2%82%AC.jpg'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ https://sabway.es/shop/203-patinetes-electricos-homologados?order=product.position.asc&productListView=grid:2896
+[    4373ms] [LOG] JQMIGRATE: Migrate is installed, version 3.5.2 @ https://sabway.es/shop/themes/core.js:14
+[    4707ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://sabway.es/shop/203-patinetes-electricos-homologados?order=product.position.asc&productListView=grid:0
+[    4931ms] [WARNING] MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 updatedProduct listeners added. Use emitter.setMaxListeners() to increase limit
+    at c (https://sabway.es/shop/themes/PRS028/assets/js/theme.js:16:5300)
+    at s.addListener (https://sabway.es/shop/themes/PRS028/assets/js/theme.js:16:7884)
+    at HTMLDocument.<anonymous> (https://sabway.es/shop/modules/tdcountdown/views/js/tdcountdown.js:17:16)
+    at u (https://sabway.es/shop/themes/core.js:11:26836)
+    at l (https://sabway.es/shop/themes/core.js:11:27138) @ https://sabway.es/shop/themes/PRS028/assets/js/theme.js:15
+[    5680ms] [LOG] Addrevenue script initiated @ https://addrevenue.io/track.js:108
+[   16992ms] [WARNING] []Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content. @ https://www.youtube.com/embed/rv59hq3Pwg8?si=AaPXYdppqEs-mQiU&controls=0:0
+[   18625ms] [WARNING] No available adapters. @ https://www.youtube.com/embed/rv59hq3Pwg8?si=AaPXYdppqEs-mQiU&controls=0:0

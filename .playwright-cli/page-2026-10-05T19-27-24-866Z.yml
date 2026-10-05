@@ -1,0 +1,597 @@
+- generic [ref=f27e1]:
+  - link [ref=f27e2] [cursor=pointer]:
+    - /url: https://web.whatsapp.com/send?l=es&phone=34688751888&text= https://www.imoveblue.es/56-navee
+  - main [ref=f27e4]:
+    - generic [ref=f27e5]:
+      - list [ref=f27e17]:
+        - listitem [ref=f27e18]:
+          - generic [ref=f27e19]: 
+          - text: ¡ENVÍO GRATIS A PENÍNSULA Y BALEARES!
+      - navigation [ref=f27e21]:
+        - generic [ref=f27e23]:
+          - list [ref=f27e26]:
+            - listitem [ref=f27e27]:
+              - link "¡LLÁMANOS! 688 751 888" [ref=f27e28] [cursor=pointer]:
+                - /url: tel:+34688751888
+          - list [ref=f27e32]:
+            - listitem [ref=f27e33]:
+              - link "OPINIONES DE CLIENTES" [ref=f27e34] [cursor=pointer]:
+                - /url: https://www.trustedshops.es/evaluacion/info_X7971BAC9A2BC178FCCBEA75B22E0AD86.html
+            - listitem [ref=f27e35]:
+              - link "CONTACTO" [ref=f27e36] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/contactenos
+      - text:      
+      - generic [ref=f27e37]:
+        - link [ref=f27e41] [cursor=pointer]:
+          - /url: https://www.imoveblue.es/
+          - img "imoveblue.es - UJ Solutions SC" [ref=f27e42]
+        - generic [ref=f27e46]:
+          - generic [ref=f27e47]:
+            - generic [ref=f27e48] [cursor=pointer]:
+              - generic [ref=f27e49]: 
+              - generic [ref=f27e50]: Menu
+            - list [ref=f27e52]:
+              - listitem [ref=f27e53]:
+                - link "Inicio" [ref=f27e54] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/
+              - listitem [ref=f27e55]:
+                - link "Contacto" [ref=f27e56] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/contactenos
+              - listitem [ref=f27e57]:
+                - generic [ref=f27e58] [cursor=pointer]:
+                  - generic [ref=f27e59]: 
+                  - text: 
+                - link "Patinetes eléctricos certificados DGT" [ref=f27e60] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+              - listitem [ref=f27e61]:
+                - link "MATRICULA TU VMP" [ref=f27e62] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1726-comprar-matricula-patinete-vmp-adhesivo.html
+              - listitem [ref=f27e63]:
+                - link "Seguro patinete eléctrico VMP" [ref=f27e64] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/content/15-seguro-patinete-electrico-vmp
+              - listitem [ref=f27e65]:
+                - generic [ref=f27e66] [cursor=pointer]:
+                  - generic [ref=f27e67]: 
+                  - text: 
+                - link "Movilidad infantil" [ref=f27e68] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/26-movilidad-infantil
+              - listitem [ref=f27e69]:
+                - link "Bicicletas eléctricas" [ref=f27e70] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/14-bicicletas-electricas
+              - listitem [ref=f27e71]:
+                - link "Motos eléctricas" [ref=f27e72] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/18-motos-electricas
+              - listitem [ref=f27e73]:
+                - link "Monociclos eléctricos" [ref=f27e74] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/30-monociclos-electricos
+              - listitem [ref=f27e75]:
+                - link "Bicicletas" [ref=f27e76] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/31-bicicletas
+              - listitem [ref=f27e77]:
+                - link "Componentes ciclismo" [ref=f27e78] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/38-componentes-ciclismo
+              - listitem [ref=f27e79]:
+                - link "Recambios" [ref=f27e80] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/20-recambios
+              - listitem [ref=f27e81]:
+                - link "Triciclos eléctricos y movilidad reducida" [ref=f27e82] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/32-triciclos-electricos-y-movilidad-reducida
+              - listitem [ref=f27e83]:
+                - link "Accesorios VMP y ciclismo" [ref=f27e84] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/28-accesorios-vmp-ciclismo
+              - listitem [ref=f27e85]:
+                - link "Patinetes eléctricos" [ref=f27e86] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/13-patinete-electrico
+              - listitem [ref=f27e87]:
+                - link "Condiciones de compra y envío" [ref=f27e88] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/content/3-terminos-y-condiciones-de-uso
+          - generic [ref=f27e90] [cursor=pointer]:
+            - generic [ref=f27e91]: 
+            - generic [ref=f27e92]: Buscar
+          - link "Iniciar sesión" [ref=f27e94] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/mi-cuenta
+            - generic [ref=f27e95]: 
+          - generic [ref=f27e99] [cursor=pointer]:
+            - generic [ref=f27e100]:
+              - text: 
+              - generic [ref=f27e101]: "0"
+            - generic [ref=f27e102]: Carrito
+    - generic [ref=f27e103]:
+      - navigation [ref=f27e104]:
+        - list [ref=f27e108]:
+          - listitem [ref=f27e109]:
+            - link "Inicio" [ref=f27e110] [cursor=pointer]:
+              - /url: https://www.imoveblue.es/
+            - text: /
+          - listitem [ref=f27e111]:
+            - link "Patinetes eléctricos certificados DGT" [ref=f27e112] [cursor=pointer]:
+              - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+            - text: /
+          - listitem [ref=f27e113]:
+            - generic [ref=f27e114]: Navee
+      - generic [ref=f27e115]:
+        - complementary
+        - generic [ref=f27e116]:
+          - generic [ref=f27e118]:
+            - heading "Navee" [level=1] [ref=f27e120]
+            - paragraph [ref=f27e123]:
+              - strong [ref=f27e124]: Somos Distribuidor Oficicial Navee
+              - text: ", marca experta de movilidad personal y fabricante de patinetes eléctricos con su propia fábrica Navee en China. Navee destaca por ofrecer una amplia gama de patinetes eléctricos de calidad, completos y a precios accesibles."
+            - generic [ref=f27e125]:
+              - generic [ref=f27e128]:
+                - text: 
+                - generic [ref=f27e129]:
+                  - link [ref=f27e130] [cursor=pointer]:
+                    - /url: https://www.imoveblue.es/56-navee?order=product.position.asc&productListView=grid
+                    - generic [ref=f27e131]: 
+                  - link [ref=f27e132] [cursor=pointer]:
+                    - /url: https://www.imoveblue.es/56-navee?order=product.position.asc&productListView=list
+                    - generic [ref=f27e133]: 
+                - generic [ref=f27e134]:
+                  - generic [ref=f27e136] [cursor=pointer]:
+                    - generic [ref=f27e137]: Relevancia
+                    - generic [ref=f27e138]: 
+                  - generic [ref=f27e140] [cursor=pointer]:
+                    - text: "4"
+                    - generic [ref=f27e141]: 
+                - generic:
+                  - navigation
+              - generic [ref=f27e142]:
+                - text: 
+                - generic [ref=f27e143]:
+                  - generic [ref=f27e144]:
+                    - article [ref=f27e146]:
+                      - generic [ref=f27e147]:
+                        - link [ref=f27e149] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1727-navee-xt5-pro.html
+                          - img "Navee XT5 Pro" [ref=f27e150]
+                          - img "Navee XT5 Pro 2" [ref=f27e151]
+                        - list [ref=f27e152]:
+                          - listitem [ref=f27e153]: "-50,00 €"
+                        - link [ref=f27e156] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f27e157]: 
+                        - generic [ref=f27e159]:
+                          - generic [ref=f27e160]: 
+                          - text: Fuera de stock. Consultar.
+                      - generic [ref=f27e161]:
+                        - heading [level=3] [ref=f27e162]:
+                          - link "Navee XT5 Pro certificado" [ref=f27e163] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1727-navee-xt5-pro.html
+                        - generic [ref=f27e165]:
+                          - link "899,00 €" [ref=f27e166] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1727-navee-xt5-pro.html
+                          - text: 949,00 €
+                    - article [ref=f27e168]:
+                      - generic [ref=f27e169]:
+                        - link [ref=f27e171] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1726-comprar-matricula-patinete-vmp-adhesivo.html
+                          - img "Matrícula patinete eléctrico VMP adhesivo" [ref=f27e172]
+                          - img "Matrícula patinete eléctrico VMP adhesivo 2" [ref=f27e173]
+                        - list [ref=f27e174]:
+                          - listitem [ref=f27e175]: "-5,00 €"
+                        - link [ref=f27e178] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f27e179]: 
+                        - generic: 
+                      - generic [ref=f27e180]:
+                        - heading [level=3] [ref=f27e181]:
+                          - link "Matrícula patinete eléctrico VMP" [ref=f27e182] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1726-comprar-matricula-patinete-vmp-adhesivo.html
+                        - generic [ref=f27e184]:
+                          - link "19,90 €" [ref=f27e185] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1726-comprar-matricula-patinete-vmp-adhesivo.html
+                          - text: 24,90 €
+                    - article [ref=f27e187]:
+                      - generic [ref=f27e188]:
+                        - link [ref=f27e190] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1862-navee-nt5-max.html
+                          - img "Navee NT5 MAX" [ref=f27e191]
+                          - img "Navee NT5 MAX 2" [ref=f27e192]
+                        - list [ref=f27e193]:
+                          - listitem [ref=f27e194]: "-40,00 €"
+                        - link [ref=f27e197] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f27e198]: 
+                        - generic: 
+                      - generic [ref=f27e199]:
+                        - heading [level=3] [ref=f27e200]:
+                          - link "Navee NT5 MAX certificado" [ref=f27e201] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1862-navee-nt5-max.html
+                        - generic [ref=f27e203]:
+                          - link "659,00 €" [ref=f27e204] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1862-navee-nt5-max.html
+                          - text: 699,00 €
+                        - text:    
+                    - article [ref=f27e206]:
+                      - generic [ref=f27e207]:
+                        - link [ref=f27e209] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1940-8488-matricula-gratis-patinete-electrico-vmp.html#/439-elige_regalo-matricula_vmp
+                          - img "Matrícula patinete eléctrico VMP adhesivo" [ref=f27e210]
+                          - img "Matrícula patinete eléctrico VMP adhesivo 2" [ref=f27e211]
+                        - list [ref=f27e212]:
+                          - listitem [ref=f27e213]: "-5,00 €"
+                          - listitem [ref=f27e214]: Nuevo
+                        - link [ref=f27e217] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f27e218]: 
+                        - generic: 
+                      - generic [ref=f27e219]:
+                        - heading [level=3] [ref=f27e220]:
+                          - link "REGALO MATRÍCULA VMP, CASCO O CHALECO REFLECTANTE" [ref=f27e221] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1940-matricula-gratis-patinete-electrico-vmp.html
+                        - generic [ref=f27e223]:
+                          - link "0,00 €" [ref=f27e224] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1940-8488-matricula-gratis-patinete-electrico-vmp.html#/439-elige_regalo-matricula_vmp
+                          - text: 0,00 €
+                        - text:    
+                  - generic [ref=f27e226]:
+                    - generic [ref=f27e227]: Mostrando 1-4 de 4 artículo(s)
+                    - generic:
+                      - navigation
+              - text: 
+          - generic [ref=f27e228]:
+            - generic [ref=f27e230]:
+              - text:  
+              - generic [ref=f27e232]:
+                - complementary [ref=f27e233]:
+                  - heading "Marca" [level=4] [ref=f27e234]
+                  - list [ref=f27e235]:
+                    - listitem [ref=f27e236]:
+                      - generic [ref=f27e237]:
+                        - generic [ref=f27e238]:
+                          - checkbox "Navee (2)" [ref=f27e239] [cursor=pointer]
+                          - generic [ref=f27e240] [cursor=pointer]: 
+                        - link "Navee (2)" [ref=f27e241] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/56-navee?q=Marca-Navee
+                - complementary [ref=f27e242]:
+                  - heading "Precio" [level=4] [ref=f27e243]
+                  - list [ref=f27e244]:
+                    - listitem [ref=f27e245]:
+                      - paragraph [ref=f27e246]: 0,00 € - 949,00 €
+                      - generic [ref=f27e248]:
+                        - slider [ref=f27e251] [cursor=pointer]
+                        - slider [ref=f27e253] [cursor=pointer]
+                - complementary [ref=f27e255]:
+                  - heading "Potencia nominal" [level=4] [ref=f27e256]
+                  - list [ref=f27e257]:
+                    - listitem [ref=f27e258]:
+                      - generic [ref=f27e259]:
+                        - generic [ref=f27e260]:
+                          - checkbox "500W (1)" [ref=f27e261] [cursor=pointer]
+                          - generic [ref=f27e262] [cursor=pointer]: 
+                        - link "500W (1)" [ref=f27e263] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/56-navee?q=Potencia+nominal-500W
+                    - listitem [ref=f27e264]:
+                      - generic [ref=f27e265]:
+                        - generic [ref=f27e266]:
+                          - checkbox "700W (1)" [ref=f27e267] [cursor=pointer]
+                          - generic [ref=f27e268] [cursor=pointer]: 
+                        - link "700W (1)" [ref=f27e269] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/56-navee?q=Potencia+nominal-700W
+                - complementary [ref=f27e270]:
+                  - heading "Motor tipo" [level=4] [ref=f27e271]
+                  - list [ref=f27e272]:
+                    - listitem [ref=f27e273]:
+                      - generic [ref=f27e274]:
+                        - generic [ref=f27e275]:
+                          - checkbox "Single (2)" [ref=f27e276] [cursor=pointer]
+                          - generic [ref=f27e277] [cursor=pointer]: 
+                        - link "Single (2)" [ref=f27e278] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/56-navee?q=Motor+tipo-Single
+                - complementary [ref=f27e279]:
+                  - heading "Batería capacidad" [level=4] [ref=f27e280]
+                  - list [ref=f27e281]:
+                    - listitem [ref=f27e282]:
+                      - generic [ref=f27e283]:
+                        - generic [ref=f27e284]:
+                          - checkbox "12Ah (1)" [ref=f27e285] [cursor=pointer]
+                          - generic [ref=f27e286] [cursor=pointer]: 
+                        - link "12Ah (1)" [ref=f27e287] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/56-navee?q=Bater%C3%ADa+capacidad-12Ah
+                    - listitem [ref=f27e288]:
+                      - generic [ref=f27e289]:
+                        - generic [ref=f27e290]:
+                          - checkbox "13Ah (1)" [ref=f27e291] [cursor=pointer]
+                          - generic [ref=f27e292] [cursor=pointer]: 
+                        - link "13Ah (1)" [ref=f27e293] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/56-navee?q=Bater%C3%ADa+capacidad-13Ah
+                - complementary [ref=f27e294]:
+                  - heading "Tamaño de rueda" [level=4] [ref=f27e295]
+                  - list [ref=f27e296]:
+                    - listitem [ref=f27e297]:
+                      - generic [ref=f27e298]:
+                        - generic [ref=f27e299]:
+                          - checkbox "11\" (1)" [ref=f27e300] [cursor=pointer]
+                          - generic [ref=f27e301] [cursor=pointer]: 
+                        - link "11\" (1)" [ref=f27e302] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/56-navee?q=Tama%C3%B1o+de+rueda-11%22
+                    - listitem [ref=f27e303]:
+                      - generic [ref=f27e304]:
+                        - generic [ref=f27e305]:
+                          - checkbox "12\" (1)" [ref=f27e306] [cursor=pointer]
+                          - generic [ref=f27e307] [cursor=pointer]: 
+                        - link "12\" (1)" [ref=f27e308] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/56-navee?q=Tama%C3%B1o+de+rueda-12%22
+                - complementary [ref=f27e309]:
+                  - heading "Peso" [level=4] [ref=f27e310]
+                  - list [ref=f27e311]:
+                    - listitem [ref=f27e312]:
+                      - generic [ref=f27e313]:
+                        - generic [ref=f27e314]:
+                          - checkbox "30 (1)" [ref=f27e315] [cursor=pointer]
+                          - generic [ref=f27e316] [cursor=pointer]: 
+                        - link "30 (1)" [ref=f27e317] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/56-navee?q=peso-30
+                    - listitem [ref=f27e318]:
+                      - generic [ref=f27e319]:
+                        - generic [ref=f27e320]:
+                          - checkbox "33 (1)" [ref=f27e321] [cursor=pointer]
+                          - generic [ref=f27e322] [cursor=pointer]: 
+                        - link "33 (1)" [ref=f27e323] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/56-navee?q=peso-33
+                - complementary [ref=f27e324]:
+                  - heading "Batería voltaje" [level=4] [ref=f27e325]
+                  - list [ref=f27e326]:
+                    - listitem [ref=f27e327]:
+                      - generic [ref=f27e328]:
+                        - generic [ref=f27e329]:
+                          - checkbox "48V (2)" [ref=f27e330] [cursor=pointer]
+                          - generic [ref=f27e331] [cursor=pointer]: 
+                        - link "48V (2)" [ref=f27e332] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/56-navee?q=Bater%C3%ADa+voltaje+-48V
+            - 'link "Opiniones de productos           (4,5/5) Categoría : Navee Basados en 2 calificación(es) y 1 opiniones del usuario Todas las opiniones >" [ref=f27e336] [cursor=pointer]':
+              - /url: https://www.imoveblue.es/module/gsnippetsreviews/reviews?list=1
+              - strong [ref=f27e337]: Opiniones de productos
+              - generic [ref=f27e338]:
+                - generic [ref=f27e340]:
+                  - generic "1" [ref=f27e341]: 
+                  - generic "2" [ref=f27e342]: 
+                  - generic "3" [ref=f27e343]: 
+                  - generic "4" [ref=f27e344]: 
+                  - generic "5" [ref=f27e345]: 
+                  - generic "6" [ref=f27e346]: 
+                  - generic "7" [ref=f27e347]: 
+                  - generic "8" [ref=f27e348]: 
+                  - generic "9" [ref=f27e349]: 
+                  - generic "10" [ref=f27e350]: 
+                - text: (4,5/5)
+                - strong [ref=f27e351]: "Categoría :"
+                - text: Navee Basados en 2 calificación(es) y 1 opiniones del usuario
+              - text: Todas las opiniones >
+    - generic [ref=f27e352]:
+      - generic [ref=f27e355]:
+        - generic [ref=f27e356]:
+          - heading "Suscríbete y te regalamos 10€" [level=5] [ref=f27e357]
+          - generic [ref=f27e359]:
+            - generic [ref=f27e360]:
+              - textbox "Su dirección de correo electrónico" [ref=f27e361]
+              - button "Suscribirse" [disabled] [ref=f27e362]:
+                - generic [ref=f27e363]: 
+            - generic [ref=f27e366]:
+              - checkbox "Acepto los términos y condiciones y la política de privacidad. Lee los términos y condiciones de uso." [ref=f27e367] [cursor=pointer]
+              - generic [ref=f27e368] [cursor=pointer]: 
+              - generic [ref=f27e369]:
+                - text: Acepto los términos y condiciones y la política de privacidad.
+                - generic [ref=f27e370]:
+                  - link "Lee los términos y condiciones de uso" [ref=f27e371] [cursor=pointer]:
+                    - /url: https://www.imoveblue.es/content/2-aviso-legal
+                  - text: .
+        - list [ref=f27e373]:
+          - listitem [ref=f27e374]:
+            - link [ref=f27e375] [cursor=pointer]:
+              - /url: https://www.facebook.com/imoveblue/
+              - generic [ref=f27e376]: 
+          - listitem [ref=f27e377]:
+            - link [ref=f27e378] [cursor=pointer]:
+              - /url: https://twitter.com/imoveblue
+              - generic [ref=f27e379]: 
+          - listitem [ref=f27e380]:
+            - link [ref=f27e381] [cursor=pointer]:
+              - /url: https://www.instagram.com/imoveblue.es/
+              - generic [ref=f27e382]: 
+          - listitem [ref=f27e383]:
+            - link [ref=f27e384] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCFwHWdvgGT9VnTsA5MxFfWw
+              - generic [ref=f27e385]: 
+      - generic [ref=f27e388]:
+        - generic [ref=f27e389]:
+          - heading "Atención al cliente" [level=5] [ref=f27e390]
+          - generic [ref=f27e392]:
+            - generic [ref=f27e393]:
+              - strong [ref=f27e394]: "Imoveblue.es - NIF: ESJ01585108"
+              - generic [ref=f27e395]:
+                - generic [ref=f27e396]: 
+                - generic [ref=f27e398]: Apartado de Correos 5003 - 01015 Vitoria-Gasteiz, Euskadi
+              - separator [ref=f27e399]
+              - generic [ref=f27e400]:
+                - generic [ref=f27e401]: 
+                - link "+34 688 751 888" [ref=f27e404] [cursor=pointer]:
+                  - /url: tel:+34 688 751 888
+              - separator [ref=f27e405]
+              - generic [ref=f27e406]:
+                - generic [ref=f27e407]: 
+                - link "info@imoveblue.es" [ref=f27e410] [cursor=pointer]:
+                  - /url: mailto:info@imoveblue.es
+            - separator [ref=f27e411]
+            - generic [ref=f27e412]:
+              - paragraph [ref=f27e413]: Si necesitas asesoramiento o servicio postventa no dudes en contactar con nosotros. Nuestro equipo estará encantado de ayudarte.
+              - paragraph [ref=f27e414]: "Horario de atención al cliente verano: Lunes a Viernes de 10:00h a 15:00h"
+        - generic [ref=f27e415]:
+          - heading "Información" [level=5] [ref=f27e416]
+          - list [ref=f27e419]:
+            - listitem [ref=f27e420]:
+              - link " Contacto" [ref=f27e421] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/contactenos
+            - listitem [ref=f27e422]:
+              - link " Matricular patinete eléctrico VMP DGT" [ref=f27e423] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/14-matricular-patinete-electrico-vmp-dgt
+            - listitem [ref=f27e424]:
+              - link " Financiar patinete eléctrico" [ref=f27e425] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/12-financiar-patinete-electrico
+            - listitem [ref=f27e426]:
+              - link " Normativa VMP" [ref=f27e427] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/11-normativa-vmp
+            - listitem [ref=f27e428]:
+              - link " Postventa y Garantía" [ref=f27e429] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/13-postventa-y-garantia
+            - listitem [ref=f27e430]:
+              - link " Opiniones Trusted Shops" [ref=f27e431] [cursor=pointer]:
+                - /url: https://www.trustedshops.es/evaluacion/info_X7971BAC9A2BC178FCCBEA75B22E0AD86.html?utm_source=shop&utm_medium=link&utm_content=allRatings__full&utm_campaign=trustbadge_maximised
+            - listitem [ref=f27e432]:
+              - link " Opiniones Google" [ref=f27e433] [cursor=pointer]:
+                - /url: https://www.google.com/search?q=imovebblue+opiniones+google&oq=imovebblue+opiniones+google&aqs=chrome..69i57j33i160.3751j0j7&sourceid=chrome&ie=UTF-8#lrd=0xd4fc185e0cebe53:0x21a8560d6ea10371,1,,,,
+            - listitem [ref=f27e434]:
+              - link " Opiniones Trustpilot" [ref=f27e435] [cursor=pointer]:
+                - /url: https://es.trustpilot.com/review/www.imoveblue.es
+            - listitem [ref=f27e436]:
+              - link " Descuentos y promociones" [ref=f27e437] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/8-descuentos
+            - listitem [ref=f27e438]:
+              - link " Condiciones de compra y envío" [ref=f27e439] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/3-terminos-y-condiciones-de-uso
+            - listitem [ref=f27e440]:
+              - link " Pago seguro" [ref=f27e441] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/5-pago-seguro
+            - listitem [ref=f27e442]:
+              - link " Sobre nosotros" [ref=f27e443] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/4-sobre-nosotros
+            - listitem [ref=f27e444]:
+              - link " Talleres colaboradores" [ref=f27e445] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/10-talleres-colaboradores
+            - listitem [ref=f27e446]:
+              - link " Seguro para tu VMP" [ref=f27e447] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/15-seguro-patinete-electrico-vmp
+            - listitem [ref=f27e448]:
+              - link " Mapa del sitio" [ref=f27e449] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/mapa del sitio
+            - listitem [ref=f27e450]:
+              - link " Aviso legal y Protección de datos" [ref=f27e451] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/2-aviso-legal
+        - generic [ref=f27e452]:
+          - heading "Categorías de productos" [level=5] [ref=f27e453]
+          - list [ref=f27e456]:
+            - listitem [ref=f27e457]:
+              - link " Patinetes eléctricos" [ref=f27e458] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/13-patinete-electrico
+            - listitem [ref=f27e459]:
+              - link " Patinetes eléctricos certificados DGT" [ref=f27e460] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+            - listitem [ref=f27e461]:
+              - link " Motos eléctricas" [ref=f27e462] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/18-motos-electricas
+            - listitem [ref=f27e463]:
+              - link " Bicicletas eléctricas" [ref=f27e464] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/14-bicicletas-electricas
+            - listitem [ref=f27e465]:
+              - link " Monociclos eléctricos" [ref=f27e466] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/30-monociclos-electricos
+            - listitem [ref=f27e467]:
+              - link " Movilidad infantil" [ref=f27e468] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/26-movilidad-infantil
+            - listitem [ref=f27e469]:
+              - link " Estaciones de carga" [ref=f27e470] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/39-estaciones-de-carga
+            - listitem [ref=f27e471]:
+              - link " Accesorios VMP y ciclismo" [ref=f27e472] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/28-accesorios-vmp-ciclismo
+            - listitem [ref=f27e473]:
+              - link " Triciclos y movilidad reducida" [ref=f27e474] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/32-triciclos-electricos
+            - listitem [ref=f27e475]:
+              - link " Bicicletas" [ref=f27e476] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/31-bicicletas
+            - listitem [ref=f27e477]:
+              - link " Recambios" [ref=f27e478] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/20-recambios
+            - listitem [ref=f27e479]:
+              - link " Patinetes Dualtron DGT" [ref=f27e480] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/44-dualtron
+        - generic [ref=f27e481]:
+          - heading "Pago seguro garantizado 100%" [level=5] [ref=f27e482]
+          - generic [ref=f27e484]:
+            - paragraph [ref=f27e485]:
+              - img "Pago seguro garantizado - PLAZOX" [ref=f27e486]
+            - paragraph
+      - generic [ref=f27e490]:
+        - paragraph [ref=f27e491]:
+          - text: "Somos un tienda online especializada en movilidad sostenible:"
+          - link "Patinetes eléctricos" [ref=f27e492] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/13-patinetes-electricos
+          - text: ","
+          - link "motos eléctricas" [ref=f27e493] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/18-motos-electricas
+          - text: ","
+          - link "bicicletas eléctricas" [ref=f27e494] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/14-bicicletas-electricas
+          - text: ","
+          - link "remolques de bicicleta" [ref=f27e495] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/10-remolques-de-bicicleta
+          - text: ","
+          - link "quads eléctricos" [ref=f27e496] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/15-quads-electricos
+          - text: y mucho más.
+        - paragraph [ref=f27e497]:
+          - emphasis [ref=f27e498]:
+            - 'link "Diseño web ecommerce: Rp Imagen" [ref=f27e499] [cursor=pointer]':
+              - /url: https://www.rpimagen.com/
+  - generic [ref=f27e501]:
+    - paragraph [ref=f27e505]: Tu privacidad, tu consentimiento
+    - paragraph [ref=f27e506]:
+      - text: En UJ Solutions SC utilizamos cookies y tecnologías similares para mejorar su experiencia y medir sus interacciones con nuestro sitio web. También los usamos para servirle información más relevante en búsquedas y en anuncios en este y otros sitios.
+      - generic [ref=f27e507]:
+        - text: Lee más en nuestra
+        - link "Política de Cookies" [ref=f27e508] [cursor=pointer]:
+          - /url: https://www.imoveblue.es/content/2-aviso-legal
+    - generic [ref=f27e509]:
+      - generic [ref=f27e511] [cursor=pointer]:
+        - generic [ref=f27e512]: Ajusta tus preferencias de cookies
+        - img "Arrow" [ref=f27e513]
+      - generic:
+        - generic:
+          - generic [ref=f27e514]:
+            - generic [ref=f27e515]:
+              - generic [ref=f27e516]: Técnicas (obligatorias)
+              - generic [ref=f27e517]:
+                - generic [ref=f27e518]: i
+                - generic [ref=f27e521]:
+                  - img "lock"
+            - generic [ref=f27e522]:
+              - generic [ref=f27e523]: Preferencias
+              - generic [ref=f27e524]:
+                - generic [ref=f27e525]: i
+                - checkbox [ref=f27e529] [cursor=pointer]
+            - generic [ref=f27e530]:
+              - generic [ref=f27e531]: Estadísticas
+              - generic [ref=f27e532]:
+                - generic [ref=f27e533]: i
+                - checkbox [ref=f27e537] [cursor=pointer]
+            - generic [ref=f27e538]:
+              - generic [ref=f27e539]: Marketing
+              - generic [ref=f27e540]:
+                - generic [ref=f27e541]: i
+                - checkbox [ref=f27e545] [cursor=pointer]
+          - button "Guardar configuración personalizada de cookies" [ref=f27e546] [cursor=pointer]
+    - generic [ref=f27e547]:
+      - generic [ref=f27e549] [cursor=pointer]:
+        - button "RECHAZAR LAS NO NECESARIAS" [ref=f27e550]
+        - generic [ref=f27e551]: Rechazar las cookies que no son extrictamente necesarias para el correcto funcionamiento de la web.
+      - generic [ref=f27e553] [cursor=pointer]:
+        - button "ACEPTAR TODAS" [ref=f27e554]
+        - generic [ref=f27e555]: Habilitar todas las cookies y tecnologías disponibles para mejorar la experiencia.
+    - link "powered by Visible Privacy Logo" [ref=f27e556] [cursor=pointer]:
+      - /url: https://www.visibleprivacy.com/
+      - generic [ref=f27e557]: powered by
+      - img "Visible Privacy Logo" [ref=f27e558]
+  - generic [ref=f27e559]:
+    - button "Sello de Calidad de Trusted Shops Protección al Comprador 4,32 (682) Bueno Trstd Login" [ref=f27e560] [cursor=pointer]:
+      - generic [ref=f27e561]:
+        - img "Sello de Calidad de Trusted Shops" [ref=f27e562]
+        - generic [ref=f27e563]: Protección al Comprador
+      - generic [ref=f27e565]:
+        - generic [ref=f27e566]:
+          - generic [ref=f27e567]: 4,32
+          - generic [ref=f27e569]: (682)
+        - generic [ref=f27e570]: Bueno
+      - switch "Trstd Login" [ref=f27e572]
+    - button "Menú" [ref=f27e574] [cursor=pointer]

@@ -1,0 +1,541 @@
+- generic [ref=f240e1]:
+  - generic [ref=f240e4]:
+    - generic:
+      - link "logo":
+        - /url: /
+        - img "logo"
+    - textbox "¿Qué estás buscando?" [ref=f240e6]
+    - generic [ref=f240e7]:
+      - generic [ref=f240e8]: "0"
+      - button [ref=f240e13] [cursor=pointer]
+  - region "Ventajas de comprar en Patinete Store" [ref=f240e14]:
+    - generic [ref=f240e16]:
+      - generic [ref=f240e17]:
+        - generic [ref=f240e18]: ALMACÉN EN ESPAÑA
+        - generic [ref=f240e19]: ENVÍOS EN 24-48 HORAS
+        - generic [ref=f240e20]: •
+        - generic [ref=f240e21]: TIENDA Nº1 DE PATINETES EN ESPAÑA
+        - generic [ref=f240e22]: •
+        - generic [ref=f240e23]: ★
+        - link "+2.500 RESEÑAS EN GOOGLE" [ref=f240e24] [cursor=pointer]:
+          - /url: https://share.google/RuIHo1gsaQe1QaF8z
+        - generic [ref=f240e25]: •
+        - generic [ref=f240e26]:
+          - text: ¡VINILO
+          - generic [ref=f240e27]: GRATIS
+          - text: CON LA COMPRA DE TU PATINETE!
+      - generic [ref=f240e28]:
+        - generic [ref=f240e29]: ALMACÉN EN ESPAÑA
+        - generic [ref=f240e30]: ENVÍOS EN 24-48 HORAS
+        - generic [ref=f240e31]: •
+        - generic [ref=f240e32]: TIENDA Nº1 DE PATINETES EN ESPAÑA
+        - generic [ref=f240e33]: •
+        - generic [ref=f240e34]: ★
+        - generic [ref=f240e35]: +2.500 RESEÑAS EN GOOGLE
+        - generic [ref=f240e36]: •
+        - generic [ref=f240e37]:
+          - text: ¡VINILO
+          - generic [ref=f240e38]: GRATIS
+          - text: CON LA COMPRA DE TU PATINETE!
+  - link "Saltar al contenido" [ref=f240e39] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=f240e40]:
+    - banner [ref=f240e41]:
+      - generic [ref=f240e42]:
+        - text:   
+        - navigation [ref=f240e44]:
+          - link [ref=f240e46] [cursor=pointer]:
+            - /url: https://patinetestore.com/
+            - img "Patinete Store | Venta de patinetes eléctricos y repuestos de patinete" [ref=f240e47]
+          - list [ref=f240e49]:
+            - listitem [ref=f240e50]:
+              - button "Menú" [ref=f240e51] [cursor=pointer]:
+                - generic [ref=f240e52]: 
+          - text:  
+          - list [ref=f240e54]:
+            - listitem [ref=f240e55]:
+              - button "Ver carrito" [ref=f240e56] [cursor=pointer]:
+                - generic [ref=f240e57]: 
+        - text:     
+        - search "Buscar productos" [ref=f240e63]:
+          - searchbox "Buscar" [ref=f240e65]
+    - navigation [ref=f240e70]:
+      - generic [ref=f240e71]:
+        - link "Patinetes eléctricos" [ref=f240e72] [cursor=pointer]:
+          - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/
+        - text: »
+        - link "Smartgyro" [ref=f240e73] [cursor=pointer]:
+          - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/smartgyro/
+    - main [ref=f240e75]:
+      - generic [ref=f240e78]:
+        - generic [ref=f240e80]:
+          - generic [ref=f240e84]:
+            - generic [ref=f240e85]: OFERTÓN!
+            - generic [ref=f240e86]:
+              - generic [ref=f240e87] [cursor=pointer]:
+                - generic:
+                  - link [ref=f240e89]:
+                    - /url: https://patinetestore.com/wp-content/uploads/2025/11/Smartgyro-Rockwayy-GT-1-1.jpg
+                    - img "Smartgyro Rockway GT 2026" [ref=f240e90]
+                  - link [ref=f240e92]:
+                    - /url: https://patinetestore.com/wp-content/uploads/2025/11/ROCKWAY-GT.jpg
+                    - img "Patinete eléctrico Smartgyro Rockway GL 2026" [ref=f240e93]
+              - list [ref=f240e94]:
+                - listitem [ref=f240e95] [cursor=pointer]:
+                  - img "Smartgyro Rockway GT 2026" [ref=f240e96]
+                - listitem [ref=f240e97] [cursor=pointer]:
+                  - img "Patinete eléctrico Smartgyro Rockway GL 2026" [ref=f240e98]
+          - generic [ref=f240e99]:
+            - heading "Patinete Eléctrico Smartgyro Rockway GT 2026" [level=1] [ref=f240e100]
+            - paragraph [ref=f240e102]:
+              - deletion [ref=f240e103]:
+                - generic [ref=f240e105]:
+                  - generic [ref=f240e106]: €
+                  - text: 1.090,00
+              - generic [ref=f240e107]: "El precio original era: €1.090,00."
+              - insertion [ref=f240e108]:
+                - generic [ref=f240e110]:
+                  - generic [ref=f240e111]: €
+                  - text: 595,00
+              - generic [ref=f240e112]: "El precio actual es: €595,00."
+            - note [ref=f240e114]:
+              - strong [ref=f240e117]: Envío en 24-48 horas
+            - generic [ref=f240e118]:
+              - img "🚚" [ref=f240e120]
+              - generic [ref=f240e121]: Envío gratis. Recíbelo el 13 de octubre
+            - paragraph [ref=f240e123]:
+              - strong [ref=f240e124]: Patinete eléctrico Smartgyro Rockway GT 2026
+              - text: certificado DGT con 800W nominal / 1800W máximo, 48V, batería 15.000 mAh, autonomía hasta 60 km, 10 pulgadas tubeless mixtas y triple frenada con discos y regenerativa. Ideal para quien busca un Rockway 2026 potente, cómodo y equilibrado para ciudad y trayectos largos.
+            - generic [ref=f240e125]: Compatible con Smartgyro Rockway GT
+            - generic [ref=f240e126]:
+              - generic [ref=f240e128]:
+                - heading "Datos necesarios para la Gestión DGT" [level=3] [ref=f240e129]
+                - paragraph [ref=f240e130]: Completa estos datos para que podamos gestionar el alta DGT correctamente.
+                - generic [ref=f240e131]:
+                  - generic [ref=f240e132]: ¿tienes Clave movil o certificado digital? *
+                  - combobox "¿tienes Clave movil o certificado digital? *" [ref=f240e133]:
+                    - option "Selecciona una opción" [selected]
+                    - option "Tengo Clave movil"
+                    - option "Tengo certificado digital"
+                    - option "No tengo ninguna"
+                - generic [ref=f240e134]:
+                  - generic [ref=f240e135]: Adjunto DNI cara A *
+                  - generic [ref=f240e136]:
+                    - button "Adjunto DNI cara A *" [ref=f240e137]
+                    - button "Seleccionar archivo" [ref=f240e138] [cursor=pointer]
+                    - generic [ref=f240e139]: Ningún archivo seleccionado
+                - generic [ref=f240e140]:
+                  - generic [ref=f240e141]: Adjunto DNI cara B *
+                  - generic [ref=f240e142]:
+                    - button "Adjunto DNI cara B *" [ref=f240e143]
+                    - button "Seleccionar archivo" [ref=f240e144] [cursor=pointer]
+                    - generic [ref=f240e145]: Ningún archivo seleccionado
+              - generic [ref=f240e146]:
+                - generic [ref=f240e147]:
+                  - generic [ref=f240e148]: TRÁMITES NECESARIOS PARA CIRCULAR LEGALMENTE
+                  - generic [ref=f240e155]:
+                    - generic [ref=f240e156]:
+                      - checkbox "Matrícula DGT MATRICULAR MI PATINETE Una vez tengas el patinete inscrito en la DGT contacta con nosotros y te enviaremos tu matrícula homologada. 9,90 €"
+                      - generic [ref=f240e158] [cursor=pointer]:
+                        - img "Matrícula DGT" [ref=f240e162]
+                        - generic [ref=f240e163]:
+                          - generic [ref=f240e164]: MATRICULAR MI PATINETE
+                          - generic [ref=f240e165]: Una vez tengas el patinete inscrito en la DGT contacta con nosotros y te enviaremos tu matrícula homologada.
+                        - generic [ref=f240e166]: 9,90 €
+                    - generic [ref=f240e168]:
+                      - checkbox "Seguro patinete ASEGURAR EL PATINETE Desde 3,40€/mes Una vez adquieras el patinete, te contactaremos para ayudarte en la gestión del alta de tu seguro obligatorio. Desde 3,40€/mes"
+                      - generic [ref=f240e170] [cursor=pointer]:
+                        - img "Seguro patinete" [ref=f240e174]
+                        - generic [ref=f240e175]:
+                          - generic [ref=f240e176]: ASEGURAR EL PATINETE
+                          - generic [ref=f240e177]: Desde 3,40€/mes
+                          - generic [ref=f240e178]: Una vez adquieras el patinete, te contactaremos para ayudarte en la gestión del alta de tu seguro obligatorio.
+                        - generic [ref=f240e179]: Desde 3,40€/mes
+                - generic [ref=f240e181]:
+                  - generic [ref=f240e182]:
+                    - strong [ref=f240e183]: Tu configuración
+                    - generic [ref=f240e184]: Revisa qué incluye tu patinete antes de añadirlo al carrito.
+                  - generic [ref=f240e185]:
+                    - generic [ref=f240e186]: Patinete Eléctrico Smartgyro Rockway GT 2026
+                    - strong [ref=f240e187]: 595,00 €
+                  - generic [ref=f240e189]: Selecciona mejoras, accesorios o servicios y aparecerán aquí.
+                  - generic [ref=f240e190]:
+                    - generic [ref=f240e191]: Mejoras y servicios
+                    - strong [ref=f240e192]: 0,00 €
+                  - generic [ref=f240e193]:
+                    - generic [ref=f240e194]: Precio total
+                    - generic [ref=f240e195]: 595,00 €
+              - button "Añadir al carrito" [ref=f240e196] [cursor=pointer]
+              - button "Comprar ahora" [ref=f240e197] [cursor=pointer]
+            - generic [ref=f240e198]:
+              - generic [ref=f240e199]: "SKU: PS-078"
+              - generic [ref=f240e200]:
+                - text: "Categoría:"
+                - link "Smartgyro" [ref=f240e201] [cursor=pointer]:
+                  - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/smartgyro/
+              - generic [ref=f240e202]:
+                - text: "Marca:"
+                - link "Smartgyro" [ref=f240e203] [cursor=pointer]:
+                  - /url: https://patinetestore.com/marca/smartgyro/
+          - text:                                
+        - region "Vídeos del producto" [ref=f240e204]:
+          - heading "Vídeos del producto" [level=2] [ref=f240e205]
+          - generic [ref=f240e206]:
+            - iframe [ref=f240e209]:
+              - region "TikTok video player" [ref=f242e1]:
+                - generic [ref=f242e2]:
+                  - img "Video Cover"
+                - link "Visit patinetestore's video on TikTok" [ref=f242e6] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@patinetestore/video/7613112139330473238?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7613112139330473238%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7613112139330473238
+                - link "Visit PATINETE STORE 🏁' profile on TikTok" [ref=f242e8] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@patinetestore?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7613112139330473238%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7613112139330473238
+                  - generic [ref=f242e11]:
+                    - generic [ref=f242e12]: PATINETE STORE 🏁
+                    - generic [ref=f242e13]: patinetestore
+                - button "Play video" [ref=f242e15] [cursor=pointer]
+                - generic [ref=f242e17]:
+                  - slider "Seek video" [ref=f242e19]
+                  - generic [ref=f242e21]:
+                    - generic [ref=f242e22]:
+                      - button "Play" [ref=f242e23] [cursor=pointer]
+                      - generic [ref=f242e26]:
+                        - button "Mute" [ref=f242e27] [cursor=pointer]
+                        - slider "Volume" [ref=f242e31] [cursor=pointer]
+                      - generic [ref=f242e34]: 00:00/00:13
+                    - generic [ref=f242e35]:
+                      - button "Settings" [ref=f242e36] [cursor=pointer]
+                      - button "Enter fullscreen" [ref=f242e42] [cursor=pointer]
+                - generic [ref=f242e45]:
+                  - link "Like this post on TikTok" [ref=f242e46] [cursor=pointer]:
+                    - /url: https://www.tiktok.com/@patinetestore/video/7613112139330473238?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7613112139330473238%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7613112139330473238
+                    - generic [ref=f242e49]: "511"
+                  - link "Comment this post on TikTok" [ref=f242e50] [cursor=pointer]:
+                    - /url: https://www.tiktok.com/@patinetestore/video/7613112139330473238?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7613112139330473238%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7613112139330473238
+                    - generic [ref=f242e53]: "32"
+                  - link "Share this post on TikTok" [ref=f242e54] [cursor=pointer]:
+                    - /url: https://www.tiktok.com/@patinetestore/video/7613112139330473238?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7613112139330473238%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7613112139330473238
+                    - generic [ref=f242e57]: "29"
+            - generic [ref=f240e210]:
+              - heading "Vídeo 1 de Patinete Eléctrico Smartgyro Rockway GT 2026" [level=3] [ref=f240e211]
+              - paragraph [ref=f240e212]: Vídeo 1 sobre Patinete Eléctrico Smartgyro Rockway GT 2026. Review, funcionamiento y detalles del producto.
+        - generic [ref=f240e214]:
+          - generic [ref=f240e216]:
+            - generic [ref=f240e217]:
+              - heading "Características técnicas" [level=2] [ref=f240e218]
+              - generic [ref=f240e219]: de Patinete Eléctrico Smartgyro Rockway GT 2026
+            - generic [ref=f240e220]:
+              - generic [ref=f240e221]:
+                - img "Motor trasero" [ref=f240e222]
+                - generic [ref=f240e223]: Motor trasero
+                - generic [ref=f240e224]: 800W (1800W Pico)
+              - generic [ref=f240e225]:
+                - img "Batería" [ref=f240e226]
+                - generic [ref=f240e227]: Batería
+                - generic [ref=f240e228]: 55 Kilómetros (48V 15Ah)
+              - generic [ref=f240e229]:
+                - img "Velocidad" [ref=f240e230]
+                - generic [ref=f240e231]: Velocidad
+                - generic [ref=f240e232]: 25Km/h 50Km/h
+              - generic [ref=f240e233]:
+                - img "Deslimitar" [ref=f240e234]
+                - generic [ref=f240e235]: Deslimitar
+                - generic [ref=f240e236]: Cambio de display
+              - generic [ref=f240e237]:
+                - img "Frenos" [ref=f240e238]
+                - generic [ref=f240e239]: Frenos
+                - generic [ref=f240e240]: Doble disco mecánico
+              - generic [ref=f240e241]:
+                - img "Neumáticos" [ref=f240e242]
+                - generic [ref=f240e243]: Neumáticos
+                - generic [ref=f240e244]: 10"
+              - generic [ref=f240e245]:
+                - img "Peso" [ref=f240e246]
+                - generic [ref=f240e247]: Peso
+                - generic [ref=f240e248]: 24,5Kg
+          - generic [ref=f240e250]:
+            - generic [ref=f240e251]:
+              - link [expanded] [ref=f240e252] [cursor=pointer]:
+                - /url: "#accordion-item-description"
+                - button "Toggle" [ref=f240e253]:
+                  - generic [ref=f240e254]: 
+                - text: Descripción
+              - generic "Toggle Descripción" [ref=f240e255]:
+                - generic [ref=f240e256]:
+                  - generic [ref=f240e257]:
+                    - paragraph [ref=f240e258]: Smartgyro Rockway equilibrio
+                    - 'heading "Patinete eléctrico Smartgyro Rockway GT 2026: análisis y compra en Patinete Store" [level=2] [ref=f240e259]'
+                    - paragraph [ref=f240e260]: "Smartgyro Rockway equilibrio Patinete eléctrico Smartgyro Rockway GT 2026: análisis y compra en Patinete Store El SmartGyro Rockway GT es un patinete eléctrico diseñado para quienes buscan un equilibrio perfecto entre potencia, seguridad y tecnología. Equipado con un motor de 800W nominales y hasta 1800W de pico , ofrece una aceleración contundente y un rend"
+                  - generic [ref=f240e261]:
+                    - generic [ref=f240e262]:
+                      - paragraph [ref=f240e263]: Potencia
+                      - paragraph [ref=f240e264]: 1800W
+                    - generic [ref=f240e265]:
+                      - paragraph [ref=f240e266]: Batería
+                      - paragraph [ref=f240e267]: 15.000 mAh
+                    - generic [ref=f240e268]:
+                      - paragraph [ref=f240e269]: Autonomía
+                      - paragraph [ref=f240e270]: hasta 60 km
+                    - generic [ref=f240e271]:
+                      - paragraph [ref=f240e272]: Ruedas
+                      - paragraph [ref=f240e273]: 10 pulgadas tubeless mixtas
+                    - generic [ref=f240e274]:
+                      - paragraph [ref=f240e275]: Frenos
+                      - paragraph [ref=f240e276]: triple frenada con discos y regenerativa
+                  - generic [ref=f240e277]:
+                    - generic [ref=f240e278]:
+                      - heading "Para quién es el Patinete eléctrico Smartgyro Rockway GT 2026" [level=2] [ref=f240e279]
+                      - paragraph [ref=f240e280]: Este modelo encaja para quien busca un Rockway 2026 potente, cómodo y equilibrado para ciudad y trayectos largos. Dentro de Smartgyro, destaca porque sube autonomía y respuesta frente al GL sin llegar al GTS.
+                      - list [ref=f240e281]:
+                        - listitem [ref=f240e282]: Buena opción si buscas rockway 2026 con soporte, repuestos y taller especializado.
+                        - listitem [ref=f240e283]: Recomendado comprobar autonomía real según peso, presión de neumáticos, desnivel y modo de conducción.
+                        - listitem [ref=f240e284]: La velocidad legal en vía pública está limitada por normativa VMP; las prestaciones deben usarse dentro del marco permitido.
+                    - complementary [ref=f240e285]:
+                      - heading "Resumen Patinete Store" [level=3] [ref=f240e286]
+                      - paragraph [ref=f240e287]: Patinete Eléctrico Smartgyro Rockway GT 2026 es una compra lógica si quieres sube autonomía y respuesta frente al GL sin llegar al GTS. Si dudas entre varios Smartgyro, revisa la comparativa justo debajo para subir o bajar un escalón sin perderte entre modelos.
+                  - generic [ref=f240e288]:
+                    - heading "Características técnicas del Patinete eléctrico Smartgyro Rockway GT 2026" [level=2] [ref=f240e289]
+                    - table [ref=f240e290]:
+                      - rowgroup [ref=f240e291]:
+                        - row [ref=f240e292]:
+                          - cell "Motor" [ref=f240e293]
+                          - cell "800W nominal / 1800W máximo, 48V" [ref=f240e294]
+                        - row [ref=f240e295]:
+                          - cell "Batería" [ref=f240e296]
+                          - cell "15.000 mAh" [ref=f240e297]
+                        - row [ref=f240e298]:
+                          - cell "Autonomía" [ref=f240e299]
+                          - cell "hasta 60 km" [ref=f240e300]
+                        - row [ref=f240e301]:
+                          - cell "Ruedas" [ref=f240e302]
+                          - cell "10 pulgadas tubeless mixtas" [ref=f240e303]
+                        - row [ref=f240e304]:
+                          - cell "Frenos" [ref=f240e305]
+                          - cell "triple frenada con discos y regenerativa" [ref=f240e306]
+                        - row [ref=f240e307]:
+                          - cell "Suspensión / confort" [ref=f240e308]
+                          - cell "doble suspensión helicoidal delantera y trasera" [ref=f240e309]
+                        - row [ref=f240e310]:
+                          - cell "APP / bloqueo" [ref=f240e311]
+                          - cell "SmartCore con APP y NFC" [ref=f240e312]
+                        - row [ref=f240e313]:
+                          - cell "Homologación" [ref=f240e314]
+                          - cell "certificado DGT" [ref=f240e315]
+                        - row [ref=f240e316]:
+                          - cell "Peso / enfoque" [ref=f240e317]
+                          - cell "aprox. 24,5 kg" [ref=f240e318]
+                  - generic [ref=f240e319]:
+                    - 'heading "Comparativa Smartgyro: por debajo y por encima" [level=2] [ref=f240e320]'
+                    - paragraph [ref=f240e321]: "Hemos ordenado los patinetes Smartgyro de Patinete Store por prestaciones reales: potencia, autonomía, frenos, suspensión, doble motor y enfoque de uso. Así puedes situar este modelo dentro de la gama sin comparar fichas a ciegas."
+                    - generic [ref=f240e322]:
+                      - link [ref=f240e323] [cursor=pointer]:
+                        - /url: https://patinetestore.com/producto/smartgyro-rockway-evo/
+                        - paragraph [ref=f240e324]: Un escalón por debajo
+                        - heading "Patinete Eléctrico Smartgyro Rockway EVO" [level=3] [ref=f240e325]
+                        - paragraph [ref=f240e326]: "Más sencillo o económico: 1500W, 48V 13Ah y hasta 50 km."
+                      - paragraph [ref=f240e327]:
+                        - link [ref=f240e328] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/smartgyro-rockway-evo/
+                      - generic [ref=f240e329]:
+                        - paragraph [ref=f240e330]: Modelo actual
+                        - heading "Patinete Eléctrico Smartgyro Rockway GT 2026" [level=3] [ref=f240e331]
+                        - paragraph [ref=f240e332]: 1800W, 15.000 mAh, hasta 60 km. sube autonomía y respuesta frente al GL sin llegar al GTS.
+                      - paragraph [ref=f240e333]:
+                        - link [ref=f240e334] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/smartgyro-k2-pro/
+                      - link [ref=f240e335] [cursor=pointer]:
+                        - /url: https://patinetestore.com/producto/smartgyro-k2-pro/
+                        - paragraph [ref=f240e336]: Un escalón por encima
+                        - heading "Patinete Eléctrico Smartgyro K2 PRO" [level=3] [ref=f240e337]
+                        - paragraph [ref=f240e338]: "Sube un escalón: 2000W, 48V 15Ah, hasta 60 km y salto claro en potencia máxima frente a Rockway GT."
+                      - paragraph [ref=f240e339]:
+                        - link [ref=f240e340] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/smartgyro-k2-pro/
+                  - generic [ref=f240e341]:
+                    - generic [ref=f240e342]:
+                      - heading "Antes de comprar este Smartgyro" [level=2] [ref=f240e343]
+                      - list [ref=f240e344]:
+                        - listitem [ref=f240e345]: Confirma que la autonomía se ajusta a tu ruta diaria y deja margen para frío, cuestas y peso.
+                        - listitem [ref=f240e346]: Mantén neumáticos, frenos y tornillería revisados para conservar estabilidad y seguridad.
+                        - listitem [ref=f240e347]: Si necesitas matrícula, seguro o revisión, Patinete Store puede ayudarte con la puesta a punto.
+                    - complementary [ref=f240e348]:
+                      - heading "Consejo de taller" [level=3] [ref=f240e349]
+                      - paragraph [ref=f240e350]: En patinetes Smartgyro conviene revisar conectores, presión de ruedas y ajuste de frenos tras los primeros usos. Si vienes de un modelo más básico, notarás más peso y más capacidad de empuje; ajusta la conducción progresivamente.
+                  - generic [ref=f240e351]:
+                    - heading "Preguntas frecuentes sobre Patinete eléctrico Smartgyro Rockway GT 2026" [level=2] [ref=f240e352]
+                    - generic [ref=f240e353]:
+                      - group [ref=f240e354]:
+                        - generic "¿Está homologado por la DGT?" [ref=f240e355] [cursor=pointer]
+                        - paragraph [ref=f240e356]: Sí, este modelo se trabaja como certificado DGT. Para circular legalmente respeta la normativa VMP y conserva la identificación del vehículo.
+                      - group [ref=f240e357]:
+                        - generic "¿Cuánta autonomía real puedo esperar?" [ref=f240e358] [cursor=pointer]
+                      - group [ref=f240e359]:
+                        - generic "¿Cuál es el Smartgyro superior o inferior?" [ref=f240e360] [cursor=pointer]
+            - generic: 
+          - generic [ref=f240e361]:
+            - heading "Más Smartgyro que te pueden interesar:" [level=2] [ref=f240e362]
+            - generic [ref=f240e363]:
+              - generic [ref=f240e365]:
+                - generic [ref=f240e366]: OFERTÓN!
+                - generic [ref=f240e367]:
+                  - generic [ref=f240e368]:
+                    - generic:
+                      - link "Smartgyro Crossover Dual Max 2 LR EXCLUSIVO FRENOS HIDRÁULICOS":
+                        - /url: https://patinetestore.com/producto/smartgyro-crossover-dual-max-2-lr/
+                        - img "Smartgyro Crossover Dual Max 2 LR EXCLUSIVO FRENOS HIDRÁULICOS" [ref=f240e369] [cursor=pointer]
+                    - generic:
+                      - button "Vista Rápida"
+                  - generic [ref=f240e370]:
+                    - generic [ref=f240e371]:
+                      - generic [ref=f240e372]: Envío en 24-48 horas
+                      - paragraph [ref=f240e375]:
+                        - link "Patinete Eléctrico Smartgyro Crossover Dual Max 2 LR Frenos Hidráulicos" [ref=f240e376] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/smartgyro-crossover-dual-max-2-lr/
+                    - generic [ref=f240e378]:
+                      - deletion [ref=f240e379]:
+                        - generic [ref=f240e380]: €1.090,00
+                      - generic [ref=f240e382]: "El precio original era: €1.090,00."
+                      - insertion [ref=f240e383]:
+                        - generic [ref=f240e384]: €929,00
+                      - generic [ref=f240e386]: "El precio actual es: €929,00."
+              - generic [ref=f240e390]:
+                - generic [ref=f240e391]:
+                  - generic:
+                    - link "Patinete Eléctrico Smartgyro XT Dual homologado DGT":
+                      - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-xt-dual/
+                      - img "Patinete Eléctrico Smartgyro XT Dual homologado DGT" [ref=f240e392] [cursor=pointer]
+                  - generic:
+                    - button "Vista Rápida"
+                - generic [ref=f240e393]:
+                  - generic [ref=f240e394]:
+                    - generic [ref=f240e395]: Envío en 24-48 horas
+                    - paragraph [ref=f240e398]:
+                      - link "Patinete Eléctrico Smartgyro XT Dual" [ref=f240e399] [cursor=pointer]:
+                        - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-xt-dual/
+                  - generic [ref=f240e400]: €899,00
+              - generic [ref=f240e406]:
+                - generic [ref=f240e407]: OFERTÓN!
+                - generic [ref=f240e408]:
+                  - generic [ref=f240e409]:
+                    - generic:
+                      - link "Smartgyro Raptor EVO":
+                        - /url: https://patinetestore.com/producto/smartgyro-raptor-evo/
+                        - img "Smartgyro Raptor EVO" [ref=f240e410] [cursor=pointer]
+                    - generic:
+                      - button "Vista Rápida"
+                  - generic [ref=f240e411]:
+                    - generic [ref=f240e412]:
+                      - generic [ref=f240e413]: Envío en 24-48 horas
+                      - paragraph [ref=f240e416]:
+                        - link "Patinete Eléctrico Smartgyro Raptor EVO" [ref=f240e417] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/smartgyro-raptor-evo/
+                    - generic [ref=f240e419]:
+                      - deletion [ref=f240e420]:
+                        - generic [ref=f240e421]: €999,00
+                      - generic [ref=f240e423]: "El precio original era: €999,00."
+                      - insertion [ref=f240e424]:
+                        - generic [ref=f240e425]: €694,00
+                      - generic [ref=f240e427]: "El precio actual es: €694,00."
+              - generic [ref=f240e430]:
+                - generic [ref=f240e431]: OFERTÓN!
+                - generic [ref=f240e432]:
+                  - generic [ref=f240e433]:
+                    - generic:
+                      - link "SmartGyro Ryder 2":
+                        - /url: https://patinetestore.com/producto/smartgyro-ryder-2/
+                        - img "SmartGyro Ryder 2" [ref=f240e434] [cursor=pointer]
+                    - generic:
+                      - button "Vista Rápida"
+                  - generic [ref=f240e435]:
+                    - generic [ref=f240e436]:
+                      - generic [ref=f240e437]: Envío en 24-48 horas
+                      - paragraph [ref=f240e440]:
+                        - link "Patinete Eléctrico Smartgyro Ryder 2" [ref=f240e441] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/smartgyro-ryder-2/
+                    - generic [ref=f240e443]:
+                      - deletion [ref=f240e444]:
+                        - generic [ref=f240e445]: €1.099,00
+                      - generic [ref=f240e447]: "El precio original era: €1.099,00."
+                      - insertion [ref=f240e448]:
+                        - generic [ref=f240e449]: €794,00
+                      - generic [ref=f240e451]: "El precio actual es: €794,00."
+    - contentinfo [ref=f240e453]:
+      - region "Instagram feed" [ref=f240e458]:
+        - link "patinetestore_ on Instagram" [ref=f240e460] [cursor=pointer]:
+          - /url: https://www.instagram.com/patinetestore_/
+          - generic [ref=f240e466]:
+            - heading "patinetestore_" [level=3] [ref=f240e467]
+            - paragraph [ref=f240e468]:
+              - text: Tienda y Taller patinetes eléctricos
+              - img "🏁" [ref=f240e469]
+              - img "🥷🏽" [ref=f240e470]
+              - img "🛴" [ref=f240e471]
+              - text: Avenida del Cid, 4 Valencia
+        - list [ref=f240e472]:
+          - listitem [ref=f240e473]:
+            - 'link "asmr #patinete #escooter #asmr" [ref=f240e475] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeFNuD-IZ0m/
+          - listitem [ref=f240e479]:
+            - 'link "Como vinilar patinete eléctrico #patinete #vinilar" [ref=f240e481] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeB57zCo_Oz/
+          - listitem [ref=f240e485]:
+            - 'link "Always back to the line#escooter #crash #dualt" [ref=f240e487] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeAN95qRJH-/
+          - listitem [ref=f240e491]:
+            - link "Si vas a hacer el canelo, hazlo cuando no hay nadi" [ref=f240e493] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/Dd_jt9NIDvP/
+          - listitem [ref=f240e497]:
+            - 'link "Como copiar llave NFC en patinete eléctrico #nfc #" [ref=f240e499] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/Dd8_W1_ITu9/
+          - listitem [ref=f240e503]:
+            - 'link "Hemos comprado los nuevos Ecoxtrem Armored PRO #pa" [ref=f240e505] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/Dd600xwo6-O/
+        - generic [ref=f240e509]:
+          - button "Cargar más" [ref=f240e510] [cursor=pointer]
+          - link "Seguir en Instagram" [ref=f240e513] [cursor=pointer]:
+            - /url: https://www.instagram.com/patinetestore_/
+      - generic [ref=f240e517]:
+        - link [ref=f240e519] [cursor=pointer]:
+          - /url: https://patinetestore.com/
+        - list [ref=f240e522]:
+          - listitem [ref=f240e523]:
+            - link "Aviso legal" [ref=f240e524] [cursor=pointer]:
+              - /url: https://patinetestore.com/aviso-legal/
+          - listitem [ref=f240e525]:
+            - link "Política de devolución y reembolsos" [ref=f240e526] [cursor=pointer]:
+              - /url: https://patinetestore.com/politica-de-devolucion-y-reembolsos/
+          - listitem [ref=f240e527]:
+            - link "Métodos de pago" [ref=f240e528] [cursor=pointer]:
+              - /url: https://patinetestore.com/metodos-de-pago/
+          - listitem [ref=f240e529]:
+            - link "Política de privacidad" [ref=f240e530] [cursor=pointer]:
+              - /url: https://patinetestore.com/privacy-policy/
+          - listitem [ref=f240e531]:
+            - link "Mapa del sitio" [ref=f240e532] [cursor=pointer]:
+              - /url: https://patinetestore.com/sitemap_index.xml
+          - listitem [ref=f240e533]:
+            - link "Blog" [ref=f240e534] [cursor=pointer]:
+              - /url: https://patinetestore.com/blog/
+          - listitem [ref=f240e535]:
+            - link "Acceso B2B" [ref=f240e536] [cursor=pointer]:
+              - /url: https://patinetestore.com/my-account/
+      - generic [ref=f240e538]:
+        - group "Payment icons" [ref=f240e540]:
+          - generic [ref=f240e541]: Visa
+          - generic [ref=f240e545]: Klarna
+          - generic [ref=f240e558]: Apple Pay
+          - generic [ref=f240e562]: Cash On Delivery
+          - generic [ref=f240e566]: Cash on Pickup
+          - generic [ref=f240e570]: Google Pay
+          - generic [ref=f240e574]: MasterCard
+          - generic [ref=f240e581]: PayPal
+          - generic [ref=f240e585]: Revolut
+        - generic [ref=f240e591]:
+          - text: Copyright 2026 ©
+          - strong [ref=f240e592]: Patinete Store
+  - text:          
+  - generic:
+    - button "¡Contacta con nosotros! Abrir chat" [ref=f240e593] [cursor=pointer]:
+      - generic: ¡Contacta con nosotros!
+    - generic: "1"
+    - dialog "Patinete Store"
+  - status [ref=f240e595]

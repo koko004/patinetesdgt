@@ -1,0 +1,1554 @@
+- generic [ref=f21e1]:
+  - dialog "Gestionar consentimiento" [ref=f21e2]:
+    - generic [ref=f21e3]:
+      - generic [ref=f21e4]: Gestionar consentimiento
+      - button "Cerrar ventana" [ref=f21e5] [cursor=pointer]:
+        - img [ref=f21e6]: 
+    - generic [ref=f21e8]: Para ofrecer las mejores experiencias, utilizamos tecnologías como las cookies para almacenar y/o acceder a la información del dispositivo. El consentimiento de estas tecnologías nos permitirá procesar datos como el comportamiento de navegación o las identificaciones únicas en este sitio. No consentir o retirar el consentimiento, puede afectar negativamente a ciertas características y funciones.
+    - generic [ref=f21e10]:
+      - button "Aceptar" [ref=f21e11] [cursor=pointer]
+      - button "Denegar" [ref=f21e12] [cursor=pointer]
+      - button "Ver preferencias" [ref=f21e13] [cursor=pointer]
+    - list [ref=f21e15]:
+      - listitem [ref=f21e16]:
+        - link "Política de cookies" [ref=f21e17] [cursor=pointer]:
+          - /url: https://tallerdelpatinete.es/politica-de-cookies/
+      - listitem [ref=f21e18]:
+        - link "Política de privacidad" [ref=f21e19] [cursor=pointer]:
+          - /url: https://tallerdelpatinete.es/politica-de-privacidad/
+      - listitem [ref=f21e20]:
+        - link "Aviso Legal" [ref=f21e21] [cursor=pointer]:
+          - /url: https://tallerdelpatinete.es/aviso-legal/
+  - generic [ref=f21e23]:
+    - generic [ref=f21e24]:
+      - banner [ref=f21e25]:
+        - text: • • • • • • • • •
+        - generic [ref=f21e26]:
+          - generic [ref=f21e35]:
+            - link [ref=f21e45] [cursor=pointer]:
+              - /url: https://tallerdelpatinete.es
+            - generic [ref=f21e48]:
+              - link [ref=f21e50] [cursor=pointer]:
+                - /url: https://tallerdelpatinete.es/my-account/
+              - link "0" [ref=f21e54] [cursor=pointer]:
+                - /url: https://tallerdelpatinete.es/cart/
+          - generic [ref=f21e64]:
+            - paragraph
+            - search "Buscador inteligente TDP" [ref=f21e66]:
+              - combobox "Buscar" [ref=f21e71]
+              - button "Limpiar" [ref=f21e72] [cursor=pointer]
+              - button "Buscar por voz" [ref=f21e76] [cursor=pointer]
+              - button "Buscar" [ref=f21e80] [cursor=pointer]
+      - generic [ref=f21e88]:
+        - generic [ref=f21e94]:
+          - generic [ref=f21e95]:
+            - group "1 / 6" [ref=f21e96]
+            - group "2 / 6" [ref=f21e99]
+            - group "3 / 6" [ref=f21e102]
+            - group "4 / 6" [ref=f21e105]
+            - group "5 / 6" [ref=f21e108]
+            - group "6 / 6" [ref=f21e111]
+          - button "Previous slide" [ref=f21e114] [cursor=pointer]: 
+          - button "Next slide" [ref=f21e115] [cursor=pointer]: 
+        - text:  
+        - generic [ref=f21e119]:
+          - heading [level=3] [ref=f21e122]:
+            - strong [ref=f21e123]: TENEMOS LOS MEJORES PRODUCTOS
+          - paragraph [ref=f21e126]: ¡No busques más! Te ofrecemos las mejores opciones en patinetes, accesorios y recambios. Únete a la movilidad sostenible y mantén tu patinete con las últimas tendencias.
+          - generic [ref=f21e127]:
+            - generic [ref=f21e130]:
+              - heading [level=2] [ref=f21e131]:
+                - link [ref=f21e132] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/recogida-y-entrega-a-domicilio/
+                  - strong [ref=f21e133]: RECOGIDA Y ENTREGA DE PATINETES
+              - link "Contactar" [ref=f21e136] [cursor=pointer]:
+                - /url: https://tallerdelpatinete.es/producto/recogida-y-entrega-a-domicilio/
+            - generic [ref=f21e140]:
+              - heading [level=2] [ref=f21e141]:
+                - link [ref=f21e142] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/patinetes-electricos/
+                  - strong [ref=f21e143]: PATINETES ELÉCTRICOS
+              - link "Comprar" [ref=f21e146] [cursor=pointer]:
+                - /url: https://tallerdelpatinete.es/patinetes-electricos/
+            - generic [ref=f21e150]:
+              - heading [level=2] [ref=f21e151]:
+                - link [ref=f21e152] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/tunea-tu-patinete-productos/
+                  - strong [ref=f21e153]: TUNEA TU PATINETE
+              - link "Personalizar" [ref=f21e156] [cursor=pointer]:
+                - /url: https://tallerdelpatinete.es/tunea-tu-patinete-productos/
+            - generic [ref=f21e160]:
+              - heading [level=2] [ref=f21e161]:
+                - link [ref=f21e162] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/competicion/
+                  - strong [ref=f21e163]: ACCESORIOS COMPETICIÓN
+              - link "Comprar" [ref=f21e166] [cursor=pointer]:
+                - /url: https://tallerdelpatinete.es/competicion/
+            - generic [ref=f21e170]:
+              - heading [level=2] [ref=f21e171]:
+                - link [ref=f21e172] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/vinilo-patinete-electrico/
+                  - strong [ref=f21e173]: VINILOS
+              - link "Comprar" [ref=f21e176] [cursor=pointer]:
+                - /url: https://tallerdelpatinete.es/categoria-producto/vinilo-patinete-electrico/
+        - generic [ref=f21e178]:
+          - generic [ref=f21e185]:
+            - heading "Pago seguro" [level=3] [ref=f21e186]
+            - generic [ref=f21e187]: Tenemos certificado SSL por tu seguridad
+          - generic [ref=f21e194]:
+            - heading "Cambios y devoluciones" [level=3] [ref=f21e195]
+            - generic [ref=f21e196]: Devolución de 14 días si el producto no ha sido utilizado
+          - generic [ref=f21e203]:
+            - heading "Envío gratis 24H" [level=3] [ref=f21e204]
+            - generic [ref=f21e205]: Para pedidos superiores a 50€ según tu localidad
+          - generic [ref=f21e212]:
+            - heading "Soporte por WhatsApp" [level=3] [ref=f21e213]
+            - generic [ref=f21e214]: Al +34 642 52 80 38 y por clientes@tallerdelpatinete.es
+        - generic [ref=f21e218]:
+          - heading "TRUCAJES Y DESLIMITACIONES" [level=3] [ref=f21e221]
+          - paragraph [ref=f21e224]: Encontrarás todo lo que necesitas en trucajes y deslimitaciones de tu patinete eléctrico. ¡Personaliza y mantén tu patinete con las últimas tendencias!
+          - generic [ref=f21e226]:
+            - generic [ref=f21e228]:
+              - generic: OFERTA
+              - generic [ref=f21e230]:
+                - link [ref=f21e231] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/manillar-mtb-carbono/
+                  - img "Manillar Patinete MTB de Carbono" [ref=f21e235]
+                - contentinfo [ref=f21e236]:
+                  - link "" [ref=f21e237] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=110430
+                  - link "Elige las opciones para “Manillar Patinete MTB de Carbono”" [ref=f21e239] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/manillar-mtb-carbono/
+                    - text:  Seleccionar opciones
+                  - generic [ref=f21e240]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                  - generic [ref=f21e241] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e242]:
+                - heading [level=2] [ref=f21e243]:
+                  - link "Manillar Patinete MTB de Carbono" [ref=f21e244] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/manillar-mtb-carbono/
+                - generic [ref=f21e245]:
+                  - deletion [ref=f21e246]:
+                    - generic [ref=f21e247]: 79,90 €
+                  - generic [ref=f21e249]: "El precio original era: 79,90 €."
+                  - insertion [ref=f21e250]:
+                    - generic [ref=f21e251]: 59,90 €
+                  - generic [ref=f21e253]: "El precio actual es: 59,90 €."
+            - generic [ref=f21e255]:
+              - generic: OFERTA
+              - generic [ref=f21e257]:
+                - link "Manillar de Carbono TDP Recto Patinete" [ref=f21e258] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/manillar-patinete-tdp-de-carbono/
+                  - img "Manillar de Carbono TDP Recto Patinete" [ref=f21e260]
+                - contentinfo [ref=f21e261]:
+                  - link "" [ref=f21e262] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=113451
+                  - link "Elige las opciones para “Manillar de Carbono TDP Recto Patinete”" [ref=f21e264] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/manillar-patinete-tdp-de-carbono/
+                    - text:  Seleccionar opciones
+                  - generic [ref=f21e265]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                  - generic [ref=f21e266] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e267]:
+                - heading [level=2] [ref=f21e268]:
+                  - link "Manillar de Carbono TDP Recto Patinete" [ref=f21e269] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/manillar-patinete-tdp-de-carbono/
+                - generic [ref=f21e270]:
+                  - deletion [ref=f21e271]:
+                    - generic [ref=f21e272]: 79,90 €
+                  - generic [ref=f21e274]: "El precio original era: 79,90 €."
+                  - insertion [ref=f21e275]:
+                    - generic [ref=f21e276]: 59,90 €
+                  - generic [ref=f21e278]: "El precio actual es: 59,90 €."
+            - generic [ref=f21e280]:
+              - generic: OFERTA
+              - generic [ref=f21e282]:
+                - link "Manillar MTB Aluminio Patinete" [ref=f21e283] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/manillar-mtb-patinete-smartgyro/
+                  - img "Manillar MTB Aluminio Patinete" [ref=f21e285]
+                - contentinfo [ref=f21e286]:
+                  - link "" [ref=f21e287] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=110424
+                  - link "Elige las opciones para “Manillar MTB Aluminio Patinete”" [ref=f21e289] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/manillar-mtb-patinete-smartgyro/
+                    - text:  Seleccionar opciones
+                  - generic [ref=f21e290]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                  - generic [ref=f21e291] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e292]:
+                - heading [level=2] [ref=f21e293]:
+                  - link "Manillar MTB Aluminio Patinete" [ref=f21e294] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/manillar-mtb-patinete-smartgyro/
+                - generic [ref=f21e295]:
+                  - deletion [ref=f21e296]:
+                    - generic [ref=f21e297]: 39,99 €
+                  - generic [ref=f21e299]: "El precio original era: 39,99 €."
+                  - insertion [ref=f21e300]:
+                    - generic [ref=f21e301]: 29,99 €
+                  - generic [ref=f21e303]: "El precio actual es: 29,99 €."
+            - generic [ref=f21e305]:
+              - generic [ref=f21e306]:
+                - link "Potencia de Manillar Compatible al Adaptador Rovoron R7" [ref=f21e307] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/potencia-manillar-rovoron-r7/
+                  - img "Potencia de Manillar Compatible al Adaptador Rovoron R7" [ref=f21e309]
+                - contentinfo [ref=f21e310]:
+                  - link "" [ref=f21e311] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=115160
+                  - link "Elige las opciones para “Potencia de Manillar Compatible al Adaptador Rovoron R7”" [ref=f21e313] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/potencia-manillar-rovoron-r7/
+                    - text:  Seleccionar opciones
+                  - generic [ref=f21e314]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                  - generic [ref=f21e315] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e316]:
+                - heading [level=2] [ref=f21e317]:
+                  - link "Potencia de Manillar Compatible al Adaptador Rovoron R7" [ref=f21e318] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/potencia-manillar-rovoron-r7/
+                - generic [ref=f21e319]: 39,99 €
+            - generic [ref=f21e323]:
+              - generic: OFERTA
+              - generic [ref=f21e325]:
+                - link [ref=f21e326] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/luz-faro-foco-led-tallerdelpatinete/
+                  - img "Luz Faro Foco LED Tallerdelpatinete" [ref=f21e330]
+                - contentinfo [ref=f21e331]:
+                  - link "" [ref=f21e332] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=113281
+                  - 'button "Añadir al carrito: “Luz Faro Foco LED Tallerdelpatinete”" [ref=f21e334] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e336] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e337]:
+                - heading [level=2] [ref=f21e338]:
+                  - link "Luz Faro Foco LED Tallerdelpatinete" [ref=f21e339] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/luz-faro-foco-led-tallerdelpatinete/
+                - generic [ref=f21e340]:
+                  - deletion [ref=f21e341]:
+                    - generic [ref=f21e342]: 39,99 €
+                  - generic [ref=f21e344]: "El precio original era: 39,99 €."
+                  - insertion [ref=f21e345]:
+                    - generic [ref=f21e346]: 29,99 €
+                  - generic [ref=f21e348]: "El precio actual es: 29,99 €."
+            - generic [ref=f21e350]:
+              - generic [ref=f21e351]:
+                - link [ref=f21e352] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/pegs-anticaida-estrella/
+                  - img "Pegs Anticaida Estrella" [ref=f21e355]
+                - contentinfo [ref=f21e356]:
+                  - link "" [ref=f21e357] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=114367
+                  - link "Elige las opciones para “Pegs Anticaida Estrella”" [ref=f21e359] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/pegs-anticaida-estrella/
+                    - text:  Seleccionar opciones
+                  - generic [ref=f21e360]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                  - generic [ref=f21e361] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e362]:
+                - heading [level=2] [ref=f21e363]:
+                  - link "Pegs Anticaida Estrella" [ref=f21e364] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/pegs-anticaida-estrella/
+                - generic [ref=f21e365]: 19,99 €
+            - generic [ref=f21e369]:
+              - generic: OFERTA
+              - generic [ref=f21e371]:
+                - link [ref=f21e372] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/pegs-anticaidas-flow/
+                  - img "Pegs anticaídas Flow" [ref=f21e374]
+                - contentinfo [ref=f21e375]:
+                  - link "" [ref=f21e376] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=112583
+                  - link "Elige las opciones para “Pegs anticaídas Flow”" [ref=f21e378] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/pegs-anticaidas-flow/
+                    - text:  Seleccionar opciones
+                  - generic [ref=f21e379]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                  - generic [ref=f21e380] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e381]:
+                - heading [level=2] [ref=f21e382]:
+                  - link "Pegs anticaídas Flow" [ref=f21e383] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/pegs-anticaidas-flow/
+                - generic [ref=f21e384]:
+                  - deletion [ref=f21e385]:
+                    - generic [ref=f21e386]: 19,99 €
+                  - generic [ref=f21e388]: "El precio original era: 19,99 €."
+                  - insertion [ref=f21e389]:
+                    - generic [ref=f21e390]: 11,99 €
+                  - generic [ref=f21e392]: "El precio actual es: 11,99 €."
+            - generic [ref=f21e394]:
+              - generic [ref=f21e395]:
+                - link [ref=f21e396] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/pegs-anticaida-3/
+                  - img "Pegs Anticaida Floreado" [ref=f21e397]
+                - contentinfo [ref=f21e398]:
+                  - link "" [ref=f21e399] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=110132
+                  - link "Elige las opciones para “Pegs Anticaida Floreado”" [ref=f21e401] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/pegs-anticaida-3/
+                    - text:  Seleccionar opciones
+                  - generic [ref=f21e402]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                  - generic [ref=f21e403] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e404]:
+                - heading [level=2] [ref=f21e405]:
+                  - link "Pegs Anticaida Floreado" [ref=f21e406] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/pegs-anticaida-3/
+                - generic [ref=f21e407]: 19,99 €
+            - generic [ref=f21e411]:
+              - generic [ref=f21e412]:
+                - link [ref=f21e413] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/pegs-anticaida-2/
+                  - img "Pegs Anticaida Ultra" [ref=f21e414]
+                - contentinfo [ref=f21e415]:
+                  - link "" [ref=f21e416] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=110131
+                  - link "Elige las opciones para “Pegs Anticaida Ultra”" [ref=f21e418] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/pegs-anticaida-2/
+                    - text:  Seleccionar opciones
+                  - generic [ref=f21e419]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                  - generic [ref=f21e420] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e421]:
+                - heading [level=2] [ref=f21e422]:
+                  - link "Pegs Anticaida Ultra" [ref=f21e423] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/pegs-anticaida-2/
+                - generic [ref=f21e424]: 19,99 €
+            - generic [ref=f21e428]:
+              - generic: OFERTA
+              - generic [ref=f21e430]:
+                - link "Pegs Anticaida Moderno" [ref=f21e431] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/pegs-anticaida/
+                  - img "Pegs Anticaida Moderno" [ref=f21e433]
+                - contentinfo [ref=f21e434]:
+                  - link "" [ref=f21e435] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=110130
+                  - link "Elige las opciones para “Pegs Anticaida Moderno”" [ref=f21e437] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/pegs-anticaida/
+                    - text:  Seleccionar opciones
+                  - generic [ref=f21e438]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                  - generic [ref=f21e439] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e440]:
+                - heading [level=2] [ref=f21e441]:
+                  - link "Pegs Anticaida Moderno" [ref=f21e442] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/pegs-anticaida/
+                - generic [ref=f21e443]:
+                  - deletion [ref=f21e444]:
+                    - generic [ref=f21e445]: 19,99 €
+                  - generic [ref=f21e447]: "El precio original era: 19,99 €."
+                  - insertion [ref=f21e448]:
+                    - generic [ref=f21e449]: 13,99 €
+                  - generic [ref=f21e451]: "El precio actual es: 13,99 €."
+            - generic [ref=f21e453]:
+              - generic: OFERTA
+              - generic [ref=f21e455]:
+                - link "Anticaídas Pegs Patinete Eléctrico Basic" [ref=f21e456] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/anticaidaspegs-patinete-electrico/
+                  - img "Anticaídas Pegs Patinete Eléctrico Basic" [ref=f21e458]
+                - contentinfo [ref=f21e459]:
+                  - link "" [ref=f21e460] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=109940
+                  - link "Elige las opciones para “Anticaídas Pegs Patinete Eléctrico Basic”" [ref=f21e462] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/anticaidaspegs-patinete-electrico/
+                    - text:  Seleccionar opciones
+                  - generic [ref=f21e463]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                  - generic [ref=f21e464] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e465]:
+                - heading [level=2] [ref=f21e466]:
+                  - link "Anticaídas Pegs Patinete Eléctrico Basic" [ref=f21e467] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/anticaidaspegs-patinete-electrico/
+                - generic [ref=f21e468]:
+                  - deletion [ref=f21e469]:
+                    - generic [ref=f21e470]: 19,99 €
+                  - generic [ref=f21e472]: "El precio original era: 19,99 €."
+                  - insertion [ref=f21e473]:
+                    - generic [ref=f21e474]: 13,99 €
+                  - generic [ref=f21e476]: "El precio actual es: 13,99 €."
+            - generic [ref=f21e478]:
+              - generic: OFERTA
+              - generic [ref=f21e480]:
+                - link "Pegs Anticaídas PREMIUM" [ref=f21e481] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/anticaidas-pegs-patinete/
+                  - img "Pegs Anticaídas PREMIUM" [ref=f21e484]
+                - contentinfo [ref=f21e485]:
+                  - link "" [ref=f21e486] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=109939
+                  - link "Elige las opciones para “Pegs Anticaídas PREMIUM”" [ref=f21e488] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/anticaidas-pegs-patinete/
+                    - text:  Seleccionar opciones
+                  - generic [ref=f21e489]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                  - generic [ref=f21e490] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e491]:
+                - heading [level=2] [ref=f21e492]:
+                  - link "Pegs Anticaídas PREMIUM" [ref=f21e493] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/anticaidas-pegs-patinete/
+                - generic [ref=f21e494]: 15,99 €
+            - generic [ref=f21e498]:
+              - generic: OFERTA
+              - generic [ref=f21e500]:
+                - link "Cubre Cables Patinete eléctrico" [ref=f21e501] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/cubre-cables-patinete-electrico-xiaomi/
+                  - img "Cubre Cables Patinete eléctrico" [ref=f21e503]
+                - contentinfo [ref=f21e504]:
+                  - link "" [ref=f21e505] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=109120
+                  - link "Elige las opciones para “Cubre Cables Patinete eléctrico”" [ref=f21e507] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/cubre-cables-patinete-electrico-xiaomi/
+                    - text:  Seleccionar opciones
+                  - generic [ref=f21e508]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                  - generic [ref=f21e509] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e510]:
+                - heading [level=2] [ref=f21e511]:
+                  - link "Cubre Cables Patinete eléctrico" [ref=f21e512] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/cubre-cables-patinete-electrico-xiaomi/
+                - generic [ref=f21e513]:
+                  - deletion [ref=f21e514]:
+                    - generic [ref=f21e515]: 4,99 €
+                  - generic [ref=f21e517]: "El precio original era: 4,99 €."
+                  - insertion [ref=f21e518]:
+                    - generic [ref=f21e519]: 3,99 €
+                  - generic [ref=f21e521]: "El precio actual es: 3,99 €."
+            - generic [ref=f21e523]:
+              - generic: OFERTA
+              - generic [ref=f21e525]:
+                - link "Display Deslimitar Trucar Kukirin G2 Pro" [ref=f21e526] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/display-deslimitar-trucar-kukirin-g2-pro/
+                  - img "Display Deslimitar Trucar Kukirin G2 Pro" [ref=f21e528]
+                - contentinfo [ref=f21e529]:
+                  - link "" [ref=f21e530] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=114099
+                  - 'button "Añadir al carrito: “Display Deslimitar Trucar Kukirin G2 Pro”" [ref=f21e532] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e534] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e535]:
+                - heading [level=2] [ref=f21e536]:
+                  - link "Display Deslimitar Trucar Kukirin G2 Pro" [ref=f21e537] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/display-deslimitar-trucar-kukirin-g2-pro/
+                - generic [ref=f21e538]:
+                  - deletion [ref=f21e539]:
+                    - generic [ref=f21e540]: 160 €
+                  - generic [ref=f21e542]: "El precio original era: 160 €."
+                  - insertion [ref=f21e543]:
+                    - generic [ref=f21e544]: 120 €
+                  - generic [ref=f21e546]: "El precio actual es: 120 €."
+            - generic [ref=f21e548]:
+              - generic: OFERTA
+              - generic [ref=f21e550]:
+                - link [ref=f21e551] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/deslimitar-smartgyro-crossover-dual-max-2/
+                  - img "Display Deslimitar Trucar Smartgyro Crossover dual Max 2 y LR 2" [ref=f21e553]
+                - contentinfo [ref=f21e554]:
+                  - link "" [ref=f21e555] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=109753
+                  - 'button "Añadir al carrito: “Display Deslimitar Trucar Smartgyro Crossover dual Max 2 y LR 2”" [ref=f21e557] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e559] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e560]:
+                - heading [level=2] [ref=f21e561]:
+                  - link "Display Deslimitar Trucar Smartgyro Crossover dual Max 2 y LR..." [ref=f21e562] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/deslimitar-smartgyro-crossover-dual-max-2/
+                - generic [ref=f21e563]:
+                  - deletion [ref=f21e564]:
+                    - generic [ref=f21e565]: 160 €
+                  - generic [ref=f21e567]: "El precio original era: 160 €."
+                  - insertion [ref=f21e568]:
+                    - generic [ref=f21e569]: 84,90 €
+                  - generic [ref=f21e571]: "El precio actual es: 84,90 €."
+            - generic [ref=f21e573]:
+              - generic: OFERTA
+              - generic [ref=f21e575]:
+                - link [ref=f21e576] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/display-deslimitar-trucar-smartgyro-rockway-evo-pro-homologado/
+                  - img "Display Deslimitar Trucar SmartGyro Rockway Evo / PRO Homologado" [ref=f21e577]
+                - contentinfo [ref=f21e578]:
+                  - link "" [ref=f21e579] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=111162
+                  - 'button "Añadir al carrito: “Display Deslimitar Trucar SmartGyro Rockway Evo / PRO Homologado”" [ref=f21e581] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e583] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e584]:
+                - heading [level=2] [ref=f21e585]:
+                  - link "Display Deslimitar Trucar SmartGyro Rockway Evo / PRO Homolog..." [ref=f21e586] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/display-deslimitar-trucar-smartgyro-rockway-evo-pro-homologado/
+                - generic [ref=f21e587]:
+                  - deletion [ref=f21e588]:
+                    - generic [ref=f21e589]: 140 €
+                  - generic [ref=f21e591]: "El precio original era: 140 €."
+                  - insertion [ref=f21e592]:
+                    - generic [ref=f21e593]: 83,90 €
+                  - generic [ref=f21e595]: "El precio actual es: 83,90 €."
+            - generic [ref=f21e597]:
+              - generic: OFERTA
+              - generic [ref=f21e599]:
+                - link [ref=f21e600] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/mando-limitador-deslimitador-smartgyro-crossover-dual-max-2/
+                  - img "Mando Limitador / Deslimitador Smartgyro Crossover Dual Max 2 y LR" [ref=f21e601]
+                - contentinfo [ref=f21e602]:
+                  - link "" [ref=f21e603] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=113574
+                  - 'button "Añadir al carrito: “Mando Limitador / Deslimitador Smartgyro Crossover Dual Max 2 y LR”" [ref=f21e605] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e607] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e608]:
+                - heading [level=2] [ref=f21e609]:
+                  - link "Mando Limitador / Deslimitador Smartgyro Crossover Dual Max 2..." [ref=f21e610] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/mando-limitador-deslimitador-smartgyro-crossover-dual-max-2/
+                - generic [ref=f21e611]:
+                  - deletion [ref=f21e612]:
+                    - generic [ref=f21e613]: 125 €
+                  - generic [ref=f21e615]: "El precio original era: 125 €."
+                  - insertion [ref=f21e616]:
+                    - generic [ref=f21e617]: 68,90 €
+                  - generic [ref=f21e619]: "El precio actual es: 68,90 €."
+            - generic [ref=f21e621]:
+              - generic [ref=f21e622]:
+                - link [ref=f21e623] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/mando-limitador-deslimitador-kukirin-g2-master-2025/
+                  - img "Mando Limitador / Deslimitador Kukirin G2 Master 2025" [ref=f21e624]
+                - contentinfo [ref=f21e625]:
+                  - link "" [ref=f21e626] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=114106
+                  - 'button "Añadir al carrito: “Mando Limitador / Deslimitador Kukirin G2 Master 2025”" [ref=f21e628] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e630] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e631]:
+                - heading [level=2] [ref=f21e632]:
+                  - link "Mando Limitador / Deslimitador Kukirin G2 Master 2025" [ref=f21e633] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/mando-limitador-deslimitador-kukirin-g2-master-2025/
+                - generic [ref=f21e634]: 120 €
+            - generic [ref=f21e638]:
+              - generic: OFERTA
+              - generic [ref=f21e640]:
+                - link [ref=f21e641] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/display-deslimitar-kukirin-g2-homologado/
+                  - img "Display Deslimitar Trucar Kukirin G2 Homologado DGT" [ref=f21e643]
+                - contentinfo [ref=f21e644]:
+                  - link "" [ref=f21e645] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=115238
+                  - 'button "Añadir al carrito: “Display Deslimitar Trucar Kukirin G2 Homologado DGT”" [ref=f21e647] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e649] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e650]:
+                - heading [level=2] [ref=f21e651]:
+                  - link "Display Deslimitar Trucar Kukirin G2 Homologado DGT" [ref=f21e652] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/display-deslimitar-kukirin-g2-homologado/
+                - generic [ref=f21e653]:
+                  - deletion [ref=f21e654]:
+                    - generic [ref=f21e655]: 160 €
+                  - generic [ref=f21e657]: "El precio original era: 160 €."
+                  - insertion [ref=f21e658]:
+                    - generic [ref=f21e659]: 96,90 €
+                  - generic [ref=f21e661]: "El precio actual es: 96,90 €."
+            - generic [ref=f21e663]:
+              - generic: OFERTA
+              - generic [ref=f21e665]:
+                - link "Display Deslimitar Trucar SmartGyro K2 Y K2 PRO Homologado" [ref=f21e666] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/deslimitar-smartgyro-k2/
+                  - img "Display Deslimitar Trucar SmartGyro K2 Y K2 PRO Homologado" [ref=f21e668]
+                - contentinfo [ref=f21e669]:
+                  - link "" [ref=f21e670] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=109674
+                  - 'button "Añadir al carrito: “Display Deslimitar Trucar SmartGyro K2 Y K2 PRO Homologado”" [ref=f21e672] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e674] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e675]:
+                - heading [level=2] [ref=f21e676]:
+                  - link "Display Deslimitar Trucar SmartGyro K2 Y K2 PRO Homologado" [ref=f21e677] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/deslimitar-smartgyro-k2/
+                - generic [ref=f21e678]:
+                  - deletion [ref=f21e679]:
+                    - generic [ref=f21e680]: 140 €
+                  - generic [ref=f21e682]: "El precio original era: 140 €."
+                  - insertion [ref=f21e683]:
+                    - generic [ref=f21e684]: 59,90 €
+                  - generic [ref=f21e686]: "El precio actual es: 59,90 €."
+            - generic [ref=f21e688]:
+              - generic: OFERTA
+              - generic [ref=f21e690]:
+                - link [ref=f21e691] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/mando-limitador-deslimitador-smartgyro-k2/
+                  - img "Mando Limitador / Deslimitador SmartGyro K2" [ref=f21e692]
+                - contentinfo [ref=f21e693]:
+                  - link "" [ref=f21e694] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=113575
+                  - 'button "Añadir al carrito: “Mando Limitador / Deslimitador SmartGyro K2”" [ref=f21e696] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e698] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e699]:
+                - heading [level=2] [ref=f21e700]:
+                  - link "Mando Limitador / Deslimitador SmartGyro K2" [ref=f21e701] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/mando-limitador-deslimitador-smartgyro-k2/
+                - generic [ref=f21e702]:
+                  - deletion [ref=f21e703]:
+                    - generic [ref=f21e704]: 125 €
+                  - generic [ref=f21e706]: "El precio original era: 125 €."
+                  - insertion [ref=f21e707]:
+                    - generic [ref=f21e708]: 89,90 €
+                  - generic [ref=f21e710]: "El precio actual es: 89,90 €."
+            - generic [ref=f21e712]:
+              - generic: OFERTA
+              - generic [ref=f21e714]:
+                - link "Controladora Deslimitar Smartgyro Rockway / Speedway Patinete Eléctrico" [ref=f21e715] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/deslimitar-controladora-centralita-smartgyro-rockway-speedway/
+                  - img "Controladora Deslimitar Smartgyro Rockway / Speedway Patinete Eléctrico" [ref=f21e717]
+                - contentinfo [ref=f21e718]:
+                  - link "" [ref=f21e719] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=109863
+                  - link "Elige las opciones para “Controladora Deslimitar Smartgyro Rockway / Speedway Patinete Eléctrico”" [ref=f21e721] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/deslimitar-controladora-centralita-smartgyro-rockway-speedway/
+                    - text:  Seleccionar opciones
+                  - generic [ref=f21e722]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                  - generic [ref=f21e723] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e724]:
+                - heading [level=2] [ref=f21e725]:
+                  - link "Controladora Deslimitar Smartgyro Rockway / Speedway Patinete..." [ref=f21e726] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/deslimitar-controladora-centralita-smartgyro-rockway-speedway/
+                - generic [ref=f21e727]:
+                  - generic [ref=f21e728]: 59,90 €
+                  - text: "-"
+                  - generic [ref=f21e730]: 99,90 €
+                  - generic [ref=f21e732]: "Rango de precios: desde 59,90 € hasta 99,90 €"
+            - generic [ref=f21e734]:
+              - generic: OFERTA
+              - generic [ref=f21e736]:
+                - link [ref=f21e737] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/controladora-smartgyro-rockway-gt-gl-gts/
+                  - img "Controladora Centralita Deslimitar Trucar Smartgyro Rockway GT / GL / GTS" [ref=f21e738]
+                - contentinfo [ref=f21e739]:
+                  - link "" [ref=f21e740] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=114562
+                  - 'button "Añadir al carrito: “Controladora Centralita Deslimitar Trucar Smartgyro Rockway GT / GL / GTS”" [ref=f21e742] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e744] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e745]:
+                - heading [level=2] [ref=f21e746]:
+                  - link "Controladora Centralita Deslimitar Trucar Smartgyro Rockway G..." [ref=f21e747] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/controladora-smartgyro-rockway-gt-gl-gts/
+                - generic [ref=f21e748]:
+                  - deletion [ref=f21e749]:
+                    - generic [ref=f21e750]: 160 €
+                  - generic [ref=f21e752]: "El precio original era: 160 €."
+                  - insertion [ref=f21e753]:
+                    - generic [ref=f21e754]: 120 €
+                  - generic [ref=f21e756]: "El precio actual es: 120 €."
+            - generic [ref=f21e758]:
+              - generic [ref=f21e759]:
+                - link [ref=f21e760] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/kit-de-deslimitacion-crossover-2-hasta-50-km-h/
+                  - img "Kit Deslimitar Trucar Smartgyro Crossover Dual Max 2 - 50 km/h" [ref=f21e761]
+                - contentinfo [ref=f21e762]:
+                  - link "" [ref=f21e763] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=112955
+                  - link "Elige las opciones para “Kit Deslimitar Trucar Smartgyro Crossover Dual Max 2 - 50 km/h”" [ref=f21e765] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/kit-de-deslimitacion-crossover-2-hasta-50-km-h/
+                    - text:  Seleccionar opciones
+                  - generic [ref=f21e766]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                  - generic [ref=f21e767] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e768]:
+                - heading [level=2] [ref=f21e769]:
+                  - link "Kit Deslimitar Trucar Smartgyro Crossover Dual Max 2 – ..." [ref=f21e770] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/kit-de-deslimitacion-crossover-2-hasta-50-km-h/
+                - generic [ref=f21e771]:
+                  - generic [ref=f21e772]: 120 €
+                  - text: "-"
+                  - generic [ref=f21e774]: 170 €
+                  - generic [ref=f21e776]: "Rango de precios: desde 120 € hasta 170 €"
+        - generic [ref=f21e780]:
+          - heading "ACCESORIOS Y RECAMBIOS PARA TU PATINETE" [level=3] [ref=f21e783]
+          - paragraph [ref=f21e786]: Encontrarás todo lo que necesitas en accesorios y recambios de tu patinete eléctrico Xiaomi y más. ¡Personaliza y mantén tu patinete con las últimas tendencias y en perfecto estado!
+          - generic [ref=f21e788]:
+            - generic [ref=f21e790]:
+              - generic: OFERTA
+              - generic [ref=f21e792]:
+                - link "Matrícula DGT patinete eléctrico homologada | Placa identificativa VMP" [ref=f21e793] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/matricula-dgt-para-patinete-electrico-homologada-placa-identificativa-vmp/
+                  - img "Matrícula DGT patinete eléctrico homologada | Placa identificativa VMP" [ref=f21e795]
+                - contentinfo [ref=f21e796]:
+                  - link "" [ref=f21e797] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=114014
+                  - 'button "Añadir al carrito: “Matrícula DGT patinete eléctrico homologada | Placa identificativa VMP”" [ref=f21e799] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e801] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e802]:
+                - heading [level=2] [ref=f21e803]:
+                  - link "Matrícula DGT patinete eléctrico homologada | Placa identific..." [ref=f21e804] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/matricula-dgt-para-patinete-electrico-homologada-placa-identificativa-vmp/
+                - generic [ref=f21e805]:
+                  - deletion [ref=f21e806]:
+                    - generic [ref=f21e807]: 24,99 €
+                  - generic [ref=f21e809]: "El precio original era: 24,99 €."
+                  - insertion [ref=f21e810]:
+                    - generic [ref=f21e811]: 19,99 €
+                  - generic [ref=f21e813]: "El precio actual es: 19,99 €."
+            - generic [ref=f21e815]:
+              - generic [ref=f21e816]:
+                - link "Portamatrículas Con Soporte Tuerca Motor Patinete Eléctrico Universal" [ref=f21e817] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/portamatriculas-con-soporte-tuerca-motor-patinete-electrico-universal/
+                  - img "Portamatrículas Con Soporte Tuerca Motor Patinete Eléctrico Universal" [ref=f21e819]
+                - contentinfo [ref=f21e820]:
+                  - link "" [ref=f21e821] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=114438
+                  - 'button "Añadir al carrito: “Portamatrículas Con Soporte Tuerca Motor Patinete Eléctrico Universal”" [ref=f21e823] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e825] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e826]:
+                - heading [level=2] [ref=f21e827]:
+                  - link "Portamatrículas Con Soporte Tuerca Motor Patinete Eléctrico U..." [ref=f21e828] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/portamatriculas-con-soporte-tuerca-motor-patinete-electrico-universal/
+                - generic [ref=f21e829]: 14,99 €
+            - generic [ref=f21e833]:
+              - generic [ref=f21e834]:
+                - link [ref=f21e835] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/portamatriculas-patinete-electrico-soporte-matricula-vmp/
+                  - img "Portamatrículas Patinete Eléctrico Universal" [ref=f21e838]
+                - contentinfo [ref=f21e839]:
+                  - link "" [ref=f21e840] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=114436
+                  - 'button "Añadir al carrito: “Portamatrículas Patinete Eléctrico Universal”" [ref=f21e842] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e844] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e845]:
+                - heading [level=2] [ref=f21e846]:
+                  - link "Portamatrículas Patinete Eléctrico Universal" [ref=f21e847] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/portamatriculas-patinete-electrico-soporte-matricula-vmp/
+                - generic [ref=f21e848]: 14,99 €
+            - generic [ref=f21e852]:
+              - generic: OFERTA
+              - generic [ref=f21e854]:
+                - link [ref=f21e855] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/neumaticos-carretera-11-ecoxtrem-m41-armored-tubeless/
+                  - img "Neumáticos de Carretera 11” ( 100/55-6,5 ) Ecoxtrem M41 Armored Tubeless" [ref=f21e856]
+                - contentinfo [ref=f21e857]:
+                  - link "" [ref=f21e858] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=113827
+                  - link "Elige las opciones para “Neumáticos de Carretera 11” ( 100/55-6,5 ) Ecoxtrem M41 Armored Tubeless”" [ref=f21e860] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/neumaticos-carretera-11-ecoxtrem-m41-armored-tubeless/
+                    - text:  Seleccionar opciones
+                  - generic [ref=f21e861]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                  - generic [ref=f21e862] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e863]:
+                - heading [level=2] [ref=f21e864]:
+                  - link "Neumáticos de Carretera 11” ( 100/55-6,5 ) Ecoxtrem M41 Armor..." [ref=f21e865] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/neumaticos-carretera-11-ecoxtrem-m41-armored-tubeless/
+                - generic [ref=f21e866]:
+                  - generic [ref=f21e867]: 28,99 €
+                  - text: "-"
+                  - generic [ref=f21e869]: 49,99 €
+                  - generic [ref=f21e871]: "Rango de precios: desde 28,99 € hasta 49,99 €"
+            - generic [ref=f21e873]:
+              - generic: OFERTA
+              - generic [ref=f21e875]:
+                - link [ref=f21e876] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/llave-encendido-con-voltimetro-smartgyro-2-0/
+                  - img "Llave encendido con Voltimetro Smartgyro 2.0" [ref=f21e877]
+                - contentinfo [ref=f21e878]:
+                  - link "" [ref=f21e879] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=112941
+                  - 'button "Añadir al carrito: “Llave encendido con Voltimetro Smartgyro 2.0”" [ref=f21e881] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e883] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e884]:
+                - heading [level=2] [ref=f21e885]:
+                  - link "Llave encendido con Voltimetro Smartgyro 2.0" [ref=f21e886] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/llave-encendido-con-voltimetro-smartgyro-2-0/
+                - generic [ref=f21e887]:
+                  - deletion [ref=f21e888]:
+                    - generic [ref=f21e889]: 59,90 €
+                  - generic [ref=f21e891]: "El precio original era: 59,90 €."
+                  - insertion [ref=f21e892]:
+                    - generic [ref=f21e893]: 29,99 €
+                  - generic [ref=f21e895]: "El precio actual es: 29,99 €."
+            - generic [ref=f21e897]:
+              - generic: OFERTA
+              - generic [ref=f21e899]:
+                - link [ref=f21e900] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/protector-puerto-carga-patinete-electrico/
+                  - img "Protector Puerto de Carga Patinete Eléctrico" [ref=f21e901]
+                - contentinfo [ref=f21e902]:
+                  - link "" [ref=f21e903] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=113828
+                  - 'button "Añadir al carrito: “Protector Puerto de Carga Patinete Eléctrico”" [ref=f21e905] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e907] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e908]:
+                - heading [level=2] [ref=f21e909]:
+                  - link "Protector Puerto de Carga Patinete Eléctrico" [ref=f21e910] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/protector-puerto-carga-patinete-electrico/
+                - generic [ref=f21e911]:
+                  - deletion [ref=f21e912]:
+                    - generic [ref=f21e913]: 14,99 €
+                  - generic [ref=f21e915]: "El precio original era: 14,99 €."
+                  - insertion [ref=f21e916]:
+                    - generic [ref=f21e917]: 4,99 €
+                  - generic [ref=f21e919]: "El precio actual es: 4,99 €."
+            - generic [ref=f21e921]:
+              - generic: OFERTA
+              - generic [ref=f21e923]:
+                - link [ref=f21e924] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/acelerador-tipo-moto-para-patinete-smartgyro/
+                  - img "Acelerador puño gas moto Smartgyro Premium" [ref=f21e927]
+                - contentinfo [ref=f21e928]:
+                  - link "" [ref=f21e929] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=109773
+                  - 'button "Añadir al carrito: “Acelerador puño gas moto Smartgyro Premium”" [ref=f21e931] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e933] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e934]:
+                - heading [level=2] [ref=f21e935]:
+                  - link "Acelerador puño gas moto Smartgyro Premium" [ref=f21e936] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/acelerador-tipo-moto-para-patinete-smartgyro/
+                - generic [ref=f21e937]:
+                  - deletion [ref=f21e938]:
+                    - generic [ref=f21e939]: 84,90 €
+                  - generic [ref=f21e941]: "El precio original era: 84,90 €."
+                  - insertion [ref=f21e942]:
+                    - generic [ref=f21e943]: 39,99 €
+                  - generic [ref=f21e945]: "El precio actual es: 39,99 €."
+            - generic [ref=f21e947]:
+              - generic [ref=f21e948]:
+                - link "Disco de freno 140 mm Floreado" [ref=f21e949] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/disco-de-freno-140-mm/
+                  - img "Disco de freno 140 mm Floreado" [ref=f21e951]
+                - contentinfo [ref=f21e952]:
+                  - link "" [ref=f21e953] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=112163
+                  - link "Elige las opciones para “Disco de freno 140 mm Floreado”" [ref=f21e955] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/disco-de-freno-140-mm/
+                    - text:  Seleccionar opciones
+                  - generic [ref=f21e956]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                  - generic [ref=f21e957] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e958]:
+                - heading [level=2] [ref=f21e959]:
+                  - link "Disco de freno 140 mm Floreado" [ref=f21e960] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/disco-de-freno-140-mm/
+                - generic [ref=f21e961]: 9,99 €
+            - generic [ref=f21e965]:
+              - generic [ref=f21e966]:
+                - link "Manillar MTB Carbono Smartgyro Premium" [ref=f21e967] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/manillar-mtb-bicicleta-smartgyro-premium/
+                  - img "Manillar MTB Carbono Smartgyro Premium" [ref=f21e969]
+                - contentinfo [ref=f21e970]:
+                  - link "" [ref=f21e971] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=109983
+                  - link "Elige las opciones para “Manillar MTB Carbono Smartgyro Premium”" [ref=f21e973] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/manillar-mtb-bicicleta-smartgyro-premium/
+                    - text:  Seleccionar opciones
+                  - generic [ref=f21e974]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                  - generic [ref=f21e975] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e976]:
+                - heading [level=2] [ref=f21e977]:
+                  - link "Manillar MTB Carbono Smartgyro Premium" [ref=f21e978] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/manillar-mtb-bicicleta-smartgyro-premium/
+                - generic [ref=f21e979]:
+                  - generic [ref=f21e980]: 89,90 €
+                  - text: "-"
+                  - generic [ref=f21e982]: 140 €
+                  - generic [ref=f21e984]: "Rango de precios: desde 89,90 € hasta 140 €"
+            - generic [ref=f21e986]:
+              - generic: OFERTA
+              - generic [ref=f21e988]:
+                - link [ref=f21e989] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/punos-patinete-electrico/
+                  - img "Puños Premium Patinete Eléctrico" [ref=f21e992]
+                - contentinfo [ref=f21e993]:
+                  - link "" [ref=f21e994] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=110133
+                  - link "Elige las opciones para “Puños Premium Patinete Eléctrico”" [ref=f21e996] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/punos-patinete-electrico/
+                    - text:  Seleccionar opciones
+                  - generic [ref=f21e997]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                  - generic [ref=f21e998] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e999]:
+                - heading [level=2] [ref=f21e1000]:
+                  - link "Puños Premium Patinete Eléctrico" [ref=f21e1001] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/punos-patinete-electrico/
+                - generic [ref=f21e1002]:
+                  - deletion [ref=f21e1003]:
+                    - generic [ref=f21e1004]: 19,99 €
+                  - generic [ref=f21e1006]: "El precio original era: 19,99 €."
+                  - insertion [ref=f21e1007]:
+                    - generic [ref=f21e1008]: 14,99 €
+                  - generic [ref=f21e1010]: "El precio actual es: 14,99 €."
+            - generic [ref=f21e1012]:
+              - generic: OFERTA
+              - generic [ref=f21e1014]:
+                - link "Soporte Móvil / Teléfono Profesional" [ref=f21e1015] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/soporte-movil-telefono-profesional/
+                  - img "Soporte Móvil / Teléfono Profesional" [ref=f21e1017]
+                - contentinfo [ref=f21e1018]:
+                  - link "" [ref=f21e1019] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=109742
+                  - 'button "Añadir al carrito: “Soporte Móvil / Teléfono Profesional”" [ref=f21e1021] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e1023] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e1024]:
+                - heading [level=2] [ref=f21e1025]:
+                  - link "Soporte Móvil / Teléfono Profesional" [ref=f21e1026] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/soporte-movil-telefono-profesional/
+                - generic [ref=f21e1027]:
+                  - deletion [ref=f21e1028]:
+                    - generic [ref=f21e1029]: 24,99 €
+                  - generic [ref=f21e1031]: "El precio original era: 24,99 €."
+                  - insertion [ref=f21e1032]:
+                    - generic [ref=f21e1033]: 14,99 €
+                  - generic [ref=f21e1035]: "El precio actual es: 14,99 €."
+            - generic [ref=f21e1037]:
+              - generic [ref=f21e1038]:
+                - link [ref=f21e1039] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/timbre-electrico-para-patinete-electrico/
+                  - img "Timbre Eléctrico Claxon Pito patinete eléctrico" [ref=f21e1042]
+                  - img "Timbre Eléctrico Claxon Pito patinete eléctrico" [ref=f21e1044]
+                - contentinfo [ref=f21e1045]:
+                  - link "" [ref=f21e1046] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=109736
+                  - 'button "Añadir al carrito: “Timbre Eléctrico Claxon Pito patinete eléctrico”" [ref=f21e1048] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e1050] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e1051]:
+                - heading [level=2] [ref=f21e1052]:
+                  - link "Timbre Eléctrico Claxon Pito patinete eléctrico" [ref=f21e1053] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/timbre-electrico-para-patinete-electrico/
+                - generic [ref=f21e1054]: 24,99 €
+            - generic [ref=f21e1058]:
+              - generic [ref=f21e1059]:
+                - link "Guardabarros trasero patinete Xiaomi 365" [ref=f21e1060] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/guardabarros-patinete-xiaomi/
+                  - img "Guardabarros trasero patinete Xiaomi 365" [ref=f21e1062]
+                - contentinfo [ref=f21e1063]:
+                  - link "" [ref=f21e1064] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=109004
+                  - link "Elige las opciones para “Guardabarros trasero patinete Xiaomi 365”" [ref=f21e1066] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/guardabarros-patinete-xiaomi/
+                    - text:  Seleccionar opciones
+                  - generic [ref=f21e1067]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                  - generic [ref=f21e1068] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e1069]:
+                - heading [level=2] [ref=f21e1070]:
+                  - link "Guardabarros trasero patinete Xiaomi 365" [ref=f21e1071] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/guardabarros-patinete-xiaomi/
+                - generic [ref=f21e1072]: 9,99 €
+            - generic [ref=f21e1076]:
+              - generic: OFERTA
+              - generic [ref=f21e1078]:
+                - link [ref=f21e1079] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/base-antideslizante-redbull-ktm-black-red/
+                  - img "Base antideslizante universal RedBull KTM Negro & Rojo Carbon" [ref=f21e1080]
+                - contentinfo [ref=f21e1081]:
+                  - link "" [ref=f21e1082] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=111623
+                  - 'button "Añadir al carrito: “Base antideslizante universal RedBull KTM Negro & Rojo Carbon”" [ref=f21e1084] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e1086] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e1087]:
+                - heading [level=2] [ref=f21e1088]:
+                  - link "Base antideslizante universal RedBull KTM Negro & Rojo C..." [ref=f21e1089] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/base-antideslizante-redbull-ktm-black-red/
+                - generic [ref=f21e1090]:
+                  - deletion [ref=f21e1091]:
+                    - generic [ref=f21e1092]: 24,99 €
+                  - generic [ref=f21e1094]: "El precio original era: 24,99 €."
+                  - insertion [ref=f21e1095]:
+                    - generic [ref=f21e1096]: 19,99 €
+                  - generic [ref=f21e1098]: "El precio actual es: 19,99 €."
+            - generic [ref=f21e1100]:
+              - generic: OFERTA
+              - generic [ref=f21e1102]:
+                - link [ref=f21e1103] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/cargador-rapido-48v-5ah/
+                  - img "ENCUADRENADO-DE-IMAGEN-15.jpg" [ref=f21e1105]
+                - contentinfo [ref=f21e1106]:
+                  - link "" [ref=f21e1107] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=111201
+                  - 'button "Añadir al carrito: “Cargador Rápido 48V 5ah”" [ref=f21e1109] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e1111] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e1112]:
+                - heading [level=2] [ref=f21e1113]:
+                  - link "Cargador Rápido 48V 5ah" [ref=f21e1114] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/cargador-rapido-48v-5ah/
+                - generic [ref=f21e1115]:
+                  - deletion [ref=f21e1116]:
+                    - generic [ref=f21e1117]: 150 €
+                  - generic [ref=f21e1119]: "El precio original era: 150 €."
+                  - insertion [ref=f21e1120]:
+                    - generic [ref=f21e1121]: 99,90 €
+                  - generic [ref=f21e1123]: "El precio actual es: 99,90 €."
+            - generic [ref=f21e1125]:
+              - generic: OFERTA
+              - generic [ref=f21e1127]:
+                - link [ref=f21e1128] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/luz-faro-foco-led-tallerdelpatinete/
+                  - img "Luz Faro Foco LED Tallerdelpatinete" [ref=f21e1132]
+                - contentinfo [ref=f21e1133]:
+                  - link "" [ref=f21e1134] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=113281
+                  - 'button "Añadir al carrito: “Luz Faro Foco LED Tallerdelpatinete”" [ref=f21e1136] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e1138] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e1139]:
+                - heading [level=2] [ref=f21e1140]:
+                  - link "Luz Faro Foco LED Tallerdelpatinete" [ref=f21e1141] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/luz-faro-foco-led-tallerdelpatinete/
+                - generic [ref=f21e1142]:
+                  - deletion [ref=f21e1143]:
+                    - generic [ref=f21e1144]: 39,99 €
+                  - generic [ref=f21e1146]: "El precio original era: 39,99 €."
+                  - insertion [ref=f21e1147]:
+                    - generic [ref=f21e1148]: 29,99 €
+                  - generic [ref=f21e1150]: "El precio actual es: 29,99 €."
+            - generic [ref=f21e1152]:
+              - generic [ref=f21e1153]:
+                - link [ref=f21e1154] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/pastillas-de-freno-ecoxtrem-tank-m41/
+                  - img "Pastillas de freno Ecoxtrem Tank M41" [ref=f21e1155]
+                - contentinfo [ref=f21e1156]:
+                  - link "" [ref=f21e1157] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=113092
+                  - 'button "Añadir al carrito: “Pastillas de freno Ecoxtrem Tank M41”" [ref=f21e1159] [cursor=pointer]':  Añadir al carrito
+                  - generic [ref=f21e1161] [cursor=pointer]:  Vista Rápida
+              - generic [ref=f21e1162]:
+                - heading [level=2] [ref=f21e1163]:
+                  - link "Pastillas de freno Ecoxtrem Tank M41" [ref=f21e1164] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/pastillas-de-freno-ecoxtrem-tank-m41/
+                - generic [ref=f21e1165]: 9,99 €
+        - generic [ref=f21e1171]:
+          - heading "VISITA NUESTRAS TIENDAS FÍSICAS" [level=3] [ref=f21e1174]
+          - paragraph [ref=f21e1177]: Contamos con más de 30 tiendas físicas en toda España. Encuentra la más cercana ¡Te esperamos!
+          - generic [ref=f21e1178]:
+            - generic [ref=f21e1181]:
+              - paragraph [ref=f21e1184]:
+                - link [ref=f21e1185] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/taller-reparacion-patinetes-electricos-tarragona/
+                  - strong [ref=f21e1186]: Tarragona
+              - generic [ref=f21e1190] [cursor=pointer]:
+                - heading "TIENDA / TALLER" [level=3] [ref=f21e1191]
+                - generic [ref=f21e1192]: Taller del patinete Tarragona
+              - generic [ref=f21e1196] [cursor=pointer]:
+                - heading "DIRECCIÓN" [level=3] [ref=f21e1197]
+                - generic [ref=f21e1198]: Av. de Ramón y Cajal, 61, 43005 Tarragona, España
+              - link "TELÉFONO +34 688 72 77 22" [ref=f21e1200] [cursor=pointer]:
+                - /url: tel:+34688727722
+                - generic [ref=f21e1203]:
+                  - heading "TELÉFONO" [level=3] [ref=f21e1204]
+                  - generic [ref=f21e1205]: +34 688 72 77 22
+            - generic [ref=f21e1208]:
+              - paragraph [ref=f21e1211]:
+                - link [ref=f21e1212] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/reparar-patinete-valencia/
+                  - strong [ref=f21e1213]: Valencia
+              - generic [ref=f21e1217] [cursor=pointer]:
+                - heading "TIENDA / TALLER" [level=3] [ref=f21e1218]
+                - generic [ref=f21e1219]: Taller del patinete Valencia
+              - generic [ref=f21e1223] [cursor=pointer]:
+                - heading "DIRECCIÓN" [level=3] [ref=f21e1224]
+                - generic [ref=f21e1225]: Avinguda de la Constitució, 56, Bajo izquierdo, La Zaidía, 46009 Valenci
+              - link "TELÉFONO +34 622 06 32 49" [ref=f21e1227] [cursor=pointer]:
+                - /url: tel:+34622063249
+                - generic [ref=f21e1230]:
+                  - heading "TELÉFONO" [level=3] [ref=f21e1231]
+                  - generic [ref=f21e1232]: +34 622 06 32 49
+            - generic [ref=f21e1235]:
+              - paragraph [ref=f21e1238]:
+                - link [ref=f21e1239] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/taller-reparacion-patinetes-electricos-barcelona/
+                  - strong [ref=f21e1240]: Barcelona Sagrada Familia
+              - generic [ref=f21e1244] [cursor=pointer]:
+                - heading "TIENDA / TALLER" [level=3] [ref=f21e1245]
+                - generic [ref=f21e1246]: Taller del patinete Barcelona
+              - generic [ref=f21e1250] [cursor=pointer]:
+                - heading "DIRECCIÓN" [level=3] [ref=f21e1251]
+                - generic [ref=f21e1252]: C/ de Provença, 544, L’Eixample, 08025 Barcelona, España
+              - link "TELÉFONO +34 631 18 66 77" [ref=f21e1254] [cursor=pointer]:
+                - /url: tel:+34631186677
+                - generic [ref=f21e1257]:
+                  - heading "TELÉFONO" [level=3] [ref=f21e1258]
+                  - generic [ref=f21e1259]: +34 631 18 66 77
+          - generic [ref=f21e1260]:
+            - generic [ref=f21e1263]:
+              - paragraph [ref=f21e1266]:
+                - link [ref=f21e1267] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/reparacion-patinetes-electricos-reus/
+                  - strong [ref=f21e1268]: Reus
+              - generic [ref=f21e1272] [cursor=pointer]:
+                - heading "TIENDA / TALLER" [level=3] [ref=f21e1273]
+                - generic [ref=f21e1274]: Taller del patinete Reus
+              - generic [ref=f21e1278] [cursor=pointer]:
+                - heading "DIRECCIÓN" [level=3] [ref=f21e1279]
+                - generic [ref=f21e1280]: Pg. de Prim, 29, 43202 Reus, Tarragona, España
+              - link "TELÉFONO +34 657 62 86 49" [ref=f21e1282] [cursor=pointer]:
+                - /url: tel:+34657628649
+                - generic [ref=f21e1285]:
+                  - heading "TELÉFONO" [level=3] [ref=f21e1286]
+                  - generic [ref=f21e1287]: +34 657 62 86 49
+            - generic [ref=f21e1290]:
+              - paragraph [ref=f21e1293]:
+                - link [ref=f21e1294] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/taller-reparacion-patinetes-electricos-zaragoza/
+                  - strong [ref=f21e1295]: Zaragoza
+              - generic [ref=f21e1299] [cursor=pointer]:
+                - heading "TIENDA / TALLER" [level=3] [ref=f21e1300]
+                - generic [ref=f21e1301]: Taller del patinete Zaragoza
+              - generic [ref=f21e1305] [cursor=pointer]:
+                - heading "DIRECCIÓN" [level=3] [ref=f21e1306]
+                - generic [ref=f21e1307]: Av. de San Juan de la Peña, 125, 50015 Zaragoza
+              - link "TELÉFONO +34 643 88 00 15" [ref=f21e1309] [cursor=pointer]:
+                - /url: tel:+34643880015
+                - generic [ref=f21e1312]:
+                  - heading "TELÉFONO" [level=3] [ref=f21e1313]
+                  - generic [ref=f21e1314]: +34 643 88 00 15
+            - generic [ref=f21e1317]:
+              - paragraph [ref=f21e1320]:
+                - link [ref=f21e1321] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/taller-reparacion-patinetes-electricos-sabadell/
+                  - strong [ref=f21e1322]: Sabadell
+              - generic [ref=f21e1326] [cursor=pointer]:
+                - heading "TIENDA / TALLER" [level=3] [ref=f21e1327]
+                - generic [ref=f21e1328]: Taller del patinete Sabadell
+              - generic [ref=f21e1332] [cursor=pointer]:
+                - heading "DIRECCIÓN" [level=3] [ref=f21e1333]
+                - generic [ref=f21e1334]: Carrer de Sant Ferran, 22, 08205 Sabadell, Barcelona
+              - link "TELÉFONO +34 614 42 18 99" [ref=f21e1336] [cursor=pointer]:
+                - /url: tel:+34614421899
+                - generic [ref=f21e1339]:
+                  - heading "TELÉFONO" [level=3] [ref=f21e1340]
+                  - generic [ref=f21e1341]: +34 614 42 18 99
+          - generic [ref=f21e1342]:
+            - generic [ref=f21e1345]:
+              - paragraph [ref=f21e1348]:
+                - link [ref=f21e1349] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/taller-reparacion-patinetes-electricos-terrassa/
+                  - strong [ref=f21e1350]: Terrassa
+              - generic [ref=f21e1354] [cursor=pointer]:
+                - heading "TIENDA / TALLER" [level=3] [ref=f21e1355]
+                - generic [ref=f21e1356]: Taller del patinete Terrassa
+              - generic [ref=f21e1360] [cursor=pointer]:
+                - heading "DIRECCIÓN" [level=3] [ref=f21e1361]
+                - generic [ref=f21e1362]: Carretera de Montcada, 198, 08223 Terrassa, Barcelona
+              - link "TELÉFONO +34 625 09 83 90" [ref=f21e1364] [cursor=pointer]:
+                - /url: tel:+34625098390
+                - generic [ref=f21e1367]:
+                  - heading "TELÉFONO" [level=3] [ref=f21e1368]
+                  - generic [ref=f21e1369]: +34 625 09 83 90
+            - generic [ref=f21e1372]:
+              - paragraph [ref=f21e1375]:
+                - link [ref=f21e1376] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/taller-de-reparacion-de-patinetes-electricos-en-sant-feliu-de-llobregat/
+                  - strong [ref=f21e1377]: Sant Feliu de Llobregat
+              - generic [ref=f21e1381] [cursor=pointer]:
+                - heading "TIENDA / TALLER" [level=3] [ref=f21e1382]
+                - generic [ref=f21e1383]: Taller del patinete Sant Feliu de Llobregat
+              - generic [ref=f21e1387] [cursor=pointer]:
+                - heading "DIRECCIÓN" [level=3] [ref=f21e1388]
+                - generic [ref=f21e1389]: Carrer de Laureà Miró, 343, 08980, Sant Feliu de Llobregat
+              - link "TELÉFONO +34 614 83 83 12" [ref=f21e1391] [cursor=pointer]:
+                - /url: tel:+34614838312
+                - generic [ref=f21e1394]:
+                  - heading "TELÉFONO" [level=3] [ref=f21e1395]
+                  - generic [ref=f21e1396]: +34 614 83 83 12
+            - generic [ref=f21e1399]:
+              - paragraph [ref=f21e1402]:
+                - link [ref=f21e1403] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/taller-de-reparacion-de-patinetes-electricos-en-sant-cugat-del-valles/
+                  - strong [ref=f21e1404]: Sant Cugat del Vallès
+              - generic [ref=f21e1408] [cursor=pointer]:
+                - heading "TIENDA / TALLER" [level=3] [ref=f21e1409]
+                - generic [ref=f21e1410]: Taller del patinete Sant Cugat del Vallès
+              - generic [ref=f21e1414] [cursor=pointer]:
+                - heading "DIRECCIÓN" [level=3] [ref=f21e1415]
+                - generic [ref=f21e1416]: Avinguda de Catalunya, 18, 08172, Sant Cugat del Vallès, Barcelona
+              - link "TELÉFONO +34 690 85 82 43" [ref=f21e1418] [cursor=pointer]:
+                - /url: tel:+34690858243
+                - generic [ref=f21e1421]:
+                  - heading "TELÉFONO" [level=3] [ref=f21e1422]
+                  - generic [ref=f21e1423]: +34 690 85 82 43
+        - generic [ref=f21e1427]:
+          - heading "TODO LO QUE NECESITAS PARA TU PATINETE" [level=3] [ref=f21e1430]
+          - paragraph [ref=f21e1433]: Descubre nuestras categorías de productos. ¡Todo lo que buscas en un solo lugar!
+          - generic [ref=f21e1434]:
+            - generic [ref=f21e1437]:
+              - figure [ref=f21e1439]:
+                - link [ref=f21e1440] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/recambios-patinete-electrico/
+                  - img "icon-repuestos-2-100x100.jpg" [ref=f21e1441]
+              - heading [level=3] [ref=f21e1444]:
+                - link "Repuestos" [ref=f21e1445] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/recambios-patinete-electrico/
+              - generic [ref=f21e1447]:
+                - generic [ref=f21e1448]: 
+                - link [ref=f21e1449] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/accesorios-patinete-electrico/
+            - generic [ref=f21e1452]:
+              - figure [ref=f21e1454]:
+                - link [ref=f21e1455] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/ruedas-pmt/
+                  - img "icon-ruedas-2-100x100.jpg" [ref=f21e1456]
+              - heading [level=3] [ref=f21e1459]:
+                - link "Ruedas" [ref=f21e1460] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/ruedas-pmt/
+              - generic [ref=f21e1462]:
+                - generic [ref=f21e1463]: 
+                - link [ref=f21e1464] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/ruedas-pmt/
+            - generic [ref=f21e1467]:
+              - figure [ref=f21e1469]:
+                - link [ref=f21e1470] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/recambios-patinete-electrico/frenos/
+                  - img "icon-frenos-2-100x100.jpg" [ref=f21e1471]
+              - heading [level=3] [ref=f21e1474]:
+                - link "Frenos" [ref=f21e1475] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/recambios-patinete-electrico/frenos/
+              - generic [ref=f21e1477]:
+                - generic [ref=f21e1478]: 
+                - link [ref=f21e1479] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/recambios-patinete-electrico/frenos/
+            - generic [ref=f21e1482]:
+              - figure [ref=f21e1484]:
+                - link [ref=f21e1485] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/electronica-patinete/
+                  - img "icon-electronica-2-100x100.jpg" [ref=f21e1486]
+              - heading [level=3] [ref=f21e1489]:
+                - link "Electrónica" [ref=f21e1490] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/electronica-patinete/
+              - generic [ref=f21e1492]:
+                - generic [ref=f21e1493]: 
+                - link [ref=f21e1494] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/electronica-patinete/
+          - generic [ref=f21e1495]:
+            - generic [ref=f21e1498]:
+              - figure [ref=f21e1500]:
+                - link [ref=f21e1501] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/accesorios-patinete-electrico/
+                  - img "icon-accesorios-100x100.png" [ref=f21e1502]
+              - heading [level=3] [ref=f21e1505]:
+                - link "Accesorios" [ref=f21e1506] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/accesorios-patinete-electrico/
+              - generic [ref=f21e1508]:
+                - generic [ref=f21e1509]: 
+                - link [ref=f21e1510] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/recambios-patinete-electrico/
+            - generic [ref=f21e1513]:
+              - figure [ref=f21e1515]:
+                - link [ref=f21e1516] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/recambios-patinete-electrico/manillar-repuestos/
+                  - img "icon-manillar-3.jpg" [ref=f21e1517]
+              - heading [level=3] [ref=f21e1520]:
+                - link "Manillar" [ref=f21e1521] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/recambios-patinete-electrico/manillar-repuestos/
+              - generic [ref=f21e1523]:
+                - generic [ref=f21e1524]: 
+                - link [ref=f21e1525] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/recambios-patinete-electrico/manillar-repuestos/
+            - generic [ref=f21e1528]:
+              - figure [ref=f21e1530]:
+                - link [ref=f21e1531] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/repuestos-patinete-xiaomi/tapas-y-gomas/
+                  - img "icon-tapas-y-gomas-2-100x100.jpg" [ref=f21e1532]
+              - heading [level=3] [ref=f21e1535]:
+                - link "Tapas y gomas" [ref=f21e1536] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/repuestos-patinete-xiaomi/tapas-y-gomas/
+              - generic [ref=f21e1537]: 
+            - generic [ref=f21e1542]:
+              - figure [ref=f21e1544]:
+                - link [ref=f21e1545] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/packs/
+                  - img "icon-packs-2-100x100.jpg" [ref=f21e1546]
+              - heading [level=3] [ref=f21e1549]:
+                - link "Packs" [ref=f21e1550] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/packs/
+              - generic [ref=f21e1551]: 
+        - generic [ref=f21e1557]:
+          - heading "NO TE LO PODÉIS PERDER" [level=4] [ref=f21e1560]
+          - heading "VISITA NUESTRO CANAL Y ENCUENTRA LOS MEJORES TUTORIALES" [level=3] [ref=f21e1563]
+          - paragraph [ref=f21e1566]: Aprende a reparar tu patinete eléctrico y descubre mucho más en nuestro canal. Tenemos los mejores tutoriales para mantener tu patinete en óptimas condiciones ¡No te lo pierdas!
+          - generic [ref=f21e1567]:
+            - button "Haz clic para aceptar cookies de marketing y permitir este contenido" [ref=f21e1574] [cursor=pointer]
+            - button "Haz clic para aceptar cookies de marketing y permitir este contenido" [ref=f21e1581] [cursor=pointer]
+        - generic [ref=f21e1588]:
+          - generic [ref=f21e1589]: Tienda y taller especializado
+          - heading "EL TALLER DEL PATINETE, TU TALLER DE CONFIANZA" [level=2] [ref=f21e1591]
+          - paragraph [ref=f21e1592]: Estamos 100% especializados en la venta online de accesorios y Repuestos Patinetes eléctricos Xiaomi en todos sus modelos.
+          - generic [ref=f21e1593]:
+            - generic [ref=f21e1594]:
+              - generic [ref=f21e1595]: ✓
+              - paragraph [ref=f21e1596]: Vendemos patinetes eléctricos, recambios y accesorios de todas las marcas del mercado.
+            - generic [ref=f21e1597]:
+              - generic [ref=f21e1598]: ✓
+              - paragraph [ref=f21e1599]:
+                - text: Ofrecemos precios competitivos y
+                - strong [ref=f21e1600]: ENVÍO GRATIS
+                - text: en muchos de nuestros productos.
+          - paragraph [ref=f21e1601]: ¡Encuentra todo lo que buscas en un solo lugar!
+        - generic [ref=f21e1608]:
+          - heading "¿BUSCAS UN PATINETE ELÉCTRICO?" [level=3] [ref=f21e1611]
+          - paragraph [ref=f21e1614]: ¡No busques más! Te ofrecemos las mejores opciones en patinetes eléctricos Xiaomi, Dualtron, Kaabo Mantis, ¡y más! Únete a la movilidad sostenible.
+          - generic [ref=f21e1616]:
+            - generic [ref=f21e1618]:
+              - generic: OFERTA
+              - generic [ref=f21e1620]:
+                - link "Patinete Eléctrico Rovoron R7 Homologado DGT" [ref=f21e1621] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/patinete-electrico-rovoron-r7-60v-28ah/
+                  - img "Patinete Eléctrico Rovoron R7 Homologado DGT" [ref=f21e1623]
+                - contentinfo [ref=f21e1624]:
+                  - generic [ref=f21e1625] [cursor=pointer]:  Vista Rápida
+                  - 'button "Añadir al carrito: “Patinete Eléctrico Rovoron R7 Homologado DGT”" [ref=f21e1626] [cursor=pointer]':  Añadir al carrito
+                  - link "" [ref=f21e1628] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=113922
+              - generic [ref=f21e1630]:
+                - heading [level=2] [ref=f21e1631]:
+                  - link "Patinete Eléctrico Rovoron R7 Homologado DGT" [ref=f21e1632] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/patinete-electrico-rovoron-r7-60v-28ah/
+                - generic [ref=f21e1633]:
+                  - deletion [ref=f21e1634]:
+                    - generic [ref=f21e1635]: 1.199 €
+                  - generic [ref=f21e1637]: "El precio original era: 1.199 €."
+                  - insertion [ref=f21e1638]:
+                    - generic [ref=f21e1639]: 1.045 €
+                  - generic [ref=f21e1641]: "El precio actual es: 1.045 €."
+            - generic [ref=f21e1643]:
+              - generic: OFERTA
+              - generic [ref=f21e1645]:
+                - link [ref=f21e1646] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/patinete-electrico-ecoxtrem-deimos-dgt/
+                  - img "Patinete Eléctrico Ecoxtrem Deimos Dual Motor Homologado DGT rojo" [ref=f21e1649]
+                  - img "Patinete Eléctrico Ecoxtrem Deimos Dual Motor Homologado DGT" [ref=f21e1651]
+                - contentinfo [ref=f21e1652]:
+                  - generic [ref=f21e1653] [cursor=pointer]:  Vista Rápida
+                  - link "Elige las opciones para “Patinete Eléctrico Ecoxtrem Deimos Dual Motor Homologado DGT”" [ref=f21e1654] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/patinete-electrico-ecoxtrem-deimos-dgt/
+                    - text:  Seleccionar opciones
+                  - generic [ref=f21e1655]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                  - link "" [ref=f21e1656] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=114642
+              - generic [ref=f21e1658]:
+                - heading [level=2] [ref=f21e1659]:
+                  - link "Patinete Eléctrico Ecoxtrem Deimos Dual Motor Homologado DGT" [ref=f21e1660] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/patinete-electrico-ecoxtrem-deimos-dgt/
+                - generic [ref=f21e1661]:
+                  - deletion [ref=f21e1662]:
+                    - generic [ref=f21e1663]: 699 €
+                  - generic [ref=f21e1665]: "El precio original era: 699 €."
+                  - insertion [ref=f21e1666]:
+                    - generic [ref=f21e1667]: 649 €
+                  - generic [ref=f21e1669]: "El precio actual es: 649 €."
+            - generic [ref=f21e1671]:
+              - generic: OFERTA
+              - generic [ref=f21e1673]:
+                - link [ref=f21e1674] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/ecoxtrem-armored-dual-pro/
+                  - img "Patinete Eléctrico Ecoxtrem Armored Dual PRO Homologado DGT" [ref=f21e1678]
+                - contentinfo [ref=f21e1679]:
+                  - generic [ref=f21e1680] [cursor=pointer]:  Vista Rápida
+                  - link "Elige las opciones para “Patinete Eléctrico Ecoxtrem Armored Dual PRO Homologado DGT”" [ref=f21e1681] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/ecoxtrem-armored-dual-pro/
+                    - text:  Seleccionar opciones
+                  - generic [ref=f21e1682]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                  - link "" [ref=f21e1683] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=142505
+              - generic [ref=f21e1685]:
+                - heading [level=2] [ref=f21e1686]:
+                  - link "Patinete Eléctrico Ecoxtrem Armored Dual PRO Homologado DGT" [ref=f21e1687] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/ecoxtrem-armored-dual-pro/
+                - generic [ref=f21e1688]:
+                  - deletion [ref=f21e1689]:
+                    - generic [ref=f21e1690]: 949 €
+                  - generic [ref=f21e1692]: "El precio original era: 949 €."
+                  - insertion [ref=f21e1693]:
+                    - generic [ref=f21e1694]: 895 €
+                  - generic [ref=f21e1696]: "El precio actual es: 895 €."
+            - generic [ref=f21e1698]:
+              - generic: OFERTA
+              - generic [ref=f21e1700]:
+                - link [ref=f21e1701] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/patinete-electrico-rovoron-s7/
+                  - img "Patinete Eléctrico Rovoron S7 Homologado DGT" [ref=f21e1704]
+                - contentinfo [ref=f21e1705]:
+                  - generic [ref=f21e1706] [cursor=pointer]:  Vista Rápida
+                  - 'button "Añadir al carrito: “Patinete Eléctrico Rovoron S7 Homologado DGT”" [ref=f21e1707] [cursor=pointer]':  Añadir al carrito
+                  - link "" [ref=f21e1709] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=113940
+              - generic [ref=f21e1711]:
+                - heading [level=2] [ref=f21e1712]:
+                  - link "Patinete Eléctrico Rovoron S7 Homologado DGT" [ref=f21e1713] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/producto/patinete-electrico-rovoron-s7/
+                - generic [ref=f21e1714]:
+                  - deletion [ref=f21e1715]:
+                    - generic [ref=f21e1716]: 2.599 €
+                  - generic [ref=f21e1718]: "El precio original era: 2.599 €."
+                  - insertion [ref=f21e1719]:
+                    - generic [ref=f21e1720]: 2.389 €
+                  - generic [ref=f21e1722]: "El precio actual es: 2.389 €."
+        - generic [ref=f21e1726]:
+          - heading "ULTIMAS NOTICIAS" [level=4] [ref=f21e1729]
+          - heading "TODO LO QUE TIENES QUE SABER SOBRE LOS PATINETES ELÉCTRICOS EN ESPAÑA" [level=3] [ref=f21e1732]
+          - paragraph [ref=f21e1735]: Mantente informado sobre las últimas novedades del apasionante mundo de los scooters, y también sobre todos los detalles en accesorios y recambios para tu patinete Xiaomi ¡Te harás experto!
+          - generic [ref=f21e1738]:
+            - group "1 / 4" [ref=f21e1739]:
+              - article [ref=f21e1740]:
+                - generic [ref=f21e1741]:
+                  - generic [ref=f21e1742]:
+                    - link [ref=f21e1743] [cursor=pointer]:
+                      - /url: https://tallerdelpatinete.es/se-puede-llevar-el-patinete-electrico-en-renfe-requisitos-2026/
+                    - link "Noticias Patinete Eléctrico" [ref=f21e1746] [cursor=pointer]:
+                      - /url: https://tallerdelpatinete.es/category/noticias-patinete-electrico/
+                  - generic [ref=f21e1747]:
+                    - generic [ref=f21e1748]:
+                      - heading [level=2] [ref=f21e1749]:
+                        - link "¿Se puede llevar el patinete eléctrico en Renfe? Requisitos 2026" [ref=f21e1750] [cursor=pointer]:
+                          - /url: https://tallerdelpatinete.es/se-puede-llevar-el-patinete-electrico-en-renfe-requisitos-2026/
+                      - time [ref=f21e1752]:  septiembre 21, 2026
+                    - generic [ref=f21e1753]:
+                      - text: Normativa 2026 El patinete vuelve al tren de Renfe Después de casi tres años prohibido, ya puedes volver a subir tu patinete eléctrico. Pero no...
+                      - link "Continuar leyendo  →" [ref=f21e1754] [cursor=pointer]:
+                        - /url: https://tallerdelpatinete.es/se-puede-llevar-el-patinete-electrico-en-renfe-requisitos-2026/
+                        - generic [ref=f21e1755]: Continuar leyendo 
+                        - text: →
+            - group "2 / 4" [ref=f21e1756]:
+              - article [ref=f21e1757]:
+                - generic [ref=f21e1758]:
+                  - generic [ref=f21e1759]:
+                    - link [ref=f21e1760] [cursor=pointer]:
+                      - /url: https://tallerdelpatinete.es/donde-imprimir-matricula-patinete-electrico-oficial-dgt/
+                      - img "imprimir matrícula patinete eléctrico" [ref=f21e1761]
+                    - link "Noticias" [ref=f21e1763] [cursor=pointer]:
+                      - /url: https://tallerdelpatinete.es/category/noticias/
+                  - generic [ref=f21e1764]:
+                    - generic [ref=f21e1765]:
+                      - heading [level=2] [ref=f21e1766]:
+                        - link "¿Dónde Imprimir la Matrícula de tu Patinete Eléctrico?" [ref=f21e1767] [cursor=pointer]:
+                          - /url: https://tallerdelpatinete.es/donde-imprimir-matricula-patinete-electrico-oficial-dgt/
+                      - time [ref=f21e1769]:  febrero 5, 2026
+                    - generic [ref=f21e1770]:
+                      - text: ¡Felicidades! Ya tienes tu número de registro. Has completado el trámite en la sede electrónica y pagado la tasa. Lo difícil ya ha pasado. Ahora...
+                      - link "Continuar leyendo  →" [ref=f21e1771] [cursor=pointer]:
+                        - /url: https://tallerdelpatinete.es/donde-imprimir-matricula-patinete-electrico-oficial-dgt/
+                        - generic [ref=f21e1772]: Continuar leyendo 
+                        - text: →
+            - group "3 / 4" [ref=f21e1773]:
+              - article [ref=f21e1774]:
+                - generic [ref=f21e1775]:
+                  - generic [ref=f21e1776]:
+                    - link [ref=f21e1777] [cursor=pointer]:
+                      - /url: https://tallerdelpatinete.es/como-matricular-patinete-electrico-dgt/
+                      - img "MATRICULAR PATINETE ELÉCTRICO" [ref=f21e1779]
+                    - link "Noticias" [ref=f21e1781] [cursor=pointer]:
+                      - /url: https://tallerdelpatinete.es/category/noticias/
+                  - generic [ref=f21e1782]:
+                    - generic [ref=f21e1783]:
+                      - heading [level=2] [ref=f21e1784]:
+                        - 'link "Cómo Matricular tu Patinete Eléctrico en 2026: Guía DGT" [ref=f21e1785] [cursor=pointer]':
+                          - /url: https://tallerdelpatinete.es/como-matricular-patinete-electrico-dgt/
+                      - time [ref=f21e1787]:  enero 23, 2026
+                    - generic [ref=f21e1788]:
+                      - text: "Normativa 2026 Se acabó la barra libre: O matriculas tu patinete, o no sales. Sabemos que el papeleo da pereza, pero más duele una multa..."
+                      - link "Continuar leyendo  →" [ref=f21e1789] [cursor=pointer]:
+                        - /url: https://tallerdelpatinete.es/como-matricular-patinete-electrico-dgt/
+                        - generic [ref=f21e1790]: Continuar leyendo 
+                        - text: →
+            - group "4 / 4" [ref=f21e1791]:
+              - article [ref=f21e1792]:
+                - generic [ref=f21e1793]:
+                  - generic [ref=f21e1794]:
+                    - link [ref=f21e1795] [cursor=pointer]:
+                      - /url: https://tallerdelpatinete.es/seguro-para-patinete-electrico/
+                      - 'img "Seguro obligatorio para patinetes eléctricos en 2026: La Guía Definitiva" [ref=f21e1796]'
+                    - link "Noticias" [ref=f21e1798] [cursor=pointer]:
+                      - /url: https://tallerdelpatinete.es/category/noticias/
+                  - generic [ref=f21e1799]:
+                    - generic [ref=f21e1800]:
+                      - heading [level=2] [ref=f21e1801]:
+                        - link "Cómo contratar un seguro para patinete eléctrico" [ref=f21e1802] [cursor=pointer]:
+                          - /url: https://tallerdelpatinete.es/seguro-para-patinete-electrico/
+                      - time [ref=f21e1804]:  enero 2, 2026
+                    - generic [ref=f21e1805]:
+                      - img "🚨" [ref=f21e1936]
+                      - text: "AVISO IMPORTANTE: YA ES OBLIGATORIO Desde el pasado 2 de enero de 2026, circular sin seguro conlleva multas de hasta 1.000€ e inmovilización inmediata..."
+                      - link "Continuar leyendo  →" [ref=f21e1806] [cursor=pointer]:
+                        - /url: https://tallerdelpatinete.es/seguro-para-patinete-electrico/
+                        - generic [ref=f21e1807]: Continuar leyendo 
+                        - text: →
+        - text:  
+      - contentinfo
+    - generic [ref=f21e1808]:
+      - contentinfo [ref=f21e1809]:
+        - generic [ref=f21e1813]:
+          - generic [ref=f21e1814]:
+            - generic [ref=f21e1817]:
+              - figure [ref=f21e1819]:
+                - link [ref=f21e1820] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/
+                  - img "Logo TDP 394@3x" [ref=f21e1821]
+              - generic [ref=f21e1823]:
+                - paragraph [ref=f21e1824]: Tu mejor opción para patinetes eléctricos en España
+                - paragraph [ref=f21e1825]: MÉTODOS DE PAGO
+                - generic "Métodos de pago aceptados" [ref=f21e1826]:
+                  - generic [ref=f21e1827]:
+                    - generic [ref=f21e1828]:
+                      - img "Visa"
+                    - generic [ref=f21e1829]:
+                      - img "Mastercard"
+                    - generic [ref=f21e1830]:
+                      - img "American Express"
+                    - generic [ref=f21e1831]:
+                      - img "PayPal"
+                    - generic [ref=f21e1832]:
+                      - img "Bizum"
+                  - generic [ref=f21e1833]:
+                    - generic [ref=f21e1834]:
+                      - img "Apple Pay"
+                    - generic [ref=f21e1835]:
+                      - img "Google Pay"
+                    - generic [ref=f21e1836]:
+                      - img "Klarna"
+                    - generic [ref=f21e1837]:
+                      - img "Viabill"
+            - generic [ref=f21e1840]:
+              - heading [level=2] [ref=f21e1841]:
+                - strong [ref=f21e1842]: ENLACES DE INTERÉS
+              - generic [ref=f21e1844]:
+                - paragraph [ref=f21e1845]:
+                  - link "Noticias" [ref=f21e1847] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/noticias/
+                  - link "Contacto" [ref=f21e1849] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/contacto/
+                  - link "Aviso Legal" [ref=f21e1851] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/aviso-legal/
+                  - link "Política de envío" [ref=f21e1853] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/politica-de-envio/
+                  - link "Política de cookies" [ref=f21e1855] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/politica-de-cookies/
+                  - link "Política de privacidad" [ref=f21e1857] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/politica-de-privacidad/
+                  - link "Política de Reembolso" [ref=f21e1859] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/politica-de-devolucion-y-reembolso/
+                  - link "Términos y Condiciones" [ref=f21e1861] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/terminos-y-condiciones-de-contratacion/
+                - link [ref=f21e1862] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/trabaja-con-nosotros/
+                  - img "💼" [ref=f21e1937]
+                  - text: Trabaja con nosotros
+            - generic [ref=f21e1865]:
+              - heading [level=2] [ref=f21e1866]:
+                - strong [ref=f21e1867]: TALLERES OFICIALES
+              - paragraph [ref=f21e1870]:
+                - link "Tarragona" [ref=f21e1872] [cursor=pointer]:
+                  - /url: ../taller-reparacion-patinetes-electricos-tarragona/
+                - link "Reus" [ref=f21e1874] [cursor=pointer]:
+                  - /url: ../reparacion-patinetes-electricos-reus/
+                - link "Valencia" [ref=f21e1876] [cursor=pointer]:
+                  - /url: ../reparar-patinete-valencia/
+                - link "Barcelona" [ref=f21e1878] [cursor=pointer]:
+                  - /url: ../taller-reparacion-patinetes-electricos-barcelona/
+                - link "Sant Cugat del Vallès" [ref=f21e1880] [cursor=pointer]:
+                  - /url: ../taller-de-reparacion-de-patinetes-electricos-en-sant-cugat-del-valles/
+                - link "Sant Feliu de Llobregat" [ref=f21e1882] [cursor=pointer]:
+                  - /url: ../taller-de-reparacion-de-patinetes-electricos-en-sant-feliu-de-llobregat/
+                - link "Sabadell" [ref=f21e1884] [cursor=pointer]:
+                  - /url: ../taller-reparacion-patinetes-electricos-sabadell/
+                - link "Terrassa" [ref=f21e1886] [cursor=pointer]:
+                  - /url: ../taller-reparacion-patinetes-electricos-terrassa/
+                - link "Zaragoza" [ref=f21e1888] [cursor=pointer]:
+                  - /url: ../taller-reparacion-patinetes-electricos-zaragoza/
+            - generic [ref=f21e1891]:
+              - heading [level=2] [ref=f21e1892]:
+                - strong [ref=f21e1893]: TALLERES AFILIADOS
+              - paragraph [ref=f21e1896]:
+                - link "Cornellà" [ref=f21e1898] [cursor=pointer]:
+                  - /url: ../taller-de-reparacion-de-patinetes-electricos-cornella-de-llobregat/
+                - link "El Prat de Llobregat" [ref=f21e1900] [cursor=pointer]:
+                  - /url: ../reparar-patiente-prat-llobregat/
+                - link "Fuenlabrada" [ref=f21e1902] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/taller-reparacion-patinetes-electricos-fuenlabrada/
+                - text: Madrid
+            - generic [ref=f21e1905]:
+              - heading [level=2] [ref=f21e1906]:
+                - strong [ref=f21e1907]: CONTACTO
+              - generic [ref=f21e1909]:
+                - paragraph [ref=f21e1910]:
+                  - generic [ref=f21e1911]: 
+                  - text: Canal de atención exclusivo vía WhatsApp
+                  - link [ref=f21e1912] [cursor=pointer]:
+                    - /url: https://wa.link/nyzpve
+                    - img "✅" [ref=f21e1938]
+                    - text: "WhatsApp: +34 642 52 80 38"
+                  - img "✋" [ref=f21e1939]
+                  - text: Llamadas no operativas.
+                  - link "clientes@tallerdelpatinete.es" [ref=f21e1913] [cursor=pointer]:
+                    - /url: mailto:clientes@tallerdelpatinete.es
+                    - generic [ref=f21e1914]: 
+                    - text: clientes@tallerdelpatinete.es
+                - link "SEGUIMIENTO PEDIDO TDP" [ref=f21e1915] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/sigue-tu-pedido/
+          - paragraph [ref=f21e1924]: © 2026 Taller del Patinete. Todos los derechos reservados.
+      - text: 
+  - status [ref=f21e1925]
+  - link "Whatsapp" [ref=f21e1928] [cursor=pointer]:
+    - /url: https://web.whatsapp.com/send?phone=34642528038&text=
+    - generic [ref=f21e1929]: "1"

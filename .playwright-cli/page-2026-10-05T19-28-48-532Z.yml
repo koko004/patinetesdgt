@@ -1,0 +1,766 @@
+- generic [ref=f58e1]:
+  - alertdialog [ref=f58e2]:
+    - generic [ref=f58e3]:
+      - generic [ref=f58e4]:
+        - heading "Consentimiento para el uso de cookies" [level=2] [ref=f58e5]
+        - paragraph [ref=f58e6]:
+          - text: Nosotros y nuestros partners, incluido Shopify, utilizamos cookies y otras tecnologías para personalizar tu experiencia, mostrarte anuncios y realizar informes y estadísticas, y no utilizaremos cookies ni otras tecnologías para estos fines a menos que las aceptes. Obtén más información en nuestra
+          - link "Política de privacidad" [ref=f58e7] [cursor=pointer]:
+            - /url: http://electyum.com/policies/privacy-policy
+      - generic [ref=f58e8]:
+        - button "Administrar preferencias" [ref=f58e9]
+        - button "Aceptar" [ref=f58e10]
+        - button "Rechazar" [ref=f58e11]
+  - link "Ir directamente al contenido" [ref=f58e12] [cursor=pointer]:
+    - /url: "#MainContent"
+  - generic:
+    - banner:
+      - generic [ref=f58e15]:
+        - generic [ref=f58e16]:
+          - link [ref=f58e17] [cursor=pointer]:
+            - /url: /
+          - navigation [ref=f58e21]:
+            - list [ref=f58e24]:
+              - generic:
+                - link "PATINETES" [ref=f58e25] [cursor=pointer]:
+                  - /url: /collections/patinetes-electricos
+                - link "PATINETES HOMOLOGADOS" [ref=f58e27] [cursor=pointer]:
+                  - /url: /collections/patinetes-electricos-homologados-dgt
+              - menuitem "Más" [ref=f58e30] [cursor=pointer]
+        - generic [ref=f58e32]:
+          - button "Abrir selector de región e idioma EUR" [ref=f58e34] [cursor=pointer]:
+            - generic [ref=f58e35]: Abrir selector de región e idioma
+            - generic [ref=f58e36]: EUR
+          - button "Abrir búsqueda" [ref=f58e38] [cursor=pointer]
+          - generic [ref=f58e39]:
+            - button "Abrir menú de cuenta" [ref=f58e41] [cursor=pointer]
+            - 'button "Abrir carrito Total de artículos en el carrito: 0" [ref=f58e47] [cursor=pointer]':
+              - generic [ref=f58e49]:
+                - status:
+                  - generic [ref=f58e51]: "Total de artículos en el carrito: 0"
+  - main [ref=f58e52]:
+    - generic [ref=f58e58]:
+      - heading "Patinetes eléctricos Dualtron" [level=1] [ref=f58e60]
+      - paragraph [ref=f58e62]: Elegir patinetes eléctricos Dualtron es sinónimo de elegir excelencia y potencia. Nuestro catálogo incluye modelos homologados con entrega sin costo. ¡Vive la aventura al máximo!
+    - generic [ref=f58e65]:
+      - link "Omitir para ir a lista de resultados" [ref=f58e66] [cursor=pointer]:
+        - /url: "#ResultsList"
+      - generic [ref=f58e67]:
+        - generic "Filtros" [ref=f58e69]:
+          - generic [ref=f58e71]:
+            - list [ref=f58e74]:
+              - generic:
+                - group [ref=f58e76]:
+                  - generic "Disponibilidad" [ref=f58e77] [cursor=pointer]
+                - group [ref=f58e81]:
+                  - generic "Precio" [ref=f58e82] [cursor=pointer]
+                - group [ref=f58e85]:
+                  - generic "Marca" [ref=f58e86] [cursor=pointer]
+                - group [ref=f58e90]:
+                  - generic "Autonomía" [ref=f58e91] [cursor=pointer]
+            - generic "Recuento de productos" [ref=f58e95]: 21 artículos
+            - group [ref=f58e98]:
+              - button "Ordenar" [ref=f58e99] [cursor=pointer]
+        - list [ref=f58e103]:
+          - listitem [ref=f58e104]:
+            - generic [ref=f58e106]:
+              - link "Patinete Eléctrico Dualtron Forever 60V EY4" [ref=f58e107] [cursor=pointer]:
+                - /url: /products/patinete-electrico-dualtron-forever-homologado?variant=57220327211333
+              - generic [ref=f58e109] [cursor=pointer]:
+                - generic [ref=f58e110]:
+                  - link "Patinete Eléctrico Dualtron Forever 60V EY4" [ref=f58e111]:
+                    - /url: "\n/products/patinete-electrico-dualtron-forever-homologado?variant=57220327211333"
+                    - generic [ref=f58e113]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f58e114]
+                        - button "Siguiente diapositiva" [ref=f58e115]
+                      - img "Patinete Eléctrico Dualtron Forever 60V EY4" [ref=f58e119]
+                  - generic [ref=f58e132]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f58e137]:
+                  - link [ref=f58e138]:
+                    - /url: "\n/products/patinete-electrico-dualtron-forever-homologado?variant=57220327211333"
+                    - paragraph [ref=f58e140]: Patinete Eléctrico Dualtron Forever 60V EY4
+                  - generic [ref=f58e142]:
+                    - group [ref=f58e143]:
+                      - generic [ref=f58e144]: Precio de oferta
+                      - text: €1.199,00 EUR
+                    - group [ref=f58e145]:
+                      - generic [ref=f58e146]: Precio habitual
+                      - text: €2.299,00 EUR
+          - listitem [ref=f58e147]:
+            - generic [ref=f58e149]:
+              - link "Patinete Eléctrico Dualtron Dolphin" [ref=f58e150] [cursor=pointer]:
+                - /url: /products/patinete-electrico-dualtron-dolphin?variant=57688354029893
+              - generic [ref=f58e152] [cursor=pointer]:
+                - generic [ref=f58e153]:
+                  - link "Patinete Eléctrico Dualtron Dolphin" [ref=f58e154]:
+                    - /url: "\n/products/patinete-electrico-dualtron-dolphin?variant=57688354029893"
+                    - generic [ref=f58e156]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f58e157]
+                        - button "Siguiente diapositiva" [ref=f58e158]
+                      - img "Dualtron Dolphin" [ref=f58e162]
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f58e178]:
+                  - link [ref=f58e179]:
+                    - /url: "\n/products/patinete-electrico-dualtron-dolphin?variant=57688354029893"
+                    - paragraph [ref=f58e181]: Patinete Eléctrico Dualtron Dolphin
+                  - generic [ref=f58e182]: €610,00 EUR
+          - listitem [ref=f58e184]:
+            - generic [ref=f58e186]:
+              - link "Patinete Eléctrico Dualtron Victor 2026 (EY4)" [ref=f58e187] [cursor=pointer]:
+                - /url: /products/patinete-electrico-dualtron-victor-homologado-dgt?variant=57223210631493
+              - generic [ref=f58e189] [cursor=pointer]:
+                - generic [ref=f58e190]:
+                  - link "Patinete Eléctrico Dualtron Victor 2026 (EY4)" [ref=f58e191]:
+                    - /url: "\n/products/patinete-electrico-dualtron-victor-homologado-dgt?variant=57223210631493"
+                    - generic [ref=f58e193]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f58e194]
+                        - button "Siguiente diapositiva" [ref=f58e195]
+                      - img "Patinete Eléctrico Dualtron Victor 2026 (EY4)" [ref=f58e199]
+                  - generic [ref=f58e209]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f58e214]:
+                  - link [ref=f58e215]:
+                    - /url: "\n/products/patinete-electrico-dualtron-victor-homologado-dgt?variant=57223210631493"
+                    - paragraph [ref=f58e217]: Patinete Eléctrico Dualtron Victor 2026 (EY4)
+                  - generic [ref=f58e219]:
+                    - group [ref=f58e220]:
+                      - generic [ref=f58e221]: Precio de oferta
+                      - text: €1.530,00 EUR
+                    - group [ref=f58e222]:
+                      - generic [ref=f58e223]: Precio habitual
+                      - text: €2.799,00 EUR
+          - listitem [ref=f58e224]:
+            - generic [ref=f58e226]:
+              - link "Patinete Eléctrico Dualtron Victor Luxury Plus EY4" [ref=f58e227] [cursor=pointer]:
+                - /url: /products/patinete-electrico-dualtron-victor-luxury-plus-ey4?variant=57697152860485
+              - generic [ref=f58e229] [cursor=pointer]:
+                - generic [ref=f58e230]:
+                  - link "Patinete Eléctrico Dualtron Victor Luxury Plus EY4" [ref=f58e231]:
+                    - /url: "\n/products/patinete-electrico-dualtron-victor-luxury-plus-ey4?variant=57697152860485"
+                    - generic [ref=f58e233]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f58e234]
+                        - button "Siguiente diapositiva" [ref=f58e235]
+                      - img "Patinete Eléctrico Dualtron Victor Luxury Plus EY4" [ref=f58e239]
+                  - generic [ref=f58e249]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f58e254]:
+                  - link [ref=f58e255]:
+                    - /url: "\n/products/patinete-electrico-dualtron-victor-luxury-plus-ey4?variant=57697152860485"
+                    - paragraph [ref=f58e257]: Patinete Eléctrico Dualtron Victor Luxury Plus EY4
+                  - generic [ref=f58e259]:
+                    - group [ref=f58e260]:
+                      - generic [ref=f58e261]: Precio de oferta
+                      - text: €1.990,00 EUR
+                    - group [ref=f58e262]:
+                      - generic [ref=f58e263]: Precio habitual
+                      - text: €3.299,00 EUR
+          - listitem [ref=f58e264]:
+            - generic [ref=f58e266]:
+              - link "Patinete Eléctrico Dualtron Achilleus Limited" [ref=f58e267] [cursor=pointer]:
+                - /url: /products/patinete-electrico-homologado-dualtron-achilleus-limited?variant=57688547393861
+              - generic [ref=f58e269] [cursor=pointer]:
+                - generic [ref=f58e270]:
+                  - link "Patinete Eléctrico Dualtron Achilleus Limited" [ref=f58e271]:
+                    - /url: "\n/products/patinete-electrico-homologado-dualtron-achilleus-limited?variant=57688547393861"
+                    - img "Dualtron Achilleus Limited 2026" [ref=f58e277]
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f58e281]:
+                  - link [ref=f58e282]:
+                    - /url: "\n/products/patinete-electrico-homologado-dualtron-achilleus-limited?variant=57688547393861"
+                    - paragraph [ref=f58e284]: Patinete Eléctrico Dualtron Achilleus Limited
+                  - generic [ref=f58e285]: €2.280,00 EUR
+          - listitem [ref=f58e287]:
+            - generic [ref=f58e289]:
+              - link "Patinete Eléctrico Dualtron Forever Limited 60V EY4" [ref=f58e290] [cursor=pointer]:
+                - /url: /products/patinete-electrico-dualtron-forever-limited-ey4-homologado?variant=57220398612805
+              - generic [ref=f58e292] [cursor=pointer]:
+                - generic [ref=f58e293]:
+                  - link "Patinete Eléctrico Dualtron Forever Limited 60V EY4" [ref=f58e294]:
+                    - /url: "\n/products/patinete-electrico-dualtron-forever-limited-ey4-homologado?variant=57220398612805"
+                    - generic [ref=f58e296]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f58e297]
+                        - button "Siguiente diapositiva" [ref=f58e298]
+                      - img "Patinete Eléctrico Dualtron Forever Limited 60V EY4" [ref=f58e302]
+                  - generic [ref=f58e315]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f58e320]:
+                  - link [ref=f58e321]:
+                    - /url: "\n/products/patinete-electrico-dualtron-forever-limited-ey4-homologado?variant=57220398612805"
+                    - paragraph [ref=f58e323]: Patinete Eléctrico Dualtron Forever Limited 60V EY4
+                  - generic [ref=f58e325]:
+                    - group [ref=f58e326]:
+                      - generic [ref=f58e327]: Precio de oferta
+                      - text: €1.249,00 EUR
+                    - group [ref=f58e328]:
+                      - generic [ref=f58e329]: Precio habitual
+                      - text: €1.349,00 EUR
+          - listitem [ref=f58e330]:
+            - generic [ref=f58e332]:
+              - link "Patinete Eléctrico Dualtron X Limited" [ref=f58e333] [cursor=pointer]:
+                - /url: /products/patinete-electrico-dualtron-x-limited?variant=57706712957253
+              - generic [ref=f58e335] [cursor=pointer]:
+                - generic [ref=f58e336]:
+                  - link "Patinete Eléctrico Dualtron X Limited" [ref=f58e337]:
+                    - /url: "\n/products/patinete-electrico-dualtron-x-limited?variant=57706712957253"
+                    - img "Dualtron X LIMITED" [ref=f58e343]
+                  - generic [ref=f58e344]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f58e349]:
+                  - link [ref=f58e350]:
+                    - /url: "\n/products/patinete-electrico-dualtron-x-limited?variant=57706712957253"
+                    - paragraph [ref=f58e352]: Patinete Eléctrico Dualtron X Limited
+                  - generic [ref=f58e354]:
+                    - group [ref=f58e355]:
+                      - generic [ref=f58e356]: Precio de oferta
+                      - text: €4.990,00 EUR
+                    - group [ref=f58e357]:
+                      - generic [ref=f58e358]: Precio habitual
+                      - text: €6.699,00 EUR
+          - listitem [ref=f58e359]:
+            - generic [ref=f58e361]:
+              - link "Patinete Eléctrico Dualtron Storm Limited" [ref=f58e362] [cursor=pointer]:
+                - /url: /products/patinete-electrico-dualtron-storm-limited?variant=57695434080581
+              - generic [ref=f58e364] [cursor=pointer]:
+                - generic [ref=f58e365]:
+                  - link "Patinete Eléctrico Dualtron Storm Limited" [ref=f58e366]:
+                    - /url: "\n/products/patinete-electrico-dualtron-storm-limited?variant=57695434080581"
+                    - generic [ref=f58e368]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f58e369]
+                        - button "Siguiente diapositiva" [ref=f58e370]
+                      - img "Dualtron Storm Limited" [ref=f58e374]
+                  - generic [ref=f58e384]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f58e389]:
+                  - link [ref=f58e390]:
+                    - /url: "\n/products/patinete-electrico-dualtron-storm-limited?variant=57695434080581"
+                    - paragraph [ref=f58e392]: Patinete Eléctrico Dualtron Storm Limited
+                  - generic [ref=f58e394]:
+                    - group [ref=f58e395]:
+                      - generic [ref=f58e396]: Precio de oferta
+                      - text: €3.990,00 EUR
+                    - group [ref=f58e397]:
+                      - generic [ref=f58e398]: Precio habitual
+                      - text: €5.190,00 EUR
+          - listitem [ref=f58e399]:
+            - generic [ref=f58e401]:
+              - link "Patinete Eléctrico Dualtron Togo" [ref=f58e402] [cursor=pointer]:
+                - /url: /products/patinete-electrico-dualtron-togo-homologado?variant=57653874917701
+              - generic [ref=f58e404] [cursor=pointer]:
+                - generic [ref=f58e405]:
+                  - link "Patinete Eléctrico Dualtron Togo" [ref=f58e406]:
+                    - /url: "\n/products/patinete-electrico-dualtron-togo-homologado?variant=57653874917701"
+                    - generic [ref=f58e408]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f58e409]
+                        - button "Siguiente diapositiva" [ref=f58e410]
+                      - img "Dualtron Togo Limited" [ref=f58e414]
+                  - generic [ref=f58e424]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f58e429]:
+                  - link [ref=f58e430]:
+                    - /url: "\n/products/patinete-electrico-dualtron-togo-homologado?variant=57653874917701"
+                    - paragraph [ref=f58e432]: Patinete Eléctrico Dualtron Togo
+                  - generic [ref=f58e434]:
+                    - group [ref=f58e435]:
+                      - generic [ref=f58e436]: Precio de oferta
+                      - text: €525,00 EUR
+                    - group [ref=f58e437]:
+                      - generic [ref=f58e438]: Precio habitual
+                      - text: €809,00 EUR
+          - listitem [ref=f58e439]:
+            - generic [ref=f58e441]:
+              - link "Patinete Eléctrico Dualtron Aminia Reacondicionado" [ref=f58e442] [cursor=pointer]:
+                - /url: /products/patinete-electrico-dualtron-aminia-reacondicionado?variant=58566556909893
+              - generic [ref=f58e444] [cursor=pointer]:
+                - generic [ref=f58e445]:
+                  - link "Patinete Eléctrico Dualtron Aminia Reacondicionado" [ref=f58e446]:
+                    - /url: "\n/products/patinete-electrico-dualtron-aminia-reacondicionado?variant=58566556909893"
+                    - img "Dualtron Aminia Reacondicionado" [ref=f58e452]
+                  - generic [ref=f58e453]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f58e458]:
+                  - link [ref=f58e459]:
+                    - /url: "\n/products/patinete-electrico-dualtron-aminia-reacondicionado?variant=58566556909893"
+                    - paragraph [ref=f58e461]: Patinete Eléctrico Dualtron Aminia Reacondicionado
+                  - generic [ref=f58e463]:
+                    - group [ref=f58e464]:
+                      - generic [ref=f58e465]: Precio de oferta
+                      - text: €750,00 EUR
+                    - group [ref=f58e466]:
+                      - generic [ref=f58e467]: Precio habitual
+                      - text: €999,00 EUR
+          - listitem [ref=f58e468]:
+            - generic [ref=f58e470]:
+              - link "Patinete Eléctrico Dualtron Spider Max" [ref=f58e471] [cursor=pointer]:
+                - /url: /products/patinete-electrico-dualtron-spider-max?variant=57714618007877
+              - generic [ref=f58e473] [cursor=pointer]:
+                - generic [ref=f58e474]:
+                  - link "Patinete Eléctrico Dualtron Spider Max" [ref=f58e475]:
+                    - /url: "\n/products/patinete-electrico-dualtron-spider-max?variant=57714618007877"
+                    - generic [ref=f58e477]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f58e478]
+                        - button "Siguiente diapositiva" [ref=f58e479]
+                      - img "Dualtron Spider Max" [ref=f58e483]
+                  - generic [ref=f58e496]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f58e501]:
+                  - link [ref=f58e502]:
+                    - /url: "\n/products/patinete-electrico-dualtron-spider-max?variant=57714618007877"
+                    - paragraph [ref=f58e504]: Patinete Eléctrico Dualtron Spider Max
+                  - generic [ref=f58e506]:
+                    - group [ref=f58e507]:
+                      - generic [ref=f58e508]: Precio de oferta
+                      - text: €1.990,00 EUR
+                    - group [ref=f58e509]:
+                      - generic [ref=f58e510]: Precio habitual
+                      - text: €2.990,00 EUR
+          - listitem [ref=f58e511]:
+            - generic [ref=f58e513]:
+              - link "Patinete Eléctrico Dualtron Popular Dual" [ref=f58e514] [cursor=pointer]:
+                - /url: /products/patinete-electrico-dualtron-popular-dual-homologado?variant=57705723068741
+              - generic [ref=f58e516] [cursor=pointer]:
+                - generic [ref=f58e517]:
+                  - link "Patinete Eléctrico Dualtron Popular Dual" [ref=f58e518]:
+                    - /url: "\n/products/patinete-electrico-dualtron-popular-dual-homologado?variant=57705723068741"
+                    - generic [ref=f58e520]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f58e521]
+                        - button "Siguiente diapositiva" [ref=f58e522]
+                      - img "Dualtron Popular Single" [ref=f58e526]
+                  - generic [ref=f58e539]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f58e544]:
+                  - link [ref=f58e545]:
+                    - /url: "\n/products/patinete-electrico-dualtron-popular-dual-homologado?variant=57705723068741"
+                    - paragraph [ref=f58e547]: Patinete Eléctrico Dualtron Popular Dual
+                  - generic [ref=f58e549]:
+                    - group [ref=f58e550]:
+                      - generic [ref=f58e551]: Precio de oferta
+                      - text: €1.180,00 EUR
+                    - group [ref=f58e552]:
+                      - generic [ref=f58e553]: Precio habitual
+                      - text: €1.990,00 EUR
+          - listitem [ref=f58e554]:
+            - generic [ref=f58e556]:
+              - link "Patinete Eléctrico Dualtron Popular" [ref=f58e557] [cursor=pointer]:
+                - /url: /products/patinete-electrico-dualtron-popular-single?variant=57702859374917
+              - generic [ref=f58e559] [cursor=pointer]:
+                - generic [ref=f58e560]:
+                  - link "Patinete Eléctrico Dualtron Popular" [ref=f58e561]:
+                    - /url: "\n/products/patinete-electrico-dualtron-popular-single?variant=57702859374917"
+                    - generic [ref=f58e563]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f58e564]
+                        - button "Siguiente diapositiva" [ref=f58e565]
+                      - img "Dualtron Popular Single" [ref=f58e569]
+                  - generic [ref=f58e582]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f58e587]:
+                  - link [ref=f58e588]:
+                    - /url: "\n/products/patinete-electrico-dualtron-popular-single?variant=57702859374917"
+                    - paragraph [ref=f58e590]: Patinete Eléctrico Dualtron Popular
+                  - generic [ref=f58e592]:
+                    - group [ref=f58e593]:
+                      - generic [ref=f58e594]: Precio de oferta
+                      - text: €749,00 EUR
+                    - group [ref=f58e595]:
+                      - generic [ref=f58e596]: Precio habitual
+                      - text: €1.990,00 EUR
+          - listitem [ref=f58e597]:
+            - generic [ref=f58e599]:
+              - link "Patinete Eléctrico Dualtron New City" [ref=f58e600] [cursor=pointer]:
+                - /url: /products/patinete-electrico-dualtron-new-city?variant=57696699744581
+              - generic [ref=f58e602] [cursor=pointer]:
+                - generic [ref=f58e603]:
+                  - link "Patinete Eléctrico Dualtron New City" [ref=f58e604]:
+                    - /url: "\n/products/patinete-electrico-dualtron-new-city?variant=57696699744581"
+                    - generic [ref=f58e606]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f58e607]
+                        - button "Siguiente diapositiva" [ref=f58e608]
+                      - img "Dualtron New City" [ref=f58e612]
+                  - generic [ref=f58e625]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f58e630]:
+                  - link [ref=f58e631]:
+                    - /url: "\n/products/patinete-electrico-dualtron-new-city?variant=57696699744581"
+                    - paragraph [ref=f58e633]: Patinete Eléctrico Dualtron New City
+                  - generic [ref=f58e635]:
+                    - group [ref=f58e636]:
+                      - generic [ref=f58e637]: Precio de oferta
+                      - text: €1.990,00 EUR
+                    - group [ref=f58e638]:
+                      - generic [ref=f58e639]: Precio habitual
+                      - text: €3.299,00 EUR
+          - listitem [ref=f58e640]:
+            - generic [ref=f58e642]:
+              - link "Patinete Eléctrico Dualtron Sonic Alien" [ref=f58e643] [cursor=pointer]:
+                - /url: /products/patinete-electrico-dualtron-sonic-alien-homologado?variant=57694003364165
+              - generic [ref=f58e645] [cursor=pointer]:
+                - generic [ref=f58e646]:
+                  - link "Patinete Eléctrico Dualtron Sonic Alien" [ref=f58e647]:
+                    - /url: "\n/products/patinete-electrico-dualtron-sonic-alien-homologado?variant=57694003364165"
+                    - generic [ref=f58e649]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f58e650]
+                        - button "Siguiente diapositiva" [ref=f58e651]
+                      - img "Patinete Eléctrico Dualtron Sonic Alien" [ref=f58e655]
+                  - generic [ref=f58e665]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f58e670]:
+                  - link [ref=f58e671]:
+                    - /url: "\n/products/patinete-electrico-dualtron-sonic-alien-homologado?variant=57694003364165"
+                    - paragraph [ref=f58e673]: Patinete Eléctrico Dualtron Sonic Alien
+                  - generic [ref=f58e675]:
+                    - group [ref=f58e676]:
+                      - generic [ref=f58e677]: Precio de oferta
+                      - text: €3.880,00 EUR
+                    - group [ref=f58e678]:
+                      - generic [ref=f58e679]: Precio habitual
+                      - text: €5.190,00 EUR
+          - listitem [ref=f58e680]:
+            - generic [ref=f58e682]:
+              - link "Patinete Eléctrico Dualtron Aminia" [ref=f58e683] [cursor=pointer]:
+                - /url: /products/patinete-electrico-homologado-dualtron-aminia-special?variant=57687995285829
+              - generic [ref=f58e685] [cursor=pointer]:
+                - generic [ref=f58e686]:
+                  - link "Patinete Eléctrico Dualtron Aminia" [ref=f58e687]:
+                    - /url: "\n/products/patinete-electrico-homologado-dualtron-aminia-special?variant=57687995285829"
+                    - img "Dualtron Aminia Reacondicionado" [ref=f58e693]
+                  - generic [ref=f58e694]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f58e699]:
+                  - link [ref=f58e700]:
+                    - /url: "\n/products/patinete-electrico-homologado-dualtron-aminia-special?variant=57687995285829"
+                    - paragraph [ref=f58e702]: Patinete Eléctrico Dualtron Aminia
+                  - generic [ref=f58e704]:
+                    - group [ref=f58e705]:
+                      - generic [ref=f58e706]: Precio de oferta
+                      - text: €848,00 EUR
+                    - group [ref=f58e707]:
+                      - generic [ref=f58e708]: Precio habitual
+                      - text: €1.599,00 EUR
+          - listitem [ref=f58e709]:
+            - generic [ref=f58e711]:
+              - link "Patinete Eléctrico Dualtron Thunder 3" [ref=f58e712] [cursor=pointer]:
+                - /url: /products/patinete-electrico-dualtron-thunder-3-homologado?variant=57676797051205
+              - generic [ref=f58e714] [cursor=pointer]:
+                - generic [ref=f58e715]:
+                  - link "Patinete Eléctrico Dualtron Thunder 3" [ref=f58e716]:
+                    - /url: "\n/products/patinete-electrico-dualtron-thunder-3-homologado?variant=57676797051205"
+                    - generic [ref=f58e718]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f58e719]
+                        - button "Siguiente diapositiva" [ref=f58e720]
+                      - img "Patinete Eléctrico Dualtron Thunder 3" [ref=f58e724]
+                  - generic [ref=f58e731]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f58e736]:
+                  - link [ref=f58e737]:
+                    - /url: "\n/products/patinete-electrico-dualtron-thunder-3-homologado?variant=57676797051205"
+                    - paragraph [ref=f58e739]: Patinete Eléctrico Dualtron Thunder 3
+                  - generic [ref=f58e741]:
+                    - group [ref=f58e742]:
+                      - generic [ref=f58e743]: Precio de oferta
+                      - text: €3.590,00 EUR
+                    - group [ref=f58e744]:
+                      - generic [ref=f58e745]: Precio habitual
+                      - text: €4.699,00 EUR
+          - listitem [ref=f58e746]:
+            - generic [ref=f58e748]:
+              - link "Patinete Eléctrico Dualtron Victor Limited EY4" [ref=f58e749] [cursor=pointer]:
+                - /url: /products/patinete-electrico-dualtron-victor-60v-limited-homologado-dgt?variant=57252815143237
+              - generic [ref=f58e751] [cursor=pointer]:
+                - generic [ref=f58e752]:
+                  - link "Patinete Eléctrico Dualtron Victor Limited EY4" [ref=f58e753]:
+                    - /url: "\n/products/patinete-electrico-dualtron-victor-60v-limited-homologado-dgt?variant=57252815143237"
+                    - generic [ref=f58e755]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f58e756]
+                        - button "Siguiente diapositiva" [ref=f58e757]
+                      - img "Patinete Eléctrico Dualtron Victor Limited EY4" [ref=f58e761]
+                  - generic [ref=f58e774]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f58e779]:
+                  - link [ref=f58e780]:
+                    - /url: "\n/products/patinete-electrico-dualtron-victor-60v-limited-homologado-dgt?variant=57252815143237"
+                    - paragraph [ref=f58e782]: Patinete Eléctrico Dualtron Victor Limited EY4
+                  - generic [ref=f58e784]:
+                    - group [ref=f58e785]:
+                      - generic [ref=f58e786]: Precio de oferta
+                      - text: €2.149,00 EUR
+                    - group [ref=f58e787]:
+                      - generic [ref=f58e788]: Precio habitual
+                      - text: €3.299,00 EUR
+          - listitem [ref=f58e789]:
+            - generic [ref=f58e791]:
+              - link "Patinete Eléctrico Dualtron Togo Limited" [ref=f58e792] [cursor=pointer]:
+                - /url: /products/patinete-electrico-dualtron-togo-max-homologado-dgt?variant=57222964281669
+              - generic [ref=f58e794] [cursor=pointer]:
+                - generic [ref=f58e795]:
+                  - link "Patinete Eléctrico Dualtron Togo Limited" [ref=f58e796]:
+                    - /url: "\n/products/patinete-electrico-dualtron-togo-max-homologado-dgt?variant=57222964281669"
+                    - generic [ref=f58e798]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f58e799]
+                        - button "Siguiente diapositiva" [ref=f58e800]
+                      - img "Dualtron Togo Limited" [ref=f58e804]
+                  - generic [ref=f58e817]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f58e822]:
+                  - link [ref=f58e823]:
+                    - /url: "\n/products/patinete-electrico-dualtron-togo-max-homologado-dgt?variant=57222964281669"
+                    - paragraph [ref=f58e825]: Patinete Eléctrico Dualtron Togo Limited
+                  - generic [ref=f58e827]:
+                    - group [ref=f58e828]:
+                      - generic [ref=f58e829]: Precio de oferta
+                      - text: €1.099,00 EUR
+                    - group [ref=f58e830]:
+                      - generic [ref=f58e831]: Precio habitual
+                      - text: €1.899,00 EUR
+          - listitem [ref=f58e832]:
+            - generic [ref=f58e834]:
+              - link "Patinete Eléctrico Dualtron Aminia Special" [ref=f58e835] [cursor=pointer]:
+                - /url: /products/patinete-electrico-dualtron-aminia-special-homologado?variant=57216751960389
+              - generic [ref=f58e837] [cursor=pointer]:
+                - generic [ref=f58e838]:
+                  - link "Patinete Eléctrico Dualtron Aminia Special" [ref=f58e839]:
+                    - /url: "\n/products/patinete-electrico-dualtron-aminia-special-homologado?variant=57216751960389"
+                    - generic [ref=f58e841]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f58e842]
+                        - button "Siguiente diapositiva" [ref=f58e843]
+                      - img "Dualtron Aminia Dual Motor" [ref=f58e847]
+                  - generic [ref=f58e857]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f58e862]:
+                  - link [ref=f58e863]:
+                    - /url: "\n/products/patinete-electrico-dualtron-aminia-special-homologado?variant=57216751960389"
+                    - paragraph [ref=f58e865]: Patinete Eléctrico Dualtron Aminia Special
+                  - generic [ref=f58e867]:
+                    - group [ref=f58e868]:
+                      - generic [ref=f58e869]: Precio de oferta
+                      - text: €849,00 EUR
+                    - group [ref=f58e870]:
+                      - generic [ref=f58e871]: Precio habitual
+                      - text: €999,00 EUR
+          - listitem [ref=f58e872]:
+            - generic [ref=f58e874]:
+              - link "Patinete Eléctrico Dualtron Aminia Dual Motor" [ref=f58e875] [cursor=pointer]:
+                - /url: /products/patinete-electrico-dualtron-aminia-homologado?variant=57216736854341
+              - generic [ref=f58e877] [cursor=pointer]:
+                - generic [ref=f58e878]:
+                  - link "Patinete Eléctrico Dualtron Aminia Dual Motor" [ref=f58e879]:
+                    - /url: "\n/products/patinete-electrico-dualtron-aminia-homologado?variant=57216736854341"
+                    - generic [ref=f58e881]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f58e882]
+                        - button "Siguiente diapositiva" [ref=f58e883]
+                      - img "Dualtron Aminia Dual Motor" [ref=f58e887]
+                  - generic [ref=f58e894]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f58e899]:
+                  - link [ref=f58e900]:
+                    - /url: "\n/products/patinete-electrico-dualtron-aminia-homologado?variant=57216736854341"
+                    - paragraph [ref=f58e902]: Patinete Eléctrico Dualtron Aminia Dual Motor
+                  - generic [ref=f58e904]:
+                    - group [ref=f58e905]:
+                      - generic [ref=f58e906]: Precio de oferta
+                      - text: €948,00 EUR
+                    - group [ref=f58e907]:
+                      - generic [ref=f58e908]: Precio habitual
+                      - text: €1.599,00 EUR
+    - generic [ref=f58e914]:
+      - paragraph [ref=f58e915]:
+        - text: Los
+        - strong [ref=f58e916]: patinetes eléctricos Dualtron
+        - text: son la referencia mundial en movilidad eléctrica personal de alto rendimiento. Electyum es uno de los
+        - strong [ref=f58e917]: principales distribuidores oficiales de Dualtron en Europa
+        - text: ", lo que nos permite ofrecer el catálogo más amplio de modelos Minimotors, con acceso prioritario a novedades, reposiciones y los precios más competitivos del mercado."
+      - heading "¿Por qué elegir un patinete eléctrico Dualtron?" [level=2] [ref=f58e918]
+      - paragraph [ref=f58e919]: "Dualtron no es simplemente una marca de patinetes eléctricos: es el estándar de calidad contra el que se miden el resto. Estos son los motivos por los que sus modelos dominan el mercado internacional:"
+      - list [ref=f58e920]:
+        - listitem [ref=f58e921]:
+          - strong [ref=f58e922]: "Catálogo más amplio del mundo:"
+          - text: desde modelos urbanos homologados DGT hasta patinetes de alto rendimiento off-road. Siempre hay un Dualtron para cada perfil de usuario.
+        - listitem [ref=f58e923]:
+          - strong [ref=f58e924]: "Componentes de primera calidad:"
+          - text: baterías LG, motores BLDC, frenos hidráulicos y suspensión ajustable en los modelos más avanzados.
+        - listitem [ref=f58e925]:
+          - strong [ref=f58e926]: "Construcción en aleación de aluminio:"
+          - text: robustos y duraderos, pero sorprendentemente ligeros y manejables para un uso personal diario.
+        - listitem [ref=f58e927]:
+          - strong [ref=f58e928]: "Resistencia al agua:"
+          - text: materiales tratados para aguantar condiciones climáticas adversas, algo poco común en la competencia.
+        - listitem [ref=f58e929]:
+          - strong [ref=f58e930]: "Potencia real en cualquier terreno:"
+          - text: motores capaces de superar pendientes de más de 20º sin perder fuerza, tanto en asfalto como en superficies irregulares.
+        - listitem [ref=f58e931]:
+          - strong [ref=f58e932]: "Modelos homologados DGT:"
+          - text: todos los patinetes Dualtron distribuidos por Electyum incluyen certificado de limitación a 25 km/h y certificado europeo CE para circular legalmente.
+      - heading "Gama de patinetes Dualtron disponibles en Electyum" [level=2] [ref=f58e933]
+      - paragraph [ref=f58e934]:
+        - text: "El catálogo Dualtron en Electyum cubre todos los perfiles: desde usuarios urbanos que buscan un"
+        - strong [ref=f58e935]: patinete homologado para el día a día
+        - text: hasta riders que exigen la máxima potencia y autonomía. Entre los modelos más destacados encontrarás la gama Victor —con versiones homologadas DGT y hasta 120 km de autonomía—, el Storm para quienes buscan una conducción deportiva extrema, y el X Limited, pensado para dominar cualquier terreno con su motor dual de 12.000W y ruedas antipinchazo de 13 pulgadas.
+      - heading "Preguntas frecuentes sobre patinetes eléctricos Dualtron" [level=2] [ref=f58e936]
+      - heading "¿Qué diferencia a Dualtron del resto de marcas de patinetes eléctricos?" [level=3] [ref=f58e937]
+      - paragraph [ref=f58e938]: "Dualtron combina tres factores que pocas marcas logran a la vez: el catálogo más extenso del mercado mundial, componentes de primerísima calidad y una construcción capaz de aguantar un uso intensivo durante años. Sus patinetes están diseñados para ser a la vez potentes, robustos y manejables, con modelos que van desde opciones urbanas asequibles hasta auténticas bestias de la carretera."
+      - heading "¿Los patinetes Dualtron están homologados para circular en España?" [level=3] [ref=f58e939]
+      - paragraph [ref=f58e940]: Sí. Los modelos distribuidos por Electyum incluyen certificado de limitación a 25 km/h y certificado europeo CE, cumpliendo con la normativa de la DGT para patinetes eléctricos. Los modelos de la gama Victor cuentan además con homologación DGT específica para circular legalmente por vías urbanas.
+      - heading "¿Cuál es el plazo de entrega de un patinete Dualtron?" [level=3] [ref=f58e941]
+      - paragraph [ref=f58e942]:
+        - text: Los patinetes eléctricos Dualtron se entregan en un plazo medio de
+        - strong [ref=f58e943]: 24 a 72 horas
+        - text: en la península, en función de la comunidad autónoma y la hora de realización del pedido. Todos los envíos incluyen un
+        - strong [ref=f58e944]: número de seguimiento
+        - text: para que puedas conocer el estado de tu pedido en todo momento.
+      - heading "¿Puedo financiar mi patinete Dualtron en Electyum?" [level=3] [ref=f58e945]
+      - paragraph [ref=f58e946]: "Sí, y de forma muy sencilla en 4 pasos sin papeleo:"
+      - list [ref=f58e947]:
+        - listitem [ref=f58e948]:
+          - strong [ref=f58e949]: Añade al carrito
+          - text: el modelo deseado y pulsa
+          - emphasis [ref=f58e950]: comprar ahora
+          - text: .
+        - listitem [ref=f58e951]:
+          - strong [ref=f58e952]: Selecciona Sequra
+          - text: como método de pago en el checkout.
+        - listitem [ref=f58e953]:
+          - strong [ref=f58e954]: Rellena un formulario simple
+          - text: con solo tu DNI y número de móvil.
+        - listitem [ref=f58e955]:
+          - text: Recibe una
+          - strong [ref=f58e956]: respuesta inmediata.
+      - heading "¿Dónde puedo consultar el manual de mi patinete Dualtron?" [level=3] [ref=f58e957]
+      - paragraph [ref=f58e958]:
+        - text: Puedes consultar y descargar los
+        - link "manuales de usuario de los patinetes Dualtron" [ref=f58e959] [cursor=pointer]:
+          - /url: https://dualtron-shop.com/es/manuales-de-usuario-dualtron-speedway/
+        - text: directamente en la web oficial de la marca.
+  - generic [ref=f58e964]:
+    - generic [ref=f58e966]:
+      - generic [ref=f58e968]:
+        - group [ref=f58e970]:
+          - generic "Tienda" [ref=f58e971]
+          - list [ref=f58e973]:
+            - listitem [ref=f58e974]:
+              - link "PATINETES" [ref=f58e975] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+            - listitem [ref=f58e976]:
+              - link "PATINETES HOMOLOGADOS" [ref=f58e977] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - listitem [ref=f58e978]:
+              - link "MOTOS ELÉCTRICAS" [ref=f58e979] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f58e980]:
+              - link "BICIS ELÉCTRICAS" [ref=f58e981] [cursor=pointer]:
+                - /url: /collections/bicicletas-electricas
+            - listitem [ref=f58e982]:
+              - link "MOVILIDAD INFANTIL" [ref=f58e983] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-ninos
+            - listitem [ref=f58e984]:
+              - link "MOVILIDAD REDUCIDA" [ref=f58e985] [cursor=pointer]:
+                - /url: /collections/scooters-movilidad-reducida
+            - listitem [ref=f58e986]:
+              - link "KARTS ELÉCTRICOS" [ref=f58e987] [cursor=pointer]:
+                - /url: /collections/karts-electricos
+            - listitem [ref=f58e988]:
+              - link "COCHES ELÉCTRICOS" [ref=f58e989] [cursor=pointer]:
+                - /url: /collections/coches-electricos
+            - listitem [ref=f58e990]:
+              - link "MOTOS de GASOLINA" [ref=f58e991] [cursor=pointer]:
+                - /url: /collections/motos-gasolina
+            - listitem [ref=f58e992]:
+              - link "Contacto" [ref=f58e993] [cursor=pointer]:
+                - /url: /pages/contact
+        - group [ref=f58e995]:
+          - generic "Información" [ref=f58e996]
+          - list [ref=f58e998]:
+            - listitem [ref=f58e999]:
+              - link "Financiar patinete eléctrico" [ref=f58e1000] [cursor=pointer]:
+                - /url: /pages/como-financiar-un-patinete-electrico
+            - listitem [ref=f58e1001]:
+              - link "Términos y condiciones" [ref=f58e1002] [cursor=pointer]:
+                - /url: /policies/terms-of-service
+            - listitem [ref=f58e1003]:
+              - link "Política de envíos" [ref=f58e1004] [cursor=pointer]:
+                - /url: /policies/shipping-policy
+            - listitem [ref=f58e1005]:
+              - link "Devoluciones y garantías" [ref=f58e1006] [cursor=pointer]:
+                - /url: /policies/refund-policy
+            - listitem [ref=f58e1007]:
+              - link "(+34) 689313556" [ref=f58e1008] [cursor=pointer]:
+                - /url: https://wa.me/34689313556
+            - listitem [ref=f58e1009]:
+              - link "sat@electyum.com" [ref=f58e1010] [cursor=pointer]:
+                - /url: mailto:sat@electyum.com
+      - generic [ref=f58e1011]:
+        - generic [ref=f58e1012]: suscríbete para descuentitos!
+        - generic [ref=f58e1014]:
+          - generic [ref=f58e1015]: Correo electrónico
+          - textbox "Correo electrónico" [ref=f58e1016]:
+            - /placeholder: Dirección de correo electrónico
+          - button "Registrarse" [ref=f58e1017]
+    - generic [ref=f58e1020]:
+      - generic [ref=f58e1021]:
+        - generic [ref=f58e1023]:
+          - text: © 2026
+          - link "Electyum" [ref=f58e1024] [cursor=pointer]:
+            - /url: /
+        - button "Términos y políticas" [ref=f58e1026] [cursor=pointer]
+      - generic [ref=f58e1028]:
+        - link "Instagram" [ref=f58e1030] [cursor=pointer]:
+          - /url: https://instagram.com/electyum
+        - link "Youtube" [ref=f58e1034] [cursor=pointer]:
+          - /url: https://www.youtube.com/@electyummovilidadinteligen6279

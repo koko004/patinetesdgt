@@ -1,0 +1,18 @@
+[      50ms] [WARNING] []Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content. @ https://www.tiktok.com/player/v1/7601122963345116418?autoplay=0&controls=1&description=0&music_info=0&fullscreen_button=1:0
+[      50ms] [WARNING] []Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content. @ https://www.tiktok.com/player/v1/7601122963345116418?autoplay=0&controls=1&description=0&music_info=0&fullscreen_button=1:0
+[     212ms] [WARNING] No available adapters. @ https://www.tiktok.com/player/v1/7601122963345116418?autoplay=0&controls=1&description=0&music_info=0&fullscreen_button=1:0
+[     521ms] [WARNING] []Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content. @ https://www.tiktok.com/player/v1/7611248560457141526?autoplay=0&controls=1&description=0&music_info=0&fullscreen_button=1:0
+[     895ms] [WARNING] []Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content. @ https://www.tiktok.com/player/v1/7601122963345116418?autoplay=0&controls=1&description=0&music_info=0&fullscreen_button=1:0
+[    1800ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://patinetestore.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:1
+[    3214ms] [LOG] Can't find any placeholders for pricetags. @ https://pricetag.viabill.com/script/hCrcikLDKxk%3D:0
+[    3696ms] [WARNING] [21:27:29.295] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3697ms] [WARNING] [21:27:29.296] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3697ms] [WARNING] [21:27:29.296] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3697ms] [WARNING] [21:27:29.297] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3698ms] [WARNING] [21:27:29.297] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3698ms] [WARNING] [21:27:29.298] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3713ms] [WARNING] [21:27:29.312] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3714ms] [WARNING] [21:27:29.314] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3716ms] [WARNING] [21:27:29.316] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    8121ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ :3338
+[   13812ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ :3338

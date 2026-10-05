@@ -1,0 +1,9 @@
+[      13ms] [LOG] dataLayerBlocker for "dataLayer" is in blocking mode. Data is put into queue. Waiting for user choice. @ https://cdn.consentmanager.net/delivery/customdata/bV8xLndfMTcyMDY3LnJfR0RQUi5sX2VzLmRfNDg3NjIueF81MDUudi5wLnRfNDg3NjIueHRfMTg3.js:16
+[      14ms] [LOG] dataLayerBlocker for "dataLayer" is in blocking mode. Data is put into queue. Waiting for user choice. @ https://cdn.consentmanager.net/delivery/customdata/bV8xLndfMTcyMDY3LnJfR0RQUi5sX2VzLmRfNDg3NjIueF81MDUudi5wLnRfNDg3NjIueHRfMTg3.js:16
+[      14ms] [LOG] dataLayerBlocker for "dataLayer" is in blocking mode. Data is put into queue. Waiting for user choice. @ https://cdn.consentmanager.net/delivery/customdata/bV8xLndfMTcyMDY3LnJfR0RQUi5sX2VzLmRfNDg3NjIueF81MDUudi5wLnRfNDg3NjIueHRfMTg3.js:16
+[      14ms] [LOG] dataLayerBlocker for "dataLayer" is in blocking mode. Data is put into queue. Waiting for user choice. @ https://cdn.consentmanager.net/delivery/customdata/bV8xLndfMTcyMDY3LnJfR0RQUi5sX2VzLmRfNDg3NjIueF81MDUudi5wLnRfNDg3NjIueHRfMTg3.js:16
+[    2104ms] [LOG] Beautiful Consent Service up. @ https://bc-prod-config.empathy.co/assets/index.js:23
+[    3074ms] [LOG] Shopify features loaded @ https://bc-prod-config.empathy.co/assets/content.kHIStm_Q.js:7
+[   17482ms] [WARNING] []Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content. @ https://www.youtube.com/embed/NVjXR9qr0vw?rel=0&showinfo=0:0
+[   18881ms] [WARNING] []Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content. @ https://www.youtube.com/embed/NVjXR9qr0vw&t=1s?autoplay=0&rel=0:0
+[   19536ms] [WARNING] No available adapters. @ https://www.youtube.com/embed/NVjXR9qr0vw?rel=0&showinfo=0:0

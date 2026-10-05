@@ -1,0 +1,167 @@
+- generic [ref=f44e1]:
+  - alertdialog [ref=f44e2]:
+    - generic [ref=f44e3]:
+      - generic [ref=f44e4]:
+        - heading "Consentimiento para el uso de cookies" [level=2] [ref=f44e5]
+        - paragraph [ref=f44e6]:
+          - text: Nosotros y nuestros partners, incluido Shopify, utilizamos cookies y otras tecnologías para personalizar tu experiencia, mostrarte anuncios y realizar informes y estadísticas, y no utilizaremos cookies ni otras tecnologías para estos fines a menos que las aceptes. Obtén más información en nuestra
+          - link "Política de privacidad" [ref=f44e7] [cursor=pointer]:
+            - /url: http://electyum.com/policies/privacy-policy
+      - generic [ref=f44e8]:
+        - button "Administrar preferencias" [ref=f44e9]
+        - button "Aceptar" [ref=f44e10]
+        - button "Rechazar" [ref=f44e11]
+  - link "Ir directamente al contenido" [ref=f44e12] [cursor=pointer]:
+    - /url: "#MainContent"
+  - banner [ref=f44e14]:
+    - generic [ref=f44e17]:
+      - generic [ref=f44e18]:
+        - link [ref=f44e19] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=f44e23]:
+          - list [ref=f44e26]:
+            - generic:
+              - link "PATINETES" [ref=f44e27] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+              - link "PATINETES HOMOLOGADOS" [ref=f44e29] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - menuitem "Más" [ref=f44e32] [cursor=pointer]
+      - generic [ref=f44e34]:
+        - button "Abrir selector de región e idioma EUR" [ref=f44e36] [cursor=pointer]:
+          - generic [ref=f44e37]: Abrir selector de región e idioma
+          - generic [ref=f44e38]: EUR
+        - button "Abrir búsqueda" [ref=f44e40] [cursor=pointer]
+        - generic [ref=f44e41]:
+          - button "Abrir menú de cuenta" [ref=f44e43] [cursor=pointer]
+          - 'button "Abrir carrito Total de artículos en el carrito: 0" [ref=f44e49] [cursor=pointer]':
+            - generic [ref=f44e51]:
+              - status:
+                - generic [ref=f44e53]: "Total de artículos en el carrito: 0"
+  - main [ref=f44e54]:
+    - generic [ref=f44e58]:
+      - heading "Resultados de la búsqueda" [level=3] [ref=f44e60]
+      - search [ref=f44e61]:
+        - generic [ref=f44e62]:
+          - generic [ref=f44e63]: Buscar
+          - searchbox "Buscar" [ref=f44e64]: NIU KQi1 Pro
+          - button "Restablecer la búsqueda" [ref=f44e65] [cursor=pointer]
+    - generic [ref=f44e68]:
+      - link "Omitir para ir a lista de resultados" [ref=f44e69] [cursor=pointer]:
+        - /url: "#ResultsList"
+      - generic [ref=f44e70]:
+        - generic "Filtros" [ref=f44e72]:
+          - generic [ref=f44e74]:
+            - list [ref=f44e77]:
+              - generic:
+                - group [ref=f44e79]:
+                  - generic "Disponibilidad" [ref=f44e80] [cursor=pointer]
+                - group [ref=f44e84]:
+                  - generic "Precio" [ref=f44e85] [cursor=pointer]
+                - group [ref=f44e88]:
+                  - generic "Marca" [ref=f44e89] [cursor=pointer]
+                - group [ref=f44e93]:
+                  - generic "Autonomía" [ref=f44e94] [cursor=pointer]
+            - generic "Recuento de productos" [ref=f44e98]: 1 artículo
+            - group [ref=f44e101]:
+              - button "Ordenar" [ref=f44e102] [cursor=pointer]
+            - group "Columna de cuadrícula" [ref=f44e105]:
+              - radio "Predeterminado" [checked] [ref=f44e108] [cursor=pointer]
+              - radio "Alejar" [ref=f44e116] [cursor=pointer]
+        - list [ref=f44e130]:
+          - listitem [ref=f44e131]:
+            - generic [ref=f44e133]:
+              - link "Scooter Eléctrico Niu NQiX 150" [ref=f44e134] [cursor=pointer]:
+                - /url: /products/moto-electrica-niu-nquix-150?variant=57406896898373&_pos=1&_sid=d82ee907c&_ss=r
+              - generic [ref=f44e136] [cursor=pointer]:
+                - generic [ref=f44e137]:
+                  - link "Scooter Eléctrico Niu NQiX 150" [ref=f44e138]:
+                    - /url: "\n/products/moto-electrica-niu-nquix-150?variant=57406896898373&_pos=1&_sid=d82ee907c&_ss=r"
+                    - generic [ref=f44e140]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f44e141]
+                        - button "Siguiente diapositiva" [ref=f44e142]
+                      - img "NQiX 300" [ref=f44e146]
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f44e162]:
+                  - link [ref=f44e163]:
+                    - /url: "\n/products/moto-electrica-niu-nquix-150?variant=57406896898373&_pos=1&_sid=d82ee907c&_ss=r"
+                    - paragraph [ref=f44e165]: Scooter Eléctrico Niu NQiX 150
+                  - generic [ref=f44e166]: €2.848,00 EUR
+  - generic [ref=f44e172]:
+    - generic [ref=f44e174]:
+      - generic [ref=f44e176]:
+        - group [ref=f44e178]:
+          - generic "Tienda" [ref=f44e179]
+          - list [ref=f44e181]:
+            - listitem [ref=f44e182]:
+              - link "PATINETES" [ref=f44e183] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+            - listitem [ref=f44e184]:
+              - link "PATINETES HOMOLOGADOS" [ref=f44e185] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - listitem [ref=f44e186]:
+              - link "MOTOS ELÉCTRICAS" [ref=f44e187] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f44e188]:
+              - link "BICIS ELÉCTRICAS" [ref=f44e189] [cursor=pointer]:
+                - /url: /collections/bicicletas-electricas
+            - listitem [ref=f44e190]:
+              - link "MOVILIDAD INFANTIL" [ref=f44e191] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-ninos
+            - listitem [ref=f44e192]:
+              - link "MOVILIDAD REDUCIDA" [ref=f44e193] [cursor=pointer]:
+                - /url: /collections/scooters-movilidad-reducida
+            - listitem [ref=f44e194]:
+              - link "KARTS ELÉCTRICOS" [ref=f44e195] [cursor=pointer]:
+                - /url: /collections/karts-electricos
+            - listitem [ref=f44e196]:
+              - link "COCHES ELÉCTRICOS" [ref=f44e197] [cursor=pointer]:
+                - /url: /collections/coches-electricos
+            - listitem [ref=f44e198]:
+              - link "MOTOS de GASOLINA" [ref=f44e199] [cursor=pointer]:
+                - /url: /collections/motos-gasolina
+            - listitem [ref=f44e200]:
+              - link "Contacto" [ref=f44e201] [cursor=pointer]:
+                - /url: /pages/contact
+        - group [ref=f44e203]:
+          - generic "Información" [ref=f44e204]
+          - list [ref=f44e206]:
+            - listitem [ref=f44e207]:
+              - link "Financiar patinete eléctrico" [ref=f44e208] [cursor=pointer]:
+                - /url: /pages/como-financiar-un-patinete-electrico
+            - listitem [ref=f44e209]:
+              - link "Términos y condiciones" [ref=f44e210] [cursor=pointer]:
+                - /url: /policies/terms-of-service
+            - listitem [ref=f44e211]:
+              - link "Política de envíos" [ref=f44e212] [cursor=pointer]:
+                - /url: /policies/shipping-policy
+            - listitem [ref=f44e213]:
+              - link "Devoluciones y garantías" [ref=f44e214] [cursor=pointer]:
+                - /url: /policies/refund-policy
+            - listitem [ref=f44e215]:
+              - link "(+34) 689313556" [ref=f44e216] [cursor=pointer]:
+                - /url: https://wa.me/34689313556
+            - listitem [ref=f44e217]:
+              - link "sat@electyum.com" [ref=f44e218] [cursor=pointer]:
+                - /url: mailto:sat@electyum.com
+      - generic [ref=f44e219]:
+        - generic [ref=f44e220]: suscríbete para descuentitos!
+        - generic [ref=f44e222]:
+          - generic [ref=f44e223]: Correo electrónico
+          - textbox "Correo electrónico" [ref=f44e224]:
+            - /placeholder: Dirección de correo electrónico
+          - button "Registrarse" [ref=f44e225]
+    - generic [ref=f44e228]:
+      - generic [ref=f44e229]:
+        - generic [ref=f44e231]:
+          - text: © 2026
+          - link "Electyum" [ref=f44e232] [cursor=pointer]:
+            - /url: /
+        - button "Términos y políticas" [ref=f44e234] [cursor=pointer]
+      - generic [ref=f44e236]:
+        - link "Instagram" [ref=f44e238] [cursor=pointer]:
+          - /url: https://instagram.com/electyum
+        - link "Youtube" [ref=f44e242] [cursor=pointer]:
+          - /url: https://www.youtube.com/@electyummovilidadinteligen6279

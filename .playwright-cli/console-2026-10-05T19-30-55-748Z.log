@@ -1,0 +1,21 @@
+[     317ms] [WARNING] MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 updatedProduct listeners added. Use emitter.setMaxListeners() to increase limit
+    at c (https://sabway.es/shop/themes/PRS028/assets/js/theme.js:16:5300)
+    at s.addListener (https://sabway.es/shop/themes/PRS028/assets/js/theme.js:16:7884)
+    at HTMLDocument.<anonymous> (https://sabway.es/shop/modules/tdcountdown/views/js/tdcountdown.js:17:16)
+    at u (https://sabway.es/shop/themes/core.js:11:26836)
+    at l (https://sabway.es/shop/themes/core.js:11:27138) @ https://sabway.es/shop/themes/PRS028/assets/js/theme.js:15
+[     382ms] [LOG] Addrevenue script initiated @ https://addrevenue.io/track.js:108
+[    1287ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://patinetestore.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:1
+[    2127ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://link.emovedistribution.com/wp-content/uploads/2025/04/emove-logo.jpg:0
+[    3015ms] [LOG] Can't find any placeholders for pricetags. @ https://pricetag.viabill.com/script/hCrcikLDKxk%3D:0
+[    4015ms] [WARNING] [21:30:59.760] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    4015ms] [WARNING] [21:30:59.763] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    4016ms] [WARNING] [21:30:59.763] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    4016ms] [WARNING] [21:30:59.764] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    4017ms] [WARNING] [21:30:59.764] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    4018ms] [WARNING] [21:30:59.765] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    4853ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ :3338
+[    5101ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ :3338
+[    5183ms] [WARNING] [21:31:00.930] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    5243ms] [WARNING] [21:31:00.991] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    5272ms] [WARNING] [21:31:01.019] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0

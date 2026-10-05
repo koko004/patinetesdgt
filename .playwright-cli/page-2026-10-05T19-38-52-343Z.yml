@@ -1,0 +1,598 @@
+- generic [ref=f178e1]:
+  - link [ref=f178e2] [cursor=pointer]:
+    - /url: https://web.whatsapp.com/send?l=es&phone=34688751888&text= https://www.imoveblue.es/54-masscity
+  - main [ref=f178e4]:
+    - generic [ref=f178e5]:
+      - list [ref=f178e17]:
+        - listitem [ref=f178e18]:
+          - generic [ref=f178e19]: 
+          - text: ¡ENVÍO GRATIS A PENÍNSULA Y BALEARES!
+      - navigation [ref=f178e21]:
+        - generic [ref=f178e23]:
+          - list [ref=f178e26]:
+            - listitem [ref=f178e27]:
+              - link "¡LLÁMANOS! 688 751 888" [ref=f178e28] [cursor=pointer]:
+                - /url: tel:+34688751888
+          - list [ref=f178e32]:
+            - listitem [ref=f178e33]:
+              - link "OPINIONES DE CLIENTES" [ref=f178e34] [cursor=pointer]:
+                - /url: https://www.trustedshops.es/evaluacion/info_X7971BAC9A2BC178FCCBEA75B22E0AD86.html
+            - listitem [ref=f178e35]:
+              - link "CONTACTO" [ref=f178e36] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/contactenos
+      - text:      
+      - generic [ref=f178e37]:
+        - link [ref=f178e41] [cursor=pointer]:
+          - /url: https://www.imoveblue.es/
+          - img "imoveblue.es - UJ Solutions SC" [ref=f178e42]
+        - generic [ref=f178e46]:
+          - generic [ref=f178e47]:
+            - generic [ref=f178e48] [cursor=pointer]:
+              - generic [ref=f178e49]: 
+              - generic [ref=f178e50]: Menu
+            - list [ref=f178e52]:
+              - listitem [ref=f178e53]:
+                - link "Inicio" [ref=f178e54] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/
+              - listitem [ref=f178e55]:
+                - link "Contacto" [ref=f178e56] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/contactenos
+              - listitem [ref=f178e57]:
+                - generic [ref=f178e58] [cursor=pointer]:
+                  - generic [ref=f178e59]: 
+                  - text: 
+                - link "Patinetes eléctricos certificados DGT" [ref=f178e60] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+              - listitem [ref=f178e61]:
+                - link "MATRICULA TU VMP" [ref=f178e62] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1726-comprar-matricula-patinete-vmp-adhesivo.html
+              - listitem [ref=f178e63]:
+                - link "Seguro patinete eléctrico VMP" [ref=f178e64] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/content/15-seguro-patinete-electrico-vmp
+              - listitem [ref=f178e65]:
+                - generic [ref=f178e66] [cursor=pointer]:
+                  - generic [ref=f178e67]: 
+                  - text: 
+                - link "Movilidad infantil" [ref=f178e68] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/26-movilidad-infantil
+              - listitem [ref=f178e69]:
+                - link "Bicicletas eléctricas" [ref=f178e70] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/14-bicicletas-electricas
+              - listitem [ref=f178e71]:
+                - link "Motos eléctricas" [ref=f178e72] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/18-motos-electricas
+              - listitem [ref=f178e73]:
+                - link "Monociclos eléctricos" [ref=f178e74] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/30-monociclos-electricos
+              - listitem [ref=f178e75]:
+                - link "Bicicletas" [ref=f178e76] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/31-bicicletas
+              - listitem [ref=f178e77]:
+                - link "Componentes ciclismo" [ref=f178e78] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/38-componentes-ciclismo
+              - listitem [ref=f178e79]:
+                - link "Recambios" [ref=f178e80] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/20-recambios
+              - listitem [ref=f178e81]:
+                - link "Triciclos eléctricos y movilidad reducida" [ref=f178e82] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/32-triciclos-electricos-y-movilidad-reducida
+              - listitem [ref=f178e83]:
+                - link "Accesorios VMP y ciclismo" [ref=f178e84] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/28-accesorios-vmp-ciclismo
+              - listitem [ref=f178e85]:
+                - link "Patinetes eléctricos" [ref=f178e86] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/13-patinete-electrico
+              - listitem [ref=f178e87]:
+                - link "Condiciones de compra y envío" [ref=f178e88] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/content/3-terminos-y-condiciones-de-uso
+          - generic [ref=f178e90] [cursor=pointer]:
+            - generic [ref=f178e91]: 
+            - generic [ref=f178e92]: Buscar
+          - link "Iniciar sesión" [ref=f178e94] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/mi-cuenta
+            - generic [ref=f178e95]: 
+          - generic [ref=f178e99] [cursor=pointer]:
+            - generic [ref=f178e100]:
+              - text: 
+              - generic [ref=f178e101]: "0"
+            - generic [ref=f178e102]: Carrito
+    - generic [ref=f178e103]:
+      - navigation [ref=f178e104]:
+        - list [ref=f178e108]:
+          - listitem [ref=f178e109]:
+            - link "Inicio" [ref=f178e110] [cursor=pointer]:
+              - /url: https://www.imoveblue.es/
+            - text: /
+          - listitem [ref=f178e111]:
+            - link "Patinetes eléctricos certificados DGT" [ref=f178e112] [cursor=pointer]:
+              - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+            - text: /
+          - listitem [ref=f178e113]:
+            - generic [ref=f178e114]: Masscity
+      - generic [ref=f178e115]:
+        - complementary
+        - generic [ref=f178e116]:
+          - generic [ref=f178e118]:
+            - heading "Masscity" [level=1] [ref=f178e120]
+            - generic [ref=f178e122]:
+              - paragraph [ref=f178e123]:
+                - text: La marca Española patinetes eléctricos
+                - strong [ref=f178e124]: Masscity
+                - text: destaca por su excelente calidad-precio. En nuestra tienda online podrás comprar patinetes Masscity con total garantía ya que somos distribuidor oficial Masscity en España.
+              - paragraph [ref=f178e125]: Además, al ser distribuidor oficial Masscity podrás usar toda la la red de talleres oficiales de España ante cualquier incidencia.
+              - paragraph
+            - generic [ref=f178e126]:
+              - generic [ref=f178e129]:
+                - text: 
+                - generic [ref=f178e130]:
+                  - link [ref=f178e131] [cursor=pointer]:
+                    - /url: https://www.imoveblue.es/54-masscity?order=product.position.asc&productListView=grid
+                    - generic [ref=f178e132]: 
+                  - link [ref=f178e133] [cursor=pointer]:
+                    - /url: https://www.imoveblue.es/54-masscity?order=product.position.asc&productListView=list
+                    - generic [ref=f178e134]: 
+                - generic [ref=f178e135]:
+                  - generic [ref=f178e137] [cursor=pointer]:
+                    - generic [ref=f178e138]: Relevancia
+                    - generic [ref=f178e139]: 
+                  - generic [ref=f178e141] [cursor=pointer]:
+                    - text: "4"
+                    - generic [ref=f178e142]: 
+                - generic:
+                  - navigation
+              - generic [ref=f178e143]:
+                - text: 
+                - generic [ref=f178e144]:
+                  - generic [ref=f178e145]:
+                    - article [ref=f178e147]:
+                      - generic [ref=f178e148]:
+                        - link [ref=f178e150] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1226-masscity-blade-gt-ii-certificado.html
+                          - img "MASSCITY BLADE GT II+ Certificado" [ref=f178e151]
+                          - img "MASSCITY BLADE GT II+ Certificado 2" [ref=f178e152]
+                        - list
+                        - link [ref=f178e155] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f178e156]: 
+                        - generic [ref=f178e158]:
+                          - generic [ref=f178e159]: 
+                          - text: Fuera de stock. Consultar.
+                      - generic [ref=f178e160]:
+                        - heading [level=3] [ref=f178e161]:
+                          - link "MASSCITY Teverun BLADE GT 2 II + Certificado" [ref=f178e162] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1226-masscity-blade-gt-ii-certificado.html
+                        - link "1.649,00 €" [ref=f178e165] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1226-masscity-blade-gt-ii-certificado.html
+                    - article [ref=f178e167]:
+                      - generic [ref=f178e168]:
+                        - link [ref=f178e170] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1240-masscity-blade-m10-pro-certificado.html
+                          - img "Masscity Blade M10 PRO Certificado" [ref=f178e171]
+                          - img "Masscity Blade M10 PRO Certificado 2" [ref=f178e172]
+                        - list [ref=f178e173]:
+                          - listitem [ref=f178e174]: "-300,00 €"
+                        - link [ref=f178e177] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f178e178]: 
+                        - generic: 
+                      - generic [ref=f178e179]:
+                        - heading [level=3] [ref=f178e180]:
+                          - link "Masscity Blade M10 PRO Certificado" [ref=f178e181] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1240-masscity-blade-m10-pro-certificado.html
+                        - generic [ref=f178e183]:
+                          - link "999,00 €" [ref=f178e184] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1240-masscity-blade-m10-pro-certificado.html
+                          - text: 1.299,00 €
+                        - text:    
+                    - article [ref=f178e186]:
+                      - generic [ref=f178e187]:
+                        - link [ref=f178e189] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1726-comprar-matricula-patinete-vmp-adhesivo.html
+                          - img "Matrícula patinete eléctrico VMP adhesivo" [ref=f178e190]
+                          - img "Matrícula patinete eléctrico VMP adhesivo 2" [ref=f178e191]
+                        - list [ref=f178e192]:
+                          - listitem [ref=f178e193]: "-5,00 €"
+                        - link [ref=f178e196] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f178e197]: 
+                        - generic: 
+                      - generic [ref=f178e198]:
+                        - heading [level=3] [ref=f178e199]:
+                          - link "Matrícula patinete eléctrico VMP" [ref=f178e200] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1726-comprar-matricula-patinete-vmp-adhesivo.html
+                        - generic [ref=f178e202]:
+                          - link "19,90 €" [ref=f178e203] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1726-comprar-matricula-patinete-vmp-adhesivo.html
+                          - text: 24,90 €
+                    - article [ref=f178e205]:
+                      - generic [ref=f178e206]:
+                        - link [ref=f178e208] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1940-8488-matricula-gratis-patinete-electrico-vmp.html#/439-elige_regalo-matricula_vmp
+                          - img "Matrícula patinete eléctrico VMP adhesivo" [ref=f178e209]
+                          - img "Matrícula patinete eléctrico VMP adhesivo 2" [ref=f178e210]
+                        - list [ref=f178e211]:
+                          - listitem [ref=f178e212]: "-5,00 €"
+                          - listitem [ref=f178e213]: Nuevo
+                        - link [ref=f178e216] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f178e217]: 
+                        - generic: 
+                      - generic [ref=f178e218]:
+                        - heading [level=3] [ref=f178e219]:
+                          - link "REGALO MATRÍCULA VMP, CASCO O CHALECO REFLECTANTE" [ref=f178e220] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1940-matricula-gratis-patinete-electrico-vmp.html
+                        - generic [ref=f178e222]:
+                          - link "0,00 €" [ref=f178e223] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1940-8488-matricula-gratis-patinete-electrico-vmp.html#/439-elige_regalo-matricula_vmp
+                          - text: 0,00 €
+                        - text:    
+                  - generic [ref=f178e225]:
+                    - generic [ref=f178e226]: Mostrando 1-4 de 4 artículo(s)
+                    - generic:
+                      - navigation
+              - text: 
+          - generic [ref=f178e227]:
+            - generic [ref=f178e229]:
+              - text:  
+              - generic [ref=f178e231]:
+                - complementary [ref=f178e232]:
+                  - heading "Marca" [level=4] [ref=f178e233]
+                  - list [ref=f178e234]:
+                    - listitem [ref=f178e235]:
+                      - generic [ref=f178e236]:
+                        - generic [ref=f178e237]:
+                          - checkbox "Masscity (2)" [ref=f178e238] [cursor=pointer]
+                          - generic [ref=f178e239] [cursor=pointer]: 
+                        - link "Masscity (2)" [ref=f178e240] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/54-masscity?q=Marca-Masscity
+                - complementary [ref=f178e241]:
+                  - heading "Precio" [level=4] [ref=f178e242]
+                  - list [ref=f178e243]:
+                    - listitem [ref=f178e244]:
+                      - paragraph [ref=f178e245]: 0,00 € - 1.649,00 €
+                      - generic [ref=f178e247]:
+                        - slider [ref=f178e250] [cursor=pointer]
+                        - slider [ref=f178e252] [cursor=pointer]
+                - complementary [ref=f178e254]:
+                  - heading "Potencia nominal" [level=4] [ref=f178e255]
+                  - list [ref=f178e256]:
+                    - listitem [ref=f178e257]:
+                      - generic [ref=f178e258]:
+                        - generic [ref=f178e259]:
+                          - checkbox "1000W (2)" [ref=f178e260] [cursor=pointer]
+                          - generic [ref=f178e261] [cursor=pointer]: 
+                        - link "1000W (2)" [ref=f178e262] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/54-masscity?q=Potencia+nominal-1000W
+                - complementary [ref=f178e263]:
+                  - heading "Motor tipo" [level=4] [ref=f178e264]
+                  - list [ref=f178e265]:
+                    - listitem [ref=f178e266]:
+                      - generic [ref=f178e267]:
+                        - generic [ref=f178e268]:
+                          - checkbox "Dual (2)" [ref=f178e269] [cursor=pointer]
+                          - generic [ref=f178e270] [cursor=pointer]: 
+                        - link "Dual (2)" [ref=f178e271] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/54-masscity?q=Motor+tipo-Dual
+                - complementary [ref=f178e272]:
+                  - heading "Batería capacidad" [level=4] [ref=f178e273]
+                  - list [ref=f178e274]:
+                    - listitem [ref=f178e275]:
+                      - generic [ref=f178e276]:
+                        - generic [ref=f178e277]:
+                          - checkbox "15,6Ah (1)" [ref=f178e278] [cursor=pointer]
+                          - generic [ref=f178e279] [cursor=pointer]: 
+                        - link "15,6Ah (1)" [ref=f178e280] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/54-masscity?q=Bater%C3%ADa+capacidad-15%2C6Ah
+                    - listitem [ref=f178e281]:
+                      - generic [ref=f178e282]:
+                        - generic [ref=f178e283]:
+                          - checkbox "21Ah (1)" [ref=f178e284] [cursor=pointer]
+                          - generic [ref=f178e285] [cursor=pointer]: 
+                        - link "21Ah (1)" [ref=f178e286] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/54-masscity?q=Bater%C3%ADa+capacidad-21Ah
+                - complementary [ref=f178e287]:
+                  - heading "Tamaño de rueda" [level=4] [ref=f178e288]
+                  - list [ref=f178e289]:
+                    - listitem [ref=f178e290]:
+                      - generic [ref=f178e291]:
+                        - generic [ref=f178e292]:
+                          - checkbox "10\" (1)" [ref=f178e293] [cursor=pointer]
+                          - generic [ref=f178e294] [cursor=pointer]: 
+                        - link "10\" (1)" [ref=f178e295] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/54-masscity?q=Tama%C3%B1o+de+rueda-10%22
+                    - listitem [ref=f178e296]:
+                      - generic [ref=f178e297]:
+                        - generic [ref=f178e298]:
+                          - checkbox "11\" (1)" [ref=f178e299] [cursor=pointer]
+                          - generic [ref=f178e300] [cursor=pointer]: 
+                        - link "11\" (1)" [ref=f178e301] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/54-masscity?q=Tama%C3%B1o+de+rueda-11%22
+                - complementary [ref=f178e302]:
+                  - heading "Peso" [level=4] [ref=f178e303]
+                  - list [ref=f178e304]:
+                    - listitem [ref=f178e305]:
+                      - generic [ref=f178e306]:
+                        - generic [ref=f178e307]:
+                          - checkbox "27 (1)" [ref=f178e308] [cursor=pointer]
+                          - generic [ref=f178e309] [cursor=pointer]: 
+                        - link "27 (1)" [ref=f178e310] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/54-masscity?q=peso-27
+                    - listitem [ref=f178e311]:
+                      - generic [ref=f178e312]:
+                        - generic [ref=f178e313]:
+                          - checkbox "36 (1)" [ref=f178e314] [cursor=pointer]
+                          - generic [ref=f178e315] [cursor=pointer]: 
+                        - link "36 (1)" [ref=f178e316] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/54-masscity?q=peso-36
+                - complementary [ref=f178e317]:
+                  - heading "Batería voltaje" [level=4] [ref=f178e318]
+                  - list [ref=f178e319]:
+                    - listitem [ref=f178e320]:
+                      - generic [ref=f178e321]:
+                        - generic [ref=f178e322]:
+                          - checkbox "48V (1)" [ref=f178e323] [cursor=pointer]
+                          - generic [ref=f178e324] [cursor=pointer]: 
+                        - link "48V (1)" [ref=f178e325] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/54-masscity?q=Bater%C3%ADa+voltaje+-48V
+                    - listitem [ref=f178e326]:
+                      - generic [ref=f178e327]:
+                        - generic [ref=f178e328]:
+                          - checkbox "52V (1)" [ref=f178e329] [cursor=pointer]
+                          - generic [ref=f178e330] [cursor=pointer]: 
+                        - link "52V (1)" [ref=f178e331] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/54-masscity?q=Bater%C3%ADa+voltaje+-52V
+            - 'link "Opiniones de productos           (4,7/5) Categoría : Masscity Basados en 7 calificación(es) y 6 opiniones del usuario Todas las opiniones >" [ref=f178e335] [cursor=pointer]':
+              - /url: https://www.imoveblue.es/module/gsnippetsreviews/reviews?list=1
+              - strong [ref=f178e336]: Opiniones de productos
+              - generic [ref=f178e337]:
+                - generic [ref=f178e339]:
+                  - generic "1" [ref=f178e340]: 
+                  - generic "2" [ref=f178e341]: 
+                  - generic "3" [ref=f178e342]: 
+                  - generic "4" [ref=f178e343]: 
+                  - generic "5" [ref=f178e344]: 
+                  - generic "6" [ref=f178e345]: 
+                  - generic "7" [ref=f178e346]: 
+                  - generic "8" [ref=f178e347]: 
+                  - generic "9" [ref=f178e348]: 
+                  - generic "10" [ref=f178e349]: 
+                - text: (4,7/5)
+                - strong [ref=f178e350]: "Categoría :"
+                - text: Masscity Basados en 7 calificación(es) y 6 opiniones del usuario
+              - text: Todas las opiniones >
+    - generic [ref=f178e351]:
+      - generic [ref=f178e354]:
+        - generic [ref=f178e355]:
+          - heading "Suscríbete y te regalamos 10€" [level=5] [ref=f178e356]
+          - generic [ref=f178e358]:
+            - generic [ref=f178e359]:
+              - textbox "Su dirección de correo electrónico" [ref=f178e360]
+              - button "Suscribirse" [disabled] [ref=f178e361]:
+                - generic [ref=f178e362]: 
+            - generic [ref=f178e365]:
+              - checkbox "Acepto los términos y condiciones y la política de privacidad. Lee los términos y condiciones de uso." [ref=f178e366] [cursor=pointer]
+              - generic [ref=f178e367] [cursor=pointer]: 
+              - generic [ref=f178e368]:
+                - text: Acepto los términos y condiciones y la política de privacidad.
+                - generic [ref=f178e369]:
+                  - link "Lee los términos y condiciones de uso" [ref=f178e370] [cursor=pointer]:
+                    - /url: https://www.imoveblue.es/content/2-aviso-legal
+                  - text: .
+        - list [ref=f178e372]:
+          - listitem [ref=f178e373]:
+            - link [ref=f178e374] [cursor=pointer]:
+              - /url: https://www.facebook.com/imoveblue/
+              - generic [ref=f178e375]: 
+          - listitem [ref=f178e376]:
+            - link [ref=f178e377] [cursor=pointer]:
+              - /url: https://twitter.com/imoveblue
+              - generic [ref=f178e378]: 
+          - listitem [ref=f178e379]:
+            - link [ref=f178e380] [cursor=pointer]:
+              - /url: https://www.instagram.com/imoveblue.es/
+              - generic [ref=f178e381]: 
+          - listitem [ref=f178e382]:
+            - link [ref=f178e383] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCFwHWdvgGT9VnTsA5MxFfWw
+              - generic [ref=f178e384]: 
+      - generic [ref=f178e387]:
+        - generic [ref=f178e388]:
+          - heading "Atención al cliente" [level=5] [ref=f178e389]
+          - generic [ref=f178e391]:
+            - generic [ref=f178e392]:
+              - strong [ref=f178e393]: "Imoveblue.es - NIF: ESJ01585108"
+              - generic [ref=f178e394]:
+                - generic [ref=f178e395]: 
+                - generic [ref=f178e397]: Apartado de Correos 5003 - 01015 Vitoria-Gasteiz, Euskadi
+              - separator [ref=f178e398]
+              - generic [ref=f178e399]:
+                - generic [ref=f178e400]: 
+                - link "+34 688 751 888" [ref=f178e403] [cursor=pointer]:
+                  - /url: tel:+34 688 751 888
+              - separator [ref=f178e404]
+              - generic [ref=f178e405]:
+                - generic [ref=f178e406]: 
+                - link "info@imoveblue.es" [ref=f178e409] [cursor=pointer]:
+                  - /url: mailto:info@imoveblue.es
+            - separator [ref=f178e410]
+            - generic [ref=f178e411]:
+              - paragraph [ref=f178e412]: Si necesitas asesoramiento o servicio postventa no dudes en contactar con nosotros. Nuestro equipo estará encantado de ayudarte.
+              - paragraph [ref=f178e413]: "Horario de atención al cliente verano: Lunes a Viernes de 10:00h a 15:00h"
+        - generic [ref=f178e414]:
+          - heading "Información" [level=5] [ref=f178e415]
+          - list [ref=f178e418]:
+            - listitem [ref=f178e419]:
+              - link " Contacto" [ref=f178e420] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/contactenos
+            - listitem [ref=f178e421]:
+              - link " Matricular patinete eléctrico VMP DGT" [ref=f178e422] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/14-matricular-patinete-electrico-vmp-dgt
+            - listitem [ref=f178e423]:
+              - link " Financiar patinete eléctrico" [ref=f178e424] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/12-financiar-patinete-electrico
+            - listitem [ref=f178e425]:
+              - link " Normativa VMP" [ref=f178e426] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/11-normativa-vmp
+            - listitem [ref=f178e427]:
+              - link " Postventa y Garantía" [ref=f178e428] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/13-postventa-y-garantia
+            - listitem [ref=f178e429]:
+              - link " Opiniones Trusted Shops" [ref=f178e430] [cursor=pointer]:
+                - /url: https://www.trustedshops.es/evaluacion/info_X7971BAC9A2BC178FCCBEA75B22E0AD86.html?utm_source=shop&utm_medium=link&utm_content=allRatings__full&utm_campaign=trustbadge_maximised
+            - listitem [ref=f178e431]:
+              - link " Opiniones Google" [ref=f178e432] [cursor=pointer]:
+                - /url: https://www.google.com/search?q=imovebblue+opiniones+google&oq=imovebblue+opiniones+google&aqs=chrome..69i57j33i160.3751j0j7&sourceid=chrome&ie=UTF-8#lrd=0xd4fc185e0cebe53:0x21a8560d6ea10371,1,,,,
+            - listitem [ref=f178e433]:
+              - link " Opiniones Trustpilot" [ref=f178e434] [cursor=pointer]:
+                - /url: https://es.trustpilot.com/review/www.imoveblue.es
+            - listitem [ref=f178e435]:
+              - link " Descuentos y promociones" [ref=f178e436] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/8-descuentos
+            - listitem [ref=f178e437]:
+              - link " Condiciones de compra y envío" [ref=f178e438] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/3-terminos-y-condiciones-de-uso
+            - listitem [ref=f178e439]:
+              - link " Pago seguro" [ref=f178e440] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/5-pago-seguro
+            - listitem [ref=f178e441]:
+              - link " Sobre nosotros" [ref=f178e442] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/4-sobre-nosotros
+            - listitem [ref=f178e443]:
+              - link " Talleres colaboradores" [ref=f178e444] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/10-talleres-colaboradores
+            - listitem [ref=f178e445]:
+              - link " Seguro para tu VMP" [ref=f178e446] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/15-seguro-patinete-electrico-vmp
+            - listitem [ref=f178e447]:
+              - link " Mapa del sitio" [ref=f178e448] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/mapa del sitio
+            - listitem [ref=f178e449]:
+              - link " Aviso legal y Protección de datos" [ref=f178e450] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/2-aviso-legal
+        - generic [ref=f178e451]:
+          - heading "Categorías de productos" [level=5] [ref=f178e452]
+          - list [ref=f178e455]:
+            - listitem [ref=f178e456]:
+              - link " Patinetes eléctricos" [ref=f178e457] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/13-patinete-electrico
+            - listitem [ref=f178e458]:
+              - link " Patinetes eléctricos certificados DGT" [ref=f178e459] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+            - listitem [ref=f178e460]:
+              - link " Motos eléctricas" [ref=f178e461] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/18-motos-electricas
+            - listitem [ref=f178e462]:
+              - link " Bicicletas eléctricas" [ref=f178e463] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/14-bicicletas-electricas
+            - listitem [ref=f178e464]:
+              - link " Monociclos eléctricos" [ref=f178e465] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/30-monociclos-electricos
+            - listitem [ref=f178e466]:
+              - link " Movilidad infantil" [ref=f178e467] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/26-movilidad-infantil
+            - listitem [ref=f178e468]:
+              - link " Estaciones de carga" [ref=f178e469] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/39-estaciones-de-carga
+            - listitem [ref=f178e470]:
+              - link " Accesorios VMP y ciclismo" [ref=f178e471] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/28-accesorios-vmp-ciclismo
+            - listitem [ref=f178e472]:
+              - link " Triciclos y movilidad reducida" [ref=f178e473] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/32-triciclos-electricos
+            - listitem [ref=f178e474]:
+              - link " Bicicletas" [ref=f178e475] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/31-bicicletas
+            - listitem [ref=f178e476]:
+              - link " Recambios" [ref=f178e477] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/20-recambios
+            - listitem [ref=f178e478]:
+              - link " Patinetes Dualtron DGT" [ref=f178e479] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/44-dualtron
+        - generic [ref=f178e480]:
+          - heading "Pago seguro garantizado 100%" [level=5] [ref=f178e481]
+          - generic [ref=f178e483]:
+            - paragraph [ref=f178e484]:
+              - img "Pago seguro garantizado - PLAZOX" [ref=f178e485]
+            - paragraph
+      - generic [ref=f178e489]:
+        - paragraph [ref=f178e490]:
+          - text: "Somos un tienda online especializada en movilidad sostenible:"
+          - link "Patinetes eléctricos" [ref=f178e491] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/13-patinetes-electricos
+          - text: ","
+          - link "motos eléctricas" [ref=f178e492] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/18-motos-electricas
+          - text: ","
+          - link "bicicletas eléctricas" [ref=f178e493] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/14-bicicletas-electricas
+          - text: ","
+          - link "remolques de bicicleta" [ref=f178e494] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/10-remolques-de-bicicleta
+          - text: ","
+          - link "quads eléctricos" [ref=f178e495] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/15-quads-electricos
+          - text: y mucho más.
+        - paragraph [ref=f178e496]:
+          - emphasis [ref=f178e497]:
+            - 'link "Diseño web ecommerce: Rp Imagen" [ref=f178e498] [cursor=pointer]':
+              - /url: https://www.rpimagen.com/
+  - generic [ref=f178e500]:
+    - paragraph [ref=f178e504]: Tu privacidad, tu consentimiento
+    - paragraph [ref=f178e505]:
+      - text: En UJ Solutions SC utilizamos cookies y tecnologías similares para mejorar su experiencia y medir sus interacciones con nuestro sitio web. También los usamos para servirle información más relevante en búsquedas y en anuncios en este y otros sitios.
+      - generic [ref=f178e506]:
+        - text: Lee más en nuestra
+        - link "Política de Cookies" [ref=f178e507] [cursor=pointer]:
+          - /url: https://www.imoveblue.es/content/2-aviso-legal
+    - generic [ref=f178e508]:
+      - generic [ref=f178e510] [cursor=pointer]:
+        - generic [ref=f178e511]: Ajusta tus preferencias de cookies
+        - img "Arrow" [ref=f178e512]
+      - generic:
+        - generic:
+          - generic [ref=f178e513]:
+            - generic [ref=f178e514]:
+              - generic [ref=f178e515]: Técnicas (obligatorias)
+              - generic [ref=f178e516]:
+                - generic [ref=f178e517]: i
+                - generic [ref=f178e520]:
+                  - img "lock"
+            - generic [ref=f178e521]:
+              - generic [ref=f178e522]: Preferencias
+              - generic [ref=f178e523]:
+                - generic [ref=f178e524]: i
+                - checkbox [ref=f178e528] [cursor=pointer]
+            - generic [ref=f178e529]:
+              - generic [ref=f178e530]: Estadísticas
+              - generic [ref=f178e531]:
+                - generic [ref=f178e532]: i
+                - checkbox [ref=f178e536] [cursor=pointer]
+            - generic [ref=f178e537]:
+              - generic [ref=f178e538]: Marketing
+              - generic [ref=f178e539]:
+                - generic [ref=f178e540]: i
+                - checkbox [ref=f178e544] [cursor=pointer]
+          - button "Guardar configuración personalizada de cookies" [ref=f178e545] [cursor=pointer]
+    - generic [ref=f178e546]:
+      - generic [ref=f178e548] [cursor=pointer]:
+        - button "RECHAZAR LAS NO NECESARIAS" [ref=f178e549]
+        - generic [ref=f178e550]: Rechazar las cookies que no son extrictamente necesarias para el correcto funcionamiento de la web.
+      - generic [ref=f178e552] [cursor=pointer]:
+        - button "ACEPTAR TODAS" [ref=f178e553]
+        - generic [ref=f178e554]: Habilitar todas las cookies y tecnologías disponibles para mejorar la experiencia.
+    - link "powered by Visible Privacy Logo" [ref=f178e555] [cursor=pointer]:
+      - /url: https://www.visibleprivacy.com/
+      - generic [ref=f178e556]: powered by
+      - img "Visible Privacy Logo" [ref=f178e557]
+  - generic [ref=f178e558]:
+    - button "Sello de Calidad de Trusted Shops Protección al Comprador 4,32 (682) Bueno Trstd Login" [ref=f178e559] [cursor=pointer]:
+      - generic [ref=f178e560]:
+        - img "Sello de Calidad de Trusted Shops" [ref=f178e561]
+        - generic [ref=f178e562]: Protección al Comprador
+      - generic [ref=f178e564]:
+        - generic [ref=f178e565]:
+          - generic [ref=f178e566]: 4,32
+          - generic [ref=f178e568]: (682)
+        - generic [ref=f178e569]: Bueno
+      - switch "Trstd Login" [ref=f178e571]
+    - button "Menú" [ref=f178e573] [cursor=pointer]

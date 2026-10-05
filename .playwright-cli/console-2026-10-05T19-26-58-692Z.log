@@ -1,0 +1,9 @@
+[     455ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://tallerdelpatinete.es/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:1
+[    1022ms] [WARNING] Unrecognized feature: 'web-share'. @ https://tallerdelpatinete.es/:6192
+[    2583ms] [LOG] [GTM4WP] Pushing ecommerce event: view_item_list {event: view_item_list, ecommerce: Object} @ https://tallerdelpatinete.es/wp-content/plugins/duracelltomi-google-tag-manager/build/gtm4wp-ecommerce-generic.js?ver=2.0.3:0
+[    2588ms] [LOG] [GTM4WP] Pushing ecommerce event: view_item_list {event: view_item_list, ecommerce: Object} @ https://tallerdelpatinete.es/wp-content/plugins/duracelltomi-google-tag-manager/build/gtm4wp-ecommerce-generic.js?ver=2.0.3:0
+[    2591ms] [LOG] [GTM4WP] Pushing ecommerce event: view_item_list {event: view_item_list, ecommerce: Object} @ https://tallerdelpatinete.es/wp-content/plugins/duracelltomi-google-tag-manager/build/gtm4wp-ecommerce-generic.js?ver=2.0.3:0
+[    2595ms] [LOG] [GTM4WP] Pushing ecommerce event: view_item_list {event: view_item_list, ecommerce: Object} @ https://tallerdelpatinete.es/wp-content/plugins/duracelltomi-google-tag-manager/build/gtm4wp-ecommerce-generic.js?ver=2.0.3:0
+[    2599ms] [LOG] [GTM4WP] Pushing ecommerce event: view_item_list {event: view_item_list, ecommerce: Object} @ https://tallerdelpatinete.es/wp-content/plugins/duracelltomi-google-tag-manager/build/gtm4wp-ecommerce-generic.js?ver=2.0.3:0
+[    2655ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "username"): (More info: https://goo.gl/9p2vKq) %o @ https://tallerdelpatinete.es/:0
+[    3447ms] [LOG] Can't find any placeholders for pricetags. @ https://pricetag.viabill.com/script/SivrLZ7yqEY%3D:0

@@ -1,0 +1,581 @@
+- generic [ref=f122e1]:
+  - generic [ref=f122e4]:
+    - generic:
+      - link "logo":
+        - /url: /
+        - img "logo"
+    - textbox "¿Qué estás buscando?" [ref=f122e6]
+    - generic [ref=f122e7]:
+      - generic [ref=f122e8]: "0"
+      - button [ref=f122e13] [cursor=pointer]
+  - region "Ventajas de comprar en Patinete Store" [ref=f122e14]:
+    - generic [ref=f122e16]:
+      - generic [ref=f122e17]:
+        - generic [ref=f122e18]: ALMACÉN EN ESPAÑA
+        - generic [ref=f122e19]: ENVÍOS EN 24-48 HORAS
+        - generic [ref=f122e20]: •
+        - generic [ref=f122e21]: TIENDA Nº1 DE PATINETES EN ESPAÑA
+        - generic [ref=f122e22]: •
+        - generic [ref=f122e23]: ★
+        - link "+2.500 RESEÑAS EN GOOGLE" [ref=f122e24] [cursor=pointer]:
+          - /url: https://share.google/RuIHo1gsaQe1QaF8z
+        - generic [ref=f122e25]: •
+        - generic [ref=f122e26]:
+          - text: ¡VINILO
+          - generic [ref=f122e27]: GRATIS
+          - text: CON LA COMPRA DE TU PATINETE!
+      - generic [ref=f122e28]:
+        - generic [ref=f122e29]: ALMACÉN EN ESPAÑA
+        - generic [ref=f122e30]: ENVÍOS EN 24-48 HORAS
+        - generic [ref=f122e31]: •
+        - generic [ref=f122e32]: TIENDA Nº1 DE PATINETES EN ESPAÑA
+        - generic [ref=f122e33]: •
+        - generic [ref=f122e34]: ★
+        - generic [ref=f122e35]: +2.500 RESEÑAS EN GOOGLE
+        - generic [ref=f122e36]: •
+        - generic [ref=f122e37]:
+          - text: ¡VINILO
+          - generic [ref=f122e38]: GRATIS
+          - text: CON LA COMPRA DE TU PATINETE!
+  - link "Saltar al contenido" [ref=f122e39] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=f122e40]:
+    - banner [ref=f122e41]:
+      - generic [ref=f122e42]:
+        - text:   
+        - navigation [ref=f122e44]:
+          - link [ref=f122e46] [cursor=pointer]:
+            - /url: https://patinetestore.com/
+            - img "Patinete Store | Venta de patinetes eléctricos y repuestos de patinete" [ref=f122e47]
+          - list [ref=f122e49]:
+            - listitem [ref=f122e50]:
+              - button "Menú" [ref=f122e51] [cursor=pointer]:
+                - generic [ref=f122e52]: 
+          - text:  
+          - list [ref=f122e54]:
+            - listitem [ref=f122e55]:
+              - button "Ver carrito" [ref=f122e56] [cursor=pointer]:
+                - generic [ref=f122e57]: 
+        - text:     
+        - search "Buscar productos" [ref=f122e63]:
+          - searchbox "Buscar" [ref=f122e65]
+    - navigation [ref=f122e70]:
+      - generic [ref=f122e71]:
+        - link "Patinetes eléctricos" [ref=f122e72] [cursor=pointer]:
+          - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/
+        - text: »
+        - link "IceQ" [ref=f122e73] [cursor=pointer]:
+          - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/iceq/
+    - main [ref=f122e75]:
+      - generic [ref=f122e78]:
+        - generic [ref=f122e80]:
+          - link [ref=f122e88] [cursor=pointer]:
+            - /url: https://patinetestore.com/wp-content/uploads/2026/01/iceq-EVO5AMARILLO.jpg
+            - img "ICe Q5 EVO 60V 26Ah 2026 DGT Amarillo" [ref=f122e89]
+          - generic [ref=f122e90]:
+            - heading "ICe Q5 EVO 60V 26Ah 2026 DGT Amarillo" [level=1] [ref=f122e91]
+            - paragraph [ref=f122e93]:
+              - generic [ref=f122e95]:
+                - generic [ref=f122e96]: €
+                - text: 1.599,00
+            - note [ref=f122e98]:
+              - strong [ref=f122e101]: Envío en 24-48 horas
+            - generic [ref=f122e102]:
+              - img "🚚" [ref=f122e104]
+              - generic [ref=f122e105]: Envío gratis. Recíbelo el 13 de octubre
+            - paragraph [ref=f122e107]:
+              - text: El
+              - strong [ref=f122e108]: ICe Q5 EVO 2026
+              - text: es el patinete eléctrico perfecto si quieres
+              - strong [ref=f122e109]: potencia real, hasta 100 km de autonomía y total legalidad VMP DGT
+              - text: . Doble motor, frenos hidráulicos NUTT, batería 60V y diseño reforzado para ir cómodo, seguro y con flow por la ciudad. Un patinete serio, potente y fiable, disponible en
+              - strong [ref=f122e110]: PatineteStore
+              - text: .
+            - generic [ref=f122e111]:
+              - generic [ref=f122e113]:
+                - heading "Datos necesarios para la Gestión DGT" [level=3] [ref=f122e114]
+                - paragraph [ref=f122e115]: Completa estos datos para que podamos gestionar el alta DGT correctamente.
+                - generic [ref=f122e116]:
+                  - generic [ref=f122e117]: ¿tienes Clave movil o certificado digital? *
+                  - combobox "¿tienes Clave movil o certificado digital? *" [ref=f122e118]:
+                    - option "Selecciona una opción" [selected]
+                    - option "Tengo Clave movil"
+                    - option "Tengo certificado digital"
+                    - option "No tengo ninguna"
+                - generic [ref=f122e119]:
+                  - generic [ref=f122e120]: Adjunto DNI cara A *
+                  - generic [ref=f122e121]:
+                    - button "Adjunto DNI cara A *" [ref=f122e122]
+                    - button "Seleccionar archivo" [ref=f122e123] [cursor=pointer]
+                    - generic [ref=f122e124]: Ningún archivo seleccionado
+                - generic [ref=f122e125]:
+                  - generic [ref=f122e126]: Adjunto DNI cara B *
+                  - generic [ref=f122e127]:
+                    - button "Adjunto DNI cara B *" [ref=f122e128]
+                    - button "Seleccionar archivo" [ref=f122e129] [cursor=pointer]
+                    - generic [ref=f122e130]: Ningún archivo seleccionado
+              - generic [ref=f122e131]:
+                - generic [ref=f122e132]:
+                  - generic [ref=f122e133]: TUNEA TU PATINETE
+                  - generic [ref=f122e136] [cursor=pointer]:
+                    - generic [ref=f122e137]:
+                      - button [ref=f122e138]:
+                        - img "Mando Limitador / Deslimitador IceQ" [ref=f122e139]
+                      - generic [ref=f122e140]: Mando Limitador / Deslimitador IceQ
+                      - generic [ref=f122e142]: +99,99 €
+                    - radio
+                    - radio [checked]
+                - text: ✔ ✖
+                - generic [ref=f122e146]:
+                  - generic [ref=f122e147]: TRÁMITES NECESARIOS PARA CIRCULAR LEGALMENTE
+                  - generic [ref=f122e154]:
+                    - generic [ref=f122e155]:
+                      - checkbox "Matrícula DGT MATRICULAR MI PATINETE Una vez tengas el patinete inscrito en la DGT contacta con nosotros y te enviaremos tu matrícula homologada. 9,90 €"
+                      - generic [ref=f122e157] [cursor=pointer]:
+                        - img "Matrícula DGT" [ref=f122e161]
+                        - generic [ref=f122e162]:
+                          - generic [ref=f122e163]: MATRICULAR MI PATINETE
+                          - generic [ref=f122e164]: Una vez tengas el patinete inscrito en la DGT contacta con nosotros y te enviaremos tu matrícula homologada.
+                        - generic [ref=f122e165]: 9,90 €
+                    - generic [ref=f122e167]:
+                      - checkbox "Seguro patinete ASEGURAR EL PATINETE Desde 3,40€/mes Una vez adquieras el patinete, te contactaremos para ayudarte en la gestión del alta de tu seguro obligatorio. Desde 3,40€/mes"
+                      - generic [ref=f122e169] [cursor=pointer]:
+                        - img "Seguro patinete" [ref=f122e173]
+                        - generic [ref=f122e174]:
+                          - generic [ref=f122e175]: ASEGURAR EL PATINETE
+                          - generic [ref=f122e176]: Desde 3,40€/mes
+                          - generic [ref=f122e177]: Una vez adquieras el patinete, te contactaremos para ayudarte en la gestión del alta de tu seguro obligatorio.
+                        - generic [ref=f122e178]: Desde 3,40€/mes
+                - generic [ref=f122e180]:
+                  - generic [ref=f122e181]:
+                    - strong [ref=f122e182]: Tu configuración
+                    - generic [ref=f122e183]: Revisa qué incluye tu patinete antes de añadirlo al carrito.
+                  - generic [ref=f122e184]:
+                    - generic [ref=f122e185]: ICe Q5 EVO 60V 26Ah 2026 DGT Amarillo
+                    - strong [ref=f122e186]: 1.599,00 €
+                  - generic [ref=f122e188]: Selecciona mejoras, accesorios o servicios y aparecerán aquí.
+                  - generic [ref=f122e189]:
+                    - generic [ref=f122e190]: Mejoras y servicios
+                    - strong [ref=f122e191]: 0,00 €
+                  - generic [ref=f122e192]:
+                    - generic [ref=f122e193]: Precio total
+                    - generic [ref=f122e194]: 1.599,00 €
+              - button "Añadir al carrito" [ref=f122e195] [cursor=pointer]
+              - button "Comprar ahora" [ref=f122e196] [cursor=pointer]
+            - generic [ref=f122e197]:
+              - generic [ref=f122e198]: "SKU: 14995-1"
+              - generic [ref=f122e199]:
+                - text: "Categorías:"
+                - link "IceQ" [ref=f122e200] [cursor=pointer]:
+                  - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/iceq/
+                - text: ","
+                - link "Patinetes eléctricos" [ref=f122e201] [cursor=pointer]:
+                  - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/
+              - generic [ref=f122e202]:
+                - text: "Marca:"
+                - link "IceQ" [ref=f122e203] [cursor=pointer]:
+                  - /url: https://patinetestore.com/marca/iceq/
+          - text:                                
+        - region "Vídeos del producto" [ref=f122e204]:
+          - heading "Vídeos del producto" [level=2] [ref=f122e205]
+          - generic [ref=f122e206]:
+            - list [ref=f122e207]:
+              - listitem [ref=f122e208]:
+                - generic [ref=f122e209]:
+                  - iframe [ref=f122e215]:
+                    - region "TikTok video player" [ref=f125e1]:
+                      - generic [ref=f125e2]:
+                        - img "Video Cover"
+                      - link "Visit patinetestore's video on TikTok" [ref=f125e6] [cursor=pointer]:
+                        - /url: https://www.tiktok.com/@patinetestore/video/7607917761183960342?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7607917761183960342%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7607917761183960342
+                      - link "Visit PATINETE STORE 🏁' profile on TikTok" [ref=f125e8] [cursor=pointer]:
+                        - /url: https://www.tiktok.com/@patinetestore?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7607917761183960342%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7607917761183960342
+                        - generic [ref=f125e11]:
+                          - generic [ref=f125e12]: PATINETE STORE 🏁
+                          - generic [ref=f125e13]: patinetestore
+                      - button "Play video" [ref=f125e15] [cursor=pointer]
+                      - generic [ref=f125e17]:
+                        - slider "Seek video" [ref=f125e19]
+                        - generic [ref=f125e21]:
+                          - generic [ref=f125e22]:
+                            - button "Play" [ref=f125e23] [cursor=pointer]
+                            - generic [ref=f125e26]:
+                              - button "Mute" [ref=f125e27] [cursor=pointer]
+                              - slider "Volume" [ref=f125e31] [cursor=pointer]
+                            - generic [ref=f125e34]: 00:00/02:59
+                          - generic [ref=f125e35]:
+                            - button "Show Closed Caption" [ref=f125e37] [cursor=pointer]
+                            - button "Settings" [ref=f125e41] [cursor=pointer]
+                            - button "Enter fullscreen" [ref=f125e47] [cursor=pointer]
+                      - generic [ref=f125e50]:
+                        - link "Like this post on TikTok" [ref=f125e51] [cursor=pointer]:
+                          - /url: https://www.tiktok.com/@patinetestore/video/7607917761183960342?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7607917761183960342%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7607917761183960342
+                          - generic [ref=f125e54]: "1438"
+                        - link "Comment this post on TikTok" [ref=f125e55] [cursor=pointer]:
+                          - /url: https://www.tiktok.com/@patinetestore/video/7607917761183960342?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7607917761183960342%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7607917761183960342
+                          - generic [ref=f125e58]: "45"
+                        - link "Share this post on TikTok" [ref=f125e59] [cursor=pointer]:
+                          - /url: https://www.tiktok.com/@patinetestore/video/7607917761183960342?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7607917761183960342%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7607917761183960342
+                          - generic [ref=f125e62]: "67"
+                  - generic [ref=f122e216]:
+                    - heading "Vídeo 1 de ICe Q5 EVO 60V 26Ah 2026 DGT Amarillo" [level=3] [ref=f122e217]
+                    - paragraph [ref=f122e218]: Vídeo 1 sobre ICe Q5 EVO 60V 26Ah 2026 DGT Amarillo. Review, funcionamiento y detalles del producto.
+              - listitem [ref=f122e219]:
+                - generic [ref=f122e220]:
+                  - iframe [ref=f122e226]:
+                    - region "TikTok video player" [ref=f126e1]:
+                      - generic [ref=f126e2]:
+                        - img "Video Cover"
+                      - link "Visit patinetestore's video on TikTok" [ref=f126e6] [cursor=pointer]:
+                        - /url: https://www.tiktok.com/@patinetestore/video/7603818874794036502?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7603818874794036502%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7603818874794036502
+                      - link "Visit PATINETE STORE 🏁' profile on TikTok" [ref=f126e8] [cursor=pointer]:
+                        - /url: https://www.tiktok.com/@patinetestore?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7603818874794036502%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7603818874794036502
+                        - generic [ref=f126e11]:
+                          - generic [ref=f126e12]: PATINETE STORE 🏁
+                          - generic [ref=f126e13]: patinetestore
+                      - button "Play video" [ref=f126e15] [cursor=pointer]
+                      - generic [ref=f126e17]:
+                        - slider "Seek video" [ref=f126e19]
+                        - generic [ref=f126e21]:
+                          - generic [ref=f126e22]:
+                            - button "Play" [ref=f126e23] [cursor=pointer]
+                            - generic [ref=f126e26]:
+                              - button "Mute" [ref=f126e27] [cursor=pointer]
+                              - slider "Volume" [ref=f126e31] [cursor=pointer]
+                            - generic [ref=f126e34]: 00:00/00:16
+                          - generic [ref=f126e35]:
+                            - button "Show Closed Caption" [ref=f126e37] [cursor=pointer]
+                            - button "Settings" [ref=f126e41] [cursor=pointer]
+                            - button "Enter fullscreen" [ref=f126e47] [cursor=pointer]
+                      - generic [ref=f126e50]:
+                        - link "Like this post on TikTok" [ref=f126e51] [cursor=pointer]:
+                          - /url: https://www.tiktok.com/@patinetestore/video/7603818874794036502?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7603818874794036502%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7603818874794036502
+                          - generic [ref=f126e54]: "1063"
+                        - link "Comment this post on TikTok" [ref=f126e55] [cursor=pointer]:
+                          - /url: https://www.tiktok.com/@patinetestore/video/7603818874794036502?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7603818874794036502%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7603818874794036502
+                          - generic [ref=f126e58]: "21"
+                        - link "Share this post on TikTok" [ref=f126e59] [cursor=pointer]:
+                          - /url: https://www.tiktok.com/@patinetestore/video/7603818874794036502?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7603818874794036502%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7603818874794036502
+                          - generic [ref=f126e62]: "18"
+                  - generic [ref=f122e227]:
+                    - heading "Vídeo 2 de ICe Q5 EVO 60V 26Ah 2026 DGT Amarillo" [level=3] [ref=f122e228]
+                    - paragraph [ref=f122e229]: Vídeo 2 sobre ICe Q5 EVO 60V 26Ah 2026 DGT Amarillo. Review, funcionamiento y detalles del producto.
+            - generic "Cambiar vídeo" [ref=f122e230]:
+              - button "1" [ref=f122e231] [cursor=pointer]
+              - button "2" [ref=f122e232] [cursor=pointer]
+        - generic [ref=f122e234]:
+          - generic [ref=f122e236]:
+            - generic [ref=f122e237]:
+              - heading "Características técnicas" [level=2] [ref=f122e238]
+              - generic [ref=f122e239]: de ICe Q5 EVO 60V 26Ah 2026 DGT Amarillo
+            - generic [ref=f122e240]:
+              - generic [ref=f122e241]:
+                - img "Dos motores" [ref=f122e242]
+                - generic [ref=f122e243]: Dos motores
+                - generic [ref=f122e244]: 500W + 500W (1000W total / 1400W pico)
+              - generic [ref=f122e245]:
+                - img "Batería" [ref=f122e246]
+                - generic [ref=f122e247]: Batería
+                - generic [ref=f122e248]: Hasta 100 km (60V 26Ah)
+              - generic [ref=f122e249]:
+                - img "Velocidad" [ref=f122e250]
+                - generic [ref=f122e251]: Velocidad
+                - generic [ref=f122e252]: 25 km/h (máxima deslimitada no especificada)
+              - generic [ref=f122e253]:
+                - img "Deslimitar" [ref=f122e254]
+                - generic [ref=f122e255]: Deslimitar
+                - generic [ref=f122e256]: Mandito limitador/deslimitador
+              - generic [ref=f122e257]:
+                - img "Frenos" [ref=f122e258]
+                - generic [ref=f122e259]: Frenos
+                - generic [ref=f122e260]: Frenos hidráulicos NUTT
+              - generic [ref=f122e261]:
+                - img "Neumáticos" [ref=f122e262]
+                - generic [ref=f122e263]: Neumáticos
+                - generic [ref=f122e264]: 10 x 3,25" neumáticos de aire
+              - generic [ref=f122e265]:
+                - img "Peso" [ref=f122e266]
+                - generic [ref=f122e267]: Peso
+                - generic [ref=f122e268]: 32 kg
+          - generic [ref=f122e270]:
+            - generic [ref=f122e271]:
+              - link [expanded] [ref=f122e272] [cursor=pointer]:
+                - /url: "#accordion-item-description"
+                - button "Toggle" [ref=f122e273]:
+                  - generic [ref=f122e274]: 
+                - text: Descripción
+              - generic "Toggle Descripción" [ref=f122e275]:
+                - paragraph [ref=f122e276]:
+                  - text: Si buscas un
+                  - strong [ref=f122e277]: patinete eléctrico potente, fiable y con autonomía real
+                  - text: ", el"
+                  - strong [ref=f122e278]: ICe Q5 EVO 60V 26Ah V.2026
+                  - text: es justo lo que necesitas. Este modelo llega como la evolución definitiva del Q5 EVO, mejorando batería, estructura y sensaciones de conducción.
+                - paragraph [ref=f122e279]:
+                  - text: Gracias a su
+                  - strong [ref=f122e280]: doble motor de 500W (1000W en total)
+                  - text: ", el Q5 EVO 2026 acelera con fuerza, sube cuestas sin problema y mantiene una conducción estable en todo momento. Todo ello"
+                  - strong [ref=f122e281]: limitado de fábrica a 25 km/h
+                  - text: ", con"
+                  - strong [ref=f122e282]: certificado VMP oficial de la DGT
+                  - text: ", para que puedas circular tranquilo y sin líos."
+                - paragraph [ref=f122e283]:
+                  - text: La
+                  - strong [ref=f122e284]: batería de 60V y 26Ah
+                  - text: "marca la diferencia: hasta"
+                  - strong [ref=f122e285]: 100 km de autonomía
+                  - text: ", ideal tanto para trayectos diarios largos como para rutas más intensas sin estar pendiente del cargador. Además, admite"
+                  - strong [ref=f122e286]: doble cargador
+                  - text: ", reduciendo el tiempo de carga casi a la mitad."
+                - paragraph [ref=f122e287]:
+                  - text: "En seguridad no se queda corto: monta"
+                  - strong [ref=f122e288]: frenos hidráulicos NUTT
+                  - text: ", neumáticos de aire"
+                  - strong [ref=f122e289]: 10” x 3,25
+                  - text: ", mástil reforzado y una estructura sólida que transmite confianza desde el primer metro. El confort lo pone su plataforma amplia y las suspensiones optimizadas."
+                - paragraph [ref=f122e290]:
+                  - text: El
+                  - strong [ref=f122e291]: display a color con llave NFC
+                  - text: te muestra velocidad, batería, kilómetros y modos de uso de forma clara, mientras que el
+                  - strong [ref=f122e292]: sistema completo de iluminación LED
+                  - text: ", intermitentes y luz de freno te hacen visible de día y de noche."
+                - paragraph [ref=f122e293]:
+                  - text: El
+                  - strong [ref=f122e294]: ICe Q5 EVO 2026
+                  - text: es un patinete eléctrico pensado para quien quiere
+                  - strong [ref=f122e295]: potencia, autonomía y seguridad
+                  - text: ", sin renunciar al diseño ni a la legalidad. Un modelo top para dominar la ciudad con estilo."
+                - table [ref=f122e296]:
+                  - rowgroup [ref=f122e297]:
+                    - row [ref=f122e298]:
+                      - columnheader "Característica" [ref=f122e299]
+                      - columnheader "Especificación" [ref=f122e300]
+                  - rowgroup [ref=f122e301]:
+                    - row [ref=f122e302]:
+                      - cell "Certificación" [ref=f122e303]
+                      - cell "VMP DGT oficial" [ref=f122e304]
+                    - row [ref=f122e305]:
+                      - cell "Batería" [ref=f122e306]
+                      - cell "60V – 26Ah" [ref=f122e307]
+                    - row [ref=f122e308]:
+                      - cell "Autonomía" [ref=f122e309]
+                      - cell "Hasta 100 km" [ref=f122e310]
+                    - row [ref=f122e311]:
+                      - cell "Motores" [ref=f122e312]
+                      - cell "2 x 500W" [ref=f122e313]
+                    - row [ref=f122e314]:
+                      - cell "Potencia máxima" [ref=f122e315]
+                      - cell "Pico hasta 1400W" [ref=f122e316]
+                    - row [ref=f122e317]:
+                      - cell "Velocidad máxima" [ref=f122e318]
+                      - cell "25 km/h (limitado de fábrica)" [ref=f122e319]
+                    - row [ref=f122e320]:
+                      - cell "Frenos" [ref=f122e321]
+                      - cell "Disco hidráulico NUTT" [ref=f122e322]
+                    - row [ref=f122e323]:
+                      - cell "Neumáticos" [ref=f122e324]
+                      - cell "Aire 10” x 3,25" [ref=f122e325]
+                    - row [ref=f122e326]:
+                      - cell "Peso" [ref=f122e327]
+                      - cell "32 kg" [ref=f122e328]
+                    - row [ref=f122e329]:
+                      - cell "Display" [ref=f122e330]
+                      - cell "Pantalla color con llave NFC" [ref=f122e331]
+                    - row [ref=f122e332]:
+                      - cell "Iluminación" [ref=f122e333]
+                      - cell "LED base, foco delantero, intermitentes, luz de freno" [ref=f122e334]
+                    - row [ref=f122e335]:
+                      - cell "Sistema de plegado" [ref=f122e336]
+                      - cell "Rápido + bloqueo de mástil" [ref=f122e337]
+                    - row [ref=f122e338]:
+                      - cell "Garantía" [ref=f122e339]
+                      - cell "3 años" [ref=f122e340]
+                    - row [ref=f122e341]:
+                      - cell "Uso recomendado" [ref=f122e342]
+                      - cell "Urbano y trayectos largos" [ref=f122e343]
+                - heading [level=2] [ref=f122e344]:
+                  - img "⚔️" [ref=f122e345]
+                  - text: Comparativa ICe Q5 EVO 2026 vs ICe Q5 EVO 2025
+                - table [ref=f122e348]:
+                  - rowgroup [ref=f122e349]:
+                    - row [ref=f122e350]:
+                      - columnheader "Característica" [ref=f122e351]
+                      - columnheader "Q5 EVO 2025" [ref=f122e352]
+                      - columnheader "Q5 EVO 2026" [ref=f122e353]
+                  - rowgroup [ref=f122e354]:
+                    - row [ref=f122e355]:
+                      - cell "Batería" [ref=f122e356]
+                      - cell "Menor capacidad" [ref=f122e357]
+                      - cell "60V 26Ah" [ref=f122e358]
+                    - row [ref=f122e359]:
+                      - cell "Autonomía" [ref=f122e360]
+                      - cell "Inferior" [ref=f122e361]
+                      - cell "Hasta 100 km" [ref=f122e362]
+                    - row [ref=f122e363]:
+                      - cell "Display" [ref=f122e364]
+                      - cell "Básico" [ref=f122e365]
+                      - cell "Color + NFC" [ref=f122e366]
+                    - row [ref=f122e367]:
+                      - cell "Iluminación" [ref=f122e368]
+                      - cell "Estándar" [ref=f122e369]
+                      - cell "LED completo + intermitentes" [ref=f122e370]
+                    - row [ref=f122e371]:
+                      - cell "Estructura" [ref=f122e372]
+                      - cell "Correcta" [ref=f122e373]
+                      - cell "Horquillas y mástil reforzados" [ref=f122e374]
+                    - row [ref=f122e375]:
+                      - cell "Estabilidad" [ref=f122e376]
+                      - cell "Buena" [ref=f122e377]
+                      - cell "Muy superior" [ref=f122e378]
+                    - row [ref=f122e379]:
+                      - cell "Seguridad" [ref=f122e380]
+                      - cell "Alta" [ref=f122e381]
+                      - cell "Frenos NUTT + mejor control" [ref=f122e382]
+                    - row [ref=f122e383]:
+                      - cell "Experiencia de conducción" [ref=f122e384]
+                      - cell "Correcta" [ref=f122e385]
+                      - cell "Más potente, cómoda y estable" [ref=f122e386]
+                - paragraph [ref=f122e387]:
+                  - strong [ref=f122e388]: "Conclusión:"
+                  - text: el
+                  - strong [ref=f122e389]: ICe Q5 EVO 2026
+                  - text: mejora claramente en
+                  - strong [ref=f122e390]: autonomía, seguridad, tecnología y sensaciones
+                  - text: ", convirtiéndose en una opción mucho más completa y preparada para usuarios exigentes."
+            - generic: 
+          - generic [ref=f122e391]:
+            - heading "Más IceQ que te pueden interesar:" [level=2] [ref=f122e392]
+            - generic [ref=f122e393]:
+              - generic [ref=f122e395]:
+                - generic [ref=f122e396]: OFERTÓN!
+                - generic [ref=f122e397]:
+                  - generic [ref=f122e398]:
+                    - generic:
+                      - link "ICe Q3 EVO 48V 15,6Ah 2026 DGT Amarillo":
+                        - /url: https://patinetestore.com/producto/ice-q3-evo-48v-156ah-2026-dgt-amarillo/
+                        - img "ICe Q3 EVO 48V 15,6Ah 2026 DGT Amarillo" [ref=f122e399] [cursor=pointer]
+                    - generic:
+                      - button "Vista Rápida"
+                  - generic [ref=f122e400]:
+                    - generic [ref=f122e401]:
+                      - generic [ref=f122e402]: Envío en 24-48 horas
+                      - paragraph [ref=f122e405]:
+                        - link "ICe Q3 EVO 48V 15,6Ah 2026 DGT Amarillo" [ref=f122e406] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/ice-q3-evo-48v-156ah-2026-dgt-amarillo/
+                    - generic [ref=f122e408]:
+                      - deletion [ref=f122e409]:
+                        - generic [ref=f122e410]: €1.100,00
+                      - generic [ref=f122e412]: "El precio original era: €1.100,00."
+                      - insertion [ref=f122e413]:
+                        - generic [ref=f122e414]: €999,00
+                      - generic [ref=f122e416]: "El precio actual es: €999,00."
+              - generic [ref=f122e420]:
+                - generic [ref=f122e421]:
+                  - generic:
+                    - link "ICe Q5 EVO 52V 23Ah 2026 DGT Rojo":
+                      - /url: https://patinetestore.com/producto/ice-q5-evo-60v-26ah-2026-dgt/
+                      - img "ICe Q5 EVO 52V 23Ah 2026 DGT Rojo" [ref=f122e422] [cursor=pointer]
+                  - generic:
+                    - button "Vista Rápida"
+                - generic [ref=f122e423]:
+                  - generic [ref=f122e424]:
+                    - generic [ref=f122e425]: Envío en 24-48 horas
+                    - paragraph [ref=f122e428]:
+                      - link "ICe Q5 EVO 60V 26Ah 2026 DGT Rojo" [ref=f122e429] [cursor=pointer]:
+                        - /url: https://patinetestore.com/producto/ice-q5-evo-60v-26ah-2026-dgt/
+                  - generic [ref=f122e430]: €1.599,00
+              - generic [ref=f122e437]:
+                - generic [ref=f122e438]:
+                  - generic:
+                    - link "ICe Q5 EVO 52V 23Ah 2026 DGT Rojo":
+                      - /url: https://patinetestore.com/producto/ice-q5-evo-52v-23ah-2026-dgt-rojo/
+                      - img "ICe Q5 EVO 52V 23Ah 2026 DGT Rojo" [ref=f122e439] [cursor=pointer]
+                  - generic:
+                    - button "Vista Rápida"
+                - generic [ref=f122e440]:
+                  - generic [ref=f122e441]:
+                    - generic [ref=f122e442]: Envío en 24-48 horas
+                    - paragraph [ref=f122e445]:
+                      - link "ICe Q5 EVO 52V 23Ah 2026 DGT Rojo" [ref=f122e446] [cursor=pointer]:
+                        - /url: https://patinetestore.com/producto/ice-q5-evo-52v-23ah-2026-dgt-rojo/
+                  - generic [ref=f122e447]: €1.399,00
+    - contentinfo [ref=f122e452]:
+      - region "Instagram feed" [ref=f122e457]:
+        - link "patinetestore_ on Instagram" [ref=f122e459] [cursor=pointer]:
+          - /url: https://www.instagram.com/patinetestore_/
+          - generic [ref=f122e465]:
+            - heading "patinetestore_" [level=3] [ref=f122e466]
+            - paragraph [ref=f122e467]:
+              - text: Tienda y Taller patinetes eléctricos
+              - img "🏁" [ref=f122e468]
+              - img "🥷🏽" [ref=f122e469]
+              - img "🛴" [ref=f122e470]
+              - text: Avenida del Cid, 4 Valencia
+        - list [ref=f122e471]:
+          - listitem [ref=f122e472]:
+            - 'link "asmr #patinete #escooter #asmr" [ref=f122e474] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeFNuD-IZ0m/
+          - listitem [ref=f122e478]:
+            - 'link "Como vinilar patinete eléctrico #patinete #vinilar" [ref=f122e480] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeB57zCo_Oz/
+          - listitem [ref=f122e484]:
+            - 'link "Always back to the line#escooter #crash #dualt" [ref=f122e486] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeAN95qRJH-/
+          - listitem [ref=f122e490]:
+            - link "Si vas a hacer el canelo, hazlo cuando no hay nadi" [ref=f122e492] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/Dd_jt9NIDvP/
+          - listitem [ref=f122e496]:
+            - 'link "Como copiar llave NFC en patinete eléctrico #nfc #" [ref=f122e498] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/Dd8_W1_ITu9/
+          - listitem [ref=f122e502]:
+            - 'link "Hemos comprado los nuevos Ecoxtrem Armored PRO #pa" [ref=f122e504] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/Dd600xwo6-O/
+        - generic [ref=f122e508]:
+          - button "Cargar más" [ref=f122e509] [cursor=pointer]
+          - link "Seguir en Instagram" [ref=f122e512] [cursor=pointer]:
+            - /url: https://www.instagram.com/patinetestore_/
+      - generic [ref=f122e516]:
+        - link [ref=f122e518] [cursor=pointer]:
+          - /url: https://patinetestore.com/
+        - list [ref=f122e521]:
+          - listitem [ref=f122e522]:
+            - link "Aviso legal" [ref=f122e523] [cursor=pointer]:
+              - /url: https://patinetestore.com/aviso-legal/
+          - listitem [ref=f122e524]:
+            - link "Política de devolución y reembolsos" [ref=f122e525] [cursor=pointer]:
+              - /url: https://patinetestore.com/politica-de-devolucion-y-reembolsos/
+          - listitem [ref=f122e526]:
+            - link "Métodos de pago" [ref=f122e527] [cursor=pointer]:
+              - /url: https://patinetestore.com/metodos-de-pago/
+          - listitem [ref=f122e528]:
+            - link "Política de privacidad" [ref=f122e529] [cursor=pointer]:
+              - /url: https://patinetestore.com/privacy-policy/
+          - listitem [ref=f122e530]:
+            - link "Mapa del sitio" [ref=f122e531] [cursor=pointer]:
+              - /url: https://patinetestore.com/sitemap_index.xml
+          - listitem [ref=f122e532]:
+            - link "Blog" [ref=f122e533] [cursor=pointer]:
+              - /url: https://patinetestore.com/blog/
+          - listitem [ref=f122e534]:
+            - link "Acceso B2B" [ref=f122e535] [cursor=pointer]:
+              - /url: https://patinetestore.com/my-account/
+      - generic [ref=f122e537]:
+        - group "Payment icons" [ref=f122e539]:
+          - generic [ref=f122e540]: Visa
+          - generic [ref=f122e544]: Klarna
+          - generic [ref=f122e557]: Apple Pay
+          - generic [ref=f122e561]: Cash On Delivery
+          - generic [ref=f122e565]: Cash on Pickup
+          - generic [ref=f122e569]: Google Pay
+          - generic [ref=f122e573]: MasterCard
+          - generic [ref=f122e580]: PayPal
+          - generic [ref=f122e584]: Revolut
+        - generic [ref=f122e590]:
+          - text: Copyright 2026 ©
+          - strong [ref=f122e591]: Patinete Store
+  - text:          
+  - generic:
+    - button "¡Contacta con nosotros! Abrir chat" [ref=f122e592] [cursor=pointer]
+    - generic: "1"
+    - dialog "Patinete Store"
+  - status [ref=f122e594]

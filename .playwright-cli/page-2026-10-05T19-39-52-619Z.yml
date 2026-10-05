@@ -1,0 +1,526 @@
+- generic [ref=f224e1]:
+  - generic [ref=f224e4]:
+    - generic:
+      - link "logo":
+        - /url: /
+        - img "logo"
+    - textbox "¿Qué estás buscando?" [ref=f224e6]
+    - generic [ref=f224e7]:
+      - generic [ref=f224e8]: "0"
+      - button [ref=f224e13] [cursor=pointer]
+  - region "Ventajas de comprar en Patinete Store" [ref=f224e14]:
+    - generic [ref=f224e16]:
+      - generic [ref=f224e17]:
+        - generic [ref=f224e18]: ALMACÉN EN ESPAÑA
+        - generic [ref=f224e19]: ENVÍOS EN 24-48 HORAS
+        - generic [ref=f224e20]: •
+        - generic [ref=f224e21]: TIENDA Nº1 DE PATINETES EN ESPAÑA
+        - generic [ref=f224e22]: •
+        - generic [ref=f224e23]: ★
+        - link "+2.500 RESEÑAS EN GOOGLE" [ref=f224e24] [cursor=pointer]:
+          - /url: https://share.google/RuIHo1gsaQe1QaF8z
+        - generic [ref=f224e25]: •
+        - generic [ref=f224e26]:
+          - text: ¡VINILO
+          - generic [ref=f224e27]: GRATIS
+          - text: CON LA COMPRA DE TU PATINETE!
+      - generic [ref=f224e28]:
+        - generic [ref=f224e29]: ALMACÉN EN ESPAÑA
+        - generic [ref=f224e30]: ENVÍOS EN 24-48 HORAS
+        - generic [ref=f224e31]: •
+        - generic [ref=f224e32]: TIENDA Nº1 DE PATINETES EN ESPAÑA
+        - generic [ref=f224e33]: •
+        - generic [ref=f224e34]: ★
+        - generic [ref=f224e35]: +2.500 RESEÑAS EN GOOGLE
+        - generic [ref=f224e36]: •
+        - generic [ref=f224e37]:
+          - text: ¡VINILO
+          - generic [ref=f224e38]: GRATIS
+          - text: CON LA COMPRA DE TU PATINETE!
+  - link "Saltar al contenido" [ref=f224e39] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=f224e40]:
+    - banner [ref=f224e41]:
+      - generic [ref=f224e42]:
+        - text:   
+        - navigation [ref=f224e44]:
+          - link [ref=f224e46] [cursor=pointer]:
+            - /url: https://patinetestore.com/
+            - img "Patinete Store | Venta de patinetes eléctricos y repuestos de patinete" [ref=f224e47]
+          - list [ref=f224e49]:
+            - listitem [ref=f224e50]:
+              - button "Menú" [ref=f224e51] [cursor=pointer]:
+                - generic [ref=f224e52]: 
+          - text:  
+          - list [ref=f224e54]:
+            - listitem [ref=f224e55]:
+              - button "Ver carrito" [ref=f224e56] [cursor=pointer]:
+                - generic [ref=f224e57]: 
+        - text:     
+        - search "Buscar productos" [ref=f224e63]:
+          - searchbox "Buscar" [ref=f224e65]
+    - navigation [ref=f224e70]:
+      - generic [ref=f224e71]:
+        - link "Patinetes eléctricos" [ref=f224e72] [cursor=pointer]:
+          - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/
+        - text: »
+        - link "Smartgyro" [ref=f224e73] [cursor=pointer]:
+          - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/smartgyro/
+    - main [ref=f224e75]:
+      - generic [ref=f224e78]:
+        - generic [ref=f224e80]:
+          - link [ref=f224e88] [cursor=pointer]:
+            - /url: https://patinetestore.com/wp-content/uploads/2026/09/patinete-electrico-smartgyro-xt-dual-principal.png
+            - img "Patinete Eléctrico Smartgyro XT Dual homologado DGT" [ref=f224e89]
+          - generic [ref=f224e90]:
+            - heading "Patinete Eléctrico Smartgyro XT Dual" [level=1] [ref=f224e91]
+            - paragraph [ref=f224e93]:
+              - generic [ref=f224e95]:
+                - generic [ref=f224e96]: €
+                - text: 899,00
+            - note [ref=f224e98]:
+              - strong [ref=f224e101]: Envío en 24-48 horas
+            - generic [ref=f224e102]:
+              - img "🚚" [ref=f224e104]
+              - generic [ref=f224e105]: Envío gratis. Recíbelo el 13 de octubre
+            - paragraph [ref=f224e107]:
+              - strong [ref=f224e108]: Patinete Eléctrico Smartgyro XT Dual homologado por la DGT
+              - text: con doble motor Brushless de 48 V, 1.000 W nominales por motor y hasta 3.000 W de potencia máxima. Batería de litio de 20 Ah con sistema BMS y hasta 75 km de autonomía, ruedas tubeless de 10 pulgadas, suspensión delantera y trasera, triple frenada, intermitentes, NFC y APP Smart Core.
+            - generic [ref=f224e109]:
+              - generic [ref=f224e111]:
+                - heading "Datos necesarios para la Gestión DGT" [level=3] [ref=f224e112]
+                - paragraph [ref=f224e113]: Completa estos datos para que podamos gestionar el alta DGT correctamente.
+                - generic [ref=f224e114]:
+                  - generic [ref=f224e115]: ¿tienes Clave movil o certificado digital? *
+                  - combobox "¿tienes Clave movil o certificado digital? *" [ref=f224e116]:
+                    - option "Selecciona una opción" [selected]
+                    - option "Tengo Clave movil"
+                    - option "Tengo certificado digital"
+                    - option "No tengo ninguna"
+                - generic [ref=f224e117]:
+                  - generic [ref=f224e118]: Adjunto DNI cara A *
+                  - generic [ref=f224e119]:
+                    - button "Adjunto DNI cara A *" [ref=f224e120]
+                    - button "Seleccionar archivo" [ref=f224e121] [cursor=pointer]
+                    - generic [ref=f224e122]: Ningún archivo seleccionado
+                - generic [ref=f224e123]:
+                  - generic [ref=f224e124]: Adjunto DNI cara B *
+                  - generic [ref=f224e125]:
+                    - button "Adjunto DNI cara B *" [ref=f224e126]
+                    - button "Seleccionar archivo" [ref=f224e127] [cursor=pointer]
+                    - generic [ref=f224e128]: Ningún archivo seleccionado
+              - generic [ref=f224e129]:
+                - generic [ref=f224e130]:
+                  - generic [ref=f224e131]: TUNEA TU PATINETE
+                  - generic [ref=f224e133]:
+                    - generic [ref=f224e134] [cursor=pointer]:
+                      - generic [ref=f224e135]:
+                        - button [ref=f224e136]:
+                          - img "Localizador GPS para patinete (Iphone y Android)" [ref=f224e137]
+                        - generic [ref=f224e138]: Localizador GPS para patinete (Iphone y Android)
+                        - generic [ref=f224e140]: +24,90 €
+                      - radio
+                      - radio [checked]
+                    - generic [ref=f224e144] [cursor=pointer]:
+                      - generic [ref=f224e145]:
+                        - button [ref=f224e146]:
+                          - img "Cubre cables protector (1 metro)" [ref=f224e147]
+                        - generic [ref=f224e148]: Cubre cables protector (1 metro)
+                        - generic [ref=f224e150]: GRATIS
+                      - radio
+                      - radio [checked]
+                    - generic [ref=f224e154] [cursor=pointer]:
+                      - generic [ref=f224e155]:
+                        - button [ref=f224e156]:
+                          - img "Protector de maneta (2 unidades)" [ref=f224e157]
+                        - generic [ref=f224e158]: Protector de maneta (2 unidades)
+                        - generic [ref=f224e160]: GRATIS
+                      - radio
+                      - radio [checked]
+                - text: ✔ ✖
+                - generic [ref=f224e164]:
+                  - generic [ref=f224e165]: TRÁMITES NECESARIOS PARA CIRCULAR LEGALMENTE
+                  - generic [ref=f224e172]:
+                    - generic [ref=f224e173]:
+                      - checkbox "Matrícula DGT MATRICULAR MI PATINETE Una vez tengas el patinete inscrito en la DGT contacta con nosotros y te enviaremos tu matrícula homologada. 9,90 €"
+                      - generic [ref=f224e175] [cursor=pointer]:
+                        - img "Matrícula DGT" [ref=f224e179]
+                        - generic [ref=f224e180]:
+                          - generic [ref=f224e181]: MATRICULAR MI PATINETE
+                          - generic [ref=f224e182]: Una vez tengas el patinete inscrito en la DGT contacta con nosotros y te enviaremos tu matrícula homologada.
+                        - generic [ref=f224e183]: 9,90 €
+                    - generic [ref=f224e185]:
+                      - checkbox "Seguro patinete ASEGURAR EL PATINETE Desde 3,40€/mes Una vez adquieras el patinete, te contactaremos para ayudarte en la gestión del alta de tu seguro obligatorio. Desde 3,40€/mes"
+                      - generic [ref=f224e187] [cursor=pointer]:
+                        - img "Seguro patinete" [ref=f224e191]
+                        - generic [ref=f224e192]:
+                          - generic [ref=f224e193]: ASEGURAR EL PATINETE
+                          - generic [ref=f224e194]: Desde 3,40€/mes
+                          - generic [ref=f224e195]: Una vez adquieras el patinete, te contactaremos para ayudarte en la gestión del alta de tu seguro obligatorio.
+                        - generic [ref=f224e196]: Desde 3,40€/mes
+                - generic [ref=f224e198]:
+                  - generic [ref=f224e199]:
+                    - strong [ref=f224e200]: Tu configuración
+                    - generic [ref=f224e201]: Revisa qué incluye tu patinete antes de añadirlo al carrito.
+                  - generic [ref=f224e202]:
+                    - generic [ref=f224e203]: Patinete Eléctrico Smartgyro XT Dual
+                    - strong [ref=f224e204]: 899,00 €
+                  - generic [ref=f224e206]: Selecciona mejoras, accesorios o servicios y aparecerán aquí.
+                  - generic [ref=f224e207]:
+                    - generic [ref=f224e208]: Mejoras y servicios
+                    - strong [ref=f224e209]: 0,00 €
+                  - generic [ref=f224e210]:
+                    - generic [ref=f224e211]: Precio total
+                    - generic [ref=f224e212]: 899,00 €
+              - button "Añadir al carrito" [ref=f224e213] [cursor=pointer]
+              - button "Comprar ahora" [ref=f224e214] [cursor=pointer]
+            - generic [ref=f224e215]:
+              - generic [ref=f224e216]: "SKU: PS-SMARTGYRO-XT-DUAL"
+              - generic [ref=f224e217]:
+                - text: "Categoría:"
+                - link "Smartgyro" [ref=f224e218] [cursor=pointer]:
+                  - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/smartgyro/
+              - generic [ref=f224e219]:
+                - text: "Marca:"
+                - link "Smartgyro" [ref=f224e220] [cursor=pointer]:
+                  - /url: https://patinetestore.com/marca/smartgyro/
+          - text:                                
+        - generic [ref=f224e222]:
+          - generic [ref=f224e224]:
+            - generic [ref=f224e225]:
+              - heading "Características técnicas" [level=2] [ref=f224e226]
+              - generic [ref=f224e227]: de Patinete Eléctrico Smartgyro XT Dual
+            - generic [ref=f224e228]:
+              - generic [ref=f224e229]:
+                - img "Dos motores" [ref=f224e230]
+                - generic [ref=f224e231]: Dos motores
+                - generic [ref=f224e232]: 1000W + 1000W (3000W Max)
+              - generic [ref=f224e233]:
+                - img "Batería" [ref=f224e234]
+                - generic [ref=f224e235]: Batería
+                - generic [ref=f224e236]: Hasta 75 km (48V 20Ah)
+              - generic [ref=f224e237]:
+                - img "Velocidad" [ref=f224e238]
+                - generic [ref=f224e239]: Velocidad
+                - generic [ref=f224e240]: 25 km/h
+              - generic [ref=f224e241]:
+                - img "Frenos" [ref=f224e242]
+                - generic [ref=f224e243]: Frenos
+                - generic [ref=f224e244]: "Triple frenada: hidráulico delantero, hidráulico trasero y regenerativa"
+              - generic [ref=f224e245]:
+                - img "Neumáticos" [ref=f224e246]
+                - generic [ref=f224e247]: Neumáticos
+                - generic [ref=f224e248]: 10"
+          - generic [ref=f224e250]:
+            - generic [ref=f224e251]:
+              - link [expanded] [ref=f224e252] [cursor=pointer]:
+                - /url: "#accordion-item-description"
+                - button "Toggle" [ref=f224e253]:
+                  - generic [ref=f224e254]: 
+                - text: Descripción
+              - generic "Toggle Descripción" [ref=f224e255]:
+                - generic [ref=f224e256]:
+                  - generic [ref=f224e257]:
+                    - paragraph [ref=f224e258]: Doble motor · Homologación DGT · Smart Core
+                    - heading "Patinete Eléctrico Smartgyro XT Dual" [level=2] [ref=f224e259]
+                    - paragraph [ref=f224e260]:
+                      - text: Un patinete eléctrico certificado que combina hasta
+                      - strong [ref=f224e261]: 3.000 W de potencia máxima
+                      - text: ", doble motor Brushless, batería de 20 Ah, hasta 75 km de autonomía y una parte ciclo preparada para ofrecer estabilidad, control y confort."
+                  - generic [ref=f224e262]:
+                    - generic [ref=f224e263]:
+                      - paragraph [ref=f224e264]: Potencia máxima
+                      - paragraph [ref=f224e265]: 3.000 W
+                    - generic [ref=f224e266]:
+                      - paragraph [ref=f224e267]: Batería
+                      - paragraph [ref=f224e268]: 48 V · 20 Ah
+                    - generic [ref=f224e269]:
+                      - paragraph [ref=f224e270]: Autonomía
+                      - paragraph [ref=f224e271]: Hasta 75 km
+                    - generic [ref=f224e272]:
+                      - paragraph [ref=f224e273]: Ruedas
+                      - paragraph [ref=f224e274]: 10” tubeless
+                  - heading "Rendimiento del Smartgyro XT Dual" [level=2] [ref=f224e275]
+                  - list [ref=f224e276]:
+                    - listitem [ref=f224e277]:
+                      - strong [ref=f224e278]: Doble motor Brushless de 48 V
+                      - text: con 1.000 W de potencia nominal por motor y hasta 3.000 W de potencia máxima.
+                    - listitem [ref=f224e279]:
+                      - strong [ref=f224e280]: Autonomía de hasta 75 km
+                      - text: con una sola carga, según condiciones de uso.
+                    - listitem [ref=f224e281]:
+                      - strong [ref=f224e282]: Batería de litio de 20.000 mAh con BMS
+                      - text: ", eficiente y estable."
+                    - listitem [ref=f224e283]:
+                      - strong [ref=f224e284]: "Sentinel OPS System:"
+                      - text: sistema patentado que monitoriza la batería y protege sus componentes frente a sobrecalentamientos, sobrecargas y posibles fallos eléctricos mediante una doble capa de protección.
+                    - listitem [ref=f224e285]: "Tiempo máximo de carga: aproximadamente 10 horas."
+                    - listitem [ref=f224e286]:
+                      - strong [ref=f224e287]: Velocidad máxima de 25 km/h
+                      - text: en configuración homologada.
+                    - listitem [ref=f224e288]: "Cuatro modos de conducción: Walk, Eco, Confort y Sport."
+                  - heading "Conducción, seguridad y confort" [level=2] [ref=f224e289]
+                  - list [ref=f224e290]:
+                    - listitem [ref=f224e291]:
+                      - strong [ref=f224e292]: "Ruedas mixtas de 10 pulgadas, neumáticas y tubeless:"
+                      - text: anchas, resistentes y diseñadas para proporcionar tracción y estabilidad también en superficies irregulares o resbaladizas.
+                    - listitem [ref=f224e293]:
+                      - strong [ref=f224e294]: Suspensión delantera y trasera
+                      - text: para una mayor capacidad de amortiguación y una conducción urbana más cómoda.
+                    - listitem [ref=f224e295]:
+                      - strong [ref=f224e296]: "Triple sistema de frenada:"
+                      - text: freno hidráulico delantero, freno hidráulico trasero y frenada regenerativa.
+                    - listitem [ref=f224e297]:
+                      - strong [ref=f224e298]: "KerSync — Kinetic Energy Regeneration System:"
+                      - text: transforma la energía generada durante la frenada y la desaceleración en carga para la batería, optimizando la eficiencia del trayecto.
+                    - listitem [ref=f224e299]:
+                      - strong [ref=f224e300]: Foco LED frontal de alta potencia
+                      - text: ", luz de freno trasera, iluminación LED ambiental e intermitentes delanteros integrados en las empuñaduras."
+                    - listitem [ref=f224e301]:
+                      - strong [ref=f224e302]: Display LED frontal
+                      - text: con velocidad, modos de marcha, kilómetros parciales y totales e indicador de batería.
+                    - listitem [ref=f224e303]: Control de mandos mejorado con selector de intermitentes, bocina y control de iluminación.
+                  - heading "Tecnología Advanced Smart Core" [level=2] [ref=f224e304]
+                  - paragraph [ref=f224e305]:
+                    - strong [ref=f224e306]: Core Inside
+                    - text: "es la optimización patentada por Smartgyro que mejora el hardware para maximizar el rendimiento, la eficiencia y la durabilidad:"
+                  - list [ref=f224e307]:
+                    - listitem [ref=f224e308]: Mejora la eficiencia energética.
+                    - listitem [ref=f224e309]: Aumenta el rendimiento del motor.
+                    - listitem [ref=f224e310]: Prolonga la vida útil de los componentes.
+                    - listitem [ref=f224e311]: Ofrece una conducción más fluida y segura.
+                  - paragraph [ref=f224e312]:
+                    - strong [ref=f224e313]: "SmartCore, NFC y APP móvil:"
+                    - text: bloqueo y desbloqueo mediante tarjeta NFC —se incluyen dos tarjetas— y aplicación compatible para consultar el estado de la batería, kilómetros acumulados, distancia recorrida y ajustes del patinete. La función Unlock & Ride permite activar o bloquear el vehículo de forma sencilla para reforzar la protección antirrobo.
+                  - generic [ref=f224e314]:
+                    - heading "Ficha técnica" [level=2] [ref=f224e315]
+                    - table [ref=f224e316]:
+                      - rowgroup [ref=f224e317]:
+                        - row [ref=f224e318]:
+                          - cell "Motores" [ref=f224e319]
+                          - cell "2 × Brushless 1.000 W nominales · 3.000 W máximos" [ref=f224e320]
+                        - row [ref=f224e321]:
+                          - cell "Batería" [ref=f224e322]
+                          - cell "48 V · 20 Ah · litio con BMS y Sentinel OPS System" [ref=f224e323]
+                        - row [ref=f224e324]:
+                          - cell "Autonomía" [ref=f224e325]
+                          - cell "Hasta 75 km" [ref=f224e326]
+                        - row [ref=f224e327]:
+                          - cell "Carga" [ref=f224e328]
+                          - cell "Hasta 10 horas" [ref=f224e329]
+                        - row [ref=f224e330]:
+                          - cell "Velocidad homologada" [ref=f224e331]
+                          - cell "25 km/h" [ref=f224e332]
+                        - row [ref=f224e333]:
+                          - cell "Ruedas" [ref=f224e334]
+                          - cell "10” neumáticas tubeless mixtas" [ref=f224e335]
+                        - row [ref=f224e336]:
+                          - cell "Frenos" [ref=f224e337]
+                          - cell "Hidráulicos delantero y trasero + regenerativo KerSync" [ref=f224e338]
+                        - row [ref=f224e339]:
+                          - cell "Suspensión" [ref=f224e340]
+                          - cell "Delantera y trasera" [ref=f224e341]
+                        - row [ref=f224e342]:
+                          - cell "Conectividad" [ref=f224e343]
+                          - cell "Smart Core APP + NFC" [ref=f224e344]
+                        - row [ref=f224e345]:
+                          - cell "Protección al agua" [ref=f224e346]
+                          - cell "IPX4" [ref=f224e347]
+                        - row [ref=f224e348]:
+                          - cell "Medidas desplegado" [ref=f224e349]
+                          - cell "120 × 62 × 132 cm" [ref=f224e350]
+                        - row [ref=f224e351]:
+                          - cell "Medidas plegado" [ref=f224e352]
+                          - cell "120 × 62 × 57 cm" [ref=f224e353]
+                        - row [ref=f224e354]:
+                          - cell "Caja" [ref=f224e355]
+                          - cell "116 × 24 × 56 cm" [ref=f224e356]
+                  - heading "Diseño y homologación" [level=2] [ref=f224e357]
+                  - list [ref=f224e358]:
+                    - listitem [ref=f224e359]: Estructura plegable con pata de cabra.
+                    - listitem [ref=f224e360]: Protecciones contra sobrepresión, bajo voltaje, cortocircuito y sobrecalentamiento.
+                    - listitem [ref=f224e361]: Clasificación indicada como VPL a efectos del seguro obligatorio 2026, con MOM del vehículo igual o inferior a 25 kg.
+                    - listitem [ref=f224e362]:
+                      - strong [ref=f224e363]: Homologado por la DGT
+                      - text: ", con placa identificativa y conforme a los requisitos aplicables a los VMP certificados."
+                  - complementary [ref=f224e364]:
+                    - strong [ref=f224e365]: "Nota sobre autonomía:"
+                    - text: la cifra de hasta 75 km es orientativa y puede variar según el peso del conductor, el modo de conducción, la pendiente, la temperatura, la presión de los neumáticos y otras condiciones de uso.
+            - generic: 
+          - generic [ref=f224e366]:
+            - heading "Más Smartgyro que te pueden interesar:" [level=2] [ref=f224e367]
+            - generic [ref=f224e368]:
+              - generic [ref=f224e370]:
+                - generic [ref=f224e371]: OFERTÓN!
+                - generic [ref=f224e372]:
+                  - generic [ref=f224e373]:
+                    - generic:
+                      - link "Patinete eléctrico Smartgyro Rockway GL 2026":
+                        - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-rockway-gl-2026/
+                        - img "Patinete eléctrico Smartgyro Rockway GL 2026" [ref=f224e374] [cursor=pointer]
+                    - generic:
+                      - button "Vista Rápida"
+                  - generic [ref=f224e375]:
+                    - generic [ref=f224e376]:
+                      - generic [ref=f224e377]: Envío en 24-48 horas
+                      - paragraph [ref=f224e380]:
+                        - link "Patinete Eléctrico Smartgyro Rockway GL 2026" [ref=f224e381] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-rockway-gl-2026/
+                    - generic [ref=f224e383]:
+                      - deletion [ref=f224e384]:
+                        - generic [ref=f224e385]: €790,00
+                      - generic [ref=f224e387]: "El precio original era: €790,00."
+                      - insertion [ref=f224e388]:
+                        - generic [ref=f224e389]: €594,00
+                      - generic [ref=f224e391]: "El precio actual es: €594,00."
+              - generic [ref=f224e394]:
+                - generic [ref=f224e395]: OFERTÓN!
+                - generic [ref=f224e396]:
+                  - generic [ref=f224e397]:
+                    - generic:
+                      - link "Patinete Eléctrico Smartgyro K1":
+                        - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-k1/
+                        - img "Patinete Eléctrico Smartgyro K1" [ref=f224e398] [cursor=pointer]
+                    - generic:
+                      - button "Vista Rápida"
+                  - generic [ref=f224e399]:
+                    - generic [ref=f224e400]:
+                      - generic [ref=f224e401]: Envío en 24-48 horas
+                      - paragraph [ref=f224e404]:
+                        - link "Patinete Eléctrico Smartgyro K1" [ref=f224e405] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-k1/
+                    - generic [ref=f224e407]:
+                      - deletion [ref=f224e408]:
+                        - generic [ref=f224e409]: €459,00
+                      - generic [ref=f224e411]: "El precio original era: €459,00."
+                      - insertion [ref=f224e412]:
+                        - generic [ref=f224e413]: €439,99
+                      - generic [ref=f224e415]: "El precio actual es: €439,99."
+              - generic [ref=f224e418]:
+                - generic [ref=f224e419]: OFERTÓN!
+                - generic [ref=f224e420]:
+                  - generic [ref=f224e421]:
+                    - generic:
+                      - link "Smartgyro Rockway GT 2026":
+                        - /url: https://patinetestore.com/producto/smartgyro-rockway-gt-2026/
+                        - img "Smartgyro Rockway GT 2026" [ref=f224e422] [cursor=pointer]
+                    - generic:
+                      - button "Vista Rápida"
+                  - generic [ref=f224e423]:
+                    - generic [ref=f224e424]:
+                      - generic [ref=f224e425]: Envío en 24-48 horas
+                      - paragraph [ref=f224e428]:
+                        - link "Patinete Eléctrico Smartgyro Rockway GT 2026" [ref=f224e429] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/smartgyro-rockway-gt-2026/
+                    - generic [ref=f224e430]:
+                      - generic [ref=f224e431]: Compatible con Smartgyro Rockway GT
+                      - generic [ref=f224e432]:
+                        - deletion [ref=f224e433]:
+                          - generic [ref=f224e434]: €1.090,00
+                        - generic [ref=f224e436]: "El precio original era: €1.090,00."
+                        - insertion [ref=f224e437]:
+                          - generic [ref=f224e438]: €595,00
+                        - generic [ref=f224e440]: "El precio actual es: €595,00."
+              - generic [ref=f224e443]:
+                - generic [ref=f224e444]: OFERTÓN!
+                - generic [ref=f224e445]:
+                  - generic [ref=f224e446]:
+                    - generic:
+                      - link "Patinete Eléctrico Smartgyro K5 PRO":
+                        - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-k5-pro/
+                        - img "Patinete Eléctrico Smartgyro K5 PRO" [ref=f224e447] [cursor=pointer]
+                    - generic:
+                      - button "Vista Rápida"
+                  - generic [ref=f224e448]:
+                    - generic [ref=f224e449]:
+                      - generic [ref=f224e450]: Envío en 24-48 horas
+                      - paragraph [ref=f224e453]:
+                        - link "Patinete Eléctrico Smartgyro K5 PRO" [ref=f224e454] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-k5-pro/
+                    - generic [ref=f224e456]:
+                      - deletion [ref=f224e457]:
+                        - generic [ref=f224e458]: €779,00
+                      - generic [ref=f224e460]: "El precio original era: €779,00."
+                      - insertion [ref=f224e461]:
+                        - generic [ref=f224e462]: €674,00
+                      - generic [ref=f224e464]: "El precio actual es: €674,00."
+    - contentinfo [ref=f224e466]:
+      - region "Instagram feed" [ref=f224e471]:
+        - link "patinetestore_ on Instagram" [ref=f224e473] [cursor=pointer]:
+          - /url: https://www.instagram.com/patinetestore_/
+          - generic [ref=f224e479]:
+            - heading "patinetestore_" [level=3] [ref=f224e480]
+            - paragraph [ref=f224e481]:
+              - text: Tienda y Taller patinetes eléctricos
+              - img "🏁" [ref=f224e482]
+              - img "🥷🏽" [ref=f224e483]
+              - img "🛴" [ref=f224e484]
+              - text: Avenida del Cid, 4 Valencia
+        - list [ref=f224e485]:
+          - listitem [ref=f224e486]:
+            - 'link "asmr #patinete #escooter #asmr" [ref=f224e488] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeFNuD-IZ0m/
+          - listitem [ref=f224e492]:
+            - 'link "Como vinilar patinete eléctrico #patinete #vinilar" [ref=f224e494] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeB57zCo_Oz/
+          - listitem [ref=f224e498]:
+            - 'link "Always back to the line#escooter #crash #dualt" [ref=f224e500] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeAN95qRJH-/
+          - listitem [ref=f224e504]:
+            - link "Si vas a hacer el canelo, hazlo cuando no hay nadi" [ref=f224e506] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/Dd_jt9NIDvP/
+          - listitem [ref=f224e510]:
+            - 'link "Como copiar llave NFC en patinete eléctrico #nfc #" [ref=f224e512] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/Dd8_W1_ITu9/
+          - listitem [ref=f224e516]:
+            - 'link "Hemos comprado los nuevos Ecoxtrem Armored PRO #pa" [ref=f224e518] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/Dd600xwo6-O/
+        - generic [ref=f224e522]:
+          - button "Cargar más" [ref=f224e523] [cursor=pointer]
+          - link "Seguir en Instagram" [ref=f224e526] [cursor=pointer]:
+            - /url: https://www.instagram.com/patinetestore_/
+      - generic [ref=f224e530]:
+        - link [ref=f224e532] [cursor=pointer]:
+          - /url: https://patinetestore.com/
+        - list [ref=f224e535]:
+          - listitem [ref=f224e536]:
+            - link "Aviso legal" [ref=f224e537] [cursor=pointer]:
+              - /url: https://patinetestore.com/aviso-legal/
+          - listitem [ref=f224e538]:
+            - link "Política de devolución y reembolsos" [ref=f224e539] [cursor=pointer]:
+              - /url: https://patinetestore.com/politica-de-devolucion-y-reembolsos/
+          - listitem [ref=f224e540]:
+            - link "Métodos de pago" [ref=f224e541] [cursor=pointer]:
+              - /url: https://patinetestore.com/metodos-de-pago/
+          - listitem [ref=f224e542]:
+            - link "Política de privacidad" [ref=f224e543] [cursor=pointer]:
+              - /url: https://patinetestore.com/privacy-policy/
+          - listitem [ref=f224e544]:
+            - link "Mapa del sitio" [ref=f224e545] [cursor=pointer]:
+              - /url: https://patinetestore.com/sitemap_index.xml
+          - listitem [ref=f224e546]:
+            - link "Blog" [ref=f224e547] [cursor=pointer]:
+              - /url: https://patinetestore.com/blog/
+          - listitem [ref=f224e548]:
+            - link "Acceso B2B" [ref=f224e549] [cursor=pointer]:
+              - /url: https://patinetestore.com/my-account/
+      - generic [ref=f224e551]:
+        - group "Payment icons" [ref=f224e553]:
+          - generic [ref=f224e554]: Visa
+          - generic [ref=f224e558]: Klarna
+          - generic [ref=f224e571]: Apple Pay
+          - generic [ref=f224e575]: Cash On Delivery
+          - generic [ref=f224e579]: Cash on Pickup
+          - generic [ref=f224e583]: Google Pay
+          - generic [ref=f224e587]: MasterCard
+          - generic [ref=f224e594]: PayPal
+          - generic [ref=f224e598]: Revolut
+        - generic [ref=f224e604]:
+          - text: Copyright 2026 ©
+          - strong [ref=f224e605]: Patinete Store
+  - text:          
+  - generic:
+    - button "¡Contacta con nosotros! Abrir chat" [ref=f224e606] [cursor=pointer]
+    - generic: "1"
+    - dialog "Patinete Store"
+  - status [ref=f224e608]

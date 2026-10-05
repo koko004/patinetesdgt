@@ -1,0 +1,15 @@
+[    1038ms] [INFO] Run helper.... @ https://cdn.shopify.com/extensions/01a0f807-168f-7fcf-a3d0-e91e9a539d12/pagefly-ai-page-builder-363/assets/pagefly-general-helper.js:0
+[    1050ms] [ERROR] Clarity pixel failed to start... TypeError: Failed to fetch
+    at r.fetch (https://electyum.com/cdn/wpm/s5982071ew7ea472e3p69b68784m2150dfeam.js:1:74156)
+    at https://electyum.com/web-pixels/strict/app/web-pixel-4641325381@d8a2bb2ccbb513dc8e8b6937f4b8033e.js:9:16643
+    at Generator.next (<anonymous>)
+    at https://electyum.com/web-pixels/strict/app/web-pixel-4641325381@d8a2bb2ccbb513dc8e8b6937f4b8033e.js:1:916
+    at new Promise (<anonymous>)
+    at x (https://electyum.com/web-pixels/strict/app/web-pixel-4641325381@d8a2bb2ccbb513dc8e8b6937f4b8033e.js:1:736)
+    at tu (https://electyum.com/web-pixels/strict/app/web-pixel-4641325381@d8a2bb2ccbb513dc8e8b6937f4b8033e.js:9:16607)
+    at https://electyum.com/web-pixels/strict/app/web-pixel-4641325381@d8a2bb2ccbb513dc8e8b6937f4b8033e.js:9:16543
+    at Generator.next (<anonymous>)
+    at https://electyum.com/web-pixels/strict/app/web-pixel-4641325381@d8a2bb2ccbb513dc8e8b6937f4b8033e.js:1:916 @ https://electyum.com/web-pixels/strict/app/web-pixel-4641325381@d8a2bb2ccbb513dc8e8b6937f4b8033e.js:8
+[    1052ms] [LOG] productATCs [] @ https://cdn.shopify.com/extensions/01a0f807-168f-7fcf-a3d0-e91e9a539d12/pagefly-ai-page-builder-363/assets/pagefly-product.js:4
+[    1928ms] [LOG] Script loaded successfully: https://cdn.shopify.com/extensions/01a0f807-168f-7fcf-a3d0-e91e9a539d12/pagefly-ai-page-builder-363/assets/pagefly-htmlvideo2.js @ https://cdn.shopify.com/extensions/01a0f807-168f-7fcf-a3d0-e91e9a539d12/pagefly-ai-page-builder-363/assets/pagefly-general-helper.js:0
+[    3110ms] [LOG] [SeQura] deploymentTarget: byUri=sequra legacy=sequra fallbackInUse=false scriptUri=https://live.sequracdn.com/assets/sequra-checkout.min.js merchant=electyum assetKey=5mBpU2IZjf @ https://live.sequracdn.com/assets/sequra-checkout.min.js:0

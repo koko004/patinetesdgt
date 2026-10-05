@@ -1,0 +1,174 @@
+- generic [ref=f60e1]:
+  - alertdialog [ref=f60e2]:
+    - generic [ref=f60e3]:
+      - generic [ref=f60e4]:
+        - heading "We value your privacy" [level=2] [ref=f60e5]
+        - paragraph [ref=f60e6]:
+          - text: We and our partners use cookies and other technologies to improve your experience, measure performance, and tailor marketing. Details in our
+          - link "Privacy Policy" [ref=f60e7] [cursor=pointer]:
+            - /url: https://purescooters.account.myshopify.com/policies/privacy-policy
+      - generic [ref=f60e8]:
+        - button "Manage preferences" [ref=f60e9]
+        - button "Accept" [ref=f60e10]
+        - button "Decline" [ref=f60e11]
+  - link "Skip to content" [ref=f60e12] [cursor=pointer]:
+    - /url: "#MainContent"
+  - banner [ref=f60e14]:
+    - generic [ref=f60e17]:
+      - generic [ref=f60e18]:
+        - group [ref=f60e21]:
+          - generic "Menu" [ref=f60e22] [cursor=pointer]:
+            - generic: 
+            - text: 
+        - text: 
+        - link [ref=f60e23] [cursor=pointer]:
+          - /url: /
+      - button "GET 5% OFF" [ref=f60e26] [cursor=pointer]
+      - generic [ref=f60e28]:
+        - button "Search" [ref=f60e30] [cursor=pointer]:
+          - generic: 
+        - generic [ref=f60e31]:
+          - generic [ref=f60e32]:
+            - button "Market selector" [ref=f60e33] [cursor=pointer]
+            - text:       
+          - generic [ref=f60e35]:
+            - button "Toggle header actions menu ｃ" [ref=f60e36] [cursor=pointer]:
+              - generic [ref=f60e37]: Toggle header actions menu
+              - generic: ｃ
+              - text: 
+            - text:          
+          - button "Account" [ref=f60e39] [cursor=pointer]:
+            - generic [ref=f60e40]: 
+          - text:  
+          - generic [ref=f60e42]:
+            - button "Cart" [ref=f60e43] [cursor=pointer]:
+              - generic [ref=f60e44]:
+                - generic: 
+                - generic [ref=f60e45]:
+                  - status:
+                    - generic [ref=f60e47]: "Total items in cart: 0"
+            - text: 
+  - main [ref=f60e48]:
+    - generic [ref=f60e53]:
+      - heading "Page not found" [level=1] [ref=f60e55]
+      - paragraph [ref=f60e57]: The link may be incorrect, or the page has been removed.
+      - link "Continue shopping" [ref=f60e58] [cursor=pointer]:
+        - /url: /collections/all-electric-scooters
+  - generic [ref=f60e62]:
+    - generic [ref=f60e63]:
+      - generic [ref=f60e64]: 
+      - generic [ref=f60e65]:
+        - generic [ref=f60e66]: Free next-day delivery
+        - generic [ref=f60e67]: Order before 2pm
+    - generic [ref=f60e68]:
+      - generic [ref=f60e69]: 
+      - generic [ref=f60e70]:
+        - generic [ref=f60e71]: Finance at checkout
+        - generic [ref=f60e72]: 18+, T&Cs apply
+    - generic [ref=f60e73]:
+      - generic [ref=f60e74]: 
+      - generic [ref=f60e75]:
+        - generic [ref=f60e76]: 30-day returns
+        - generic [ref=f60e77]: Hassle-free
+  - contentinfo [ref=f60e78]:
+    - generic [ref=f60e81]:
+      - generic [ref=f60e83]:
+        - heading [level=2] [ref=f60e85]:
+          - strong [ref=f60e86]: Be the first to know
+        - paragraph [ref=f60e88]: Keep up to date with the latest Pure Electric news, advice and expert insight, plus gain access to exclusive offers.
+      - generic [ref=f60e91]:
+        - generic [ref=f60e92]: Email
+        - textbox "Email" [ref=f60e93]:
+          - /placeholder: Email address
+        - button "Sign up" [ref=f60e94]
+  - contentinfo [ref=f60e97]:
+    - group [ref=f60e102]:
+      - generic "Navigation" [ref=f60e103]
+      - list [ref=f60e105]:
+        - listitem [ref=f60e106]:
+          - link "Help" [ref=f60e107] [cursor=pointer]:
+            - /url: https://support.pureelectric.com/
+          - generic [ref=f60e108]: "|"
+        - listitem [ref=f60e109]:
+          - link "Contact us" [ref=f60e110] [cursor=pointer]:
+            - /url: /pages/contact-form
+          - generic [ref=f60e111]: "|"
+        - listitem [ref=f60e112]:
+          - link "Blog" [ref=f60e113] [cursor=pointer]:
+            - /url: /blogs/all
+          - generic [ref=f60e114]: "|"
+        - listitem [ref=f60e115]:
+          - link "Careers" [ref=f60e116] [cursor=pointer]:
+            - /url: https://careers.pureelectric.com/
+          - generic [ref=f60e117]: "|"
+        - listitem [ref=f60e118]:
+          - link "Reviews" [ref=f60e119] [cursor=pointer]:
+            - /url: /pages/electric-scooter-reviews
+          - generic [ref=f60e120]: "|"
+        - listitem [ref=f60e121]:
+          - link "Pure app" [ref=f60e122] [cursor=pointer]:
+            - /url: /pages/pure-escooter-app
+          - generic [ref=f60e123]: "|"
+        - listitem [ref=f60e124]:
+          - link "Klarna" [ref=f60e125] [cursor=pointer]:
+            - /url: https://www.pureelectric.com/pages/klarna
+          - generic [ref=f60e126]: "|"
+        - listitem [ref=f60e127]:
+          - link "Press / Media Enquiries" [ref=f60e128] [cursor=pointer]:
+            - /url: /pages/press-contact
+          - generic [ref=f60e129]: "|"
+        - listitem [ref=f60e130]:
+          - link "Legislation Hub" [ref=f60e131] [cursor=pointer]:
+            - /url: /pages/e-scooter-legislation-hub
+          - generic [ref=f60e132]: "|"
+        - listitem [ref=f60e133]:
+          - link "Outlet" [ref=f60e134] [cursor=pointer]:
+            - /url: /collections/outlet
+          - generic [ref=f60e135]: "|"
+        - listitem [ref=f60e136]:
+          - link "Finance Information" [ref=f60e137] [cursor=pointer]:
+            - /url: /pages/finance-information
+  - generic [ref=f60e141]:
+    - generic [ref=f60e143]:
+      - text: © 2026
+      - link "Pure Electric" [ref=f60e144] [cursor=pointer]:
+        - /url: /
+    - button "Terms and Policies" [ref=f60e146] [cursor=pointer]
+    - generic [ref=f60e147]:
+      - link "Facebook" [ref=f60e149] [cursor=pointer]:
+        - /url: https://www.facebook.com/RidePureElectric/?locale=en_GB
+      - link "Instagram" [ref=f60e153] [cursor=pointer]:
+        - /url: https://www.instagram.com/ridepureelectric/
+      - link "Youtube" [ref=f60e157] [cursor=pointer]:
+        - /url: https://www.youtube.com/pureelectric
+  - contentinfo [ref=f60e160]:
+    - generic [ref=f60e165]:
+      - paragraph [ref=f60e167]:
+        - text: ◊
+        - strong [ref=f60e168]: "Representative example:"
+        - text: Cash price £1,200.00. Deposit £0.00. Total amount of credit £1,200.00. Duration of agreement 12 months. 12 monthly payments of £100.00. Total amount payable £1,200.00. Rate of interest 0% p.a. fixed. Representative APR 0%. Finance provided by Klarna AB (publ). Credit subject to status. 18+, UK residents only.
+        - link "Terms and conditions apply." [ref=f60e169] [cursor=pointer]:
+          - /url: /pages/klarna
+      - generic [ref=f60e170]:
+        - paragraph [ref=f60e171]: It is currently only legal to use an e-scooter on private land with the permission of the land owner. It is illegal to ride an e-scooter on a public road, cycle path, bridleway or pavement.
+        - paragraph [ref=f60e172]:
+          - text: "*Free pump offer is available on new scooter orders only and does not apply to accessories, spare parts, or existing orders. One pump per order, while stocks last. Offer ends 2nd October 2026. Pure Electric reserves the right to amend or withdraw this offer at any time.Pure Electric Limited (FRN: 838075) is an appointed representative of Product Partnerships Limited, which is authorised and regulated by the Financial Conduct Authority. Product Partnerships Limited's Financial Services Register number is 626349 and its address is Second Floor, Atlas House, 31 King Street, Leeds, LS1 2HL.Pure Electric Limited acts as a credit broker, not a lender. We may introduce you to Klarna AB (publ) (FRN: 536065), Clearpay Finance Limited (FRN: 826341) and PayPal UK Ltd (FRN: 996405), who may be able to offer finance or deferred payment credit facilities for your purchase. Credit is provided subject to status.Buy Now Pay Later products are commonly referred to as Deferred Payment Credit. Certain third-party Deferred Payment Credit lending activity is regulated by the Financial Conduct Authority. However, the activity carried out by Pure Electric Limited in introducing customers to Deferred Payment Credit products is not regulated by the Financial Conduct Authority.We do not receive any commission or other payment from Klarna, Clearpay or PayPal for introducing you to them. You will not pay us anything for processing a finance application or for introducing you to a finance provider. You may be able to obtain finance from other lenders and you are encouraged to seek alternative quotations.Read our"
+          - link "Initial Disclosure Document" [ref=f60e173] [cursor=pointer]:
+            - /url: /pages/finance-information
+          - text: ", which you can also"
+          - link "download as a PDF" [ref=f60e174] [cursor=pointer]:
+            - /url: https://cdn.shopify.com/s/files/1/0063/2714/0425/files/Pure_Electric_IDD.pdf?v=1785318310
+          - text: .To complain about a finance product, email
+          - link "finance.complaint@pureelectric.com" [ref=f60e175] [cursor=pointer]:
+            - /url: mailto:finance.complaint@pureelectric.com
+          - text: or see our
+          - link "complaints procedure" [ref=f60e176] [cursor=pointer]:
+            - /url: /policies/terms-of-service#finance-complaints
+          - text: . If we cannot resolve your complaint you may be able to refer it to the
+          - link "Financial Ombudsman Service" [ref=f60e177] [cursor=pointer]:
+            - /url: https://www.financial-ombudsman.org.uk/
+          - text: .
+  - generic:  
+  - generic: 
+  - iframe [ref=f60e178]:
+    

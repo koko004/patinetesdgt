@@ -1,0 +1,379 @@
+- generic [ref=f68e1]:
+  - alert [ref=f68e2]: Press Alt+1 for screen-reader mode, Alt+0 to cancel
+  - button "Use Website In a Screen-Reader Mode" [ref=f68e3]
+  - link "Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window" [ref=f68e4] [cursor=pointer]:
+    - /url: https://accessibe.com/blog/knowledgebase/screen-reader-guide
+  - generic:
+    - generic:
+      - region "Skip Links":
+        - generic:
+          - link "Skip to Content":
+            - /url: "#acsbContent"
+            - text: Skip to Content
+            - generic:
+              - generic: ↵
+              - text: ENTER
+  - dialog [ref=f68e5]:
+    - generic [ref=f68e6]: Simplify Text
+    - button [ref=f68e9] [cursor=pointer]
+  - 'button "Open accessiBe: accessibility options, statement and help" [ref=f68e13] [cursor=pointer]'
+  - dialog "Consentimiento para cookies y datos" [ref=f68e17]:
+    - document [ref=f68e18]:
+      - generic [ref=f68e21]:
+        - text: En este sitio web utilizamos cookies y funciones similares para procesar información del dispositivo final y datos personales (por ejemplo, direcciones IP o información del navegador). El procesamiento se utiliza para fines como la integración de contenido, servicios externos y elementos de terceros, análisis/medición estadística, publicidad personalizada e integración de redes sociales. Dependiendo de la función, los datos se transmiten a un máximo de
+        - link "21 terceros" [ref=f68e22] [cursor=pointer]:
+          - /url: "#"
+        - text: y son procesados por ellos. Este consentimiento es voluntario, no es necesario para el uso de nuestro sitio web y puede revocarse en cualquier momento utilizando el icono de la parte inferior izquierda.
+      - form [ref=f68e23]:
+        - button "Rechazar todo" [ref=f68e25] [cursor=pointer]
+        - button "Aceptar todo" [ref=f68e28] [cursor=pointer]
+    - link "Close" [ref=f68e31] [cursor=pointer]:
+      - /url: "#"
+    - 'button "Idioma: es" [ref=f68e34] [cursor=pointer]'
+  - generic [ref=f68e38]:
+    - banner:
+      - generic [ref=f68e41]:
+        - list [ref=f68e43]:
+          - listitem [ref=f68e44]:
+            - link [ref=f68e45] [cursor=pointer]:
+              - /url: https://es-es.segway.com
+              - img "segway" [ref=f68e46]
+              - img "segway" [ref=f68e47]
+        - generic [ref=f68e48]:
+          - generic [ref=f68e49]:
+            - link:
+              - /url: https://es-es.segway.com/search.html
+          - generic [ref=f68e50]:
+            - link "Store":
+              - /url: https://shop.segway.com/es_es/
+              - img "Store" [ref=f68e51] [cursor=pointer]
+    - main [ref=f68e54]:
+      - generic [ref=f68e59]:
+        - generic [ref=f68e65]:
+          - generic [ref=f68e67]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "tabletimg"
+              - generic:
+                - generic: Nuevo
+                - generic:
+                  - generic:
+                    - generic:
+                      - link "Más información":
+                        - /url: javascript:void(0)
+            - generic [ref=f68e68] [cursor=pointer]:
+              - img "tabletimg" [ref=f68e71]
+              - generic [ref=f68e72]:
+                - generic [ref=f68e73]: Nuevo
+                - link "Más información" [ref=f68e79]:
+                  - /url: javascript:void(0)
+            - generic:
+              - generic:
+                - generic:
+                  - img "tabletimg"
+              - generic:
+                - generic: Nuevo
+                - generic:
+                  - generic:
+                    - generic:
+                      - link "Más información":
+                        - /url: javascript:void(0)
+            - generic:
+              - generic:
+                - generic:
+                  - img "tabletimg"
+              - generic:
+                - generic: Nuevo
+                - generic:
+                  - generic:
+                    - generic:
+                      - link "Más información":
+                        - /url: javascript:void(0)
+            - generic:
+              - generic:
+                - generic:
+                  - img "tabletimg"
+              - generic:
+                - generic: Nuevo
+                - generic:
+                  - generic:
+                    - generic:
+                      - link "Más información":
+                        - /url: javascript:void(0)
+            - generic:
+              - generic:
+                - generic:
+                  - img "tabletimg"
+              - generic:
+                - generic: Nuevo
+                - generic:
+                  - generic:
+                    - generic:
+                      - link "Más información":
+                        - /url: javascript:void(0)
+            - generic:
+              - generic:
+                - generic:
+                  - img "tabletimg"
+              - generic:
+                - generic: Nuevo
+                - generic:
+                  - generic:
+                    - generic:
+                      - link "Más información":
+                        - /url: javascript:void(0)
+          - generic [ref=f68e80]:
+            - button "Go to slide 1" [ref=f68e81] [cursor=pointer]
+            - button "Go to slide 2" [ref=f68e82] [cursor=pointer]
+            - button "Go to slide 3" [ref=f68e83] [cursor=pointer]
+            - button "Go to slide 4" [ref=f68e84] [cursor=pointer]
+            - button "Go to slide 5" [ref=f68e85] [cursor=pointer]
+          - text: MAX G3 E
+        - img "GLOBAL No.1 BRAND IN ELECTRIC KICKSCOOTER SALES - 800+ EKickScooter Patent - 100+ Selling To Countries - 13,000,000+ Global EKickScooter Sales" [ref=f68e90] [cursor=pointer]
+        - generic [ref=f68e94]:
+          - link "Más información" [ref=f68e100] [cursor=pointer]:
+            - /url: /ekickscooter/products/max-g3-e.html?kid=K13501
+          - generic [ref=f68e103]:
+            - button "Next slide" [ref=f68e115] [cursor=pointer]
+            - button "Previous slide" [ref=f68e116] [cursor=pointer]
+        - generic [ref=f68e124]:
+          - generic [ref=f68e125]:
+            - link [ref=f68e126] [cursor=pointer]:
+              - /url: /ekickscooter.html
+              - img "Patinete eléctrico" [ref=f68e128]
+              - img "NO1 - MARCA N.º 1 GLOBAL EN VENTAS DE PATINETAS ELÉCTRICAS" [ref=f68e129]
+            - generic [ref=f68e130]:
+              - generic [ref=f68e131]: Patinete eléctrico
+              - link "Más información" [ref=f68e134] [cursor=pointer]:
+                - /url: /ekickscooter.html
+          - generic [ref=f68e135]:
+            - link [ref=f68e136] [cursor=pointer]:
+              - /url: /escooter.html
+              - img "eScooter" [ref=f68e138]
+            - generic [ref=f68e139]:
+              - generic [ref=f68e140]: eScooter
+              - link "Más información" [ref=f68e143] [cursor=pointer]:
+                - /url: /escooter.html
+          - generic [ref=f68e144]:
+            - link [ref=f68e145] [cursor=pointer]:
+              - /url: /gokart.html
+              - img "Gokart" [ref=f68e147]
+            - generic [ref=f68e148]:
+              - generic [ref=f68e149]: GoKart
+              - link "Más información" [ref=f68e152] [cursor=pointer]:
+                - /url: /gokart.html
+          - generic [ref=f68e153]:
+            - link [ref=f68e154] [cursor=pointer]:
+              - /url: https://powersports.segway.com/
+              - img "Vehículo todoterreno" [ref=f68e156]
+            - generic [ref=f68e157]:
+              - generic [ref=f68e158]: Vehículo todoterreno
+              - link "Más información" [ref=f68e161] [cursor=pointer]:
+                - /url: https://powersports.segway.com/
+          - generic [ref=f68e162]:
+            - link [ref=f68e163] [cursor=pointer]:
+              - /url: https://robotics.segway.com/
+              - img "Robótica" [ref=f68e165]
+            - generic [ref=f68e166]:
+              - generic [ref=f68e167]: Robótica
+              - link "Más información" [ref=f68e170] [cursor=pointer]:
+                - /url: https://robotics.segway.com/
+          - generic [ref=f68e171]:
+            - link [ref=f68e172] [cursor=pointer]:
+              - /url: https://navimow.segway.com
+              - img "Robot de transporte" [ref=f68e174]
+            - generic [ref=f68e175]:
+              - generic [ref=f68e176]: Cortacésped robótico
+              - link "Más información" [ref=f68e179] [cursor=pointer]:
+                - /url: https://navimow.segway.com
+          - generic [ref=f68e180]:
+            - link [ref=f68e181] [cursor=pointer]:
+              - /url: https://b2b.segway.com/
+            - generic [ref=f68e183]:
+              - generic [ref=f68e184]: Comercial
+              - link "Más información" [ref=f68e187] [cursor=pointer]:
+                - /url: https://b2b.segway.com/
+        - generic [ref=f68e191]:
+          - generic [ref=f68e192]:
+            - generic [ref=f68e195]:
+              - generic [ref=f68e196]: Serie E3 E
+              - generic [ref=f68e197]:
+                - generic [ref=f68e198]: eKickscooter
+                - link "Más información" [ref=f68e201] [cursor=pointer]:
+                  - /url: /ekickscooter/products/e3-e.html?kid=K14502
+            - generic [ref=f68e207]:
+              - generic [ref=f68e208]: Serie F3 E
+              - generic [ref=f68e209]:
+                - generic [ref=f68e210]: eKickscooter
+                - link "Más información" [ref=f68e213] [cursor=pointer]:
+                  - /url: /ekickscooter/products/f3-e.html?kid=K13705
+            - generic [ref=f68e219]:
+              - generic [ref=f68e220]: MAX G3 E
+              - generic [ref=f68e221]:
+                - generic [ref=f68e222]: eKickscooter
+                - link "Más información" [ref=f68e225] [cursor=pointer]:
+                  - /url: /ekickscooter/products/max-g3-e.html?kid=K13501
+            - generic [ref=f68e231]:
+              - generic [ref=f68e232]: ZT3 Pro E
+              - generic [ref=f68e233]:
+                - generic [ref=f68e234]: eKickscooter
+                - link "Más información" [ref=f68e237] [cursor=pointer]:
+                  - /url: /ekickscooter/products/zt3-pro-e.html?kid=K13902
+            - generic [ref=f68e243]:
+              - generic [ref=f68e244]: Serie Segway GT3 E
+              - generic [ref=f68e245]:
+                - generic [ref=f68e246]: eKickscooter
+                - link "Más información" [ref=f68e249] [cursor=pointer]:
+                  - /url: /ekickscooter/products/gt3-e.html?kid=K10606
+            - generic [ref=f68e255]:
+              - generic [ref=f68e256]: Serie E3 E
+              - generic [ref=f68e257]:
+                - generic [ref=f68e258]: eKickscooter
+                - link "Más información" [ref=f68e261] [cursor=pointer]:
+                  - /url: /ekickscooter/products/e3-e.html?kid=K14502
+            - generic [ref=f68e267]:
+              - generic [ref=f68e268]: Serie F3 E
+              - generic [ref=f68e269]:
+                - generic [ref=f68e270]: eKickscooter
+                - link "Más información" [ref=f68e273] [cursor=pointer]:
+                  - /url: /ekickscooter/products/f3-e.html?kid=K13705
+            - generic [ref=f68e279]:
+              - generic [ref=f68e280]: MAX G3 E
+              - generic [ref=f68e281]:
+                - generic [ref=f68e282]: eKickscooter
+                - link "Más información" [ref=f68e285] [cursor=pointer]:
+                  - /url: /ekickscooter/products/max-g3-e.html?kid=K13501
+            - generic [ref=f68e291]:
+              - generic [ref=f68e292]: ZT3 Pro E
+              - generic [ref=f68e293]:
+                - generic [ref=f68e294]: eKickscooter
+                - link "Más información" [ref=f68e297] [cursor=pointer]:
+                  - /url: /ekickscooter/products/zt3-pro-e.html?kid=K13902
+            - generic [ref=f68e303]:
+              - generic [ref=f68e304]: Serie Segway GT3 E
+              - generic [ref=f68e305]:
+                - generic [ref=f68e306]: eKickscooter
+                - link "Más información" [ref=f68e309] [cursor=pointer]:
+                  - /url: /ekickscooter/products/gt3-e.html?kid=K10606
+            - generic [ref=f68e315]:
+              - generic [ref=f68e316]: Serie E3 E
+              - generic [ref=f68e317]:
+                - generic [ref=f68e318]: eKickscooter
+                - link "Más información" [ref=f68e321] [cursor=pointer]:
+                  - /url: /ekickscooter/products/e3-e.html?kid=K14502
+            - generic [ref=f68e327]:
+              - generic [ref=f68e328]: Serie F3 E
+              - generic [ref=f68e329]:
+                - generic [ref=f68e330]: eKickscooter
+                - link "Más información" [ref=f68e333] [cursor=pointer]:
+                  - /url: /ekickscooter/products/f3-e.html?kid=K13705
+            - generic [ref=f68e339]:
+              - generic [ref=f68e340]: MAX G3 E
+              - generic [ref=f68e341]:
+                - generic [ref=f68e342]: eKickscooter
+                - link "Más información" [ref=f68e345] [cursor=pointer]:
+                  - /url: /ekickscooter/products/max-g3-e.html?kid=K13501
+            - generic [ref=f68e351]:
+              - generic [ref=f68e352]: ZT3 Pro E
+              - generic [ref=f68e353]:
+                - generic [ref=f68e354]: eKickscooter
+                - link "Más información" [ref=f68e357] [cursor=pointer]:
+                  - /url: /ekickscooter/products/zt3-pro-e.html?kid=K13902
+            - generic [ref=f68e363]:
+              - generic [ref=f68e364]: Serie Segway GT3 E
+              - generic [ref=f68e365]:
+                - generic [ref=f68e366]: eKickscooter
+                - link "Más información" [ref=f68e369] [cursor=pointer]:
+                  - /url: /ekickscooter/products/gt3-e.html?kid=K10606
+          - generic [ref=f68e373]:
+            - button "Go to slide 1" [ref=f68e374] [cursor=pointer]
+            - button "Go to slide 2" [ref=f68e375] [cursor=pointer]
+            - button "Go to slide 3" [ref=f68e376] [cursor=pointer]
+            - button "Go to slide 4" [ref=f68e377] [cursor=pointer]
+            - button "Go to slide 5" [ref=f68e378] [cursor=pointer]
+        - generic [ref=f68e382]:
+          - generic [ref=f68e383]:
+            - generic [ref=f68e384]: Sobre nosotros
+            - generic [ref=f68e385]: Descubre la historia detrás de nuestro producto
+          - img "Acerca de Segway" [ref=f68e389] [cursor=pointer]
+        - generic [ref=f68e395]:
+          - generic [ref=f68e396]: Explorar más
+          - generic [ref=f68e397]:
+            - generic [ref=f68e399] [cursor=pointer]:
+              - link [ref=f68e400]:
+                - /url: /app.html
+                - img "Aplicación de movilidad Segway" [ref=f68e401]
+              - generic [ref=f68e402]:
+                - generic [ref=f68e403]: Aplicación de movilidad Segway
+                - generic [ref=f68e404]: Tu viaje. Una sola app.
+                - link "Más información" [ref=f68e407]:
+                  - /url: /app.html
+            - generic [ref=f68e409] [cursor=pointer]:
+              - link [ref=f68e410]:
+                - /url: https://service.segway.com/es-es/
+                - img "Servicio y soporte" [ref=f68e411]
+              - generic [ref=f68e412]:
+                - generic [ref=f68e413]: Servicio y soporte
+                - generic [ref=f68e414]: Obtén ayuda para todos tus productos Segway
+                - link "Más información" [ref=f68e417]:
+                  - /url: https://service.segway.com/es-es/
+            - generic [ref=f68e419] [cursor=pointer]:
+              - link [ref=f68e420]:
+                - /url: /store-locator.html
+                - img "Dónde Comprar" [ref=f68e421]
+              - generic [ref=f68e422]:
+                - generic [ref=f68e423]: Dónde Comprar
+                - generic [ref=f68e424]: Compra nuestros productos
+                - link "Más información" [ref=f68e427]:
+                  - /url: /store-locator.html
+    - contentinfo [ref=f68e428]:
+      - generic [ref=f68e436]:
+        - list [ref=f68e438]:
+          - link [ref=f68e439] [cursor=pointer]:
+            - /url: https://es-es.segway.com
+            - img "ninebot" [ref=f68e440]
+          - listitem [ref=f68e443]: Inicio
+        - generic [ref=f68e444]:
+          - generic [ref=f68e445]: Categorías de Productos
+          - generic [ref=f68e450]: Más Campos
+          - link "Soporte" [ref=f68e458] [cursor=pointer]:
+            - /url: https://service.segway.com/es-es/
+          - link "Sala de prensa" [ref=f68e463] [cursor=pointer]:
+            - /url: /explore/news.html
+          - link "Acerca de" [ref=f68e468] [cursor=pointer]:
+            - /url: /explore/about-us.html
+          - link "Contáctenos" [ref=f68e473] [cursor=pointer]:
+            - /url: /explore/contact-us.html
+          - link "España /Español" [ref=f68e477] [cursor=pointer]:
+            - /url: /language-selection.html
+        - generic [ref=f68e487]:
+          - generic [ref=f68e488]:
+            - link [ref=f68e490] [cursor=pointer]:
+              - /url: https://www.facebook.com/people/Segwayes/61573326741940/#
+              - img "facebook" [ref=f68e491]
+            - link [ref=f68e493] [cursor=pointer]:
+              - /url: https://x.com/Segway?mx=2
+              - img "twitter" [ref=f68e494]
+            - link [ref=f68e496] [cursor=pointer]:
+              - /url: https://www.youtube.com/@SegwayNinebotEurope
+              - img "Youtube" [ref=f68e497]
+            - link [ref=f68e499] [cursor=pointer]:
+              - /url: https://www.instagram.com/segway_es/
+              - img "instagram" [ref=f68e500]
+            - link [ref=f68e502] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@segway
+              - img "Tiktok" [ref=f68e503]
+          - generic [ref=f68e504]:
+            - generic [ref=f68e505]: COPYRIGHT © SEGWAY INC. TODOS LOS DERECHOS RESERVADOS.
+            - link "Términos de servicio" [ref=f68e507] [cursor=pointer]:
+              - /url: /regulation/user-terms.html
+            - link "Política de privacidad" [ref=f68e509] [cursor=pointer]:
+              - /url: /regulation/privacy-policy.html
+            - link "Política de cookies" [ref=f68e511] [cursor=pointer]:
+              - /url: /regulation/cookie-policy.html
+            - link "Seguridad del producto y cumplimiento de la CRA" [ref=f68e513] [cursor=pointer]:
+              - /url: /regulation/report-a-vulnerability.html
+          - generic [ref=f68e514]: "Segway, la marca número 1 a nivel mundial en ventas de scooters eléctricos. Fuente de los datos: Euromonitor International (Shanghai) Limited; medido en términos del valor de ventas de marcas de scooters eléctricos en 2023; un scooter eléctrico se refiere a un medio de transporte ligero que consta de manillar, ruedas, plataforma para los pies y está equipado con componentes adicionales como motor, controlador, batería y acelerador en comparación con un scooter convencional no motorizado; investigación completada en noviembre de 2024."
+  - button [ref=f68e517] [cursor=pointer]:
+    - img "La configuración de privacidad" [ref=f68e518]

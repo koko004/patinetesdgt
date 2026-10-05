@@ -1,0 +1,785 @@
+- generic [ref=f160e1]:
+  - link [ref=f160e2] [cursor=pointer]:
+    - /url: https://web.whatsapp.com/send?l=es&phone=34688751888&text= https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1897-rovoron-r5-pro.html
+  - main [ref=f160e4]:
+    - generic [ref=f160e5]:
+      - list [ref=f160e17]:
+        - listitem [ref=f160e18]:
+          - generic [ref=f160e19]: 
+          - text: ¡ENVÍO GRATIS A PENÍNSULA Y BALEARES!
+      - navigation [ref=f160e21]:
+        - generic [ref=f160e23]:
+          - list [ref=f160e26]:
+            - listitem [ref=f160e27]:
+              - link "¡LLÁMANOS! 688 751 888" [ref=f160e28] [cursor=pointer]:
+                - /url: tel:+34688751888
+          - list [ref=f160e32]:
+            - listitem [ref=f160e33]:
+              - link "OPINIONES DE CLIENTES" [ref=f160e34] [cursor=pointer]:
+                - /url: https://www.trustedshops.es/evaluacion/info_X7971BAC9A2BC178FCCBEA75B22E0AD86.html
+            - listitem [ref=f160e35]:
+              - link "CONTACTO" [ref=f160e36] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/contactenos
+      - text:      
+      - generic [ref=f160e37]:
+        - link [ref=f160e41] [cursor=pointer]:
+          - /url: https://www.imoveblue.es/
+          - img "imoveblue.es - UJ Solutions SC" [ref=f160e42]
+        - generic [ref=f160e46]:
+          - generic [ref=f160e47]:
+            - generic [ref=f160e48] [cursor=pointer]:
+              - generic [ref=f160e49]: 
+              - generic [ref=f160e50]: Menu
+            - list [ref=f160e52]:
+              - listitem [ref=f160e53]:
+                - link "Inicio" [ref=f160e54] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/
+              - listitem [ref=f160e55]:
+                - link "Contacto" [ref=f160e56] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/contactenos
+              - listitem [ref=f160e57]:
+                - generic [ref=f160e58] [cursor=pointer]:
+                  - generic [ref=f160e59]: 
+                  - text: 
+                - link "Patinetes eléctricos certificados DGT" [ref=f160e60] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+              - listitem [ref=f160e61]:
+                - link "MATRICULA TU VMP" [ref=f160e62] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1726-comprar-matricula-patinete-vmp-adhesivo.html
+              - listitem [ref=f160e63]:
+                - link "Seguro patinete eléctrico VMP" [ref=f160e64] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/content/15-seguro-patinete-electrico-vmp
+              - listitem [ref=f160e65]:
+                - generic [ref=f160e66] [cursor=pointer]:
+                  - generic [ref=f160e67]: 
+                  - text: 
+                - link "Movilidad infantil" [ref=f160e68] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/26-movilidad-infantil
+              - listitem [ref=f160e69]:
+                - link "Bicicletas eléctricas" [ref=f160e70] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/14-bicicletas-electricas
+              - listitem [ref=f160e71]:
+                - link "Motos eléctricas" [ref=f160e72] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/18-motos-electricas
+              - listitem [ref=f160e73]:
+                - link "Monociclos eléctricos" [ref=f160e74] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/30-monociclos-electricos
+              - listitem [ref=f160e75]:
+                - link "Bicicletas" [ref=f160e76] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/31-bicicletas
+              - listitem [ref=f160e77]:
+                - link "Componentes ciclismo" [ref=f160e78] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/38-componentes-ciclismo
+              - listitem [ref=f160e79]:
+                - link "Recambios" [ref=f160e80] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/20-recambios
+              - listitem [ref=f160e81]:
+                - link "Triciclos eléctricos y movilidad reducida" [ref=f160e82] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/32-triciclos-electricos-y-movilidad-reducida
+              - listitem [ref=f160e83]:
+                - link "Accesorios VMP y ciclismo" [ref=f160e84] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/28-accesorios-vmp-ciclismo
+              - listitem [ref=f160e85]:
+                - link "Patinetes eléctricos" [ref=f160e86] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/13-patinete-electrico
+              - listitem [ref=f160e87]:
+                - link "Condiciones de compra y envío" [ref=f160e88] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/content/3-terminos-y-condiciones-de-uso
+          - generic [ref=f160e90] [cursor=pointer]:
+            - generic [ref=f160e91]: 
+            - generic [ref=f160e92]: Buscar
+          - link "Iniciar sesión" [ref=f160e94] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/mi-cuenta
+            - generic [ref=f160e95]: 
+          - generic [ref=f160e99] [cursor=pointer]:
+            - generic [ref=f160e100]:
+              - text: 
+              - generic [ref=f160e101]: "0"
+            - generic [ref=f160e102]: Carrito
+    - generic [ref=f160e103]:
+      - navigation [ref=f160e104]:
+        - generic [ref=f160e106]:
+          - list [ref=f160e108]:
+            - listitem [ref=f160e109]:
+              - link "Inicio" [ref=f160e110] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/
+              - text: /
+            - listitem [ref=f160e111]:
+              - link "Patinetes eléctricos certificados DGT" [ref=f160e112] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+              - text: /
+            - listitem [ref=f160e113]:
+              - generic [ref=f160e114]: Rovoron R5 Pro certificado
+          - generic [ref=f160e116]:
+            - link "Previous product" [ref=f160e117] [cursor=pointer]:
+              - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1916-smartgyro-crossover-dual-xt.html
+              - generic [ref=f160e118]: 
+            - link "Next product" [ref=f160e119] [cursor=pointer]:
+              - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1896-rovoron-r5.html
+              - generic [ref=f160e120]: 
+      - generic [ref=f160e121]:
+        - complementary
+        - generic [ref=f160e123]:
+          - text: 
+          - generic [ref=f160e124]:
+            - generic [ref=f160e125]:
+              - generic [ref=f160e128]:
+                - generic [ref=f160e129]:
+                  - generic [ref=f160e131]:
+                    - img "Sticker" [ref=f160e132]
+                    - text: ¡MATRÍCULA GRATIS!
+                  - list [ref=f160e133]:
+                    - listitem [ref=f160e134]: Nuevo
+                  - generic [ref=f160e137]:
+                    - generic [ref=f160e138]: 
+                    - generic [ref=f160e147]:
+                      - generic [ref=f160e148] [cursor=pointer]: 
+                      - img "Rovoron R5 Pro" [ref=f160e151]
+                    - generic [ref=f160e152]: 
+                    - generic [ref=f160e159]: 
+                    - generic [ref=f160e166]: 
+                    - generic [ref=f160e173]: 
+                    - generic [ref=f160e180]: 
+                    - generic [ref=f160e187]: 
+                    - generic [ref=f160e194]: 
+                    - generic [ref=f160e201]: 
+                    - generic [ref=f160e208]: 
+                    - generic [ref=f160e215]: 
+                    - generic [ref=f160e222]: 
+                    - generic [ref=f160e229]: 
+                    - generic [ref=f160e236]: 
+                    - generic [ref=f160e243]: 
+                    - generic [ref=f160e250]: 
+                    - generic [ref=f160e257]: 
+                    - generic [ref=f160e264]: 
+                    - generic [ref=f160e271]: 
+                    - generic [ref=f160e278]: 
+                    - generic [ref=f160e285]: 
+                    - generic [ref=f160e292]: 
+                - generic [ref=f160e302]:
+                  - img "Rovoron R5 Pro" [ref=f160e306] [cursor=pointer]
+                  - img "Rovoron R5 Pro" [ref=f160e310] [cursor=pointer]
+                  - img "Rovoron R5 Pro" [ref=f160e314] [cursor=pointer]
+              - generic [ref=f160e344]:
+                - generic [ref=f160e345]:
+                  - heading "Rovoron R5 Pro certificado" [level=1] [ref=f160e346]
+                  - link [ref=f160e349] [cursor=pointer]:
+                    - /url: https://www.imoveblue.es/84_rovoron-minimotors
+                    - img "Rovoron - Minimotors" [ref=f160e350]
+                  - generic [ref=f160e351]:
+                    - generic [ref=f160e352]:
+                      - generic [ref=f160e353]: 
+                      - text: ¡RESERVA YA! ENTREGAS EN OCTUBRE
+                    - generic [ref=f160e354]: 1.390,00 €
+                    - generic [ref=f160e357]: Impuestos incluidos ENVÍO GRATIS
+                - generic [ref=f160e358]:
+                  - generic [ref=f160e359]:
+                    - paragraph [ref=f160e360]:
+                      - strong [ref=f160e361]: Rovoron R5 Pro certificado por la DGT con nº B1159
+                      - text: ", el nuevo patinete de Minimotors y hermano pequeño del R7, llega para demostrar que no tienes que renunciar a la agilidad cuando buscas un rendimiento de alta gama. El"
+                      - strong [ref=f160e362]: Rovoron R5 Pro
+                      - text: es el vehículo definitivo para quienes exigen velocidad, estabilidad y componentes de primera calidad con una
+                      - strong [ref=f160e363]: gran batería infinita de 60V 37Ah Samsung
+                      - text: . La versión Pro del R5 incluye además manillar plegable y frenos de disco hidráulicos, todo esto a un precio nunca imaginado.
+                    - paragraph [ref=f160e364]:
+                      - strong [ref=f160e365]: ¡REGALO MATRÍCULA O CASCO! INDICANOS TU REGALO EN EL PEDIDO
+                  - generic [ref=f160e366]:
+                    - generic [ref=f160e367]:
+                      - generic [ref=f160e369]:
+                        - generic [ref=f160e370]: Color
+                        - list:
+                          - listitem [ref=f160e371]:
+                            - radio [checked] [ref=f160e372] [cursor=pointer]
+                            - generic [ref=f160e373] [cursor=pointer]: Rojo
+                          - listitem [ref=f160e375]:
+                            - radio [ref=f160e376] [cursor=pointer]
+                            - generic [ref=f160e377] [cursor=pointer]: Negro
+                          - listitem [ref=f160e379]:
+                            - radio [ref=f160e380] [cursor=pointer]
+                            - generic [ref=f160e381] [cursor=pointer]: Azul
+                      - generic [ref=f160e383]:
+                        - generic [ref=f160e384]:
+                          - generic [ref=f160e387]:
+                            - spinbutton [ref=f160e388]: "1"
+                            - generic [ref=f160e389]:
+                              - button "" [ref=f160e390] [cursor=pointer]
+                              - button "" [ref=f160e392] [cursor=pointer]
+                          - button "Añadir al carrito" [ref=f160e396] [cursor=pointer]:
+                            - generic [ref=f160e397]: 
+                            - text:  Añadir al carrito
+                        - paragraph
+                    - generic [ref=f160e398]:
+                      - generic [ref=f160e399]:
+                        - generic [ref=f160e400]: Añade accesorios extra
+                        - generic [ref=f160e401]:
+                          - article [ref=f160e403]:
+                            - table [ref=f160e404]:
+                              - rowgroup [ref=f160e405]:
+                                - row [ref=f160e406]:
+                                  - cell [ref=f160e407]:
+                                    - checkbox [ref=f160e408]
+                                  - cell [ref=f160e409]:
+                                    - link [ref=f160e410] [cursor=pointer]:
+                                      - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1940-matricula-gratis-patinete-electrico-vmp.html
+                                      - img "Matrícula patinete eléctrico VMP adhesivo" [ref=f160e411]
+                                  - cell [ref=f160e412]:
+                                    - link [ref=f160e413] [cursor=pointer]:
+                                      - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1940-matricula-gratis-patinete-electrico-vmp.html
+                                      - strong [ref=f160e414]: REGALO MATRÍCULA VMP, CASCO O CHALECO REFLECTANTE
+                                    - combobox [ref=f160e416]:
+                                      - option "Elige regalo - Matrícula VMP +0,00 €" [selected]
+                                      - option "Elige regalo - Casco talla M +0,00 €"
+                                      - option "Elige regalo - Casco talla L +0,00 €"
+                                      - option "Elige regalo - Chaleco reflectante +0,00 €"
+                          - article [ref=f160e418]:
+                            - table [ref=f160e419]:
+                              - rowgroup [ref=f160e420]:
+                                - row [ref=f160e421]:
+                                  - cell [ref=f160e422]:
+                                    - checkbox [ref=f160e423]
+                                  - cell [ref=f160e424]:
+                                    - link [ref=f160e425] [cursor=pointer]:
+                                      - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1938-chaleco-reflectante-amarillo-fluorescente-vmp.html
+                                      - img "Chaleco Reflectante Amarillo Fluorescente VMP" [ref=f160e426]
+                                  - cell "Chaleco Reflectante Amarillo Fluorescente VMP +19,90 €" [ref=f160e427]:
+                                    - link [ref=f160e428] [cursor=pointer]:
+                                      - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1938-chaleco-reflectante-amarillo-fluorescente-vmp.html
+                                      - strong [ref=f160e429]: Chaleco Reflectante Amarillo Fluorescente VMP
+                                    - generic [ref=f160e430]: +19,90 €
+                          - article [ref=f160e432]:
+                            - table [ref=f160e433]:
+                              - rowgroup [ref=f160e434]:
+                                - row [ref=f160e435]:
+                                  - cell [ref=f160e436]:
+                                    - checkbox [ref=f160e437]
+                                  - cell [ref=f160e438]:
+                                    - link [ref=f160e439] [cursor=pointer]:
+                                      - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1939-chaleco-reflectante-tirante-suniik.html
+                                      - img "Chaleco reflectante tirante SUNIIK" [ref=f160e440]
+                                  - cell [ref=f160e441]:
+                                    - link [ref=f160e442] [cursor=pointer]:
+                                      - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1939-chaleco-reflectante-tirante-suniik.html
+                                      - strong [ref=f160e443]: Chaleco reflectante tirante SUNIIK
+                                    - combobox [ref=f160e445]:
+                                      - option "Color - Amarillo +18,90 €" [selected]
+                                      - option "Color - Azul +18,90 €"
+                                      - option "Color - Rojo +18,90 €"
+                                      - option "Color - Naranja +18,90 €"
+                          - article [ref=f160e447]:
+                            - table [ref=f160e448]:
+                              - rowgroup [ref=f160e449]:
+                                - row [ref=f160e450]:
+                                  - cell [ref=f160e451]:
+                                    - checkbox [ref=f160e452]
+                                  - cell [ref=f160e453]:
+                                    - link [ref=f160e454] [cursor=pointer]:
+                                      - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1874-casco-integral-suniik.html
+                                      - img "Casco integral Suniik" [ref=f160e455]
+                                  - cell [ref=f160e456]:
+                                    - link [ref=f160e457] [cursor=pointer]:
+                                      - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1874-casco-integral-suniik.html
+                                      - strong [ref=f160e458]: Casco integral Suniik
+                                    - combobox [ref=f160e460]:
+                                      - option "Color - Azul +99,00 €"
+                                      - option "Color - Naranja +99,00 €"
+                                      - option "Color - Negro +99,00 €" [selected]
+                      - list [ref=f160e462]:
+                        - listitem [ref=f160e463]:
+                          - link "Compartir" [ref=f160e464] [cursor=pointer]:
+                            - /url: https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.imoveblue.es%2Fpatinetes-electricos-certificados-dgt%2F1897-rovoron-r5-pro.html
+                            - generic [ref=f160e465]: 
+                        - listitem [ref=f160e466]:
+                          - link "Tuitear" [ref=f160e467] [cursor=pointer]:
+                            - /url: https://twitter.com/intent/tweet?text=Rovoron+R5+Pro+certificado https%3A%2F%2Fwww.imoveblue.es%2Fpatinetes-electricos-certificados-dgt%2F1897-rovoron-r5-pro.html
+                            - generic [ref=f160e468]: 
+                        - listitem [ref=f160e469]:
+                          - link "Pinterest" [ref=f160e470] [cursor=pointer]:
+                            - /url: https://www.pinterest.com/pin/create/button/?media=https%3A%2F%2Fwww.imoveblue.es%2F10163%2Frovoron-r5-pro.jpg&url=https%3A%2F%2Fwww.imoveblue.es%2Fpatinetes-electricos-certificados-dgt%2F1897-rovoron-r5-pro.html
+                            - generic [ref=f160e471]: 
+                      - list [ref=f160e473]:
+                        - listitem [ref=f160e474]:
+                          - link "Rovoron R5 Pro" [ref=f160e475] [cursor=pointer]:
+                            - /url: //www.imoveblue.es/busqueda?tag=Rovoron%2BR5%2BPro
+                      - generic [ref=f160e477]:
+                        - paragraph [ref=f160e478]:
+                          - link [ref=f160e479] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/content/15-seguro-patinete-electrico-vmp
+                            - img "Seguro patinete VMP" [ref=f160e480]
+                        - paragraph
+                        - paragraph [ref=f160e481]:
+                          - link [ref=f160e482] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/contactenos
+                            - img "Financiar patinete" [ref=f160e483]
+                        - paragraph
+                      - generic [ref=f160e484]:
+                        - paragraph [ref=f160e485]:
+                          - text: Llévatelo por 35,19€ en 48 meses
+                          - superscript [ref=f160e486]: "*"
+                        - list [ref=f160e487]:
+                          - listitem [ref=f160e488]:
+                            - strong [ref=f160e489]:
+                              - text: "TIN: 9,9% /"
+                              - generic [ref=f160e490]: "TAE: 10,37%"
+                          - listitem [ref=f160e491]: "Número de cuotas: 48 cuotas"
+                          - listitem [ref=f160e492]: "Cuota mensual: 35,19€/mes"
+                          - listitem [ref=f160e493]: "Importe total adeudado y precio total a plazos: 1689,12€"
+                          - listitem [ref=f160e494]: "Coste total de crédito e intereses: 299,12€"
+                        - paragraph [ref=f160e495]: "*Oferta financiera realizada por la entidad de pago híbrida CaixaBank Payments & Consumer E.F.C., E.P., S.A.U., y sujeta a su autorización. La entidad ha escogido como sistema de protección de los fondos recibidos de usuarios de servicios de pago que presta su depósito en una cuenta bancaria separada abierta en CaixaBank, S.A. Sistema de amortización francés. Oferta válida hasta 01/01/2050"
+                    - generic [ref=f160e496]:
+                      - paragraph [ref=f160e500] [cursor=pointer]: "SUPERATENCIÓN AL CLIENTE: T 688 751 888"
+                      - paragraph [ref=f160e504] [cursor=pointer]: OFRECEMOS SEGURO PARA TU VMP. CONSÚLTANOS
+                      - paragraph [ref=f160e508]: ENVÍO GRATIS A PENÍNSULA Y BALEARES (Europa y Canarias consultar previamente)
+                      - paragraph [ref=f160e512]: GARANTÍA OFICIAL DE LA MARCA 3 AÑOS CON RECOGIDA GRATIS *
+                      - paragraph [ref=f160e516]: REPUESTOS Y SERVICIO TÉCNICO OFICIAL
+                      - paragraph [ref=f160e520]: TALLERES COLABORADORES EN TODA ESPAÑA
+                    - generic [ref=f160e521]:
+                      - 'heading "DESCUENTO 20€ CON CUPÓN: BLUE20" [level=5] [ref=f160e522]'
+                      - generic [ref=f160e523]:
+                        - paragraph [ref=f160e524]:
+                          - 'img "Cupón 20€: BLUE20" [ref=f160e525]'
+                        - paragraph
+                    - generic [ref=f160e529]:
+                      - generic [ref=f160e530]:
+                        - generic [ref=f160e531]: 
+                        - text: Opiniones de clientes
+                      - generic [ref=f160e533]:
+                        - text: Nadie ha efectuado una evaluación en este idioma
+                        - link "Puntúalo" [ref=f160e536] [cursor=pointer]:
+                          - /url: /modules/gsnippetsreviews/ws-gsnippetsreviews.php?bt_token=3fdf871f2d73a99a5cc5b70623982830&sAction=display&sType=review&iPId=1897&iCId=0&sURI=%2Fpatinetes-electricos-certificados-dgt%2F1897-rovoron-r5-pro.html&btKey=aa7324460035997d3a837d260387f273
+            - generic [ref=f160e537]:
+              - list [ref=f160e538]:
+                - listitem [ref=f160e539]:
+                  - link "Descripción" [ref=f160e540] [cursor=pointer]:
+                    - /url: "#description"
+                - listitem [ref=f160e541]:
+                  - link "Detalles del producto" [ref=f160e542] [cursor=pointer]:
+                    - /url: "#product-details-tab"
+                - listitem [ref=f160e543]:
+                  - link "Sobre Rovoron - Minimotors" [ref=f160e544] [cursor=pointer]:
+                    - /url: "#brand-tab"
+                - listitem [ref=f160e545]:
+                  - link "Postventa Premium y Garantía" [ref=f160e546] [cursor=pointer]:
+                    - /url: "#extra-0"
+                - listitem [ref=f160e547]:
+                  - link "Matrícula Gratis y Seguro VMP" [ref=f160e548] [cursor=pointer]:
+                    - /url: "#extra-1"
+                - listitem [ref=f160e549]:
+                  - link "Trusted Shops Reviews" [ref=f160e550] [cursor=pointer]:
+                    - /url: "#extra-2"
+              - generic [ref=f160e551]:
+                - generic [ref=f160e554]:
+                  - 'heading "Patinete Eléctrico Rovoron R5 Pro (60V 37Ah): La experiencia Premium definitiva sin límites de distancia" [level=2] [ref=f160e555]'
+                  - paragraph [ref=f160e556]:
+                    - text: Para aquellos que no se conforman con lo estándar, llega el patinete eléctrico
+                    - strong [ref=f160e557]: Rovoron R5 Pro
+                    - text: en su versión tope de gama de 60V 37Ah. Bajo el inconfundible sello de calidad de Minimotors, este modelo coge la base excelente del R5 y la eleva a la categoría "Pro", incorporando componentes de rendimiento superior para los pilotos más exigentes pero a un precio nunca imaginado, haciéndolo accesible cualquier rider.
+                  - paragraph [ref=f160e558]:
+                    - text: En imoveblue.es sabemos que buscas lo mejor del mercado. El
+                    - strong [ref=f160e559]: Rovoron R5 Pro certificado por la DGT
+                    - text: combina una autonomía monstruosa con una frenada y un control de nivel superior. Es, sin duda, la máquina total para la ciudad y más allá.
+                  - heading "¿Qué diferencia la versión Rovoron R5 pro de la versión R5 normal?" [level=2] [ref=f160e560]
+                  - list [ref=f160e561]:
+                    - listitem [ref=f160e562]: Frenos de disco hidráulico para una frenada mas precisa y potente.
+                    - listitem [ref=f160e563]: Batería infinita de mayor capacidad de 60V 37Ah con celdas Samsung
+                    - listitem [ref=f160e564]: Manillar plegable para ahorrar espacio a la hora de guardarlo
+                  - heading "¿Qué hace al R5 Pro el rey de la calle?" [level=2] [ref=f160e565]
+                  - list [ref=f160e566]:
+                    - listitem [ref=f160e567]: "Frenada Hidráulica de Alta Precisión (Exclusivo Pro): La potencia exige control. A diferencia de las versiones estándar, el modelo Pro incorpora frenos de disco hidráulicos que ofrecen un tacto mucho más suave, preciso y una capacidad de detención radicalmente superior. Tu seguridad, garantizada a cualquier velocidad."
+                    - listitem [ref=f160e568]: "Autonomía Extrema (Batería 60V 37Ah): Equipado con un pack de baterías masivo, este patinete es un auténtico maratoniano. Disfruta de hasta 110 kilómetros de autonomía con una sola carga. Olvídate del cargador durante días y lánzate a hacer rutas largas sin ansiedad por la batería."
+                    - listitem [ref=f160e569]: "Potencia Dual Arrolladora: Cuenta con un motor dual de altísimo rendimiento impulsado por controladores Sine Wave. Con más de 3000W de potencia pico, disfrutarás de una aceleración fulgurante, capaz de devorar cuestas y pendientes pronunciadas como si no existieran."
+                    - listitem [ref=f160e570]:
+                      - text: "100% Homologado (DGT): Muévete con la máxima tranquilidad. El"
+                      - strong [ref=f160e571]: Rovoron R5 Pro
+                      - text: cumple con todas las normativas de la DGT para Vehículos de Movilidad Personal (VMP) en España, estando limitado a 25 km/h.
+                  - heading "Tecnología, Confort y Diseño Premium" [level=2] [ref=f160e572]
+                  - list [ref=f160e573]:
+                    - listitem [ref=f160e574]: "Neumáticos Tubeless de 10\" Extra Anchos: Ruedas sin cámara (10x3.0-6.5) diseñadas para agarrarse al asfalto en las curvas más cerradas y reducir casi a cero el riesgo de pinchazos."
+                    - listitem [ref=f160e575]: "Suspensión Dual Avanzada: Su sistema de suspensión delantera y trasera por muelles está calibrado para soportar conducción intensiva, filtrando a la perfección baches, resaltos y adoquines."
+                    - listitem [ref=f160e576]: "Iluminación y Certificación IPX6: Déjate ver gracias a su potente faro LED, luces de freno y detalles lumínicos en el chasis. Además, su certificación IPX6 lo protege contra lluvias inesperadas y charcos, sellando su electrónica."
+                  - heading "Rovoron R5 Pro certificado DGT especificaciones Técnicas" [level=2] [ref=f160e577]
+                  - list [ref=f160e578]:
+                    - listitem [ref=f160e579]:
+                      - strong [ref=f160e580]: Certificado por la DGT con nº B1159
+                    - listitem [ref=f160e581]:
+                      - strong [ref=f160e582]: Batería Alta capacidad 60V 37Ah Samsung
+                    - listitem [ref=f160e583]: Autonomía Hasta 80-110 km (según conducción y peso)
+                    - listitem [ref=f160e584]: Potencia Máxima +3000W pico (Doble motor)
+                    - listitem [ref=f160e585]: Frenos Discos Hidráulicos delantero/trasero + Electrónico
+                    - listitem [ref=f160e586]: Manillar plegable
+                    - listitem [ref=f160e587]: Ruedas 10" x 3.0-6.5 Tubeless (Sin cámara)
+                    - listitem [ref=f160e588]: Suspensión Delantera y trasera por muelles
+                    - listitem [ref=f160e589]: Resistencia al agua IPX6
+                    - listitem [ref=f160e590]: App móvil Minimotors
+                    - listitem [ref=f160e591]: Controladora 2 x 60V 22A
+                    - listitem [ref=f160e592]: Display New Ey3
+                    - listitem [ref=f160e593]: Peso 41 kg
+                    - listitem [ref=f160e594]: Carga Máx. Aprox. 120 kg
+                  - heading "Compra Rovoron R5 Pro DGT en imoveblue.es" [level=2] [ref=f160e595]
+                  - paragraph [ref=f160e596]: "En imoveblue.es te lo ponemos muy fácil:"
+                  - list [ref=f160e597]:
+                    - listitem [ref=f160e598]: "Envío VIP a domicilio: Rápido, seguro y sin costes ocultos."
+                    - listitem [ref=f160e599]: "Págalo a tu ritmo: Benefíciate de nuestros planes de financiación flexible y estrena tu Rovoron hoy mismo."
+                    - listitem [ref=f160e600]: "Respaldo Técnico Especializado: Garantía oficial y un equipo de expertos siempre a tu disposición para el mantenimiento de tu vehículo."
+                  - paragraph [ref=f160e601]: Siente la diferencia de conducir la gama más alta. ¡Añade el Rovoron R5 Pro 60V 37Ah a tu carrito en imoveblue.es y haz tuya la ciudad!
+                - generic [ref=f160e604]:
+                  - term [ref=f160e605]: Potencia nominal
+                  - definition [ref=f160e606]: 1000W
+                  - term [ref=f160e607]: Motor tipo
+                  - definition [ref=f160e608]: Dual
+                  - term [ref=f160e609]: Batería capacidad
+                  - definition [ref=f160e610]: 37Ah
+                  - term [ref=f160e611]: Tamaño de rueda
+                  - definition [ref=f160e612]: 10"
+                  - term [ref=f160e613]: Peso
+                  - definition [ref=f160e614]: "41"
+                  - term [ref=f160e615]: Potencia máxima pico
+                  - definition [ref=f160e616]: 3000W
+                  - term [ref=f160e617]: Batería voltaje
+                  - definition [ref=f160e618]: 60V
+                  - term [ref=f160e619]: Certificados
+                  - definition [ref=f160e620]: Certificado DGT
+                  - term [ref=f160e621]: Nº de certificado DGT
+                  - definition [ref=f160e622]: B1159
+                - generic [ref=f160e623]:
+                  - paragraph [ref=f160e624]:
+                    - text: Los
+                    - strong [ref=f160e625]: patinetes eléctricos Rovoron
+                    - text: de Minimotors son considerados los mejores en relación calidad-potencia-precio. En nuestra tienda online podrás comprar patinetes Rovoron Minimotors con total garantía ya que somos distribuidor oficial Rovoron en España. Tenemos acceso a repuestos de todos los patinetes Minimotors-Rovoron. Si necesitas algún recambio en concreto contacta con nosotros.
+                  - paragraph [ref=f160e626]:
+                    - strong [ref=f160e627]: TRABAJAMOS ÚNICAMENTE CON IMPORTADORES MINIMOTORS OFICIALES DE ESPAÑA Y EUROPA, LO QUE GARANTIZA EL MEJOR SERVICIO POSTVENTA, RECAMBIOS Y GARANTÍAS.
+                - generic [ref=f160e628]:
+                  - paragraph [ref=f160e629]:
+                    - text: En imoveblue.es, tu tranquilidad es lo primero y es lo que nos diferencia del resto de tiendas. Por eso, te ofrecemos un Servicio de Garantía Completo y Servicio postventa Premium para que solo te preocupes de disfrutar de tu vehículo.
+                    - strong [ref=f160e630]: Nos diferenciamos por aportar siempre soluciones
+                    - text: a cualquier problema que tenga tu vehículo en cualquier punto del país.
+                  - heading "Garantía Oficial y Cobertura" [level=2] [ref=f160e631]
+                  - list [ref=f160e632]:
+                    - listitem [ref=f160e633]:
+                      - paragraph [ref=f160e634]: "Garantía Oficial de 3 Años: Todos nuestros vehículos y productos cuentan con la Garantía Oficial del fabricante de 3 años desde la fecha de compra."
+                    - listitem [ref=f160e635]:
+                      - paragraph [ref=f160e636]: "Excepciones: La garantía cubre fallos de fabricación y componentes principales. Quedan excluidas las piezas consideradas de desgaste (como neumáticos, pastillas de freno, etc...) Las baterías y determinados componentes eléctricos de vehículos tendrán una garantía de 6 meses, 1, 2 o 3 años o límite de km en función de las normas de fabricante-marca."
+                  - heading "Servicio Premium de Recogida y Reparación Gratuita" [level=2] [ref=f160e637]
+                  - list [ref=f160e638]:
+                    - listitem [ref=f160e639]:
+                      - paragraph [ref=f160e640]: "Máxima Comodidad: Si tu vehículo presenta un fallo cubierto por la garantía, nosotros nos encargamos de todo."
+                    - listitem [ref=f160e641]:
+                      - paragraph [ref=f160e642]: "Recogida Gratuita: Recogemos tu producto a domicilio sin coste alguno para ti."
+                    - listitem [ref=f160e643]:
+                      - paragraph [ref=f160e644]: "Reparación Profesional: Será reparado por Técnicos Oficiales en el taller oficial correspondiente para asegurar la máxima calidad."
+                    - listitem [ref=f160e645]:
+                      - paragraph [ref=f160e646]: "Devolución sin Coste: Una vez reparado, te lo devolvemos en tu domicilio completamente gratis."
+                  - heading "Opciones de Solución de Problemas (Según el Caso)" [level=2] [ref=f160e647]
+                  - paragraph [ref=f160e648]: "Una vez que contactes con nosotros, evaluaremos tu caso para ofrecerte la solución más rápida y eficiente:"
+                  - list [ref=f160e649]:
+                    - listitem [ref=f160e650]:
+                      - paragraph [ref=f160e651]: Recogida y Reparación Gratuita en Taller Oficial (la opción estándar y más cómoda para ti).
+                    - listitem [ref=f160e652]:
+                      - paragraph [ref=f160e653]: Envío de Pieza Defectuosa y reparación por parte del cliente (ideal para fallos menores y clientes con conocimientos técnicos).
+                    - listitem [ref=f160e654]:
+                      - paragraph [ref=f160e655]: Reparación en Taller Colaborador (si disponemos de un taller asociado cerca de tu ubicación, facilitando una solución local y rápida).
+                  - heading "Mantenimiento y Red de Talleres" [level=2] [ref=f160e656]
+                  - list [ref=f160e657]:
+                    - listitem [ref=f160e658]:
+                      - paragraph [ref=f160e659]: "Red de Talleres Colaboradores: Además del servicio de garantía, contamos con una red de talleres colaboradores en crecimiento a nivel nacional."
+                    - listitem [ref=f160e660]:
+                      - paragraph [ref=f160e661]: "Mantenimiento al Día: Puedes utilizar esta red para realizar las revisiones, puestas a punto y el mantenimiento periódico de tu vehículo de forma cómoda y con profesionales de confianza."
+                  - heading "¿Tienes un Problema? ¡Contáctanos!" [level=2] [ref=f160e662]
+                  - paragraph [ref=f160e663]:
+                    - text: Si tienes cualquier incidencia con tu producto o necesitas gestionar la garantía,
+                    - strong [ref=f160e664]:
+                      - link "simplemente contacta con nuestro equipo" [ref=f160e665] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/contactenos
+                    - text: . Te guiaremos en cada paso para resolver tu situación lo antes posible.
+                - generic [ref=f160e666]:
+                  - paragraph [ref=f160e667]:
+                    - strong [ref=f160e668]: ¡Matrícula gratis! ¡Te lo ponemos muy fácil para circular con total legalidad! Tenemos una promoción activa para la compra de patinetes eléctricos y VMP. Te regalamos la matrícula en patinetes eléctricos señalados en la descripción de producto
+                    - text: (No compatible con otros regalos o cupones de descuento. Promoción válida para patinetes comprados desde el 12 de febrero hasta el 31 de marzo). Para pedir la matrícula deberás registrar el VMP en la web de la DGT y pagas las tasas, y una vez obtengas el nº de matrícula debes facilitarnos vía email o Whatsapp el certificado de registro de VMP del la DGT y DNI por las 2 caras. En 2-3 días te enviaremos tu matrícula gratis a domicilio.
+                  - paragraph [ref=f160e669]:
+                    - img "Matrícula patinete gratis" [ref=f160e670]
+                  - paragraph [ref=f160e671]:
+                    - text: Además en el siguiente enlace os dejamos un
+                    - strong [ref=f160e672]:
+                      - link "tutorial para poder registrar y matricular vuestro patinete eléctrico o VMP en la DGT" [ref=f160e673] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/content/14-matricular-patinete-electrico-vmp-dgt
+                    - text: y obtener la matrícula adhesiva. ¡Es muy sencillo! Si tienes cualquier duda puedes
+                    - strong [ref=f160e674]:
+                      - link "contactar con nosotros" [ref=f160e675] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/contactenos
+                    - text: y te ayudamos en el proceso.
+                  - paragraph [ref=f160e676]:
+                    - text: Por otro lado, también te ofrecemos un servicio de seguro para patinetes eléctrico y VMP gracias a la colaboración con
+                    - strong [ref=f160e677]:
+                      - link "Cleverea," [ref=f160e678] [cursor=pointer]:
+                        - /url: https://app.cleverea.com/checkout/mobility/pmv?partner_agent_id=158&stepId=risk_object&s=1
+                      - text: Axa o Insurama.
+                      - link "Podrás obtener un seguro para tu patinete desde los 2€/mes con Cleverea en el siguiente enlace" [ref=f160e679] [cursor=pointer]:
+                        - /url: https://app.cleverea.com/checkout/mobility/pmv?partner_agent_id=158&stepId=risk_object&s=1
+                      - text: o también podemos hacerte una propuesta personalizada con AXA o Insurama.
+                  - paragraph [ref=f160e680]:
+                    - img "Seguro patinete VMP" [ref=f160e681]
+                    - strong
+                  - paragraph [ref=f160e682]:
+                    - strong [ref=f160e683]: "¡PROMOCIÓN SEGURO GRATIS! Por la compra de una selección de patinetes eléctricos de alta gama ofrecemos seguro gratuito básico durante 1 año. Puedes ver en la descripción de producto que patinetes están incluidos en la promoción (No compatible con otros cupones de descuento ni regalos. Seguro gratis válido solo para mayores de 18 años.). Patinetes incluidos en la promoción de seguro gratis:"
+                  - list [ref=f160e684]:
+                    - list [ref=f160e685]:
+                      - listitem [ref=f160e686]:
+                        - link "Dualtron Thunder 3" [ref=f160e687] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1517-7837-dualtron-thunder-3.html#/versiones_dualtron_thunder_3-version_2025_damper_doble_foco_deck_goma
+                      - listitem [ref=f160e688]:
+                        - link "Dualtron Sonic Alien" [ref=f160e689] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1617-dualtron-sonic-alien.html
+                      - listitem [ref=f160e690]: Selección de patinetes Smartgyro (promoción válida mes de julio)
+                  - paragraph
+                  - paragraph
+            - tablist
+          - generic [ref=f160e691]:
+            - generic [ref=f160e692]:
+              - generic [ref=f160e693]: 
+              - text: Opiniones
+            - paragraph [ref=f160e695]:
+              - link "Sea el primero en dar su opinión !" [ref=f160e696] [cursor=pointer]:
+                - /url: /modules/gsnippetsreviews/ws-gsnippetsreviews.php?bt_token=3fdf871f2d73a99a5cc5b70623982830&sAction=display&sType=review&iPId=1897&iCId=0&sURI=%2Fpatinetes-electricos-certificados-dgt%2F1897-rovoron-r5-pro.html&btKey=aa7324460035997d3a837d260387f273
+    - generic [ref=f160e697]:
+      - generic [ref=f160e700]:
+        - generic [ref=f160e701]:
+          - heading "Suscríbete y te regalamos 10€" [level=5] [ref=f160e702]
+          - generic [ref=f160e704]:
+            - generic [ref=f160e705]:
+              - textbox "Su dirección de correo electrónico" [ref=f160e706]
+              - button "Suscribirse" [disabled] [ref=f160e707]:
+                - generic [ref=f160e708]: 
+            - generic [ref=f160e711]:
+              - checkbox "Acepto los términos y condiciones y la política de privacidad. Lee los términos y condiciones de uso." [ref=f160e712] [cursor=pointer]
+              - generic [ref=f160e713] [cursor=pointer]: 
+              - generic [ref=f160e714]:
+                - text: Acepto los términos y condiciones y la política de privacidad.
+                - generic [ref=f160e715]:
+                  - link "Lee los términos y condiciones de uso" [ref=f160e716] [cursor=pointer]:
+                    - /url: https://www.imoveblue.es/content/2-aviso-legal
+                  - text: .
+        - list [ref=f160e718]:
+          - listitem [ref=f160e719]:
+            - link [ref=f160e720] [cursor=pointer]:
+              - /url: https://www.facebook.com/imoveblue/
+              - generic [ref=f160e721]: 
+          - listitem [ref=f160e722]:
+            - link [ref=f160e723] [cursor=pointer]:
+              - /url: https://twitter.com/imoveblue
+              - generic [ref=f160e724]: 
+          - listitem [ref=f160e725]:
+            - link [ref=f160e726] [cursor=pointer]:
+              - /url: https://www.instagram.com/imoveblue.es/
+              - generic [ref=f160e727]: 
+          - listitem [ref=f160e728]:
+            - link [ref=f160e729] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCFwHWdvgGT9VnTsA5MxFfWw
+              - generic [ref=f160e730]: 
+      - generic [ref=f160e733]:
+        - generic [ref=f160e734]:
+          - heading "Atención al cliente" [level=5] [ref=f160e735]
+          - generic [ref=f160e737]:
+            - generic [ref=f160e738]:
+              - strong [ref=f160e739]: "Imoveblue.es - NIF: ESJ01585108"
+              - generic [ref=f160e740]:
+                - generic [ref=f160e741]: 
+                - generic [ref=f160e743]: Apartado de Correos 5003 - 01015 Vitoria-Gasteiz, Euskadi
+              - separator [ref=f160e744]
+              - generic [ref=f160e745]:
+                - generic [ref=f160e746]: 
+                - link "+34 688 751 888" [ref=f160e749] [cursor=pointer]:
+                  - /url: tel:+34 688 751 888
+              - separator [ref=f160e750]
+              - generic [ref=f160e751]:
+                - generic [ref=f160e752]: 
+                - link "info@imoveblue.es" [ref=f160e755] [cursor=pointer]:
+                  - /url: mailto:info@imoveblue.es
+            - separator [ref=f160e756]
+            - generic [ref=f160e757]:
+              - paragraph [ref=f160e758]: Si necesitas asesoramiento o servicio postventa no dudes en contactar con nosotros. Nuestro equipo estará encantado de ayudarte.
+              - paragraph [ref=f160e759]: "Horario de atención al cliente verano: Lunes a Viernes de 10:00h a 15:00h"
+        - generic [ref=f160e760]:
+          - heading "Información" [level=5] [ref=f160e761]
+          - list [ref=f160e764]:
+            - listitem [ref=f160e765]:
+              - link " Contacto" [ref=f160e766] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/contactenos
+            - listitem [ref=f160e767]:
+              - link " Matricular patinete eléctrico VMP DGT" [ref=f160e768] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/14-matricular-patinete-electrico-vmp-dgt
+            - listitem [ref=f160e769]:
+              - link " Financiar patinete eléctrico" [ref=f160e770] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/12-financiar-patinete-electrico
+            - listitem [ref=f160e771]:
+              - link " Normativa VMP" [ref=f160e772] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/11-normativa-vmp
+            - listitem [ref=f160e773]:
+              - link " Postventa y Garantía" [ref=f160e774] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/13-postventa-y-garantia
+            - listitem [ref=f160e775]:
+              - link " Opiniones Trusted Shops" [ref=f160e776] [cursor=pointer]:
+                - /url: https://www.trustedshops.es/evaluacion/info_X7971BAC9A2BC178FCCBEA75B22E0AD86.html?utm_source=shop&utm_medium=link&utm_content=allRatings__full&utm_campaign=trustbadge_maximised
+            - listitem [ref=f160e777]:
+              - link " Opiniones Google" [ref=f160e778] [cursor=pointer]:
+                - /url: https://www.google.com/search?q=imovebblue+opiniones+google&oq=imovebblue+opiniones+google&aqs=chrome..69i57j33i160.3751j0j7&sourceid=chrome&ie=UTF-8#lrd=0xd4fc185e0cebe53:0x21a8560d6ea10371,1,,,,
+            - listitem [ref=f160e779]:
+              - link " Opiniones Trustpilot" [ref=f160e780] [cursor=pointer]:
+                - /url: https://es.trustpilot.com/review/www.imoveblue.es
+            - listitem [ref=f160e781]:
+              - link " Descuentos y promociones" [ref=f160e782] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/8-descuentos
+            - listitem [ref=f160e783]:
+              - link " Condiciones de compra y envío" [ref=f160e784] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/3-terminos-y-condiciones-de-uso
+            - listitem [ref=f160e785]:
+              - link " Pago seguro" [ref=f160e786] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/5-pago-seguro
+            - listitem [ref=f160e787]:
+              - link " Sobre nosotros" [ref=f160e788] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/4-sobre-nosotros
+            - listitem [ref=f160e789]:
+              - link " Talleres colaboradores" [ref=f160e790] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/10-talleres-colaboradores
+            - listitem [ref=f160e791]:
+              - link " Seguro para tu VMP" [ref=f160e792] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/15-seguro-patinete-electrico-vmp
+            - listitem [ref=f160e793]:
+              - link " Mapa del sitio" [ref=f160e794] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/mapa del sitio
+            - listitem [ref=f160e795]:
+              - link " Aviso legal y Protección de datos" [ref=f160e796] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/2-aviso-legal
+        - generic [ref=f160e797]:
+          - heading "Categorías de productos" [level=5] [ref=f160e798]
+          - list [ref=f160e801]:
+            - listitem [ref=f160e802]:
+              - link " Patinetes eléctricos" [ref=f160e803] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/13-patinete-electrico
+            - listitem [ref=f160e804]:
+              - link " Patinetes eléctricos certificados DGT" [ref=f160e805] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+            - listitem [ref=f160e806]:
+              - link " Motos eléctricas" [ref=f160e807] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/18-motos-electricas
+            - listitem [ref=f160e808]:
+              - link " Bicicletas eléctricas" [ref=f160e809] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/14-bicicletas-electricas
+            - listitem [ref=f160e810]:
+              - link " Monociclos eléctricos" [ref=f160e811] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/30-monociclos-electricos
+            - listitem [ref=f160e812]:
+              - link " Movilidad infantil" [ref=f160e813] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/26-movilidad-infantil
+            - listitem [ref=f160e814]:
+              - link " Estaciones de carga" [ref=f160e815] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/39-estaciones-de-carga
+            - listitem [ref=f160e816]:
+              - link " Accesorios VMP y ciclismo" [ref=f160e817] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/28-accesorios-vmp-ciclismo
+            - listitem [ref=f160e818]:
+              - link " Triciclos y movilidad reducida" [ref=f160e819] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/32-triciclos-electricos
+            - listitem [ref=f160e820]:
+              - link " Bicicletas" [ref=f160e821] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/31-bicicletas
+            - listitem [ref=f160e822]:
+              - link " Recambios" [ref=f160e823] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/20-recambios
+            - listitem [ref=f160e824]:
+              - link " Patinetes Dualtron DGT" [ref=f160e825] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/44-dualtron
+        - generic [ref=f160e826]:
+          - heading "Pago seguro garantizado 100%" [level=5] [ref=f160e827]
+          - generic [ref=f160e829]:
+            - paragraph [ref=f160e830]:
+              - img "Pago seguro garantizado - PLAZOX" [ref=f160e831]
+            - paragraph
+        - generic [ref=f160e835]:
+          - strong [ref=f160e836]: Rovoron R5 Pro certificado
+          - text: "- Rovoron - Minimotors - Rovoron R5 Pro certificado por la DGT con nº B1159, el... -"
+          - generic [ref=f160e837]:
+            - strong [ref=f160e838]: Categoría
+            - text: ": Patinetes eléctricos certificados DGT -"
+            - strong [ref=f160e839]: Precio
+            - text: ": 1390.00€"
+      - generic [ref=f160e843]:
+        - paragraph [ref=f160e844]:
+          - text: "Somos un tienda online especializada en movilidad sostenible:"
+          - link "Patinetes eléctricos" [ref=f160e845] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/13-patinetes-electricos
+          - text: ","
+          - link "motos eléctricas" [ref=f160e846] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/18-motos-electricas
+          - text: ","
+          - link "bicicletas eléctricas" [ref=f160e847] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/14-bicicletas-electricas
+          - text: ","
+          - link "remolques de bicicleta" [ref=f160e848] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/10-remolques-de-bicicleta
+          - text: ","
+          - link "quads eléctricos" [ref=f160e849] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/15-quads-electricos
+          - text: y mucho más.
+        - paragraph [ref=f160e850]:
+          - emphasis [ref=f160e851]:
+            - 'link "Diseño web ecommerce: Rp Imagen" [ref=f160e852] [cursor=pointer]':
+              - /url: https://www.rpimagen.com/
+  - generic [ref=f160e854]:
+    - paragraph [ref=f160e858]: Tu privacidad, tu consentimiento
+    - paragraph [ref=f160e859]:
+      - text: En UJ Solutions SC utilizamos cookies y tecnologías similares para mejorar su experiencia y medir sus interacciones con nuestro sitio web. También los usamos para servirle información más relevante en búsquedas y en anuncios en este y otros sitios.
+      - generic [ref=f160e860]:
+        - text: Lee más en nuestra
+        - link "Política de Cookies" [ref=f160e861] [cursor=pointer]:
+          - /url: https://www.imoveblue.es/content/2-aviso-legal
+    - generic [ref=f160e862]:
+      - generic [ref=f160e864] [cursor=pointer]:
+        - generic [ref=f160e865]: Ajusta tus preferencias de cookies
+        - img "Arrow" [ref=f160e866]
+      - generic:
+        - generic:
+          - generic [ref=f160e867]:
+            - generic [ref=f160e868]:
+              - generic [ref=f160e869]: Técnicas (obligatorias)
+              - generic [ref=f160e870]:
+                - generic [ref=f160e871]: i
+                - generic [ref=f160e874]:
+                  - img "lock"
+            - generic [ref=f160e875]:
+              - generic [ref=f160e876]: Preferencias
+              - generic [ref=f160e877]:
+                - generic [ref=f160e878]: i
+                - checkbox [ref=f160e882] [cursor=pointer]
+            - generic [ref=f160e883]:
+              - generic [ref=f160e884]: Estadísticas
+              - generic [ref=f160e885]:
+                - generic [ref=f160e886]: i
+                - checkbox [ref=f160e890] [cursor=pointer]
+            - generic [ref=f160e891]:
+              - generic [ref=f160e892]: Marketing
+              - generic [ref=f160e893]:
+                - generic [ref=f160e894]: i
+                - checkbox [ref=f160e898] [cursor=pointer]
+          - button "Guardar configuración personalizada de cookies" [ref=f160e899] [cursor=pointer]
+    - generic [ref=f160e900]:
+      - generic [ref=f160e902] [cursor=pointer]:
+        - button "RECHAZAR LAS NO NECESARIAS" [ref=f160e903]
+        - generic [ref=f160e904]: Rechazar las cookies que no son extrictamente necesarias para el correcto funcionamiento de la web.
+      - generic [ref=f160e906] [cursor=pointer]:
+        - button "ACEPTAR TODAS" [ref=f160e907]
+        - generic [ref=f160e908]: Habilitar todas las cookies y tecnologías disponibles para mejorar la experiencia.
+    - link "powered by Visible Privacy Logo" [ref=f160e909] [cursor=pointer]:
+      - /url: https://www.visibleprivacy.com/
+      - generic [ref=f160e910]: powered by
+      - img "Visible Privacy Logo" [ref=f160e911]
+  - generic [ref=f160e912]:
+    - button "Sello de Calidad de Trusted Shops Protección al Comprador 4,32 (682) Bueno Trstd Login" [ref=f160e913] [cursor=pointer]:
+      - generic [ref=f160e914]:
+        - img "Sello de Calidad de Trusted Shops" [ref=f160e915]
+        - generic [ref=f160e916]: Protección al Comprador
+      - generic [ref=f160e918]:
+        - generic [ref=f160e919]:
+          - generic [ref=f160e920]: 4,32
+          - generic [ref=f160e922]: (682)
+        - generic [ref=f160e923]: Bueno
+      - switch "Trstd Login" [ref=f160e925]
+    - button "Menú" [ref=f160e927] [cursor=pointer]

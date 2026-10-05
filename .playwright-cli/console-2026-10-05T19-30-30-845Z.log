@@ -1,0 +1,4 @@
+[    1232ms] [INFO] Run helper.... @ https://cdn.shopify.com/extensions/01a0f807-168f-7fcf-a3d0-e91e9a539d12/pagefly-ai-page-builder-363/assets/pagefly-general-helper.js:0
+[    1247ms] [LOG] productATCs [] @ https://cdn.shopify.com/extensions/01a0f807-168f-7fcf-a3d0-e91e9a539d12/pagefly-ai-page-builder-363/assets/pagefly-product.js:4
+[    2120ms] [LOG] Script loaded successfully: https://cdn.shopify.com/extensions/01a0f807-168f-7fcf-a3d0-e91e9a539d12/pagefly-ai-page-builder-363/assets/pagefly-htmlvideo2.js @ https://cdn.shopify.com/extensions/01a0f807-168f-7fcf-a3d0-e91e9a539d12/pagefly-ai-page-builder-363/assets/pagefly-general-helper.js:0
+[    3104ms] [LOG] [SeQura] deploymentTarget: byUri=sequra legacy=sequra fallbackInUse=false scriptUri=https://live.sequracdn.com/assets/sequra-checkout.min.js merchant=electyum assetKey=5mBpU2IZjf @ https://live.sequracdn.com/assets/sequra-checkout.min.js:0

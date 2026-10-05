@@ -1,0 +1,518 @@
+- generic [ref=f58e1]:
+  - button "Skip to content" [ref=f58e2] [cursor=pointer]
+  - generic [ref=f58e6]:
+    - banner [ref=f58e7]:
+      - navigation [ref=f58e8]:
+        - link "Xiaomi" [ref=f58e10] [cursor=pointer]:
+          - /url: //www.mi.com/es/
+        - list [ref=f58e16]:
+          - listitem [ref=f58e17]:
+            - button "Buscar Xiaomi es" [ref=f58e18] [cursor=pointer]:
+              - generic "search" [ref=f58e19]:
+                - img "search" [ref=f58e20]
+          - listitem [ref=f58e22]:
+            - button "Cesta de la compra 0" [ref=f58e24] [cursor=pointer]:
+              - generic "cart" [ref=f58e25]:
+                - img "cart" [ref=f58e26]
+          - listitem [ref=f58e28]:
+            - button "Menú" [ref=f58e29] [cursor=pointer]:
+              - generic "menu" [ref=f58e31]:
+                - img "menu" [ref=f58e32]
+    - generic [ref=f58e35]:
+      - generic [ref=f58e36]:
+        - heading "Xiaomi Electric Scooter 4 Lite (2nd Gen)" [level=1] [ref=f58e38]
+        - button "Más información" [ref=f58e40] [cursor=pointer]:
+          - img "Related products" [ref=f58e41]
+      - navigation [ref=f58e43]:
+        - listitem [ref=f58e44] [cursor=pointer]:
+          - link "General" [ref=f58e45]:
+            - /url: //www.mi.com/es/product/xiaomi-electric-scooter-4-lite-2nd-gen/
+        - listitem [ref=f58e46] [cursor=pointer]:
+          - link "Especificaciones" [ref=f58e47]:
+            - /url: "#"
+        - listitem [ref=f58e48] [cursor=pointer]:
+          - link "Opiniones(27)" [ref=f58e49]:
+            - /url: //www.mi.com/es/product/xiaomi-electric-scooter-4-lite-2nd-gen/review/
+        - listitem [ref=f58e50] [cursor=pointer]:
+          - generic [ref=f58e51]: 269,99 €
+          - button "Comprar ahora" [ref=f58e53]
+    - generic [ref=f58e55]:
+      - generic [ref=f58e56]:
+        - generic [ref=f58e57]:
+          - generic [ref=f58e58]: Dimensiones
+          - img "Xiaomi Electric Scooter 4 Lite 2nd Gen" [ref=f58e60]
+        - generic [ref=f58e61]:
+          - generic [ref=f58e62]: Dimensiones (plegado)
+          - generic [ref=f58e63]: Dimensiones (sin plegar)
+      - generic [ref=f58e64]:
+        - generic [ref=f58e65]:
+          - generic [ref=f58e66]: Especificaciones del producto
+          - generic [ref=f58e67]:
+            - generic [ref=f58e68]:
+              - generic [ref=f58e69]: Nombre del producto
+              - generic [ref=f58e70]: Xiaomi Electric Scooter 4 Lite (2nd Gen)
+            - generic [ref=f58e71]:
+              - generic [ref=f58e72]: Velocidad máx.
+              - generic [ref=f58e73]: "25 km/h (velocidad máxima para cada modo: modo peatón: 6 km/h; modo estándar: 15 km/h; modo deportivo: 25 km/h)"
+            - generic [ref=f58e74]:
+              - generic [ref=f58e75]: Autonomía del patinete
+              - generic [ref=f58e76]: 25 km
+            - generic [ref=f58e77]:
+              - generic [ref=f58e78]: Peso del producto
+              - generic [ref=f58e79]: 16,2 kg
+            - generic [ref=f58e80]:
+              - generic [ref=f58e81]: Pendiente máxima
+              - generic [ref=f58e82]: 15 %
+            - generic [ref=f58e83]:
+              - generic [ref=f58e84]: Frenado
+              - generic [ref=f58e85]: Frenos E-ABS y de tambor
+            - generic [ref=f58e86]:
+              - generic [ref=f58e87]: Potencia nominal del motor
+              - generic [ref=f58e88]: 300 W
+            - generic [ref=f58e89]:
+              - generic [ref=f58e90]: Potencia máx. del motor
+              - generic [ref=f58e91]: 500 W
+            - generic [ref=f58e92]:
+              - generic [ref=f58e93]: Ruedas
+              - generic [ref=f58e94]: Ruedas neumáticas de 10"
+            - generic [ref=f58e95]:
+              - generic [ref=f58e96]: Carga máx.
+              - generic [ref=f58e97]: 100 kg
+            - generic [ref=f58e98]:
+              - generic [ref=f58e99]: Altura del conductor
+              - generic [ref=f58e100]: 120-200 cm
+            - generic [ref=f58e101]:
+              - generic [ref=f58e102]: Edad del conductor
+              - generic [ref=f58e103]: Entre 16 y 50 años
+            - generic [ref=f58e104]:
+              - generic [ref=f58e105]: Temperatura de funcionamiento
+              - generic [ref=f58e106]: De -10 °C a 40 °C
+            - generic [ref=f58e107]:
+              - generic [ref=f58e108]: Temperatura de almacenamiento
+              - generic [ref=f58e109]: De -20 °C a 45 °C
+            - generic [ref=f58e110]:
+              - generic [ref=f58e111]: Clasificación IP
+              - generic [ref=f58e112]: IPX4
+            - generic [ref=f58e113]:
+              - generic [ref=f58e114]: Tiempo de carga
+              - generic [ref=f58e115]: Aprox. 8 horas
+        - generic [ref=f58e116]:
+          - generic [ref=f58e117]: Especificaciones de la batería
+          - generic [ref=f58e118]:
+            - generic [ref=f58e119]:
+              - generic [ref=f58e120]: Modelo de batería
+              - generic [ref=f58e121]: C1387A1
+            - generic [ref=f58e122]:
+              - generic [ref=f58e123]: Energía de la batería
+              - generic [ref=f58e124]: 221Wh
+            - generic [ref=f58e125]:
+              - generic [ref=f58e126]: Temperatura de carga
+              - generic [ref=f58e127]: De 0 ℃ a 45° C
+        - generic [ref=f58e128]:
+          - generic [ref=f58e129]: Especificaciones del adaptador
+          - generic [ref=f58e130]:
+            - generic [ref=f58e131]:
+              - generic [ref=f58e132]: Potencia de salida máxima
+              - generic [ref=f58e133]: 36,3 W
+            - generic [ref=f58e134]:
+              - generic [ref=f58e135]: Corriente de entrada
+              - generic [ref=f58e136]: 1,0 A
+            - generic [ref=f58e137]:
+              - generic [ref=f58e138]: Corriente de salida
+              - generic [ref=f58e139]: 1,5 A
+            - generic [ref=f58e140]:
+              - generic [ref=f58e141]: Tensión de entrada
+              - generic [ref=f58e142]: 100-240 V de CA, 50-60 Hz
+            - generic [ref=f58e143]:
+              - generic [ref=f58e144]: Tensión de salida máx.
+              - generic [ref=f58e145]: 25,2 V
+      - generic [ref=f58e147]:
+        - generic [ref=f58e148]: Contenido del paquete
+        - generic [ref=f58e149]:
+          - generic [ref=f58e150]: 1 Xiaomi Electric Scooter 4 Lite (2nd Gen)
+          - generic [ref=f58e152]: 1 adaptador de corriente
+          - generic [ref=f58e154]: 1 llave Allen
+          - generic [ref=f58e156]: 1 boquilla de extensión
+          - generic [ref=f58e158]: 7 tornillos
+          - generic [ref=f58e160]: Manual de usuario
+          - generic [ref=f58e162]: Especificaciones
+          - generic [ref=f58e164]: Información importante
+          - generic [ref=f58e166]: Instrucciones de desemparejamiento
+          - generic [ref=f58e168]: Etiqueta de kilometraje teórico
+    - contentinfo [ref=f58e171]:
+      - generic [ref=f58e173]:
+        - generic [ref=f58e174]:
+          - navigation "Footer" [ref=f58e175]:
+            - generic [ref=f58e177]:
+              - strong [ref=f58e178]: SOPORTE
+              - list [ref=f58e179]:
+                - listitem [ref=f58e180]:
+                  - link "Asistencia de Xiaomi" [ref=f58e181] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/support
+                - listitem [ref=f58e182]:
+                  - link "Términos y Condiciones" [ref=f58e183] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/support/guidance/terms-of-use
+                - listitem [ref=f58e184]:
+                  - link "Canjear el IMEI" [ref=f58e185] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/benefits
+                - listitem [ref=f58e186]:
+                  - link "Aviso de Garantía de Xiaomi" [ref=f58e187] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/service/warranty/?v=1#warrant
+                - listitem [ref=f58e188]:
+                  - link "Aviso de seguridad del scooter" [ref=f58e189] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/support/scooter-safety-notice
+                - listitem [ref=f58e190]:
+                  - link "Seguimiento del orden de servicio" [ref=f58e191] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/support/service-progress
+                - listitem [ref=f58e192]:
+                  - link "Preguntas frecuentes" [ref=f58e193] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/support/faq
+                - listitem [ref=f58e194]:
+                  - link "Mi Points FAQ" [ref=f58e195] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/service/support/mi-points-faq.html
+                - listitem [ref=f58e196]:
+                  - link "Servicios Exclusivos" [ref=f58e197] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/service/support/xiaomi13seriesvip.html
+                - listitem [ref=f58e198]:
+                  - link "Canje" [ref=f58e199] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/support/trade-in
+                - listitem [ref=f58e200]:
+                  - link "Guía de usuario" [ref=f58e201] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/support/user-guide
+                - listitem [ref=f58e202]:
+                  - link "Xiaomi Care" [ref=f58e203] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/event/xiaomi-care-service
+                - listitem [ref=f58e204]:
+                  - link "Reciclaje de aparatos electrónicos" [ref=f58e205] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/support/guidance/​proper-disposal-of-electronic-devices
+                - listitem [ref=f58e206]:
+                  - link "Bancos compatibles con NFC para wearables" [ref=f58e207] [cursor=pointer]:
+                    - /url: https://www.mi.com/global/support/nfc-bank/?lang=es-ES&tag=undefined
+                - listitem [ref=f58e208]:
+                  - link "Aviso de retirada de producto" [ref=f58e209] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/support/safety-notice/
+            - generic [ref=f58e211]:
+              - strong [ref=f58e212]: COMPRA Y APRENDE
+              - list [ref=f58e213]:
+                - listitem [ref=f58e214]:
+                  - link "Teléfonos Reacondicionados" [ref=f58e215] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/buy/refurbished/
+                - listitem [ref=f58e216]:
+                  - link "DECLARACIÓN DE CONFORMIDAD DE LA UE" [ref=f58e217] [cursor=pointer]:
+                    - /url: https://www.mi.com/global/service/support/declaration.html
+                - listitem [ref=f58e218]:
+                  - link "Partner" [ref=f58e219] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/store/partner
+            - generic [ref=f58e221]:
+              - strong [ref=f58e222]: SOBRE NOSOTROS
+              - list [ref=f58e223]:
+                - listitem [ref=f58e224]:
+                  - link "Xiaomi" [ref=f58e225] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/about/
+                - listitem [ref=f58e226]:
+                  - link "Cultura" [ref=f58e227] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/about/#culture
+                - listitem [ref=f58e228]:
+                  - link "Equipo líder" [ref=f58e229] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/about/founder/
+                - listitem [ref=f58e230]:
+                  - link "Política de privacidad" [ref=f58e231] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/support/policy/privacy
+                - listitem [ref=f58e232]:
+                  - link "Integridad y cumplimiento" [ref=f58e233] [cursor=pointer]:
+                    - /url: https://integrity.mi.com/global
+                - listitem [ref=f58e234]:
+                  - link "Trust Center" [ref=f58e235] [cursor=pointer]:
+                    - /url: https://trust.mi.com/en
+                - listitem [ref=f58e236]:
+                  - link "Accesibilidad de Xiaomi" [ref=f58e237] [cursor=pointer]:
+                    - /url: https://www.mi.com/global/support/terms/accessibility
+                - listitem [ref=f58e238]:
+                  - link "Xiaomi HyperOS" [ref=f58e239] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/hyperos/
+                - listitem [ref=f58e240]:
+                  - link "Ley de Servicios Digitales" [ref=f58e241] [cursor=pointer]:
+                    - /url: https://www.mi.com/global/support/policy/digital-service-act/
+                - listitem [ref=f58e242]:
+                  - link "pCbCR Informe" [ref=f58e243] [cursor=pointer]:
+                    - /url: https://www.mi.com/es/support/documents/pcbcr-informe/
+            - generic [ref=f58e245]:
+              - strong [ref=f58e246]: CONTACTO
+              - list [ref=f58e247]:
+                - listitem [ref=f58e248]:
+                  - link "Correo electrónico" [ref=f58e249] [cursor=pointer]:
+                    - /url: mailto:service.es@support.mi.com
+                - listitem [ref=f58e250]:
+                  - 'link "Llámanos: 900 128 128" [ref=f58e251] [cursor=pointer]':
+                    - /url: https://www.mi.com/es/support/
+          - generic [ref=f58e252]:
+            - generic [ref=f58e253]:
+              - strong [ref=f58e254]: SÍGUENOS
+              - list [ref=f58e255]:
+                - listitem [ref=f58e256]:
+                  - link "Social Media-facebook" [ref=f58e257] [cursor=pointer]:
+                    - /url: https://es-es.facebook.com/XiaomiEspana/
+                    - generic "facebook" [ref=f58e258]:
+                      - img "facebook" [ref=f58e259]
+                - listitem [ref=f58e261]:
+                  - link "Social Media-twitter" [ref=f58e262] [cursor=pointer]:
+                    - /url: https://twitter.com/XiaomiEspana
+                    - generic "twitter" [ref=f58e263]:
+                      - img "twitter" [ref=f58e264]
+                - listitem [ref=f58e266]:
+                  - link "Social Media-tiktok" [ref=f58e267] [cursor=pointer]:
+                    - /url: https://www.tiktok.com/@xiaomi.espana
+                    - generic "tiktok" [ref=f58e268]:
+                      - img "tiktok" [ref=f58e269]
+                - listitem [ref=f58e271]:
+                  - link "Social Media-youtube" [ref=f58e272] [cursor=pointer]:
+                    - /url: https://www.youtube.com/channel/UC8iCzghIF2gKFGhWNtWDHrw
+                    - generic "youtube" [ref=f58e273]:
+                      - img "youtube" [ref=f58e274]
+                - listitem [ref=f58e276]:
+                  - link "Social Media-community" [ref=f58e277] [cursor=pointer]:
+                    - /url: https://c.mi.com/es/
+                    - generic "community" [ref=f58e278]:
+                      - img "community" [ref=f58e279]
+            - generic [ref=f58e281]:
+              - strong [ref=f58e282]: Customer service
+              - generic [ref=f58e283]:
+                - button "Live chat" [ref=f58e285] [cursor=pointer]:
+                  - generic [ref=f58e286]:
+                    - generic "chat" [ref=f58e287]:
+                      - img "chat" [ref=f58e288]
+                    - generic [ref=f58e290]: Live chat
+                - generic [ref=f58e291]:
+                  - link [ref=f58e292] [cursor=pointer]:
+                    - /url: tel:900 128 128
+                    - generic "tell" [ref=f58e293]:
+                      - img "tell" [ref=f58e294]
+                    - text: 900 128 128
+                  - button [ref=f58e296]:
+                    - generic "warning" [ref=f58e297] [cursor=pointer]:
+                      - img "warning" [ref=f58e298]
+                  - generic [ref=f58e300]: Lun.-Vie. 9:00-21:00
+            - generic [ref=f58e301]:
+              - strong [ref=f58e302]: Suscríbete a nuestra newsletter
+              - generic [ref=f58e304]:
+                - textbox "Introduce la dirección de correo electrónico" [ref=f58e305]
+                - button [ref=f58e306] [cursor=pointer]:
+                  - generic "right" [ref=f58e307]:
+                    - img "right" [ref=f58e308]
+            - generic [ref=f58e310]:
+              - generic [ref=f58e311]:
+                - img "Consigue la app en la Mi Store" [ref=f58e313]
+                - generic [ref=f58e314]:
+                  - strong [ref=f58e315]: Consigue la app en la Mi Store
+                  - paragraph [ref=f58e316]: Mejora tu experiencia de compra con información actualizada e ingresa el código【15OFFAPP】para un descuento exclusivo.
+              - link "Descárgala en google play" [ref=f58e318] [cursor=pointer]:
+                - /url: https://www.mi.com/es/appdownload/
+                - img "Descárgala en google play" [ref=f58e319]
+        - generic [ref=f58e321]:
+          - generic [ref=f58e322]: Copyright © 2010 - 2026 Xiaomi. All Rights Reserved
+          - generic [ref=f58e323]:
+            - generic [ref=f58e324]:
+              - complementary "Open Cookie Preferences Modal" [ref=f58e325]:
+                - link "Cookie Preferences, opens a dedicated popup modal window" [ref=f58e326] [cursor=pointer]: Preferencia de cookies
+              - link "Cookie Policy" [ref=f58e327] [cursor=pointer]:
+                - /url: //www.mi.com/es/support/policy/cookie-policy
+            - link "Mapa del sitio" [ref=f58e329] [cursor=pointer]:
+              - /url: //www.mi.com/es/sitemap
+            - generic [ref=f58e330]:
+              - link "España / Español" [ref=f58e331] [cursor=pointer]:
+                - /url: //www.mi.com/es/select-location
+              - link [ref=f58e332] [cursor=pointer]:
+                - /url: //www.mi.com/es/select-location
+                - generic "global" [ref=f58e333]:
+                  - img "global" [ref=f58e334]
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - link "Xiaomi":
+                - /url: //www.mi.com/es/
+            - generic:
+              - link:
+                - /url: //www.mi.com/es/user
+              - button
+        - generic:
+          - navigation "Main":
+            - link:
+              - /url: https://www.mi.com/es/store/
+              - text: Tienda
+            - link:
+              - /url: //www.mi.com/es/mobile/
+              - text: Móvil
+            - link:
+              - /url: //www.mi.com/es/wearables/
+              - text: Wearables
+            - link:
+              - /url: //www.mi.com/es/smart-home/
+              - text: Smart Home
+            - link:
+              - /url: //www.mi.com/es/life-style/
+              - text: Estilo de vida
+            - link:
+              - /url: https://www.mi.com/es/poco/
+              - text: POCO
+            - link:
+              - /url: https://www.mi.com/es/discover/
+              - text: Explorar
+            - link:
+              - /url: https://www.mi.com/es/support/
+              - text: Ayuda
+            - link:
+              - /url: https://new.c.mi.com/es?utm_source=mistore&utm_medium=official_web_tabcommunity&utm_campaign=official_web_mistore_es
+              - text: Community
+          - navigation "Footer":
+            - generic:
+              - button:
+                - generic: SOPORTE
+              - list:
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/support/
+                    - text: Asistencia de Xiaomi
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/support/guidance/terms-of-use/
+                    - text: Términos y Condiciones
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/benefits/
+                    - text: Canjear el IMEI
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/service/warranty/?v=1#warrant
+                    - text: Aviso de Garantía de Xiaomi
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/support/scooter-safety-notice/
+                    - text: Aviso de seguridad del scooter
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/support/service-progress/
+                    - text: Seguimiento del orden de servicio
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/support/faq/
+                    - text: Preguntas frecuentes
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/service/support/mi-points-faq.html
+                    - text: Mi Points FAQ
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/service/support/xiaomi13seriesvip.html
+                    - text: Servicios Exclusivos
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/support/trade-in/
+                    - text: Canje
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/support/user-guide/
+                    - text: Guía de usuario
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/event/xiaomi-care-service/
+                    - text: Xiaomi Care
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/support/guidance/​proper-disposal-of-electronic-devices/
+                    - text: Reciclaje de aparatos electrónicos
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/global/support/nfc-bank/?lang=es-ES&tag=undefined
+                    - text: Bancos compatibles con NFC para wearables
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/support/safety-notice/
+                    - text: Aviso de retirada de producto
+            - generic:
+              - button:
+                - generic: COMPRA Y APRENDE
+              - list:
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/buy/refurbished/
+                    - text: Teléfonos Reacondicionados
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/global/service/support/declaration.html
+                    - text: DECLARACIÓN DE CONFORMIDAD DE LA UE
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/store/partner/
+                    - text: Partner
+            - generic:
+              - button:
+                - generic: SOBRE NOSOTROS
+              - list:
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/about/
+                    - text: Xiaomi
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/about/#culture
+                    - text: Cultura
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/about/founder/
+                    - text: Equipo líder
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/support/policy/privacy/
+                    - text: Política de privacidad
+                - listitem:
+                  - link:
+                    - /url: https://integrity.mi.com/global/
+                    - text: Integridad y cumplimiento
+                - listitem:
+                  - link:
+                    - /url: https://trust.mi.com/en/
+                    - text: Trust Center
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/global/support/terms/accessibility/
+                    - text: Accesibilidad de Xiaomi
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/hyperos/
+                    - text: Xiaomi HyperOS
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/global/support/policy/digital-service-act/
+                    - text: Ley de Servicios Digitales
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/support/documents/pcbcr-informe/
+                    - text: pCbCR Informe
+            - generic:
+              - button:
+                - generic: CONTACTO
+              - list:
+                - listitem:
+                  - link:
+                    - /url: mailto:service.es@support.mi.com
+                    - text: Correo electrónico
+                - listitem:
+                  - link:
+                    - /url: https://www.mi.com/es/support/
+                    - text: "Llámanos: 900 128 128"
+  - generic [ref=f58e338]:
+    - generic [ref=f58e339]:
+      - paragraph [ref=f58e340]: Xiaomi y sus socios utilizan cookies y tecnologías similares en este sitio web.
+      - paragraph [ref=f58e341]: Nosotros y nuestros socios utilizamos cookies esenciales y tecnologías similares para garantizar que el sitio web funciona correctamente, mantener la seguridad y proporcionar servicios solicitados explícitamente por los usuarios (como añadir artículos al carrito de la compra o seleccionar el idioma y la región, entre otros).
+      - paragraph [ref=f58e342]: Con su consentimiento, nosotros y nuestros socios utilizamos cookies no esenciales y tecnologías relacionadas para mejorar el rendimiento del sitio web, analizar el tráfico y los patrones de uso, y ofrecer contenido personalizado y anuncios a medida. Puede seleccionar “Rechazar todas”, “Aceptar todas” o personalizar la configuración de las cookies según sus preferencias. Para gestionar (o retirar) su consentimiento, haga clic en “Configuración de cookies” en esta ventana emergente o en la parte inferior de la página. Si selecciona “Aceptar todo”, este sitio web activará las cookies no esenciales para realizar las funciones mencionadas anteriormente. Si selecciona “Rechazar todo”, el sitio web desactivará las cookies no esenciales, lo que limitará la funcionalidad a las cookies esenciales necesarias para el funcionamiento básico del sitio y los servicios solicitados explícitamente por los usuarios.
+      - text: Para obtener más información sobre cómo se realiza el tratamiento de los datos recopilados, haga clic en “
+      - link "Políticas de cookies" [ref=f58e343] [cursor=pointer]:
+        - /url: //www.mi.com/es/support/policy/cookie-policy
+      - text: ”.
+    - generic [ref=f58e344]:
+      - button "Ajustes de Cookies" [ref=f58e345] [cursor=pointer]
+      - button "Aceptar todo" [ref=f58e346] [cursor=pointer]
+      - button "Rechazar todo" [ref=f58e347] [cursor=pointer]

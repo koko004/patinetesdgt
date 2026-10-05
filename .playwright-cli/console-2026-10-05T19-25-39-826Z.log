@@ -1,0 +1,36 @@
+[    3913ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://kukirin.es/wp-content/cache/wpfc-minified/foi3srwe/3tr15.js:6
+[    3987ms] [WARNING] Failed to decode downloaded font: https://kukirin.es/wp-content/plugins/woocommerce-notification/fonts/icons-close.woff2 @ https://kukirin.es/wp-content/cache/wpfc-minified/zds72xz/3tr15.js:24
+[    5005ms] TypeError: Class extends value undefined is not a constructor or null
+    at 9318 (https://kukirin.es/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.15.1:3:87136)
+    at __webpack_require__ (https://kukirin.es/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.15.1:2:150)
+    at 3163 (https://kukirin.es/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.15.1:3:86748)
+    at __webpack_require__ (https://kukirin.es/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.15.1:2:150)
+    at 9978 (https://kukirin.es/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.15.1:3:486)
+    at __webpack_require__ (https://kukirin.es/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.15.1:2:150)
+    at https://kukirin.es/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.15.1:3:202291
+    at __webpack_require__.O (https://kukirin.es/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.15.1:2:510)
+    at https://kukirin.es/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.15.1:3:202311
+    at webpackJsonpCallback (https://kukirin.es/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.15.1:2:5308)
+[    5057ms] TypeError: Cannot read properties of null (reading 'getAttribute')
+    at HTMLDocument.<anonymous> (https://kukirin.es/producto/patinete-electrico-kukirin-g2-pro-homologado-dgt-vmp/:3096:36)
+[    5068ms] [LOG] ✅ Traducción activa con MutationObserver @ https://kukirin.es/producto/patinete-electrico-kukirin-g2-pro-homologado-dgt-vmp/:3332
+[    5229ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "username"): (More info: https://goo.gl/9p2vKq) %o @ https://kukirin.es/producto/patinete-electrico-kukirin-g2-pro-homologado-dgt-vmp/:0
+[    5697ms] TypeError: Cannot read properties of null (reading 'Messages')
+    at t.value (https://kukirin.es/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-button/assets/js/button.js?ver=2.9.4:2:124395)
+    at t.value (https://kukirin.es/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-button/assets/js/button.js?ver=2.9.4:2:229520)
+    at https://kukirin.es/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-button/assets/js/button.js?ver=2.9.4:2:261883
+    at Array.forEach (<anonymous>)
+    at t.value (https://kukirin.es/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-button/assets/js/button.js?ver=2.9.4:2:261794)
+    at t.<anonymous> (https://kukirin.es/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-button/assets/js/button.js?ver=2.9.4:2:260630)
+    at f (https://kukirin.es/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-button/assets/js/button.js?ver=2.9.4:2:253260)
+    at Generator.<anonymous> (https://kukirin.es/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-button/assets/js/button.js?ver=2.9.4:2:254603)
+    at Generator.next (https://kukirin.es/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-button/assets/js/button.js?ver=2.9.4:2:253689)
+    at On (https://kukirin.es/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-button/assets/js/button.js?ver=2.9.4:2:259166)
+[    6165ms] [LOG] mailchimp ready @ https://kukirin.es/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=5.4.07:0
+[    6383ms] [WARNING] Failed to decode downloaded font: https://kukirin.es/wp-content/plugins/woocommerce-notification/fonts/icons-close.woff2 @ https://kukirin.es/producto/patinete-electrico-kukirin-g2-pro-homologado-dgt-vmp/:0
+[    6899ms] [WARNING] Failed to decode downloaded font: https://kukirin.es/wp-content/plugins/woocommerce-notification/fonts/icons-close.woff2 @ https://kukirin.es/producto/patinete-electrico-kukirin-g2-pro-homologado-dgt-vmp/:0
+[   10589ms] [WARNING] The resource https://kukirin.es/wp-content/plugins/woocommerce-notification/fonts/icons-close.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kukirin.es/producto/patinete-electrico-kukirin-g2-pro-homologado-dgt-vmp/:0
+[   14054ms] [WARNING] The resource https://kukirin.es/wp-content/plugins/woocommerce-notification/fonts/icons-close.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kukirin.es/producto/patinete-electrico-kukirin-g2-pro-homologado-dgt-vmp/:0
+[   18520ms] [WARNING] []Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content. @ https://www.youtube.com/embed/4saIGqvoD9s?si=gx3FvplTQrkRNddm:0
+[   18650ms] [WARNING] The resource https://kukirin.es/wp-content/plugins/woocommerce-notification/fonts/icons-close.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kukirin.es/producto/patinete-electrico-kukirin-g2-pro-homologado-dgt-vmp/:0
+[   23749ms] [WARNING] The resource https://kukirin.es/wp-content/plugins/woocommerce-notification/fonts/icons-close.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kukirin.es/producto/patinete-electrico-kukirin-g2-pro-homologado-dgt-vmp/:0

@@ -1,0 +1,498 @@
+- generic [ref=f71e1]:
+  - generic [ref=f71e4]:
+    - generic:
+      - link "logo":
+        - /url: /
+        - img "logo"
+    - textbox "¿Qué estás buscando?" [ref=f71e6]
+    - generic [ref=f71e7]:
+      - generic [ref=f71e8]: "0"
+      - button [ref=f71e13] [cursor=pointer]
+  - region "Ventajas de comprar en Patinete Store" [ref=f71e14]:
+    - generic [ref=f71e16]:
+      - generic [ref=f71e17]:
+        - generic [ref=f71e18]: ALMACÉN EN ESPAÑA
+        - generic [ref=f71e19]: ENVÍOS EN 24-48 HORAS
+        - generic [ref=f71e20]: •
+        - generic [ref=f71e21]: TIENDA Nº1 DE PATINETES EN ESPAÑA
+        - generic [ref=f71e22]: •
+        - generic [ref=f71e23]: ★
+        - link "+2.500 RESEÑAS EN GOOGLE" [ref=f71e24] [cursor=pointer]:
+          - /url: https://share.google/RuIHo1gsaQe1QaF8z
+        - generic [ref=f71e25]: •
+        - generic [ref=f71e26]:
+          - text: ¡VINILO
+          - generic [ref=f71e27]: GRATIS
+          - text: CON LA COMPRA DE TU PATINETE!
+      - generic [ref=f71e28]:
+        - generic [ref=f71e29]: ALMACÉN EN ESPAÑA
+        - generic [ref=f71e30]: ENVÍOS EN 24-48 HORAS
+        - generic [ref=f71e31]: •
+        - generic [ref=f71e32]: TIENDA Nº1 DE PATINETES EN ESPAÑA
+        - generic [ref=f71e33]: •
+        - generic [ref=f71e34]: ★
+        - generic [ref=f71e35]: +2.500 RESEÑAS EN GOOGLE
+        - generic [ref=f71e36]: •
+        - generic [ref=f71e37]:
+          - text: ¡VINILO
+          - generic [ref=f71e38]: GRATIS
+          - text: CON LA COMPRA DE TU PATINETE!
+  - link "Saltar al contenido" [ref=f71e39] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=f71e40]:
+    - banner [ref=f71e41]:
+      - generic [ref=f71e42]:
+        - text:   
+        - navigation [ref=f71e44]:
+          - link [ref=f71e46] [cursor=pointer]:
+            - /url: https://patinetestore.com/
+            - img "Patinete Store | Venta de patinetes eléctricos y repuestos de patinete" [ref=f71e47]
+          - list [ref=f71e49]:
+            - listitem [ref=f71e50]:
+              - button "Menú" [ref=f71e51] [cursor=pointer]:
+                - generic [ref=f71e52]: 
+          - text:  
+          - list [ref=f71e54]:
+            - listitem [ref=f71e55]:
+              - button "Ver carrito" [ref=f71e56] [cursor=pointer]:
+                - generic [ref=f71e57]: 
+        - text:     
+        - search "Buscar productos" [ref=f71e63]:
+          - searchbox "Buscar" [ref=f71e65]
+    - navigation [ref=f71e70]:
+      - link "Patinetes eléctricos" [ref=f71e72] [cursor=pointer]:
+        - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/
+    - main [ref=f71e74]:
+      - generic [ref=f71e77]:
+        - generic [ref=f71e79]:
+          - link [ref=f71e87] [cursor=pointer]:
+            - /url: https://patinetestore.com/wp-content/uploads/2026/06/31ah.png
+            - img "Patinete Eléctrico Adasmart V" [ref=f71e88]
+          - generic [ref=f71e89]:
+            - heading "Patinete Eléctrico Adasmart V" [level=1] [ref=f71e90]
+            - paragraph [ref=f71e92]:
+              - generic [ref=f71e94]:
+                - generic [ref=f71e95]: €
+                - text: 899,00
+            - generic [ref=f71e96]:
+              - paragraph [ref=f71e97]:
+                - text: El
+                - strong [ref=f71e98]: Adasmart V Dual 31Ah
+                - text: es un patinete eléctrico potente para riders que quieren más fuerza, más autonomía y más control en ciudad.
+              - paragraph [ref=f71e99]:
+                - text: Monta
+                - strong [ref=f71e100]: doble motor de 500W nominal
+                - text: ", con"
+                - strong [ref=f71e101]: 1000W nominales en total
+                - text: y hasta
+                - strong [ref=f71e102]: 2400W de pico
+                - text: ", así que responde fuerte cuando toca subir cuestas o salir rápido."
+              - paragraph [ref=f71e103]:
+                - text: Su batería de
+                - strong [ref=f71e104]: litio 48V 31Ah
+                - text: ofrece hasta
+                - strong [ref=f71e105]: 100 km de autonomía
+                - text: ", ideal para trayectos largos, rutas urbanas e incluso desplazamientos interurbanos."
+              - paragraph [ref=f71e106]:
+                - text: Además, viene con
+                - strong [ref=f71e107]: ruedas tubeless de 10 pulgadas
+                - text: ", doble freno de disco mecánico, display LCD a color, NFC, APP y chasis de aluminio forjado."
+              - paragraph [ref=f71e108]: Un patinete eléctrico dual perfecto si buscas potencia, estabilidad y una conducción más racing sin perder comodidad para el día a día.
+            - generic [ref=f71e109]:
+              - generic [ref=f71e111]:
+                - generic [ref=f71e112]: BATERÍA
+                - generic:
+                  - generic [ref=f71e113] [cursor=pointer]:
+                    - radio "MÁS VENDIDO 15,6Ah 15,6Ah Envío en 24-48 horas" [checked]
+                    - generic [ref=f71e114]:
+                      - generic: MÁS VENDIDO
+                      - img "15,6Ah" [ref=f71e116]
+                      - generic [ref=f71e117]:
+                        - generic [ref=f71e118]: 15,6Ah
+                        - generic [ref=f71e119]: Envío en 24-48 horas
+                  - generic [ref=f71e120] [cursor=pointer]:
+                    - radio "31 31 Envío en 24-48 horas € 1.090,00"
+                    - generic [ref=f71e121]:
+                      - img "31" [ref=f71e123]
+                      - generic [ref=f71e124]:
+                        - generic [ref=f71e125]: "31"
+                        - generic [ref=f71e126]: Envío en 24-48 horas
+                        - generic [ref=f71e128]:
+                          - generic [ref=f71e129]: €
+                          - text: 1.090,00
+              - generic [ref=f71e131]:
+                - heading "Datos necesarios para la Gestión DGT" [level=3] [ref=f71e132]
+                - paragraph [ref=f71e133]: Completa estos datos para que podamos gestionar el alta DGT correctamente.
+                - generic [ref=f71e134]:
+                  - generic [ref=f71e135]: ¿tienes Clave movil o certificado digital? *
+                  - combobox "¿tienes Clave movil o certificado digital? *" [ref=f71e136]:
+                    - option "Selecciona una opción" [selected]
+                    - option "Tengo Clave movil"
+                    - option "Tengo certificado digital"
+                    - option "No tengo ninguna"
+                - generic [ref=f71e137]:
+                  - generic [ref=f71e138]: Adjunto DNI cara A *
+                  - generic [ref=f71e139]:
+                    - button "Adjunto DNI cara A *" [ref=f71e140]
+                    - button "Seleccionar archivo" [ref=f71e141] [cursor=pointer]
+                    - generic [ref=f71e142]: Ningún archivo seleccionado
+                - generic [ref=f71e143]:
+                  - generic [ref=f71e144]: Adjunto DNI cara B *
+                  - generic [ref=f71e145]:
+                    - button "Adjunto DNI cara B *" [ref=f71e146]
+                    - button "Seleccionar archivo" [ref=f71e147] [cursor=pointer]
+                    - generic [ref=f71e148]: Ningún archivo seleccionado
+              - generic [ref=f71e149]:
+                - generic [ref=f71e150]:
+                  - generic [ref=f71e151]: TUNEA TU PATINETE
+                  - generic [ref=f71e154] [cursor=pointer]:
+                    - generic [ref=f71e155]:
+                      - button [ref=f71e156]:
+                        - img "Chaleco reflectante tirante SUNIIK" [ref=f71e157]
+                      - generic [ref=f71e159]:
+                        - generic [ref=f71e160]: OBLIGATORIO DE NOCHE
+                        - generic [ref=f71e161]: Chaleco reflectante tirante SUNIIK
+                        - generic [ref=f71e162]: Te pueden multar si circulas de noche o con poca visibilidad sin un elemento reflectante.
+                      - generic [ref=f71e163]: +12,90 €
+                    - radio
+                    - radio [checked]
+                - text: ✔ ✖
+                - generic [ref=f71e167]:
+                  - generic [ref=f71e168]: TRÁMITES NECESARIOS PARA CIRCULAR LEGALMENTE
+                  - generic [ref=f71e175]:
+                    - generic [ref=f71e176]:
+                      - checkbox "Matrícula DGT MATRICULAR MI PATINETE Una vez tengas el patinete inscrito en la DGT contacta con nosotros y te enviaremos tu matrícula homologada. 9,90 €"
+                      - generic [ref=f71e178] [cursor=pointer]:
+                        - img "Matrícula DGT" [ref=f71e182]
+                        - generic [ref=f71e183]:
+                          - generic [ref=f71e184]: MATRICULAR MI PATINETE
+                          - generic [ref=f71e185]: Una vez tengas el patinete inscrito en la DGT contacta con nosotros y te enviaremos tu matrícula homologada.
+                        - generic [ref=f71e186]: 9,90 €
+                    - generic [ref=f71e188]:
+                      - checkbox "Seguro patinete ASEGURAR EL PATINETE Desde 3,40€/mes Una vez adquieras el patinete, te contactaremos para ayudarte en la gestión del alta de tu seguro obligatorio. Desde 3,40€/mes"
+                      - generic [ref=f71e190] [cursor=pointer]:
+                        - img "Seguro patinete" [ref=f71e194]
+                        - generic [ref=f71e195]:
+                          - generic [ref=f71e196]: ASEGURAR EL PATINETE
+                          - generic [ref=f71e197]: Desde 3,40€/mes
+                          - generic [ref=f71e198]: Una vez adquieras el patinete, te contactaremos para ayudarte en la gestión del alta de tu seguro obligatorio.
+                        - generic [ref=f71e199]: Desde 3,40€/mes
+                - generic [ref=f71e201]:
+                  - generic [ref=f71e202]:
+                    - strong [ref=f71e203]: Tu configuración
+                    - generic [ref=f71e204]: Revisa qué incluye tu patinete antes de añadirlo al carrito.
+                  - generic [ref=f71e205]:
+                    - generic [ref=f71e206]: Patinete Eléctrico Adasmart V
+                    - strong [ref=f71e207]: 899,00 €
+                  - generic [ref=f71e209]: Selecciona mejoras, accesorios o servicios y aparecerán aquí.
+                  - generic [ref=f71e210]:
+                    - generic [ref=f71e211]: Mejoras y servicios
+                    - strong [ref=f71e212]: 0,00 €
+                  - generic [ref=f71e213]:
+                    - generic [ref=f71e214]: Precio total
+                    - generic [ref=f71e215]: 899,00 €
+              - button "Añadir al carrito" [ref=f71e216] [cursor=pointer]
+              - button "Comprar ahora" [ref=f71e217] [cursor=pointer]
+            - generic [ref=f71e218]:
+              - generic [ref=f71e219]: "SKU: 37560-7561"
+              - generic [ref=f71e220]:
+                - text: "Categorías:"
+                - link "Adasmart" [ref=f71e221] [cursor=pointer]:
+                  - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/adasmart/
+                - text: ","
+                - link "Patinetes eléctricos" [ref=f71e222] [cursor=pointer]:
+                  - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/
+          - text:                                
+        - generic [ref=f71e224]:
+          - generic [ref=f71e226]:
+            - generic [ref=f71e227]:
+              - heading "Características técnicas" [level=2] [ref=f71e228]
+              - generic [ref=f71e229]: de Patinete Eléctrico Adasmart V
+            - generic [ref=f71e230]:
+              - generic [ref=f71e231]:
+                - img "Dos motores" [ref=f71e232]
+                - generic [ref=f71e233]: Dos motores
+                - generic [ref=f71e234]: 500W + 500W (1000W nominales / 2400W pico)
+              - generic [ref=f71e235]:
+                - img "Batería" [ref=f71e236]
+                - generic [ref=f71e237]: Batería
+                - generic [ref=f71e238]: Hasta 100 km (48V 31Ah)
+              - generic [ref=f71e239]:
+                - img "Velocidad" [ref=f71e240]
+                - generic [ref=f71e241]: Velocidad
+                - generic [ref=f71e242]: 25 km/h / 50 km/h
+              - generic [ref=f71e243]:
+                - img "Deslimitar" [ref=f71e244]
+                - generic [ref=f71e245]: Deslimitar
+                - generic [ref=f71e246]: No especificado
+              - generic [ref=f71e247]:
+                - img "Frenos" [ref=f71e248]
+                - generic [ref=f71e249]: Frenos
+                - generic [ref=f71e250]: Doble disco mecánico
+              - generic [ref=f71e251]:
+                - img "Neumáticos" [ref=f71e252]
+                - generic [ref=f71e253]: Neumáticos
+                - generic [ref=f71e254]: 10" tubeless
+              - generic [ref=f71e255]:
+                - img "Peso" [ref=f71e256]
+                - generic [ref=f71e257]: Peso
+                - generic [ref=f71e258]: 32 kg
+          - generic [ref=f71e260]:
+            - generic [ref=f71e261]:
+              - link [expanded] [ref=f71e262] [cursor=pointer]:
+                - /url: "#accordion-item-description"
+                - button "Toggle" [ref=f71e263]:
+                  - generic [ref=f71e264]: 
+                - text: Descripción
+              - generic "Toggle Descripción" [ref=f71e265]:
+                - heading "Patinete eléctrico Adasmart V Dual 31Ah" [level=2] [ref=f71e266]
+                - paragraph [ref=f71e267]:
+                  - text: El
+                  - strong [ref=f71e268]: Adasmart V Dual 31Ah
+                  - text: "está hecho para los que no quieren un patinete básico. Este modelo va en serio: doble motor, batería grande, buena autonomía y una conducción con mucha fuerza desde el primer toque de acelerador."
+                - paragraph [ref=f71e269]:
+                  - text: Es una opción muy top si buscas un
+                  - strong [ref=f71e270]: patinete eléctrico potente
+                  - text: ", con estilo urbano y preparado para rutas largas. Su sistema dual marca la diferencia en salidas, subidas y terrenos donde un patinete normal se queda corto."
+                - table [ref=f71e271]:
+                  - rowgroup [ref=f71e272]:
+                    - row [ref=f71e273]:
+                      - columnheader "Característica" [ref=f71e274]
+                      - columnheader "Detalle" [ref=f71e275]
+                  - rowgroup [ref=f71e276]:
+                    - row [ref=f71e277]:
+                      - cell "Producto" [ref=f71e278]
+                      - cell "Patinete eléctrico Adasmart V Dual 31Ah" [ref=f71e279]
+                    - row [ref=f71e280]:
+                      - cell "Batería" [ref=f71e281]
+                      - cell "Litio 48V 31Ah" [ref=f71e282]
+                    - row [ref=f71e283]:
+                      - cell "Potencia motor" [ref=f71e284]
+                      - cell "1000W nominal" [ref=f71e285]
+                    - row [ref=f71e286]:
+                      - cell "Potencia pico" [ref=f71e287]
+                      - cell "2400W pico" [ref=f71e288]
+                    - row [ref=f71e289]:
+                      - cell "Tipo de motor" [ref=f71e290]
+                      - cell "Doble motor" [ref=f71e291]
+                    - row [ref=f71e292]:
+                      - cell "Motores" [ref=f71e293]
+                      - cell "2 motores de 500W nominales" [ref=f71e294]
+                    - row [ref=f71e295]:
+                      - cell "Autonomía máxima" [ref=f71e296]
+                      - cell "Hasta 100 km en condiciones óptimas" [ref=f71e297]
+                    - row [ref=f71e298]:
+                      - cell "Velocidad máxima" [ref=f71e299]
+                      - cell "50 km/h" [ref=f71e300]
+                    - row [ref=f71e301]:
+                      - cell "Velocidad en vía pública" [ref=f71e302]
+                      - cell "Limitado a 25 km/h" [ref=f71e303]
+                    - row [ref=f71e304]:
+                      - cell "Neumáticos" [ref=f71e305]
+                      - cell "10” tubeless sin cámara" [ref=f71e306]
+                    - row [ref=f71e307]:
+                      - cell "Sistema de frenado" [ref=f71e308]
+                      - cell "Doble disco mecánico" [ref=f71e309]
+                    - row [ref=f71e310]:
+                      - cell "Controladora" [ref=f71e311]
+                      - cell "Onda sinusoidal 25A + 25A" [ref=f71e312]
+                    - row [ref=f71e313]:
+                      - cell "Display" [ref=f71e314]
+                      - cell "LCD a color" [ref=f71e315]
+                    - row [ref=f71e316]:
+                      - cell "Seguridad" [ref=f71e317]
+                      - cell "NFC" [ref=f71e318]
+                    - row [ref=f71e319]:
+                      - cell "Conectividad" [ref=f71e320]
+                      - cell "APP" [ref=f71e321]
+                    - row [ref=f71e322]:
+                      - cell "Chasis" [ref=f71e323]
+                      - cell "Aluminio forjado" [ref=f71e324]
+                    - row [ref=f71e325]:
+                      - cell "Carga máxima" [ref=f71e326]
+                      - cell "120 kg" [ref=f71e327]
+                    - row [ref=f71e328]:
+                      - cell "Peso" [ref=f71e329]
+                      - cell "32 kg" [ref=f71e330]
+                    - row [ref=f71e331]:
+                      - cell "Uso recomendado" [ref=f71e332]
+                      - cell "Urbano, rutas largas y trayectos interurbanos" [ref=f71e333]
+                    - row [ref=f71e334]:
+                      - cell "Ventaja principal" [ref=f71e335]
+                      - cell "Potencia dual con gran autonomía" [ref=f71e336]
+                    - row [ref=f71e337]:
+                      - cell "Tienda" [ref=f71e338]
+                      - cell "PatineteStore" [ref=f71e339]
+                - heading "Doble motor para una aceleración más seria" [level=2] [ref=f71e340]
+                - paragraph [ref=f71e341]:
+                  - text: Este Adasmart monta
+                  - strong [ref=f71e342]: dos motores de 500W nominales
+                  - text: ", con una potencia total de"
+                  - strong [ref=f71e343]: 1000W nominales
+                  - text: y hasta
+                  - strong [ref=f71e344]: 2400W de pico
+                  - text: .
+                - paragraph [ref=f71e345]: Esto se nota mucho en ciudad. Sales con más fuerza, subes cuestas con más seguridad y tienes una respuesta mucho más contundente cuando necesitas potencia.
+                - paragraph [ref=f71e346]: Es perfecto para riders que buscan un patinete eléctrico rápido, estable y con ese punto racing que se nota al conducir.
+                - heading "Batería 31Ah para llegar más lejos" [level=2] [ref=f71e347]
+                - paragraph [ref=f71e348]:
+                  - text: La batería de
+                  - strong [ref=f71e349]: litio 48V 31Ah
+                  - text: permite una autonomía máxima de hasta
+                  - strong [ref=f71e350]: 100 km
+                  - text: en condiciones óptimas.
+                - paragraph [ref=f71e351]: Esto lo convierte en un patinete ideal para trayectos largos, ir al trabajo, moverte por ciudad o hacer rutas sin estar mirando la batería cada poco.
+                - paragraph [ref=f71e352]: Si quieres un patinete eléctrico con buena autonomía, el Adasmart V Dual 22.5Ah es una opción muy seria.
+                - heading "Velocidad, control y seguridad" [level=2] [ref=f71e353]
+                - paragraph [ref=f71e354]:
+                  - text: El Adasmart V Dual puede alcanzar hasta
+                  - strong [ref=f71e355]: 50 km/h
+                  - text: ", aunque viene limitado a"
+                  - strong [ref=f71e356]: 25 km/h
+                  - text: para cumplir con el uso permitido en vía pública.
+                - paragraph [ref=f71e357]:
+                  - text: Su controladora de
+                  - strong [ref=f71e358]: onda sinusoidal 25A + 25A
+                  - text: ayuda a que la entrega de potencia sea más suave y precisa. Esto hace que el patinete se sienta más fino, más estable y más fácil de controlar.
+                - paragraph [ref=f71e359]:
+                  - text: Además, el sistema de
+                  - strong [ref=f71e360]: doble freno de disco mecánico
+                  - text: ofrece una frenada directa y segura.
+                - heading "Ruedas tubeless de 10 pulgadas" [level=2] [ref=f71e361]
+                - paragraph [ref=f71e362]:
+                  - text: Las ruedas
+                  - strong [ref=f71e363]: 10” tubeless
+                  - text: ", sin cámara, dan más estabilidad y comodidad al rodar. Son ideales para ciudad, carriles bici y rutas donde necesitas buen agarre."
+                - paragraph [ref=f71e364]: Al no llevar cámara, reducen el riesgo de pinchazos típicos por pellizco. Eso se agradece mucho si usas el patinete todos los días.
+                - heading "Display LCD, NFC y APP" [level=2] [ref=f71e365]
+                - paragraph [ref=f71e366]:
+                  - text: Este patinete viene equipado con
+                  - strong [ref=f71e367]: display LCD a color
+                  - text: ", sistema"
+                  - strong [ref=f71e368]: NFC
+                  - text: y conexión con
+                  - strong [ref=f71e369]: APP
+                  - text: .
+                - paragraph [ref=f71e370]: Todo esto le da un toque más moderno y cómodo. Puedes controlar mejor el patinete, revisar información importante y tener una experiencia más completa.
+                - heading "Chasis de aluminio forjado para más estabilidad" [level=2] [ref=f71e371]
+                - paragraph [ref=f71e372]:
+                  - text: El chasis de
+                  - strong [ref=f71e373]: aluminio forjado
+                  - text: le da una estructura fuerte, estable y preparada para uso diario.
+                - paragraph [ref=f71e374]: Aun siendo un patinete potente, mantiene un equilibrio muy bueno entre rendimiento y maniobrabilidad. Es ideal para moverse rápido por ciudad, subir cuestas y tener buena sensación de control.
+                - heading "La potencia dual definitiva para el día a día" [level=2] [ref=f71e375]
+                - paragraph [ref=f71e376]: El Adasmart V Dual 22.5Ah está pensado para riders que quieren un patinete potente, cómodo y con autonomía real.
+                - paragraph [ref=f71e377]: Tiene fuerza para rutas exigentes, batería para llegar más lejos y tecnología para que la conducción sea más fina. Si vienes de un patinete básico, el salto se nota muchísimo.
+                - heading "Por qué comprar el Adasmart V Dual 31Ah en PatineteStore" [level=2] [ref=f71e378]
+                - paragraph [ref=f71e379]:
+                  - text: En
+                  - strong [ref=f71e380]: PatineteStore
+                  - text: sabemos que quien busca un patinete dual quiere potencia de verdad, buena autonomía y componentes que aguanten.
+                - paragraph [ref=f71e381]:
+                  - text: Este modelo es ideal si estás buscando un
+                  - strong [ref=f71e382]: patinete eléctrico rápido barato
+                  - text: ", un"
+                  - strong [ref=f71e383]: patinete eléctrico potente barato
+                  - text: ", un patinete eléctrico tipo Dualtron o un modelo dual con buena relación entre fuerza, autonomía y tecnología."
+                - paragraph [ref=f71e384]:
+                  - text: Si quieres un patinete que tenga pegada, aguante rutas largas y se sienta estable en el día a día, el
+                  - strong [ref=f71e385]: Adasmart V Dual 31Ah
+                  - text: es una apuesta muy fuerte.
+            - generic: 
+          - generic [ref=f71e386]:
+            - heading "Más Adasmart que te pueden interesar:" [level=2] [ref=f71e387]
+            - generic [ref=f71e391]:
+              - generic [ref=f71e392]:
+                - generic:
+                  - link "Patinete Eléctrico Adasmart X":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-adasmart-x/
+                    - img "Patinete Eléctrico Adasmart X" [ref=f71e393] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f71e394]:
+                - generic [ref=f71e395]:
+                  - generic [ref=f71e396]: Envío en 24-48 horas
+                  - paragraph [ref=f71e399]:
+                    - link "Patinete Eléctrico Adasmart X" [ref=f71e400] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-adasmart-x/
+                - generic [ref=f71e401]: €599,00
+    - contentinfo [ref=f71e406]:
+      - region "Instagram feed" [ref=f71e411]:
+        - link "patinetestore_ on Instagram" [ref=f71e413] [cursor=pointer]:
+          - /url: https://www.instagram.com/patinetestore_/
+          - generic [ref=f71e419]:
+            - heading "patinetestore_" [level=3] [ref=f71e420]
+            - paragraph [ref=f71e421]:
+              - text: Tienda y Taller patinetes eléctricos
+              - img "🏁" [ref=f71e422]
+              - img "🥷🏽" [ref=f71e423]
+              - img "🛴" [ref=f71e424]
+              - text: Avenida del Cid, 4 Valencia
+        - list [ref=f71e425]:
+          - listitem [ref=f71e426]:
+            - 'link "asmr #patinete #escooter #asmr" [ref=f71e428] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeFNuD-IZ0m/
+          - listitem [ref=f71e432]:
+            - 'link "Como vinilar patinete eléctrico #patinete #vinilar" [ref=f71e434] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeB57zCo_Oz/
+          - listitem [ref=f71e438]:
+            - 'link "Always back to the line#escooter #crash #dualt" [ref=f71e440] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeAN95qRJH-/
+          - listitem [ref=f71e444]:
+            - link "Si vas a hacer el canelo, hazlo cuando no hay nadi" [ref=f71e446] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/Dd_jt9NIDvP/
+          - listitem [ref=f71e450]:
+            - 'link "Como copiar llave NFC en patinete eléctrico #nfc #" [ref=f71e452] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/Dd8_W1_ITu9/
+          - listitem [ref=f71e456]:
+            - 'link "Hemos comprado los nuevos Ecoxtrem Armored PRO #pa" [ref=f71e458] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/Dd600xwo6-O/
+        - generic [ref=f71e462]:
+          - button "Cargar más" [ref=f71e463] [cursor=pointer]
+          - link "Seguir en Instagram" [ref=f71e466] [cursor=pointer]:
+            - /url: https://www.instagram.com/patinetestore_/
+      - generic [ref=f71e470]:
+        - link [ref=f71e472] [cursor=pointer]:
+          - /url: https://patinetestore.com/
+        - list [ref=f71e475]:
+          - listitem [ref=f71e476]:
+            - link "Aviso legal" [ref=f71e477] [cursor=pointer]:
+              - /url: https://patinetestore.com/aviso-legal/
+          - listitem [ref=f71e478]:
+            - link "Política de devolución y reembolsos" [ref=f71e479] [cursor=pointer]:
+              - /url: https://patinetestore.com/politica-de-devolucion-y-reembolsos/
+          - listitem [ref=f71e480]:
+            - link "Métodos de pago" [ref=f71e481] [cursor=pointer]:
+              - /url: https://patinetestore.com/metodos-de-pago/
+          - listitem [ref=f71e482]:
+            - link "Política de privacidad" [ref=f71e483] [cursor=pointer]:
+              - /url: https://patinetestore.com/privacy-policy/
+          - listitem [ref=f71e484]:
+            - link "Mapa del sitio" [ref=f71e485] [cursor=pointer]:
+              - /url: https://patinetestore.com/sitemap_index.xml
+          - listitem [ref=f71e486]:
+            - link "Blog" [ref=f71e487] [cursor=pointer]:
+              - /url: https://patinetestore.com/blog/
+          - listitem [ref=f71e488]:
+            - link "Acceso B2B" [ref=f71e489] [cursor=pointer]:
+              - /url: https://patinetestore.com/my-account/
+      - generic [ref=f71e491]:
+        - group "Payment icons" [ref=f71e493]:
+          - generic [ref=f71e494]: Visa
+          - generic [ref=f71e498]: Klarna
+          - generic [ref=f71e511]: Apple Pay
+          - generic [ref=f71e515]: Cash On Delivery
+          - generic [ref=f71e519]: Cash on Pickup
+          - generic [ref=f71e523]: Google Pay
+          - generic [ref=f71e527]: MasterCard
+          - generic [ref=f71e534]: PayPal
+          - generic [ref=f71e538]: Revolut
+        - generic [ref=f71e544]:
+          - text: Copyright 2026 ©
+          - strong [ref=f71e545]: Patinete Store
+  - text:          
+  - generic:
+    - button "¡Contacta con nosotros! Abrir chat" [ref=f71e546] [cursor=pointer]
+    - generic: "1"
+    - dialog "Patinete Store"
+  - status [ref=f71e548]

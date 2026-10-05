@@ -1,0 +1,446 @@
+- generic [ref=f60e1]:
+  - alertdialog [ref=f60e2]:
+    - generic [ref=f60e3]:
+      - generic [ref=f60e4]:
+        - heading "Consentimiento para el uso de cookies" [level=2] [ref=f60e5]
+        - paragraph [ref=f60e6]:
+          - text: Nosotros y nuestros partners, incluido Shopify, utilizamos cookies y otras tecnologías para personalizar tu experiencia, mostrarte anuncios y realizar informes y estadísticas, y no utilizaremos cookies ni otras tecnologías para estos fines a menos que las aceptes. Obtén más información en nuestra
+          - link "Política de privacidad" [ref=f60e7] [cursor=pointer]:
+            - /url: http://electyum.com/policies/privacy-policy
+      - generic [ref=f60e8]:
+        - button "Administrar preferencias" [ref=f60e9]
+        - button "Aceptar" [ref=f60e10]
+        - button "Rechazar" [ref=f60e11]
+  - link "Ir directamente al contenido" [ref=f60e12] [cursor=pointer]:
+    - /url: "#MainContent"
+  - banner [ref=f60e14]:
+    - generic [ref=f60e17]:
+      - generic [ref=f60e18]:
+        - link [ref=f60e19] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=f60e23]:
+          - list [ref=f60e26]:
+            - generic:
+              - link "PATINETES" [ref=f60e27] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+              - link "PATINETES HOMOLOGADOS" [ref=f60e29] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - menuitem "Más" [ref=f60e32] [cursor=pointer]
+      - generic [ref=f60e34]:
+        - button "Abrir selector de región e idioma EUR" [ref=f60e36] [cursor=pointer]:
+          - generic [ref=f60e37]: Abrir selector de región e idioma
+          - generic [ref=f60e38]: EUR
+        - button "Abrir búsqueda" [ref=f60e40] [cursor=pointer]
+        - generic [ref=f60e41]:
+          - button "Abrir menú de cuenta" [ref=f60e43] [cursor=pointer]
+          - 'button "Abrir carrito Total de artículos en el carrito: 0" [ref=f60e49] [cursor=pointer]':
+            - generic [ref=f60e51]:
+              - status:
+                - generic [ref=f60e53]: "Total de artículos en el carrito: 0"
+  - main [ref=f60e54]:
+    - generic [ref=f60e57]:
+      - link "Ir directamente a la información del producto" [ref=f60e58] [cursor=pointer]:
+        - /url: "#ProductInformation-template--26141808394565__main"
+      - generic [ref=f60e59]:
+        - generic [ref=f60e62]:
+          - generic [ref=f60e63]:
+            - generic:
+              - button "Diapositiva anterior" [ref=f60e64] [cursor=pointer]
+              - button "Siguiente diapositiva" [ref=f60e65] [cursor=pointer]
+            - img "Dualtron Popular Single" [ref=f60e70]
+          - generic [ref=f60e89]:
+            - button "Diapositiva 1 de 5" [ref=f60e90] [cursor=pointer]:
+              - img "Dualtron Popular Single" [ref=f60e91]
+            - button "Diapositiva 2 de 5" [ref=f60e92] [cursor=pointer]:
+              - img "Patinete Eléctrico Dualtron Popular" [ref=f60e93]
+            - button "Diapositiva 3 de 5" [ref=f60e94] [cursor=pointer]:
+              - img "Patinete Eléctrico Dualtron Popular" [ref=f60e95]
+            - button "Diapositiva 4 de 5" [ref=f60e96] [cursor=pointer]:
+              - img "Patinete Eléctrico Dualtron Popular" [ref=f60e97]
+            - button "Diapositiva 5 de 5" [ref=f60e98] [cursor=pointer]:
+              - img "Patinete Eléctrico Dualtron Popular" [ref=f60e99]
+        - generic [ref=f60e102]:
+          - heading "Patinete Eléctrico Dualtron Popular" [level=1] [ref=f60e104]
+          - generic [ref=f60e105]:
+            - generic [ref=f60e106]:
+              - group [ref=f60e107]:
+                - generic [ref=f60e108]: Precio de oferta
+                - text: €749,00 EUR
+              - group [ref=f60e109]:
+                - generic [ref=f60e110]: Precio habitual
+                - text: €1.990,00 EUR
+            - generic [ref=f60e111]: Aranceles e impuestos incluidos. Envío calculado en el pago.
+          - iframe [ref=f60e117]:
+            - generic [ref=f65e6]:
+              - generic [ref=f65e7]:
+                - generic [ref=f65e9]:
+                  - strong [ref=f65e10]: 72,41 €
+                  - text: al mes
+                - generic [ref=f65e12]:
+                  - generic [ref=f65e13]: x12
+                  - generic [ref=f65e14] [cursor=pointer]: x6
+                  - generic [ref=f65e15] [cursor=pointer]: x3 sin coste
+                  - text: +info
+              - img "SeQura logo" [ref=f65e17] [cursor=pointer]
+          - paragraph [ref=f60e119]: Homologado por la DGT ✅
+          - generic [ref=f60e121]:
+            - paragraph [ref=f60e122]:
+              - text: El
+              - strong [ref=f60e123]: Dualtron Popular
+              - text: es un patinete eléctrico premium de Dualtron, marca de referencia mundial en movilidad eléctrica de alta gama. Fabricación de precisión, baterías de alta capacidad y tecnología de suspensión avanzada para la experiencia de conducción más exigente.
+            - paragraph [ref=f60e124]:
+              - text: El
+              - strong [ref=f60e125]: Dualtron Popular
+              - text: "es un patinete eléctrico plegable ideal para la movilidad urbana. Ligero, compacto y con autonomía suficiente para el día a día: la alternativa sostenible para ir al trabajo, a clase o moverse por la ciudad sin atascos ni problemas de aparcamiento."
+            - list [ref=f60e126]:
+              - listitem [ref=f60e127]:
+                - strong [ref=f60e128]: "🚀 Motor:"
+                - text: 900W
+              - listitem [ref=f60e129]:
+                - strong [ref=f60e130]: "🔋 Autonomía:"
+                - text: De 30 Km - Hasta 60 Km
+              - listitem [ref=f60e131]:
+                - strong [ref=f60e132]: "🔋 Batería:"
+                - text: 52V 14Ah - 20Ah - 25Ah
+              - listitem [ref=f60e133]:
+                - strong [ref=f60e134]: "⚡ Velocidad Limitada:"
+                - text: Hasta 25 Km/h - Alcance 45 km/h (Uso privado)
+              - listitem [ref=f60e135]:
+                - strong [ref=f60e136]: "🛞 Ruedas:"
+                - text: 9″ con cámara de aire
+              - listitem [ref=f60e137]:
+                - text: 🛑
+                - strong [ref=f60e138]: "Frenos:"
+                - text: Frenos de tambor delanteros y traseros + Asistencia eléctrica al frenado
+              - listitem [ref=f60e139]:
+                - strong [ref=f60e140]: 📱 APP móvil -
+                - text: Si
+            - paragraph [ref=f60e141]:
+              - strong [ref=f60e142]: "Ideal para:"
+            - list [ref=f60e143]:
+              - listitem [ref=f60e144]: ✅ Desplazamientos urbanos diarios al trabajo, estudios o gestiones
+              - listitem [ref=f60e145]: ✅ Transporte combinado con metro, autobús o tren (último kilómetro)
+              - listitem [ref=f60e146]: ✅ Reducir el uso del coche en ciudad y ahorrar en gasolina y aparcamiento
+            - paragraph [ref=f60e147]:
+              - strong [ref=f60e148]: "Ideal para:"
+            - list [ref=f60e149]:
+              - listitem [ref=f60e150]: ✅ Usuarios avanzados que buscan el máximo rendimiento y autonomía
+              - listitem [ref=f60e151]: ✅ Trayectos largos y exigentes donde la calidad de componentes marca la diferencia
+              - listitem [ref=f60e152]: ✅ Coleccionistas y entusiastas de los mejores patinetes eléctricos del mundo
+          - paragraph [ref=f60e154]:
+            - strong [ref=f60e155]: 🚚 Envíos
+            - strong [ref=f60e156]: Envío express 48h
+          - generic [ref=f60e158]:
+            - group "ColorNegro" [ref=f60e159]:
+              - radio "Negro" [checked] [ref=f60e162] [cursor=pointer]
+            - group "Batería" [ref=f60e164]:
+              - generic [ref=f60e166]:
+                - radio "52V 14Ah (Autonomía 30 km)" [checked] [ref=f60e167] [cursor=pointer]
+                - generic [ref=f60e168]: 52V 14Ah (Autonomía 30 km)
+              - generic [ref=f60e169]:
+                - radio "52V 20Ah (Autonomía 45 km)" [ref=f60e170] [cursor=pointer]
+                - generic [ref=f60e171]: 52V 20Ah (Autonomía 45 km)
+              - generic [ref=f60e172]:
+                - radio "52V 25Ah (Autonomía 60 km)" [ref=f60e173] [cursor=pointer]
+                - generic [ref=f60e174]: 52V 25Ah (Autonomía 60 km)
+          - generic [ref=f60e177]:
+            - heading "Comprados juntos..." [level=4] [ref=f60e180]
+            - generic [ref=f60e181]:
+              - generic "Carga de recomendaciones de productos" [ref=f60e182]
+              - generic "Carga de recomendaciones de productos" [ref=f60e183]
+          - generic [ref=f60e185]:
+            - status [ref=f60e186]
+            - generic [ref=f60e188]:
+              - generic [ref=f60e189]:
+                - button "Disminuir cantidad" [ref=f60e190] [cursor=pointer]
+                - spinbutton "Cantidad" [ref=f60e192]: "1"
+                - button "Aumentar cantidad" [ref=f60e193] [cursor=pointer]
+              - button "Agregar al carrito" [ref=f60e197] [cursor=pointer]:
+                - generic [ref=f60e200]: Agregada
+              - generic [ref=f60e204]:
+                - generic [ref=f60e207]:
+                  - iframe [ref=f60e208]:
+                    - generic "Payment Button" [ref=f62e2]:
+                      - link "PayPal" [ref=f62e5] [cursor=pointer]
+                  - iframe [ref=f60e209]
+                - link "Más opciones de pago" [ref=f60e211] [cursor=pointer]:
+                  - /url: "#"
+    - generic [ref=f60e216]:
+      - heading "Patinete Eléctrico Dualtron Popular" [level=2] [ref=f60e218]
+      - generic [ref=f60e220]:
+        - 'heading "Dualtron Popular: El Patinete Eléctrico Potente y Versátil para la Ciudad" [level=3] [ref=f60e221]'
+        - paragraph [ref=f60e222]: El Dualtron Popular, conocido cariñosamente como POP, redefine lo que significa la movilidad urbana accesible. Diseñado para ofrecer una conducción compacta, asequible y versátil, este patinete eléctrico es la opción ideal tanto para quienes se desplazan diariamente al trabajo como para ciclistas ocasionales que buscan calidad sin comprometer el presupuesto. Con el POP, el rendimiento de alta gama y la comodidad dejan de ser un lujo para convertirse en un estándar.
+        - heading "Configuraciones de Motor a tu Medida" [level=3] [ref=f60e223]
+        - paragraph [ref=f60e224]: "El Dualtron POP se adapta a tus necesidades con dos potentes configuraciones de motor:"
+        - list [ref=f60e225]:
+          - listitem [ref=f60e226]:
+            - strong [ref=f60e227]: "Version Single Motor:"
+            - text: Equipada con un motor nominal de 450W (con picos superiores), ofrece una conducción suave y relajada, alcanzando velocidades de hasta 45 km/h en entornos privados autorizados.
+          - listitem [ref=f60e228]:
+            - strong [ref=f60e229]: "Version Dual Motor:"
+            - text: Para quienes buscan un impulso extra, la versión bimotor duplica la potencia hasta los 900W nominales, permitiendo alcanzar los 55 km/h en terrenos privados. Esta configuración proporciona un par motor excepcional, ideal para superar pendientes pronunciadas de hasta el 37 por ciento.
+        - 'heading "Autonomía Personalizada: Tres Opciones de Batería" [level=3] [ref=f60e230]'
+        - paragraph [ref=f60e231]: "Entendemos que cada trayecto es diferente. Por ello, puedes elegir entre tres capacidades de batería de 52V para encontrar el equilibrio perfecto entre peso, autonomía y precio:"
+        - list [ref=f60e232]:
+          - listitem [ref=f60e233]:
+            - strong [ref=f60e234]: "52V 14Ah:"
+            - text: Hasta 30 km de autonomía, ideal para trayectos urbanos cortos y máxima ligereza.
+          - listitem [ref=f60e235]:
+            - strong [ref=f60e236]: "52V 20Ah:"
+            - text: Hasta 45 km de autonomía, la opción equilibrada para el uso diario intenso.
+          - listitem [ref=f60e237]:
+            - strong [ref=f60e238]: "52V 25Ah Samsung:"
+            - text: Hasta 60 km de autonomía, diseñada para largas distancias o jornadas completas de uso sin necesidad de recarga frecuente.
+        - 'heading "Diseño Inteligente: Portabilidad y Confort" [level=3] [ref=f60e239]'
+        - paragraph [ref=f60e240]: El chasis del Dualtron POP ha sido optimizado para la vida en la ciudad. Con un peso que oscila entre los 29.6 kg y los 32.5 kg segun la version, ofrece una robustez estructural envidiable. Su sistema de plegado rápido del mástil y manillar permite guardarlo en el maletero de un coche, debajo de un escritorio o transportarlo en el metro de forma eficiente.
+        - paragraph [ref=f60e241]: Para garantizar una conducción suave sobre baches y terrenos irregulares, incorpora un sistema de suspension de muelle neumatico delantero y muelle trasero, complementado con neumaticos hinchables de 9 pulgadas que absorben los impactos y mejoran el agarre.
+        - heading "Seguridad y Bajo Mantenimiento" [level=3] [ref=f60e242]
+        - paragraph [ref=f60e243]: La seguridad es el pilar central de este modelo. El POP utiliza frenos de tambor delanteros y traseros totalmente cerrados. Este sistema es famoso por su durabilidad y su resistencia al polvo y la suciedad, requiriendo mucho menos mantenimiento que los frenos de disco tradicionales. Ademas, cuenta con asistencia electrica al frenado para una detencion precisa y segura.
+        - heading "Tecnologia y Conectividad Avanzada" [level=3] [ref=f60e244]
+        - paragraph [ref=f60e245]: "El Dualtron POP no escatima en equipamiento tecnologico:"
+        - list [ref=f60e246]:
+          - listitem [ref=f60e247]:
+            - strong [ref=f60e248]: "Pantalla EY2 y App Móvil:"
+            - text: Compatible con la aplicacion Dualtron (iOS/Android), permite monitorizar la velocidad, el estado de la bateria y personalizar los modos de conduccion desde tu smartphone.
+          - listitem [ref=f60e249]:
+            - strong [ref=f60e250]: "Iluminación Completa:"
+            - text: Faros dobles de 3W, luces de freno, intermitentes y claxon integrados para garantizar tu visibilidad en el trafico.
+          - listitem [ref=f60e251]:
+            - strong [ref=f60e252]: "Ergonomia Superior:"
+            - text: Incluye un reposapies trasero que mejora la estabilidad y una base con recubrimiento de goma de facil limpieza y maximo agarre.
+        - heading "Especificaciones Técnicas Detalladas" [level=3] [ref=f60e253]
+        - list [ref=f60e254]:
+          - listitem [ref=f60e255]:
+            - strong [ref=f60e256]: "Velocidad Máxima:"
+            - text: 25 km/h (limitado por software). Hasta 45-55 km/h en uso privado.
+          - listitem [ref=f60e257]:
+            - strong [ref=f60e258]: "Potencia Nominal:"
+            - text: 900W (Single) / 1800W (Dual en pico).
+          - listitem [ref=f60e259]:
+            - strong [ref=f60e260]: "Pendiente Máxima:"
+            - text: 27 por ciento (Single) / 37 por ciento (Dual).
+          - listitem [ref=f60e261]:
+            - strong [ref=f60e262]: "Batería:"
+            - text: 52V con opciones de 14Ah, 20Ah o 25Ah Samsung.
+          - listitem [ref=f60e263]:
+            - strong [ref=f60e264]: "Tiempo de Carga:"
+            - text: Entre 7 y 12.5 horas segun capacidad.
+          - listitem [ref=f60e265]:
+            - strong [ref=f60e266]: "Sistema BMS:"
+            - text: Proteccion contra sobrecalentamiento, cortocircuito, sobrecorriente y sobrecarga.
+          - listitem [ref=f60e267]:
+            - strong [ref=f60e268]: "Carga Máxima:"
+            - text: 120 kg.
+          - listitem [ref=f60e269]:
+            - strong [ref=f60e270]: "Neumáticos:"
+            - text: 9 pulgadas 70/50-6.1 con camara de aire.
+          - listitem [ref=f60e271]:
+            - strong [ref=f60e272]: "Frenos:"
+            - text: Tambor delantero y trasero mas asistencia electrica.
+          - listitem [ref=f60e273]:
+            - strong [ref=f60e274]: "Suspension:"
+            - text: Amortiguador de muelle neumatico delantero y muelle trasero.
+          - listitem [ref=f60e275]:
+            - strong [ref=f60e276]: "Dimensiones Desplegado:"
+            - text: 1220 x 660 x 1220 mm.
+          - listitem [ref=f60e277]:
+            - strong [ref=f60e278]: "Dimensiones Plegado:"
+            - text: 1230 x 260 x 450 mm.
+          - listitem [ref=f60e279]:
+            - strong [ref=f60e280]: "Peso:"
+            - text: 29.6 kg - 32.5 kg.
+        - paragraph [ref=f60e281]: El Dualtron Popular es, sin duda, la democratizacion de la alta gama. Un patinete fiable, potente y diseñado para durar.
+        - paragraph [ref=f60e282]:
+          - strong [ref=f60e283]: "Dualtron POP: Rendimiento de Alta Gama al Mejor Precio"
+        - paragraph [ref=f60e284]:
+          - text: Si estás buscando
+          - strong [ref=f60e285]: comprar un patinete eléctrico potente
+          - text: que combine autonomía y portabilidad, el
+          - strong [ref=f60e286]: Dualtron Popular (POP)
+          - text: es la solución definitiva. Este modelo se ha consolidado como uno de los
+          - strong [ref=f60e287]: mejores patinetes eléctricos de 2026
+          - text: gracias a su versatilidad, permitiendo elegir entre versiones de motor único o
+          - strong [ref=f60e288]: doble motor de 900W
+          - text: . Es el vehículo de movilidad personal ideal para quienes necesitan subir pendientes pronunciadas y buscan un
+          - strong [ref=f60e289]: scooter eléctrico Dualtron
+          - text: que ofrezca la fiabilidad de una marca premium sin realizar una inversión excesiva.
+        - paragraph [ref=f60e290]:
+          - text: La experiencia de conducción del
+          - strong [ref=f60e291]: Dualtron POP
+          - text: destaca por su comodidad superior, integrando un sistema de
+          - strong [ref=f60e292]: doble suspensión
+          - text: y neumáticos de 9 pulgadas que absorben cualquier irregularidad del asfalto. Con opciones de
+          - strong [ref=f60e293]: batería Samsung de larga duración
+          - text: que alcanzan hasta los 60 km de autonomía, este patinete se posiciona como el líder en
+          - strong [ref=f60e294]: movilidad urbana sostenible
+          - text: . Además, su compatibilidad con la
+          - strong [ref=f60e295]: App Dualtron
+          - text: y su diseño plegable lo convierten en la opción más inteligente para los usuarios que buscan un
+          - strong [ref=f60e296]: patinete eléctrico ligero y potente
+          - text: para su día a día.
+    - generic [ref=f60e304]:
+      - paragraph [ref=f60e306]:
+        - strong [ref=f60e307]: Hasta 60Km
+        - text: de libertad 🔋
+      - paragraph [ref=f60e309]:
+        - text: Con su batería de
+        - strong [ref=f60e310]: 52V 14Ah, 52V 20Ah y 52V 25Ah
+        - text: y motor de
+        - strong [ref=f60e311]: 900W
+        - text: ", tendrás garantizadas horas de autonomía para todos tus trayectos diarios. ¡Circula ahora sin preocupaciones!"
+    - generic [ref=f60e315]:
+      - heading "Related products" [level=3] [ref=f60e318]
+      - generic [ref=f60e319]:
+        - generic "Carga de recomendaciones de productos" [ref=f60e320]
+        - generic "Carga de recomendaciones de productos" [ref=f60e321]
+        - generic "Carga de recomendaciones de productos" [ref=f60e322]
+        - generic "Carga de recomendaciones de productos" [ref=f60e323]
+    - generic [ref=f60e333]:
+      - generic [ref=f60e335]:
+        - heading "Capacidad de motor ⚙️" [level=2] [ref=f60e337]
+        - paragraph [ref=f60e339]: Potencia máxima 900W
+        - paragraph [ref=f60e341]:
+          - text: Pico máximo con
+          - strong [ref=f60e342]: 900W
+          - text: de potencia máxima para nunca dejarte tirado ;)
+      - generic [ref=f60e344]:
+        - heading "Batería y autonomía 🔋" [level=2] [ref=f60e346]
+        - generic [ref=f60e347]:
+          - paragraph [ref=f60e348]:
+            - text: Batería de
+            - strong [ref=f60e349]: 52V 14Ah, 52V 20Ah y 52V 25Ah
+            - text: ", con la que podrás hacer"
+            - strong [ref=f60e350]: Hasta 60Km
+          - paragraph [ref=f60e351]:
+            - text: Disfruta de tu
+            - strong [ref=f60e352]: Patinete Eléctrico Dualtron Popular
+            - text: sin preocuparte por la carga!
+      - generic [ref=f60e354]:
+        - heading "Suspensión y ruedas 🛞" [level=2] [ref=f60e356]
+        - generic [ref=f60e357]:
+          - paragraph [ref=f60e358]:
+            - text: Ruedas de
+            - strong [ref=f60e359]: Neumáticos de 9″ con cámara de aire
+            - text: ", con agarre y seguridad en cada trayecto."
+          - paragraph [ref=f60e360]:
+            - text: Suspensión
+            - strong [ref=f60e361]: Amortiguador de muelle delantero Amortiguador de muelle trasero
+            - text: para una conducción cómoda y estable.
+    - generic [ref=f60e370]:
+      - heading "Related products" [level=3] [ref=f60e373]
+      - generic [ref=f60e374]:
+        - generic "Carga de recomendaciones de productos" [ref=f60e375]
+        - generic "Carga de recomendaciones de productos" [ref=f60e376]
+        - generic "Carga de recomendaciones de productos" [ref=f60e377]
+        - generic "Carga de recomendaciones de productos" [ref=f60e378]
+    - generic [ref=f60e387]:
+      - generic [ref=f60e388]:
+        - paragraph [ref=f60e391]: Homologado por la DGT ✅
+        - paragraph [ref=f60e394]: Homologado por la DGT ✅
+        - paragraph [ref=f60e397]: Homologado por la DGT ✅
+        - paragraph [ref=f60e400]: Homologado por la DGT ✅
+      - generic [ref=f60e401]:
+        - paragraph [ref=f60e404]: Homologado por la DGT ✅
+        - paragraph [ref=f60e407]: Homologado por la DGT ✅
+        - paragraph [ref=f60e410]: Homologado por la DGT ✅
+        - paragraph [ref=f60e413]: Homologado por la DGT ✅
+    - generic [ref=f60e423]:
+      - generic [ref=f60e425]:
+        - heading "Garantía de 2 años 🔓" [level=2] [ref=f60e427]
+        - paragraph [ref=f60e429]: Somos los distribuidores oficiales de la marca en España y Europa
+      - generic [ref=f60e431]:
+        - heading "Envios 🚚" [level=2] [ref=f60e433]
+        - paragraph [ref=f60e435]: Aquí va información sobre los envíos y lo rápido que somos o lo barato que son
+        - paragraph [ref=f60e437]: Envío express 48h
+      - generic [ref=f60e439]:
+        - heading "Atención al cliente 📞" [level=2] [ref=f60e441]
+        - paragraph [ref=f60e443]: Envío express 48h
+    - generic [ref=f60e458]:
+      - heading "Preguntas frecuentes" [level=3] [ref=f60e460]
+      - generic [ref=f60e461]:
+        - group [ref=f60e463]:
+          - generic "Cual es nuestra politica postventa?" [ref=f60e464] [cursor=pointer]
+        - group [ref=f60e466]:
+          - generic "Are any purchases final sale?" [ref=f60e467] [cursor=pointer]
+        - group [ref=f60e469]:
+          - generic "When will I get my order?" [ref=f60e470] [cursor=pointer]
+        - group [ref=f60e472]:
+          - generic "Where are your products manufactured?" [ref=f60e473] [cursor=pointer]
+        - group [ref=f60e475]:
+          - generic "How much does shipping cost?" [ref=f60e476] [cursor=pointer]
+  - generic [ref=f60e481]:
+    - generic [ref=f60e483]:
+      - generic [ref=f60e485]:
+        - group [ref=f60e487]:
+          - generic "Tienda" [ref=f60e488]
+          - list [ref=f60e490]:
+            - listitem [ref=f60e491]:
+              - link "PATINETES" [ref=f60e492] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+            - listitem [ref=f60e493]:
+              - link "PATINETES HOMOLOGADOS" [ref=f60e494] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - listitem [ref=f60e495]:
+              - link "MOTOS ELÉCTRICAS" [ref=f60e496] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f60e497]:
+              - link "BICIS ELÉCTRICAS" [ref=f60e498] [cursor=pointer]:
+                - /url: /collections/bicicletas-electricas
+            - listitem [ref=f60e499]:
+              - link "MOVILIDAD INFANTIL" [ref=f60e500] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-ninos
+            - listitem [ref=f60e501]:
+              - link "MOVILIDAD REDUCIDA" [ref=f60e502] [cursor=pointer]:
+                - /url: /collections/scooters-movilidad-reducida
+            - listitem [ref=f60e503]:
+              - link "KARTS ELÉCTRICOS" [ref=f60e504] [cursor=pointer]:
+                - /url: /collections/karts-electricos
+            - listitem [ref=f60e505]:
+              - link "COCHES ELÉCTRICOS" [ref=f60e506] [cursor=pointer]:
+                - /url: /collections/coches-electricos
+            - listitem [ref=f60e507]:
+              - link "MOTOS de GASOLINA" [ref=f60e508] [cursor=pointer]:
+                - /url: /collections/motos-gasolina
+            - listitem [ref=f60e509]:
+              - link "Contacto" [ref=f60e510] [cursor=pointer]:
+                - /url: /pages/contact
+        - group [ref=f60e512]:
+          - generic "Información" [ref=f60e513]
+          - list [ref=f60e515]:
+            - listitem [ref=f60e516]:
+              - link "Financiar patinete eléctrico" [ref=f60e517] [cursor=pointer]:
+                - /url: /pages/como-financiar-un-patinete-electrico
+            - listitem [ref=f60e518]:
+              - link "Términos y condiciones" [ref=f60e519] [cursor=pointer]:
+                - /url: /policies/terms-of-service
+            - listitem [ref=f60e520]:
+              - link "Política de envíos" [ref=f60e521] [cursor=pointer]:
+                - /url: /policies/shipping-policy
+            - listitem [ref=f60e522]:
+              - link "Devoluciones y garantías" [ref=f60e523] [cursor=pointer]:
+                - /url: /policies/refund-policy
+            - listitem [ref=f60e524]:
+              - link "(+34) 689313556" [ref=f60e525] [cursor=pointer]:
+                - /url: https://wa.me/34689313556
+            - listitem [ref=f60e526]:
+              - link "sat@electyum.com" [ref=f60e527] [cursor=pointer]:
+                - /url: mailto:sat@electyum.com
+      - generic [ref=f60e528]:
+        - generic [ref=f60e529]: suscríbete para descuentitos!
+        - generic [ref=f60e531]:
+          - generic [ref=f60e532]: Correo electrónico
+          - textbox "Correo electrónico" [ref=f60e533]:
+            - /placeholder: Dirección de correo electrónico
+          - button "Registrarse" [ref=f60e534]
+    - generic [ref=f60e537]:
+      - generic [ref=f60e538]:
+        - generic [ref=f60e540]:
+          - text: © 2026
+          - link "Electyum" [ref=f60e541] [cursor=pointer]:
+            - /url: /
+        - button "Términos y políticas" [ref=f60e543] [cursor=pointer]
+      - generic [ref=f60e545]:
+        - link "Instagram" [ref=f60e547] [cursor=pointer]:
+          - /url: https://instagram.com/electyum
+        - link "Youtube" [ref=f60e551] [cursor=pointer]:
+          - /url: https://www.youtube.com/@electyummovilidadinteligen6279

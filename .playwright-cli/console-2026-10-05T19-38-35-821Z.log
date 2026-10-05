@@ -1,0 +1,47 @@
+[    1699ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://patinetestore.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:1
+[    1861ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://patinetestore.com/producto/smartgyro-raptor-evo-dual/:6706
+[    2131ms] [INFO] . @ https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/webmssdk/1.0.0.328/webmssdk.js:0
+[    2269ms] [WARNING] You will need to pass in an @ies/starling_intl instance by using registerReactInstance @ https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/522.0610336094.js:4
+[    2270ms] [WARNING] You will need to pass in an @ies/starling_intl instance by using registerReactInstance @ https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/522.0610336094.js:4
+[    2432ms] [WARNING] getRelatedApps failed InvalidStateError: Failed to execute 'getInstalledRelatedApps' on 'Navigator': getInstalledRelatedApps() is only supported in top-level browsing contexts.
+    at o (https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/async/73.42e10e9fa3.js:2:18472)
+    at o.next (<anonymous>)
+    at https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/async/73.42e10e9fa3.js:2:18890
+    at new Promise (<anonymous>)
+    at https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/async/73.42e10e9fa3.js:2:18639
+    at oU (https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/lib-react.b24368ee1a.js:2:87666)
+    at uj (https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/lib-react.b24368ee1a.js:2:116657)
+    at https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/lib-react.b24368ee1a.js:2:111232
+    at x (https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/lib-react.b24368ee1a.js:2:140882)
+    at T (https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/lib-react.b24368ee1a.js:2:141403) @ https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/async/73.42e10e9fa3.js:1
+[    2796ms] [INFO] . @ https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/webmssdk/1.0.0.328/webmssdk.js:0
+[    2909ms] [WARNING] You will need to pass in an @ies/starling_intl instance by using registerReactInstance @ https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/522.0610336094.js:4
+[    2909ms] [WARNING] You will need to pass in an @ies/starling_intl instance by using registerReactInstance @ https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/522.0610336094.js:4
+[    3097ms] [WARNING] getRelatedApps failed InvalidStateError: Failed to execute 'getInstalledRelatedApps' on 'Navigator': getInstalledRelatedApps() is only supported in top-level browsing contexts.
+    at o (https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/async/73.42e10e9fa3.js:2:18472)
+    at o.next (<anonymous>)
+    at https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/async/73.42e10e9fa3.js:2:18890
+    at new Promise (<anonymous>)
+    at https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/async/73.42e10e9fa3.js:2:18639
+    at oU (https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/lib-react.b24368ee1a.js:2:87666)
+    at uj (https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/lib-react.b24368ee1a.js:2:116657)
+    at https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/lib-react.b24368ee1a.js:2:111232
+    at x (https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/lib-react.b24368ee1a.js:2:140882)
+    at T (https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/lib-react.b24368ee1a.js:2:141403) @ https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/async/73.42e10e9fa3.js:1
+[    3153ms] [LOG] %c %s color: yellow; background-color: black; [instance: cookie_banner_tea_sdk] appid: 345918, userInfo:{"user_unique_id":"7910714133515111312","web_id":"7910714133515111312"} @ https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/522.0610336094.js:4
+[    3154ms] [LOG] %c %s color: yellow; background-color: black; [instance: cookie_banner_tea_sdk] appid: 345918, sdk is ready, version is 5.3.15_oversea, you can report now !!! @ https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/tiktok_4d_playback/static/js/522.0610336094.js:4
+[    3174ms] [WARNING] [21:38:38.994] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3174ms] [WARNING] [21:38:38.994] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3174ms] [WARNING] [21:38:38.995] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3175ms] [WARNING] [21:38:38.995] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3175ms] [WARNING] [21:38:38.995] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3175ms] [WARNING] [21:38:38.995] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3181ms] [WARNING] [21:38:39.002] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3184ms] [WARNING] [21:38:39.004] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3188ms] [WARNING] [21:38:39.009] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    7884ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ :3338
+[   13685ms] [WARNING] []Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content. @ https://www.tiktok.com/player/v1/7613810844371078422?autoplay=0&controls=1&description=0&music_info=0&fullscreen_button=1:0
+[   13685ms] [WARNING] []Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content. @ https://www.tiktok.com/player/v1/7613810844371078422?autoplay=0&controls=1&description=0&music_info=0&fullscreen_button=1:0
+[   13685ms] [WARNING] No available adapters. @ https://www.tiktok.com/player/v1/7613810844371078422?autoplay=0&controls=1&description=0&music_info=0&fullscreen_button=1:0
+[   15124ms] [WARNING] []Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content. @ https://www.tiktok.com/player/v1/7613810844371078422?autoplay=0&controls=1&description=0&music_info=0&fullscreen_button=1:0
+[   15560ms] [WARNING] []Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content. @ https://www.tiktok.com/player/v1/7613810844371078422?autoplay=0&controls=1&description=0&music_info=0&fullscreen_button=1:0

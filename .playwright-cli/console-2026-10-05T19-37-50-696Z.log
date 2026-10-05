@@ -1,0 +1,5 @@
+[    1414ms] [LOG] Beautiful Consent Service up. @ https://bc-prod-config.empathy.co/assets/index.js:23
+[    1612ms] [LOG] Shopify features loaded @ https://bc-prod-config.empathy.co/assets/content.kHIStm_Q.js:7
+[    1721ms] [ERROR] Permissions policy violation: compute-pressure is not allowed in this document. @ https://www.youtube.com/s/player/f8ac6630/player_embed_es6.vflset/en_US/base.js:5421
+[   14674ms] [WARNING] []Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content. @ https://www.youtube.com/embed/7xB6Nz_7G3I?autoplay=0&rel=0:0
+[   14674ms] [WARNING] []Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content. @ https://www.youtube.com/embed/7xB6Nz_7G3I?rel=0&showinfo=0:0

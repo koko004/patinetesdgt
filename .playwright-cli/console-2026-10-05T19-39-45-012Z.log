@@ -1,0 +1,11 @@
+[    1483ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://patinetestore.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:1
+[    2538ms] [WARNING] [21:39:47.549] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    2538ms] [WARNING] [21:39:47.550] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    2538ms] [WARNING] [21:39:47.550] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    2539ms] [WARNING] [21:39:47.550] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    2539ms] [WARNING] [21:39:47.550] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    2539ms] [WARNING] [21:39:47.551] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    2555ms] [WARNING] [21:39:47.566] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    2556ms] [WARNING] [21:39:47.568] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    2558ms] [WARNING] [21:39:47.569] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    7553ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ :3338

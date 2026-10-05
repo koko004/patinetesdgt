@@ -1,0 +1,9 @@
+[    3374ms] [LOG] JQMIGRATE: Migrate is installed, version 3.5.2 @ https://sabway.es/shop/themes/core.js:14
+[    3605ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://sabway.es/shop/?query=joyor:0
+[    4190ms] [WARNING] MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 updatedProduct listeners added. Use emitter.setMaxListeners() to increase limit
+    at c (https://sabway.es/shop/themes/PRS028/assets/js/theme.js:16:5300)
+    at s.addListener (https://sabway.es/shop/themes/PRS028/assets/js/theme.js:16:7884)
+    at HTMLDocument.<anonymous> (https://sabway.es/shop/modules/tdcountdown/views/js/tdcountdown.js:17:16)
+    at u (https://sabway.es/shop/themes/core.js:11:26836)
+    at l (https://sabway.es/shop/themes/core.js:11:27138) @ https://sabway.es/shop/themes/PRS028/assets/js/theme.js:15
+[    4403ms] [LOG] Addrevenue script initiated @ https://addrevenue.io/track.js:108

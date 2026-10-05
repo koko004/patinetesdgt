@@ -1,0 +1,5 @@
+[    1467ms] [LOG] Beautiful Consent Service up. @ https://bc-prod-config.empathy.co/assets/index.js:23
+[    1594ms] [LOG] Shopify features loaded @ https://bc-prod-config.empathy.co/assets/content.kHIStm_Q.js:7
+[    1793ms] [WARNING] []Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content. @ https://www.youtube.com/embed/3DIeC_SLv7A?rel=0&showinfo=0:10
+[    4809ms] [WARNING] []Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content. @ https://www.youtube.com/embed/3DIeC_SLv7A?rel=0&showinfo=0:0
+[    5220ms] [WARNING] No available adapters. @ https://www.youtube.com/embed/3DIeC_SLv7A?rel=0&showinfo=0:0

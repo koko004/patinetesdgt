@@ -1,0 +1,391 @@
+- generic [ref=f96e1]:
+  - alertdialog [ref=f96e2]:
+    - generic [ref=f96e3]:
+      - generic [ref=f96e4]:
+        - heading "Consentimiento para el uso de cookies" [level=2] [ref=f96e5]
+        - paragraph [ref=f96e6]:
+          - text: Nosotros y nuestros partners, incluido Shopify, utilizamos cookies y otras tecnologías para personalizar tu experiencia, mostrarte anuncios y realizar informes y estadísticas, y no utilizaremos cookies ni otras tecnologías para estos fines a menos que las aceptes. Obtén más información en nuestra
+          - link "Política de privacidad" [ref=f96e7] [cursor=pointer]:
+            - /url: http://electyum.com/policies/privacy-policy
+      - generic [ref=f96e8]:
+        - button "Administrar preferencias" [ref=f96e9]
+        - button "Aceptar" [ref=f96e10]
+        - button "Rechazar" [ref=f96e11]
+  - link "Ir directamente al contenido" [ref=f96e12] [cursor=pointer]:
+    - /url: "#MainContent"
+  - banner [ref=f96e14]:
+    - generic [ref=f96e17]:
+      - generic [ref=f96e18]:
+        - link [ref=f96e19] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=f96e23]:
+          - list [ref=f96e26]:
+            - generic:
+              - link "PATINETES" [ref=f96e27] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+              - link "PATINETES HOMOLOGADOS" [ref=f96e29] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - menuitem "Más" [ref=f96e32] [cursor=pointer]
+      - generic [ref=f96e34]:
+        - button "Abrir selector de región e idioma EUR" [ref=f96e36] [cursor=pointer]:
+          - generic [ref=f96e37]: Abrir selector de región e idioma
+          - generic [ref=f96e38]: EUR
+        - button "Abrir búsqueda" [ref=f96e40] [cursor=pointer]
+        - generic [ref=f96e41]:
+          - button "Abrir menú de cuenta" [ref=f96e43] [cursor=pointer]
+          - 'button "Abrir carrito Total de artículos en el carrito: 0" [ref=f96e49] [cursor=pointer]':
+            - generic [ref=f96e51]:
+              - status:
+                - generic [ref=f96e53]: "Total de artículos en el carrito: 0"
+  - main [ref=f96e54]:
+    - generic [ref=f96e57]:
+      - link "Ir directamente a la información del producto" [ref=f96e58] [cursor=pointer]:
+        - /url: "#ProductInformation-template--26141808394565__main"
+      - generic [ref=f96e59]:
+        - generic [ref=f96e62]:
+          - generic [ref=f96e63]:
+            - generic:
+              - button "Diapositiva anterior" [ref=f96e64] [cursor=pointer]
+              - button "Siguiente diapositiva" [ref=f96e65] [cursor=pointer]
+            - img "Dualtron Togo Limited" [ref=f96e70]
+          - generic [ref=f96e89]:
+            - button "Diapositiva 1 de 5" [ref=f96e90] [cursor=pointer]:
+              - img "Dualtron Togo Limited" [ref=f96e91]
+            - button "Diapositiva 2 de 5" [ref=f96e92] [cursor=pointer]:
+              - img "Dualtron Togo Limited" [ref=f96e93]
+            - button "Diapositiva 3 de 5" [ref=f96e94] [cursor=pointer]:
+              - img "Dualtron Togo Limited" [ref=f96e95]
+            - button "Diapositiva 4 de 5" [ref=f96e96] [cursor=pointer]:
+              - img "Dualtron Togo Limited" [ref=f96e97]
+            - button "Diapositiva 5 de 5" [ref=f96e98] [cursor=pointer]:
+              - img "Dualtron Togo Limited" [ref=f96e99]
+        - generic [ref=f96e102]:
+          - heading "Patinete Eléctrico Dualtron Togo Limited" [level=1] [ref=f96e104]
+          - generic [ref=f96e105]:
+            - generic [ref=f96e106]:
+              - group [ref=f96e107]:
+                - generic [ref=f96e108]: Precio de oferta
+                - text: €1.099,00 EUR
+              - group [ref=f96e109]:
+                - generic [ref=f96e110]: Precio habitual
+                - text: €1.899,00 EUR
+            - generic [ref=f96e111]: Aranceles e impuestos incluidos. Envío calculado en el pago.
+          - paragraph [ref=f96e113]: Homologado por la DGT ✅
+          - generic [ref=f96e115]:
+            - paragraph [ref=f96e116]:
+              - text: El
+              - strong [ref=f96e117]: Dualtron Togo Limited
+              - text: es un patinete eléctrico de aventura y terreno mixto, diseñado para afrontar caminos, asfalto irregular y terreno mixto. Potente, robusto y con gran autonomía para salir de la ciudad con seguridad.
+            - paragraph [ref=f96e118]:
+              - strong [ref=f96e119]: "🚀 Motor:"
+              - text: 900W
+            - paragraph [ref=f96e120]:
+              - strong [ref=f96e121]: "🔋 Autonomía:"
+              - text: Hasta 50 Km
+            - paragraph [ref=f96e122]:
+              - strong [ref=f96e123]: "🔋 Batería:"
+              - text: 60V 15Ah
+            - paragraph [ref=f96e124]:
+              - strong [ref=f96e125]: "⚡ Velocidad Limitada:"
+              - text: Hasta 25 Km/h - Alcance 50 Km/h
+            - paragraph [ref=f96e126]:
+              - strong [ref=f96e127]: "🛞 Ruedas:"
+              - text: 10" Tubeless
+            - paragraph [ref=f96e128]:
+              - text: 🛑
+              - strong [ref=f96e129]: "Frenos:"
+              - text: Frenos de disco + asistencia eléctrica al frenado
+            - paragraph [ref=f96e130]:
+              - strong [ref=f96e131]: 📱 APP móvil -
+              - text: iOS/Android
+            - paragraph [ref=f96e132]:
+              - strong [ref=f96e133]: "Ideal para:"
+            - list [ref=f96e134]:
+              - listitem [ref=f96e135]: "✅ Rutas mixtas: asfalto, tierra y caminos irregulares"
+              - listitem [ref=f96e136]: ✅ Conductores que salen de la ciudad y necesitan un patinete todoterreno
+              - listitem [ref=f96e137]: ✅ Usuarios que buscan potencia, autonomía y resistencia fuera del asfalto
+          - paragraph [ref=f96e139]:
+            - strong [ref=f96e140]: 🚚 Envíos
+            - strong [ref=f96e141]: de 5 a 8 días hábiles
+          - generic [ref=f96e144]:
+            - heading "Comprados juntos..." [level=4] [ref=f96e147]
+            - generic [ref=f96e148]:
+              - generic "Carga de recomendaciones de productos" [ref=f96e149]
+              - generic "Carga de recomendaciones de productos" [ref=f96e150]
+          - generic [ref=f96e152]:
+            - status [ref=f96e153]
+            - generic [ref=f96e155]:
+              - generic [ref=f96e156]:
+                - button "Disminuir cantidad" [ref=f96e157] [cursor=pointer]
+                - spinbutton "Cantidad" [ref=f96e159]: "1"
+                - button "Aumentar cantidad" [ref=f96e160] [cursor=pointer]
+              - button "Agregar al carrito" [ref=f96e164] [cursor=pointer]:
+                - generic [ref=f96e167]: Agregada
+              - generic [ref=f96e171]:
+                - iframe [ref=f96e175]:
+                  - generic "Payment Button" [ref=f98e2]:
+                    - link "PayPal" [ref=f98e5] [cursor=pointer]
+                - link "Más opciones de pago" [ref=f96e177] [cursor=pointer]:
+                  - /url: "#"
+    - generic [ref=f96e182]:
+      - heading "Patinete Eléctrico Dualtron Togo Limited" [level=2] [ref=f96e184]
+      - generic [ref=f96e186]:
+        - 'heading "Dualtron Togo Limited: El mejor patinete eléctrico de 60 V homologado por la DGT" [level=3] [ref=f96e187]'
+        - paragraph [ref=f96e188]:
+          - text: El
+          - strong [ref=f96e189]: Dualtron Togo Limited
+          - text: es un patinete eléctrico
+          - strong [ref=f96e190]: homologado por la DGT
+          - text: ", diseñado específicamente para quienes buscan un modelo potente, fiable y cómodo para sus desplazamientos urbanos diarios. Equipado con un motor de alto rendimiento y una gestión de energía eficiente, este modelo ofrece el equilibrio perfecto entre rendimiento profesional y practicidad ciudadana."
+        - heading "Rendimiento sólido para moverte sin límites" [level=3] [ref=f96e191]
+        - paragraph [ref=f96e192]:
+          - text: El corazón del Togo Limited es su
+          - strong [ref=f96e193]: motor de 900 W
+          - text: ", que proporciona una aceleración fluida y una respuesta inmediata ante cualquier situación de tráfico. Su velocidad está limitada electrónicamente a"
+          - strong [ref=f96e194]: 25 km/h
+          - text: ", cumpliendo estrictamente con la normativa vigente para Vehículos de Movilidad Personal (VMP) homologados."
+        - paragraph [ref=f96e195]: Gracias a su configuración de motor de alto par, este patinete permite afrontar pendientes moderadas con solvencia, manteniendo una conducción estable y sin pérdidas de potencia notables, lo que lo posiciona como una herramienta de transporte sumamente fiable.
+        - heading "Gestión de energía y batería de 60 V" [level=3] [ref=f96e196]
+        - paragraph [ref=f96e197]:
+          - text: Este modelo incorpora una batería de alta densidad de
+          - strong [ref=f96e198]: 60 V y 15 Ah
+          - text: ", capaz de ofrecer una"
+          - strong [ref=f96e199]: autonomía de hasta 50 km
+          - text: "con una sola carga. Esta capacidad lo convierte en la opción ideal para:"
+        - list [ref=f96e200]:
+          - listitem [ref=f96e201]:
+            - strong [ref=f96e202]: "Trayectos diarios al trabajo:"
+            - text: Olvida la necesidad de cargar el dispositivo tras cada trayecto.
+          - listitem [ref=f96e203]:
+            - strong [ref=f96e204]: "Movilidad de media distancia:"
+            - text: Conecta diferentes puntos de la ciudad con total libertad.
+          - listitem [ref=f96e205]:
+            - strong [ref=f96e206]: "Uso intensivo:"
+            - text: Rendimiento estable y entrega de energía constante incluso en niveles bajos de carga.
+        - 'heading "Seguridad avanzada: Frenado y estabilidad" [level=3] [ref=f96e207]'
+        - paragraph [ref=f96e208]: "La seguridad es una prioridad en el diseño del Dualtron Togo Limited. Para garantizar un control total, el patinete dispone de:"
+        - list [ref=f96e209]:
+          - listitem [ref=f96e210]:
+            - strong [ref=f96e211]: "Frenado progresivo:"
+            - text: Sistema de frenos de tambor delantero y trasero, que ofrece una respuesta predecible y potente, ideal para el entorno urbano.
+          - listitem [ref=f96e212]:
+            - strong [ref=f96e213]: "Bajo mantenimiento:"
+            - text: A diferencia de los frenos de disco, este sistema es más resistente al desgaste y requiere ajustes menos frecuentes.
+          - listitem [ref=f96e214]:
+            - strong [ref=f96e215]: "Ruedas Tubeless de 10 pulgadas:"
+            - text: Neumáticos sin cámara que proporcionan una mayor absorción de irregularidades, mejorando la estabilidad en asfalto y minimizando el riesgo de pinchazos.
+        - heading "Control inteligente con pantalla EY4" [level=3] [ref=f96e216]
+        - paragraph [ref=f96e217]:
+          - text: El Togo Limited incluye la avanzada
+          - strong [ref=f96e218]: pantalla EY4 multifunción
+          - text: ", un centro de control intuitivo que permite al usuario monitorizar en tiempo real:"
+        - list [ref=f96e219]:
+          - listitem [ref=f96e220]: Velocidad de circulación exacta.
+          - listitem [ref=f96e221]: Estado y nivel de la batería.
+          - listitem [ref=f96e222]: Modo de conducción seleccionado.
+          - listitem [ref=f96e223]: Configuraciones avanzadas del sistema y odómetro.
+        - heading "Diseño robusto y ergonómico" [level=3] [ref=f96e224]
+        - paragraph [ref=f96e225]:
+          - text: Con un peso optimizado de
+          - strong [ref=f96e226]: 26 kg
+          - text: ", el Dualtron Togo Limited logra un equilibrio excepcional entre robustez estructural y manejabilidad. Su chasis está diseñado para soportar una carga máxima de hasta"
+          - strong [ref=f96e227]: 100 kg
+          - text: ", asegurando durabilidad y firmeza en cada trayecto. Es un patinete pensado para resistir el ritmo de la vida moderna sin sacrificar la estética minimalista de la marca."
+        - heading "Especificaciones Técnicas Detalladas" [level=3] [ref=f96e228]
+        - paragraph [ref=f96e229]: Característica Detalle Técnico Motor 900 W de potencia nominal Batería 60V 15Ah Autonomía Hasta 50 km Velocidad Limitada a 25 km/h (Normativa DGT)Frenos Tambor delantero y trasero Ruedas 10 pulgadas Tubeless Peso26 kg Carga Máxima 100 kg Pantalla EY4 Multifunción Certificación Homologación DGT incluida
+        - paragraph [ref=f96e230]:
+          - text: El
+          - strong [ref=f96e231]: Dualtron Togo Limited
+          - text: "es, en definitiva, la evolución de la movilidad urbana: un vehículo eficiente, con mantenimiento reducido y la garantía de potencia que solo una marca líder puede ofrecer."
+          - strong [ref=f96e232]: "Potencia y autonomía urbana: Descubre por qué el Dualtron Togo Limited es el patinete eléctrico definitivo para la ciudad"
+        - paragraph [ref=f96e233]:
+          - text: Si buscas
+          - strong [ref=f96e234]: comprar un patinete eléctrico potente
+          - text: que cumpla estrictamente con la normativa española, el
+          - strong [ref=f96e235]: Dualtron Togo Limited
+          - text: es la opción más equilibrada del mercado actual. Gracias a su robusto
+          - strong [ref=f96e236]: motor de 900 W
+          - text: y su certificación oficial, este modelo se posiciona como el referente en
+          - strong [ref=f96e237]: movilidad urbana sostenible
+          - text: ", permitiéndote circular con total seguridad y legalidad. Su diseño compacto no sacrifica el rendimiento, ofreciendo una aceleración líder en su categoría que facilita los trayectos diarios sin esfuerzo."
+        - paragraph [ref=f96e238]:
+          - text: La eficiencia energética es otro de los puntos fuertes de este
+          - strong [ref=f96e239]: VMP (Vehículo de Movilidad Personal)
+          - text: . Equipado con una
+          - strong [ref=f96e240]: batería de 60 V
+          - text: de largo alcance, el Togo Limited garantiza una
+          - strong [ref=f96e241]: autonomía de hasta 50 km
+          - text: ", ideal para quienes necesitan un transporte fiable sin depender de cargas constantes. Al elegir este modelo, inviertes en un"
+          - strong [ref=f96e242]: patinete eléctrico de alta gama
+          - text: con el respaldo de la tecnología Dualtron, asegurando durabilidad, un mantenimiento mínimo con sus frenos de tambor y la mejor estabilidad gracias a sus ruedas tubeless de 10 pulgadas.
+    - generic [ref=f96e247]:
+      - img "Dualtron Togo Limited" [ref=f96e249]
+      - generic [ref=f96e251]:
+        - paragraph [ref=f96e253]:
+          - strong [ref=f96e254]: Hasta 50Km
+          - text: de libertad 🔋
+        - paragraph [ref=f96e256]:
+          - text: Con su batería de
+          - strong [ref=f96e257]: 60V 15Ah
+          - text: y motor de
+          - strong [ref=f96e258]: 900W
+          - text: ", tendrás garantizadas horas de autonomía para todos tus trayectos diarios. ¡Circula ahora sin preocupaciones!"
+    - generic [ref=f96e262]:
+      - heading "Related products" [level=3] [ref=f96e265]
+      - generic [ref=f96e266]:
+        - generic "Carga de recomendaciones de productos" [ref=f96e267]
+        - generic "Carga de recomendaciones de productos" [ref=f96e268]
+        - generic "Carga de recomendaciones de productos" [ref=f96e269]
+        - generic "Carga de recomendaciones de productos" [ref=f96e270]
+    - generic [ref=f96e280]:
+      - generic [ref=f96e282]:
+        - heading "Capacidad de motor ⚙️" [level=2] [ref=f96e284]
+        - paragraph [ref=f96e286]: Potencia maxima 900W
+        - paragraph [ref=f96e288]:
+          - text: Pico máximo con
+          - strong [ref=f96e289]: 900W
+          - text: de potencia máxima para nunca dejarte tirado ;)
+      - generic [ref=f96e291]:
+        - heading "Batería y autonomía 🔋" [level=2] [ref=f96e293]
+        - generic [ref=f96e294]:
+          - paragraph [ref=f96e295]:
+            - text: Batería de
+            - strong [ref=f96e296]: 60V 15Ah
+            - text: ", con la que podrás hacer"
+            - strong [ref=f96e297]: Hasta 50Km
+          - paragraph [ref=f96e298]:
+            - text: Disfruta de tu
+            - strong [ref=f96e299]: Patinete Eléctrico Dualtron Togo Limited
+            - text: sin preocuparte por la carga!
+      - generic [ref=f96e301]:
+        - heading "Suspensión y ruedas 🛞" [level=2] [ref=f96e303]
+        - generic [ref=f96e304]:
+          - paragraph [ref=f96e305]:
+            - text: Ruedas de
+            - strong [ref=f96e306]: Neumáticos tubeless de 10''
+            - text: ", con agarre y seguridad en cada trayecto."
+          - paragraph [ref=f96e307]:
+            - text: Suspensión
+            - strong [ref=f96e308]: Suspensión delantera y trasera
+            - text: para una conducción cómoda y estable.
+    - generic [ref=f96e317]:
+      - heading "Related products" [level=3] [ref=f96e320]
+      - generic [ref=f96e321]:
+        - generic "Carga de recomendaciones de productos" [ref=f96e322]
+        - generic "Carga de recomendaciones de productos" [ref=f96e323]
+        - generic "Carga de recomendaciones de productos" [ref=f96e324]
+        - generic "Carga de recomendaciones de productos" [ref=f96e325]
+    - generic [ref=f96e334]:
+      - generic [ref=f96e335]:
+        - paragraph [ref=f96e338]: Homologado por la DGT ✅
+        - paragraph [ref=f96e341]: Homologado por la DGT ✅
+        - paragraph [ref=f96e344]: Homologado por la DGT ✅
+        - paragraph [ref=f96e347]: Homologado por la DGT ✅
+      - generic [ref=f96e348]:
+        - paragraph [ref=f96e351]: Homologado por la DGT ✅
+        - paragraph [ref=f96e354]: Homologado por la DGT ✅
+        - paragraph [ref=f96e357]: Homologado por la DGT ✅
+        - paragraph [ref=f96e360]: Homologado por la DGT ✅
+    - generic [ref=f96e370]:
+      - generic [ref=f96e372]:
+        - heading "Garantía de 2 años 🔓" [level=2] [ref=f96e374]
+        - paragraph [ref=f96e376]: Somos los distribuidores oficiales de la marca en España y Europa
+      - generic [ref=f96e378]:
+        - heading "Envios 🚚" [level=2] [ref=f96e380]
+        - paragraph [ref=f96e382]: Aquí va información sobre los envíos y lo rápido que somos o lo barato que son
+        - paragraph [ref=f96e384]: de 5 a 8 días hábiles
+      - generic [ref=f96e386]:
+        - heading "Atención al cliente 📞" [level=2] [ref=f96e388]
+        - paragraph [ref=f96e390]: de 5 a 8 días hábiles
+    - generic [ref=f96e405]:
+      - heading "Preguntas frecuentes" [level=3] [ref=f96e407]
+      - generic [ref=f96e408]:
+        - group [ref=f96e410]:
+          - generic "Cual es nuestra politica postventa?" [ref=f96e411] [cursor=pointer]
+        - group [ref=f96e413]:
+          - generic "Are any purchases final sale?" [ref=f96e414] [cursor=pointer]
+        - group [ref=f96e416]:
+          - generic "When will I get my order?" [ref=f96e417] [cursor=pointer]
+        - group [ref=f96e419]:
+          - generic "Where are your products manufactured?" [ref=f96e420] [cursor=pointer]
+        - group [ref=f96e422]:
+          - generic "How much does shipping cost?" [ref=f96e423] [cursor=pointer]
+  - generic [ref=f96e428]:
+    - generic [ref=f96e430]:
+      - generic [ref=f96e432]:
+        - group [ref=f96e434]:
+          - generic "Tienda" [ref=f96e435]
+          - list [ref=f96e437]:
+            - listitem [ref=f96e438]:
+              - link "PATINETES" [ref=f96e439] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+            - listitem [ref=f96e440]:
+              - link "PATINETES HOMOLOGADOS" [ref=f96e441] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - listitem [ref=f96e442]:
+              - link "MOTOS ELÉCTRICAS" [ref=f96e443] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f96e444]:
+              - link "BICIS ELÉCTRICAS" [ref=f96e445] [cursor=pointer]:
+                - /url: /collections/bicicletas-electricas
+            - listitem [ref=f96e446]:
+              - link "MOVILIDAD INFANTIL" [ref=f96e447] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-ninos
+            - listitem [ref=f96e448]:
+              - link "MOVILIDAD REDUCIDA" [ref=f96e449] [cursor=pointer]:
+                - /url: /collections/scooters-movilidad-reducida
+            - listitem [ref=f96e450]:
+              - link "KARTS ELÉCTRICOS" [ref=f96e451] [cursor=pointer]:
+                - /url: /collections/karts-electricos
+            - listitem [ref=f96e452]:
+              - link "COCHES ELÉCTRICOS" [ref=f96e453] [cursor=pointer]:
+                - /url: /collections/coches-electricos
+            - listitem [ref=f96e454]:
+              - link "MOTOS de GASOLINA" [ref=f96e455] [cursor=pointer]:
+                - /url: /collections/motos-gasolina
+            - listitem [ref=f96e456]:
+              - link "Contacto" [ref=f96e457] [cursor=pointer]:
+                - /url: /pages/contact
+        - group [ref=f96e459]:
+          - generic "Información" [ref=f96e460]
+          - list [ref=f96e462]:
+            - listitem [ref=f96e463]:
+              - link "Financiar patinete eléctrico" [ref=f96e464] [cursor=pointer]:
+                - /url: /pages/como-financiar-un-patinete-electrico
+            - listitem [ref=f96e465]:
+              - link "Términos y condiciones" [ref=f96e466] [cursor=pointer]:
+                - /url: /policies/terms-of-service
+            - listitem [ref=f96e467]:
+              - link "Política de envíos" [ref=f96e468] [cursor=pointer]:
+                - /url: /policies/shipping-policy
+            - listitem [ref=f96e469]:
+              - link "Devoluciones y garantías" [ref=f96e470] [cursor=pointer]:
+                - /url: /policies/refund-policy
+            - listitem [ref=f96e471]:
+              - link "(+34) 689313556" [ref=f96e472] [cursor=pointer]:
+                - /url: https://wa.me/34689313556
+            - listitem [ref=f96e473]:
+              - link "sat@electyum.com" [ref=f96e474] [cursor=pointer]:
+                - /url: mailto:sat@electyum.com
+      - generic [ref=f96e475]:
+        - generic [ref=f96e476]: suscríbete para descuentitos!
+        - generic [ref=f96e478]:
+          - generic [ref=f96e479]: Correo electrónico
+          - textbox "Correo electrónico" [ref=f96e480]:
+            - /placeholder: Dirección de correo electrónico
+          - button "Registrarse" [ref=f96e481]
+    - generic [ref=f96e484]:
+      - generic [ref=f96e485]:
+        - generic [ref=f96e487]:
+          - text: © 2026
+          - link "Electyum" [ref=f96e488] [cursor=pointer]:
+            - /url: /
+        - button "Términos y políticas" [ref=f96e490] [cursor=pointer]
+      - generic [ref=f96e492]:
+        - link "Instagram" [ref=f96e494] [cursor=pointer]:
+          - /url: https://instagram.com/electyum
+        - link "Youtube" [ref=f96e498] [cursor=pointer]:
+          - /url: https://www.youtube.com/@electyummovilidadinteligen6279
+  - link "WhatsApp" [ref=f96e503] [cursor=pointer]:
+    - /url: https://web.whatsapp.com/send?phone=34689313556
+    - generic: Te ayudamos? :)

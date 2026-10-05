@@ -1,0 +1,342 @@
+- generic [ref=f46e1]:
+  - alertdialog [ref=f46e2]:
+    - generic [ref=f46e3]:
+      - generic [ref=f46e4]:
+        - heading "Consentimiento para el uso de cookies" [level=2] [ref=f46e5]
+        - paragraph [ref=f46e6]:
+          - text: Nosotros y nuestros partners, incluido Shopify, utilizamos cookies y otras tecnologías para personalizar tu experiencia, mostrarte anuncios y realizar informes y estadísticas, y no utilizaremos cookies ni otras tecnologías para estos fines a menos que las aceptes. Obtén más información en nuestra
+          - link "Política de privacidad" [ref=f46e7] [cursor=pointer]:
+            - /url: http://electyum.com/policies/privacy-policy
+      - generic [ref=f46e8]:
+        - button "Administrar preferencias" [ref=f46e9]
+        - button "Aceptar" [ref=f46e10]
+        - button "Rechazar" [ref=f46e11]
+  - link "Ir directamente al contenido" [ref=f46e12] [cursor=pointer]:
+    - /url: "#MainContent"
+  - banner [ref=f46e14]:
+    - generic [ref=f46e17]:
+      - generic [ref=f46e18]:
+        - link [ref=f46e19] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=f46e23]:
+          - list [ref=f46e26]:
+            - generic:
+              - link "PATINETES" [ref=f46e27] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+              - link "PATINETES HOMOLOGADOS" [ref=f46e29] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - menuitem "Más" [ref=f46e32] [cursor=pointer]
+      - generic [ref=f46e34]:
+        - button "Abrir selector de región e idioma EUR" [ref=f46e36] [cursor=pointer]:
+          - generic [ref=f46e37]: Abrir selector de región e idioma
+          - generic [ref=f46e38]: EUR
+        - button "Abrir búsqueda" [ref=f46e40] [cursor=pointer]
+        - generic [ref=f46e41]:
+          - button "Abrir menú de cuenta" [ref=f46e43] [cursor=pointer]
+          - 'button "Abrir carrito Total de artículos en el carrito: 0" [ref=f46e49] [cursor=pointer]':
+            - generic [ref=f46e51]:
+              - status:
+                - generic [ref=f46e53]: "Total de artículos en el carrito: 0"
+  - main [ref=f46e54]:
+    - generic [ref=f46e57]:
+      - link "Ir directamente a la información del producto" [ref=f46e58] [cursor=pointer]:
+        - /url: "#ProductInformation-template--26141808394565__main"
+      - generic [ref=f46e59]:
+        - generic [ref=f46e62]:
+          - generic [ref=f46e63]:
+            - generic:
+              - button "Diapositiva anterior" [ref=f46e64] [cursor=pointer]
+              - button "Siguiente diapositiva" [ref=f46e65] [cursor=pointer]
+            - img "Patinete Eléctrico Rovoron R7 Lite DGT - Black" [ref=f46e70]
+          - generic [ref=f46e101]:
+            - button "Diapositiva 1 de 8" [ref=f46e102] [cursor=pointer]:
+              - img "Patinete Eléctrico Rovoron R7 Lite DGT - Black" [ref=f46e103]
+            - button "Diapositiva 2 de 8" [ref=f46e104] [cursor=pointer]:
+              - img "Rovoron R7 Lite DGT vista lateral" [ref=f46e105]
+            - button "Diapositiva 3 de 8" [ref=f46e106] [cursor=pointer]:
+              - img "Rovoron R7 Lite DGT detalle" [ref=f46e107]
+            - button "Diapositiva 4 de 8" [ref=f46e108] [cursor=pointer]:
+              - img "Rovoron R7 Lite DGT detalle 2" [ref=f46e109]
+            - button "Diapositiva 5 de 8" [ref=f46e110] [cursor=pointer]:
+              - img "Rovoron R7 Lite DGT detalle 3" [ref=f46e111]
+            - button "Diapositiva 6 de 8" [ref=f46e112] [cursor=pointer]:
+              - img "Patinete Eléctrico Rovoron R7 Lite DGT - Black" [ref=f46e113]
+            - button "Diapositiva 7 de 8" [ref=f46e114] [cursor=pointer]:
+              - img "Rovoron R7 Lite DGT - Conducción en exterior" [ref=f46e115]
+            - button "Diapositiva 8 de 8" [ref=f46e116] [cursor=pointer]:
+              - img "Logo Rovoron" [ref=f46e117]
+        - generic [ref=f46e120]:
+          - heading "Patinete Eléctrico Rovoron R7 Lite DGT" [level=1] [ref=f46e122]
+          - generic [ref=f46e123]:
+            - generic [ref=f46e124]: €1.090,00 EUR
+            - generic [ref=f46e125]: Aranceles e impuestos incluidos. Envío calculado en el pago.
+          - paragraph [ref=f46e127]: Homologado por la DGT ✅
+          - img "Logo Rovoron" [ref=f46e129]
+          - generic [ref=f46e130]:
+            - paragraph [ref=f46e131]:
+              - text: El
+              - strong [ref=f46e132]: ROVORON R7 LITE DGT
+              - text: es un patinete eléctrico de alto rendimiento diseñado para ofrecer potencia, autonomía y máxima seguridad en cada desplazamiento. Cuenta con
+              - strong [ref=f46e133]: certificación DGT
+              - text: ", lo que garantiza que cumple con los estándares exigidos para circular por vías públicas."
+            - paragraph [ref=f46e134]:
+              - text: Equipado con
+              - strong [ref=f46e135]: doble motor brushless
+              - text: ", este modelo ofrece una aceleración contundente pero progresiva, ideal tanto para ciudad como para recorridos más exigentes, con una entrega de potencia estable incluso en pendientes."
+            - paragraph [ref=f46e136]: "🚀 Motor Dual: 900W x2 (hasta 3000W de potencia máxima)"
+            - paragraph [ref=f46e137]: "🔋 Autonomía: Hasta 90 km"
+            - paragraph [ref=f46e138]: "⚡ Velocidad limitada: 25 km/h (cumple normativa) — máxima hasta 70 km/h"
+            - paragraph [ref=f46e139]: "🔋 Batería: Litio 60V 28,6Ah"
+            - paragraph [ref=f46e140]: "🛞 Ruedas: 11\" Tubeless sin cámara de aire"
+            - paragraph [ref=f46e141]: "🛡️ Frenos: Frenos de disco mecánico"
+            - paragraph [ref=f46e142]: "🛠️ Suspensión: Delantera y trasera"
+            - paragraph [ref=f46e143]: "📦 Incluye: patinete, cargador y manual de usuario"
+            - paragraph [ref=f46e144]:
+              - strong [ref=f46e145]: "Ideal para:"
+            - list [ref=f46e146]:
+              - listitem [ref=f46e147]: "✅ Uso mixto: asfalto urbano y trayectos de media-larga distancia"
+              - listitem [ref=f46e148]: ✅ Conductores que buscan potencia y autonomía sin renunciar a la seguridad
+              - listitem [ref=f46e149]: ✅ Circulación legal homologada por la DGT
+          - paragraph [ref=f46e151]:
+            - strong [ref=f46e152]: 🚚 Envíos
+            - strong [ref=f46e153]: de 3 a 5 días hábiles
+          - group "Color" [ref=f46e156]:
+            - generic [ref=f46e158]:
+              - radio "Negro" [checked] [ref=f46e159] [cursor=pointer]
+              - generic [ref=f46e160]: Negro
+          - generic [ref=f46e163]:
+            - heading "Comprados juntos..." [level=4] [ref=f46e166]
+            - generic [ref=f46e167]:
+              - generic "Carga de recomendaciones de productos" [ref=f46e168]
+              - generic "Carga de recomendaciones de productos" [ref=f46e169]
+          - generic [ref=f46e171]:
+            - status [ref=f46e172]
+            - generic [ref=f46e174]:
+              - generic [ref=f46e175]:
+                - button "Disminuir cantidad" [ref=f46e176] [cursor=pointer]
+                - spinbutton "Cantidad" [ref=f46e178]: "1"
+                - button "Aumentar cantidad" [ref=f46e179] [cursor=pointer]
+              - button "Agregar al carrito" [ref=f46e183] [cursor=pointer]:
+                - generic [ref=f46e186]: Agregada
+              - generic [ref=f46e190]:
+                - generic [ref=f46e193]:
+                  - iframe [ref=f46e194]:
+                    - generic "Payment Button" [ref=f48e2]:
+                      - link "PayPal" [ref=f48e5] [cursor=pointer]
+                  - iframe [ref=f46e195]
+                - link "Más opciones de pago" [ref=f46e197] [cursor=pointer]:
+                  - /url: "#"
+    - generic [ref=f46e202]:
+      - heading "Patinete Eléctrico Rovoron R7 Lite DGT" [level=2] [ref=f46e204]
+      - generic [ref=f46e206]:
+        - heading "🛴 Patinete Eléctrico Rovoron R7 Lite DGT – Homologado por la DGT" [level=2] [ref=f46e207]
+        - paragraph [ref=f46e208]:
+          - text: En
+          - strong [ref=f46e209]: Electyum
+          - text: ", tu tienda online de confianza en movilidad eléctrica, presentamos el nuevo"
+          - strong [ref=f46e210]: patinete eléctrico Rovoron R7 Lite DGT
+          - text: .
+        - paragraph [ref=f46e211]:
+          - text: Este patinete homologado incorpora un
+          - strong [ref=f46e212]: doble motor brushless de 900W (hasta 3000W de potencia máxima)
+          - text: ", con una"
+          - strong [ref=f46e213]: velocidad limitada a 25 km/h
+          - text: para cumplir con la normativa vigente, y ofrece una
+          - strong [ref=f46e214]: autonomía de hasta 90 km
+          - text: gracias a su
+          - strong [ref=f46e215]: batería de litio 60V 28,6Ah
+          - text: .
+        - paragraph [ref=f46e216]:
+          - text: Equipado con neumáticos
+          - strong [ref=f46e217]: tubeless de 11″
+          - text: ", suspensión delantera y trasera, frenos de disco con asistencia electrónica e iluminación completa, ofrece una conducción cómoda, segura y estable en cualquier terreno."
+        - heading "🔧 Especificaciones Técnicas" [level=2] [ref=f46e218]
+        - list [ref=f46e219]:
+          - listitem [ref=f46e220]: "Motor: Doble motor brushless 900W x2 (máx. 3000W)"
+          - listitem [ref=f46e221]: "Batería: Litio 60V 28,6Ah"
+          - listitem [ref=f46e222]: "Autonomía: Hasta 90 km"
+          - listitem [ref=f46e223]: "Velocidad: Limitada a 25 km/h (máxima hasta 70 km/h)"
+          - listitem [ref=f46e224]: "Ruedas: 11″ Tubeless sin cámara de aire"
+          - listitem [ref=f46e225]: "Frenos: Disco delantero y trasero + EBS/ABS"
+          - listitem [ref=f46e226]: "Suspensión: Delantera y trasera"
+          - listitem [ref=f46e227]: "Pendiente máxima: 36% (≈20°)"
+          - listitem [ref=f46e228]: "Peso: 49,5 kg"
+          - listitem [ref=f46e229]: "Dimensiones desplegado: 1283 x 606 x 1400 mm"
+          - listitem [ref=f46e230]: "Dimensiones plegado: 1283 x 331 x 606 mm"
+          - listitem [ref=f46e231]: "Impermeabilidad: IPX5"
+          - listitem [ref=f46e232]: "Pantalla: EY3"
+        - heading "✅ Puntos fuertes" [level=2] [ref=f46e233]
+        - list [ref=f46e234]:
+          - listitem [ref=f46e235]: ✅ Homologado por la DGT
+          - listitem [ref=f46e236]: ✅ Doble motor de alta potencia
+          - listitem [ref=f46e237]: ✅ Gran autonomía para trayectos largos
+          - listitem [ref=f46e238]: ✅ Iluminación completa e intermitentes
+          - listitem [ref=f46e239]: ✅ Envío rápido y seguro
+    - generic [ref=f46e244]:
+      - img "Rovoron R7 Lite DGT - Conducción en exterior" [ref=f46e246]
+      - generic [ref=f46e248]:
+        - paragraph [ref=f46e250]:
+          - strong [ref=f46e251]: Hasta 90Km
+          - text: de libertad 🔋
+        - paragraph [ref=f46e253]:
+          - text: Con su batería de
+          - strong [ref=f46e254]: 60V 28,6Ah
+          - text: y motor de
+          - strong [ref=f46e255]: 3000W
+          - text: ", tendrás garantizadas horas de autonomía para todos tus trayectos diarios. ¡Circula ahora sin preocupaciones!"
+    - generic [ref=f46e259]:
+      - heading "Related products" [level=3] [ref=f46e262]
+      - generic [ref=f46e263]:
+        - generic "Carga de recomendaciones de productos" [ref=f46e264]
+        - generic "Carga de recomendaciones de productos" [ref=f46e265]
+        - generic "Carga de recomendaciones de productos" [ref=f46e266]
+        - generic "Carga de recomendaciones de productos" [ref=f46e267]
+    - generic [ref=f46e277]:
+      - generic [ref=f46e279]:
+        - heading "Capacidad de motor ⚙️" [level=2] [ref=f46e281]
+        - paragraph [ref=f46e283]: Potencia nominal dual 900W (x2), pico 3000W
+        - paragraph [ref=f46e285]:
+          - text: Pico máximo con
+          - strong [ref=f46e286]: 3000W
+          - text: de potencia máxima para nunca dejarte tirado ;)
+      - generic [ref=f46e288]:
+        - heading "Batería y autonomía 🔋" [level=2] [ref=f46e290]
+        - generic [ref=f46e291]:
+          - paragraph [ref=f46e292]:
+            - text: Batería de
+            - strong [ref=f46e293]: 60V 28,6Ah
+            - text: ", con la que podrás hacer"
+            - strong [ref=f46e294]: Hasta 90Km
+          - paragraph [ref=f46e295]:
+            - text: Disfruta de tu
+            - strong [ref=f46e296]: Patinete Eléctrico Rovoron R7 Lite DGT
+            - text: sin preocuparte por la carga!
+      - generic [ref=f46e298]:
+        - heading "Suspensión y ruedas 🛞" [level=2] [ref=f46e300]
+        - generic [ref=f46e301]:
+          - paragraph [ref=f46e302]:
+            - text: Ruedas de
+            - strong [ref=f46e303]: 11″ Tubeless sin cámara de aire
+            - text: ", con agarre y seguridad en cada trayecto."
+          - paragraph [ref=f46e304]:
+            - text: Suspensión
+            - strong [ref=f46e305]: Delantera y trasera (muelles)
+            - text: para una conducción cómoda y estable.
+    - generic [ref=f46e314]:
+      - heading "Related products" [level=3] [ref=f46e317]
+      - generic [ref=f46e318]:
+        - generic "Carga de recomendaciones de productos" [ref=f46e319]
+        - generic "Carga de recomendaciones de productos" [ref=f46e320]
+        - generic "Carga de recomendaciones de productos" [ref=f46e321]
+        - generic "Carga de recomendaciones de productos" [ref=f46e322]
+    - generic [ref=f46e331]:
+      - generic [ref=f46e332]:
+        - paragraph [ref=f46e335]: Homologado por la DGT ✅
+        - paragraph [ref=f46e338]: Homologado por la DGT ✅
+        - paragraph [ref=f46e341]: Homologado por la DGT ✅
+        - paragraph [ref=f46e344]: Homologado por la DGT ✅
+      - generic [ref=f46e345]:
+        - paragraph [ref=f46e348]: Homologado por la DGT ✅
+        - paragraph [ref=f46e351]: Homologado por la DGT ✅
+        - paragraph [ref=f46e354]: Homologado por la DGT ✅
+        - paragraph [ref=f46e357]: Homologado por la DGT ✅
+    - generic [ref=f46e367]:
+      - generic [ref=f46e369]:
+        - heading "Garantía de 2 años 🔓" [level=2] [ref=f46e371]
+        - paragraph [ref=f46e373]: Somos los distribuidores oficiales de la marca en España y Europa
+      - generic [ref=f46e375]:
+        - heading "Envios 🚚" [level=2] [ref=f46e377]
+        - paragraph [ref=f46e379]: Aquí va información sobre los envíos y lo rápido que somos o lo barato que son
+        - paragraph [ref=f46e381]: de 3 a 5 días hábiles
+      - generic [ref=f46e383]:
+        - heading "Atención al cliente 📞" [level=2] [ref=f46e385]
+        - paragraph [ref=f46e387]: de 3 a 5 días hábiles
+    - generic [ref=f46e402]:
+      - heading "Preguntas frecuentes" [level=3] [ref=f46e404]
+      - generic [ref=f46e405]:
+        - group [ref=f46e407]:
+          - generic "Cual es nuestra politica postventa?" [ref=f46e408] [cursor=pointer]
+        - group [ref=f46e410]:
+          - generic "Are any purchases final sale?" [ref=f46e411] [cursor=pointer]
+        - group [ref=f46e413]:
+          - generic "When will I get my order?" [ref=f46e414] [cursor=pointer]
+        - group [ref=f46e416]:
+          - generic "Where are your products manufactured?" [ref=f46e417] [cursor=pointer]
+        - group [ref=f46e419]:
+          - generic "How much does shipping cost?" [ref=f46e420] [cursor=pointer]
+  - generic [ref=f46e425]:
+    - generic [ref=f46e427]:
+      - generic [ref=f46e429]:
+        - group [ref=f46e431]:
+          - generic "Tienda" [ref=f46e432]
+          - list [ref=f46e434]:
+            - listitem [ref=f46e435]:
+              - link "PATINETES" [ref=f46e436] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+            - listitem [ref=f46e437]:
+              - link "PATINETES HOMOLOGADOS" [ref=f46e438] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - listitem [ref=f46e439]:
+              - link "MOTOS ELÉCTRICAS" [ref=f46e440] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f46e441]:
+              - link "BICIS ELÉCTRICAS" [ref=f46e442] [cursor=pointer]:
+                - /url: /collections/bicicletas-electricas
+            - listitem [ref=f46e443]:
+              - link "MOVILIDAD INFANTIL" [ref=f46e444] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-ninos
+            - listitem [ref=f46e445]:
+              - link "MOVILIDAD REDUCIDA" [ref=f46e446] [cursor=pointer]:
+                - /url: /collections/scooters-movilidad-reducida
+            - listitem [ref=f46e447]:
+              - link "KARTS ELÉCTRICOS" [ref=f46e448] [cursor=pointer]:
+                - /url: /collections/karts-electricos
+            - listitem [ref=f46e449]:
+              - link "COCHES ELÉCTRICOS" [ref=f46e450] [cursor=pointer]:
+                - /url: /collections/coches-electricos
+            - listitem [ref=f46e451]:
+              - link "MOTOS de GASOLINA" [ref=f46e452] [cursor=pointer]:
+                - /url: /collections/motos-gasolina
+            - listitem [ref=f46e453]:
+              - link "Contacto" [ref=f46e454] [cursor=pointer]:
+                - /url: /pages/contact
+        - group [ref=f46e456]:
+          - generic "Información" [ref=f46e457]
+          - list [ref=f46e459]:
+            - listitem [ref=f46e460]:
+              - link "Financiar patinete eléctrico" [ref=f46e461] [cursor=pointer]:
+                - /url: /pages/como-financiar-un-patinete-electrico
+            - listitem [ref=f46e462]:
+              - link "Términos y condiciones" [ref=f46e463] [cursor=pointer]:
+                - /url: /policies/terms-of-service
+            - listitem [ref=f46e464]:
+              - link "Política de envíos" [ref=f46e465] [cursor=pointer]:
+                - /url: /policies/shipping-policy
+            - listitem [ref=f46e466]:
+              - link "Devoluciones y garantías" [ref=f46e467] [cursor=pointer]:
+                - /url: /policies/refund-policy
+            - listitem [ref=f46e468]:
+              - link "(+34) 689313556" [ref=f46e469] [cursor=pointer]:
+                - /url: https://wa.me/34689313556
+            - listitem [ref=f46e470]:
+              - link "sat@electyum.com" [ref=f46e471] [cursor=pointer]:
+                - /url: mailto:sat@electyum.com
+      - generic [ref=f46e472]:
+        - generic [ref=f46e473]: suscríbete para descuentitos!
+        - generic [ref=f46e475]:
+          - generic [ref=f46e476]: Correo electrónico
+          - textbox "Correo electrónico" [ref=f46e477]:
+            - /placeholder: Dirección de correo electrónico
+          - button "Registrarse" [ref=f46e478]
+    - generic [ref=f46e481]:
+      - generic [ref=f46e482]:
+        - generic [ref=f46e484]:
+          - text: © 2026
+          - link "Electyum" [ref=f46e485] [cursor=pointer]:
+            - /url: /
+        - button "Términos y políticas" [ref=f46e487] [cursor=pointer]
+      - generic [ref=f46e489]:
+        - link "Instagram" [ref=f46e491] [cursor=pointer]:
+          - /url: https://instagram.com/electyum
+        - link "Youtube" [ref=f46e495] [cursor=pointer]:
+          - /url: https://www.youtube.com/@electyummovilidadinteligen6279

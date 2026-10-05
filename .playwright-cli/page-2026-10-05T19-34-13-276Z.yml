@@ -1,0 +1,1196 @@
+- generic [ref=f27e1]:
+  - main [ref=f27e2]:
+    - generic [ref=f27e3]:
+      - navigation
+      - generic [ref=f27e7]:
+        - generic [ref=f27e10]:
+          - button "Noticias & Blog" [ref=f27e17] [cursor=pointer]:
+            - generic [ref=f27e18]:
+              - generic [ref=f27e19]: 
+              - generic [ref=f27e21]: Noticias & Blog
+          - text: 
+          - button "+ 40 Tiendas en España" [ref=f27e28] [cursor=pointer]:
+            - generic [ref=f27e29]:
+              - generic [ref=f27e30]: 
+              - generic [ref=f27e32]: + 40 Tiendas en España
+          - button "¿Te ayudamos?" [ref=f27e39] [cursor=pointer]:
+            - generic [ref=f27e40]:
+              - generic [ref=f27e41]: 
+              - generic [ref=f27e43]: ¿Te ayudamos?
+          - link "" [ref=f27e49] [cursor=pointer]:
+            - /url: https://sabway.es/shop/inicio-sesion
+        - generic [ref=f27e53]:
+          - link [ref=f27e60] [cursor=pointer]:
+            - /url: https://sabway.es/shop/
+          - generic [ref=f27e68]:
+            - button "" [ref=f27e69] [cursor=pointer]
+            - textbox "Buscar productos aquí" [ref=f27e72]
+          - link " 0" [ref=f27e78] [cursor=pointer]:
+            - /url: //sabway.es/shop/carrito?action=show
+            - generic [ref=f27e79]: 
+            - generic [ref=f27e80]: "0"
+        - text:   
+        - link " Menu" [ref=f27e89] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=f27e90]: 
+          - generic [ref=f27e91]: Menu
+        - text:          
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - button "Noticias & Blog":
+                                  - generic:
+                                    - generic: 
+                                    - generic: Noticias & Blog
+                    - text: 
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - button "+ 40 Tiendas en España":
+                                  - generic:
+                                    - generic: 
+                                    - generic: + 40 Tiendas en España
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - button "¿Te ayudamos?":
+                                  - generic:
+                                    - generic: 
+                                    - generic: ¿Te ayudamos?
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link "":
+                                - /url: https://sabway.es/shop/inicio-sesion
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - link:
+                                  - /url: https://sabway.es/shop/
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - button ""
+                                    - generic:
+                                      - textbox "Buscar productos aquí"
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link " 0":
+                                - /url: //sabway.es/shop/carrito?action=show
+                                - generic: 
+                                - generic: "0"
+              - text:   
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link " Menu":
+                                - /url: "#"
+                                - generic: 
+                                - generic: Menu
+              - text:          
+    - generic [ref=f27e92]:
+      - complementary
+      - generic [ref=f27e98]:
+        - generic [ref=f27e107]:
+          - listbox [ref=f27e110]:
+            - link [ref=f27e112] [cursor=pointer]:
+              - /url: https://sabway.es/shop/seguro-y-matricula-vmp/2424-seguro-obligatorio-patinetes-linea-directa-homologados-dgt-25-kg.html
+            - option [ref=f27e113]:
+              - link [ref=f27e114] [cursor=pointer]:
+                - /url: https://sabway.es/shop/225-seguro-obligatorio-y-matricula-vmp
+            - option [ref=f27e115]:
+              - link [ref=f27e116] [cursor=pointer]:
+                - /url: https://sabway.es/shop/seguro-obligatorio-y-matricula-vmp/2418-9887-matricula-dgt-homologada-patinete-electrico-placa-vmp.html#/464-tiempo_fabricacion-fabricacion_estandar_hasta_10_dias
+            - option [ref=f27e117]:
+              - link [ref=f27e118] [cursor=pointer]:
+                - /url: https://sabway.es/shop/203-patinetes-electricos-homologados
+            - option [ref=f27e119]:
+              - link [ref=f27e120] [cursor=pointer]:
+                - /url: https://wa.me/34655910806
+            - option [ref=f27e121]:
+              - link [ref=f27e122] [cursor=pointer]:
+                - /url: https://sabway.es/shop/204-patinetes-electricos-sabway-homologados
+            - option [ref=f27e123]:
+              - link [ref=f27e124] [cursor=pointer]:
+                - /url: https://sabway.es/shop/seguro-y-matricula-vmp/2424-seguro-obligatorio-patinetes-linea-directa-homologados-dgt-25-kg.html
+            - link [ref=f27e126] [cursor=pointer]:
+              - /url: https://sabway.es/shop/225-seguro-obligatorio-y-matricula-vmp
+          - generic:  
+          - toolbar:
+            - tablist [ref=f27e127]:
+              - listitem [ref=f27e128] [cursor=pointer]
+              - listitem [ref=f27e129] [cursor=pointer]
+              - listitem [ref=f27e130] [cursor=pointer]
+              - listitem [ref=f27e131] [cursor=pointer]
+              - listitem [ref=f27e132] [cursor=pointer]
+              - listitem [ref=f27e133] [cursor=pointer]
+        - text:  
+        - generic [ref=f27e139]:
+          - heading "PATINETES ELÉCTRICOS Y MOVILIDAD SOSTENIBLE" [level=1] [ref=f27e142]
+          - paragraph [ref=f27e146]:
+            - strong [ref=f27e147]: SABWAY®
+            - text: "es un operador global de vehículos de movilidad eléctrica personal que revoluciona el sector del transporte unipersonal, conocido por la alta calidad en su gama de productos: fabricantes de patinetes eléctricos homologados y certificados, movilidad reducida, bicicletas eléctricas, hoverboads, coches, quads y motos eléctricas para niños."
+        - heading "CATEGORÍAS DE PRODUCTOS" [level=2] [ref=f27e156]
+        - generic [ref=f27e159]:
+          - figure "PATINETES ELÉCTRICOS SABWAY HOMOLOGADOS DGT" [ref=f27e166]:
+            - link [ref=f27e167] [cursor=pointer]:
+              - /url: https://sabway.es/shop/204-patinetes-electricos-sabway-homologados
+          - figure "MOVILIDAD REDUCIDA" [ref=f27e175]:
+            - link [ref=f27e176] [cursor=pointer]:
+              - /url: https://sabway.es/shop/index.php?id_category=37&controller=category
+          - figure "RECAMBIOS" [ref=f27e184]:
+            - link [ref=f27e185] [cursor=pointer]:
+              - /url: https://sabway.es/shop/index.php?id_category=144&controller=category
+        - generic [ref=f27e192]:
+          - heading "PATINETES ELÉCTRICOS SABWAY" [level=2] [ref=f27e195]
+          - generic [ref=f27e200]:
+            - listbox [ref=f27e203]:
+              - article [ref=f27e205]:
+                - generic [ref=f27e206]:
+                  - generic [ref=f27e208]:
+                    - link [ref=f27e209] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/patinetes-electricos-sabway/2044-patinete-electrico-dynamic-pro-rider-600w-homologado-dgt-8436574658491.html
+                    - list:
+                      - listitem: ¡En oferta!
+                    - generic [ref=f27e213]:
+                      - button [ref=f27e217] [cursor=pointer]:  Añadir a la cesta
+                      - link [ref=f27e219] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e221] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e223] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                  - generic [ref=f27e224]:
+                    - link [ref=f27e226] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/patinetes-electricos-sabway/2044-patinete-electrico-dynamic-pro-rider-600w-homologado-dgt-8436574658491.html
+                      - text: Patinete eléctrico Dynamic Pro Rider 600W Homologado DGT
+                    - generic [ref=f27e227]: 798,90 €
+                    - generic [ref=f27e228]:
+                      - generic [ref=f27e229]:
+                        - generic [ref=f27e230] [cursor=pointer]: 
+                        - generic [ref=f27e231] [cursor=pointer]: 
+                        - generic [ref=f27e232] [cursor=pointer]: 
+                        - generic [ref=f27e233] [cursor=pointer]: 
+                        - generic [ref=f27e234] [cursor=pointer]: 
+                      - generic [ref=f27e235]: "21"
+              - article [ref=f27e237]:
+                - generic [ref=f27e238]:
+                  - generic [ref=f27e240]:
+                    - link [ref=f27e241] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/patinetes-electricos-sabway/2157-9673-patinete-electrico-titan-x2-homologado-dgt-8436574658613.html#/339-tipo-frenos_mecanicos
+                    - list:
+                      - listitem: ¡En oferta!
+                    - generic [ref=f27e245]:
+                      - link [ref=f27e247] [cursor=pointer]:
+                        - /url: "#"
+                        - text:  Seleccionar opción
+                      - link [ref=f27e249] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e251] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e253] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                  - generic [ref=f27e254]:
+                    - link [ref=f27e256] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/patinetes-electricos-sabway/2157-9673-patinete-electrico-titan-x2-homologado-dgt-8436574658613.html#/339-tipo-frenos_mecanicos
+                      - text: Patinete eléctrico Titán X2 Homologado DGT + SEGURO RC GRATUITO
+                    - generic [ref=f27e257]: 999,99 €
+                    - generic [ref=f27e258]:
+                      - generic [ref=f27e259]:
+                        - generic [ref=f27e260] [cursor=pointer]: 
+                        - generic [ref=f27e261] [cursor=pointer]: 
+                        - generic [ref=f27e262] [cursor=pointer]: 
+                        - generic [ref=f27e263] [cursor=pointer]: 
+                        - generic [ref=f27e264] [cursor=pointer]: 
+                      - generic [ref=f27e265]: "63"
+              - article [ref=f27e267]:
+                - generic [ref=f27e268]:
+                  - generic [ref=f27e270]:
+                    - link [ref=f27e271] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/productos-destacados/2045-patinete-electrico-dynamic-pro-rider-dual-motor-homologado-dgt-8436574658507.html
+                    - list:
+                      - listitem: ¡En oferta!
+                    - generic [ref=f27e275]:
+                      - button [ref=f27e279] [cursor=pointer]:  Añadir a la cesta
+                      - link [ref=f27e281] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e283] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e285] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                  - generic [ref=f27e286]:
+                    - link [ref=f27e288] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/productos-destacados/2045-patinete-electrico-dynamic-pro-rider-dual-motor-homologado-dgt-8436574658507.html
+                      - text: Patinete eléctrico Dynamic Pro Rider Dual Motor Homologado DGT + SEGURO RC GRATUITO
+                    - generic [ref=f27e289]: 1.049,90 €
+                    - generic [ref=f27e290]:
+                      - generic [ref=f27e291]:
+                        - generic [ref=f27e292] [cursor=pointer]: 
+                        - generic [ref=f27e293] [cursor=pointer]: 
+                        - generic [ref=f27e294] [cursor=pointer]: 
+                        - generic [ref=f27e295] [cursor=pointer]: 
+                        - generic [ref=f27e296] [cursor=pointer]: 
+                      - generic [ref=f27e297]: "24"
+              - option [ref=f27e298]:
+                - article [ref=f27e299]:
+                  - generic [ref=f27e300]:
+                    - generic [ref=f27e302]:
+                      - link [ref=f27e303] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/raiz/2042-patinete-electrico-mi-sabway-pro-350w-homologado-dgt-8436574658460.html
+                        - img "Patinete eléctrico Mi Sabway Pro 350W Homologado DGT 2" [ref=f27e304]
+                        - img "Patinete eléctrico Mi Sabway Pro 350W Homologado DGT" [ref=f27e306]
+                      - list:
+                        - listitem: ¡En oferta!
+                      - generic [ref=f27e307]:
+                        - button " Añadir a la cesta" [ref=f27e311] [cursor=pointer]
+                        - link "" [ref=f27e313] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f27e315] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f27e317] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=f27e318]:
+                      - link "Patinete eléctrico Mi Sabway Pro 350W Homologado DGT + SEGURO RC GRATUITO" [ref=f27e320] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/raiz/2042-patinete-electrico-mi-sabway-pro-350w-homologado-dgt-8436574658460.html
+                      - generic [ref=f27e321]: 389,90 €
+                      - generic [ref=f27e322]:
+                        - generic [ref=f27e323]:
+                          - generic [ref=f27e324] [cursor=pointer]: 
+                          - generic [ref=f27e325] [cursor=pointer]: 
+                          - generic [ref=f27e326] [cursor=pointer]: 
+                          - generic [ref=f27e327] [cursor=pointer]: 
+                          - generic [ref=f27e328] [cursor=pointer]: 
+                        - generic [ref=f27e329]: "18"
+              - option [ref=f27e330]:
+                - article [ref=f27e331]:
+                  - generic [ref=f27e332]:
+                    - generic [ref=f27e334]:
+                      - link [ref=f27e335] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/productos-destacados/2347-patinete-electrico-dynamic-pro-rider-dual-motor-homologado-dgt-8436574658736.html
+                        - img "Patinete eléctrico Dynamic Pro Rider Dual Motor Homologado DGT 2" [ref=f27e336]
+                        - img "Patinete eléctrico Dynamic Pro Rider Dual Motor Homologado DGT" [ref=f27e338]
+                      - list:
+                        - listitem: ¡En oferta!
+                      - generic [ref=f27e339]:
+                        - button " Añadir a la cesta" [ref=f27e343] [cursor=pointer]
+                        - link "" [ref=f27e345] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f27e347] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f27e349] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=f27e350]:
+                      - link "Patinete eléctrico Dynamic Pro Dual Motor Homologado DGT" [ref=f27e352] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/productos-destacados/2347-patinete-electrico-dynamic-pro-rider-dual-motor-homologado-dgt-8436574658736.html
+                      - generic [ref=f27e353]: 659,99 €
+                      - generic [ref=f27e354]:
+                        - generic [ref=f27e355]:
+                          - generic [ref=f27e356] [cursor=pointer]: 
+                          - generic [ref=f27e357] [cursor=pointer]: 
+                          - generic [ref=f27e358] [cursor=pointer]: 
+                          - generic [ref=f27e359] [cursor=pointer]: 
+                          - generic [ref=f27e360] [cursor=pointer]: 
+                        - generic [ref=f27e361]: "47"
+              - option [ref=f27e362]:
+                - article [ref=f27e363]:
+                  - generic [ref=f27e364]:
+                    - generic [ref=f27e366]:
+                      - link [ref=f27e367] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos/2043-patinete-electrico-dynamic-pro-600w-homologado-dgt-8436574658484.html
+                        - img "Patinete eléctrico Dynamic Pro 600W Homologado DGT 2" [ref=f27e368]
+                        - img "Patinete eléctrico Dynamic Pro 600W Homologado DGT" [ref=f27e370]
+                      - list:
+                        - listitem: ¡En oferta!
+                      - generic [ref=f27e371]:
+                        - button " Añadir a la cesta" [ref=f27e375] [cursor=pointer]
+                        - link "" [ref=f27e377] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f27e379] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f27e381] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=f27e382]:
+                      - link "Patinete eléctrico Dynamic Pro 600W Homologado DGT+ SEGURO RC GRATUITO" [ref=f27e384] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos/2043-patinete-electrico-dynamic-pro-600w-homologado-dgt-8436574658484.html
+                      - generic [ref=f27e385]: 689,90 €
+                      - generic [ref=f27e386]:
+                        - generic [ref=f27e387]:
+                          - generic [ref=f27e388] [cursor=pointer]: 
+                          - generic [ref=f27e389] [cursor=pointer]: 
+                          - generic [ref=f27e390] [cursor=pointer]: 
+                          - generic [ref=f27e391] [cursor=pointer]: 
+                          - generic [ref=f27e392] [cursor=pointer]: 
+                        - generic [ref=f27e393]: "18"
+              - option [ref=f27e394]:
+                - article [ref=f27e395]:
+                  - generic [ref=f27e396]:
+                    - generic [ref=f27e398]:
+                      - link [ref=f27e399] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos-sabway/2044-patinete-electrico-dynamic-pro-rider-600w-homologado-dgt-8436574658491.html
+                      - list:
+                        - listitem: ¡En oferta!
+                      - generic [ref=f27e403]:
+                        - button [ref=f27e407] [cursor=pointer]:  Añadir a la cesta
+                        - link [ref=f27e409] [cursor=pointer]:
+                          - /url: "#"
+                          - text: 
+                        - link [ref=f27e411] [cursor=pointer]:
+                          - /url: "#"
+                          - text: 
+                        - link [ref=f27e413] [cursor=pointer]:
+                          - /url: "#"
+                          - text: 
+                    - generic [ref=f27e414]:
+                      - link [ref=f27e416] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos-sabway/2044-patinete-electrico-dynamic-pro-rider-600w-homologado-dgt-8436574658491.html
+                        - text: Patinete eléctrico Dynamic Pro Rider 600W Homologado DGT
+                      - generic [ref=f27e417]: 798,90 €
+                      - generic [ref=f27e418]:
+                        - generic [ref=f27e419]:
+                          - generic [ref=f27e420] [cursor=pointer]: 
+                          - generic [ref=f27e421] [cursor=pointer]: 
+                          - generic [ref=f27e422] [cursor=pointer]: 
+                          - generic [ref=f27e423] [cursor=pointer]: 
+                          - generic [ref=f27e424] [cursor=pointer]: 
+                        - generic [ref=f27e425]: "21"
+              - option [ref=f27e426]:
+                - article [ref=f27e427]:
+                  - generic [ref=f27e428]:
+                    - generic [ref=f27e430]:
+                      - link [ref=f27e431] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos-sabway/2157-9673-patinete-electrico-titan-x2-homologado-dgt-8436574658613.html#/339-tipo-frenos_mecanicos
+                      - list:
+                        - listitem: ¡En oferta!
+                      - generic [ref=f27e435]:
+                        - link [ref=f27e437] [cursor=pointer]:
+                          - /url: "#"
+                          - text:  Seleccionar opción
+                        - link [ref=f27e439] [cursor=pointer]:
+                          - /url: "#"
+                          - text: 
+                        - link [ref=f27e441] [cursor=pointer]:
+                          - /url: "#"
+                          - text: 
+                        - link [ref=f27e443] [cursor=pointer]:
+                          - /url: "#"
+                          - text: 
+                    - generic [ref=f27e444]:
+                      - link [ref=f27e446] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos-sabway/2157-9673-patinete-electrico-titan-x2-homologado-dgt-8436574658613.html#/339-tipo-frenos_mecanicos
+                        - text: Patinete eléctrico Titán X2 Homologado DGT + SEGURO RC GRATUITO
+                      - generic [ref=f27e447]: 999,99 €
+                      - generic [ref=f27e448]:
+                        - generic [ref=f27e449]:
+                          - generic [ref=f27e450] [cursor=pointer]: 
+                          - generic [ref=f27e451] [cursor=pointer]: 
+                          - generic [ref=f27e452] [cursor=pointer]: 
+                          - generic [ref=f27e453] [cursor=pointer]: 
+                          - generic [ref=f27e454] [cursor=pointer]: 
+                        - generic [ref=f27e455]: "63"
+              - option [ref=f27e456]:
+                - article [ref=f27e457]:
+                  - generic [ref=f27e458]:
+                    - generic [ref=f27e460]:
+                      - link [ref=f27e461] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/productos-destacados/2045-patinete-electrico-dynamic-pro-rider-dual-motor-homologado-dgt-8436574658507.html
+                      - list:
+                        - listitem: ¡En oferta!
+                      - generic [ref=f27e465]:
+                        - button [ref=f27e469] [cursor=pointer]:  Añadir a la cesta
+                        - link [ref=f27e471] [cursor=pointer]:
+                          - /url: "#"
+                          - text: 
+                        - link [ref=f27e473] [cursor=pointer]:
+                          - /url: "#"
+                          - text: 
+                        - link [ref=f27e475] [cursor=pointer]:
+                          - /url: "#"
+                          - text: 
+                    - generic [ref=f27e476]:
+                      - link [ref=f27e478] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/productos-destacados/2045-patinete-electrico-dynamic-pro-rider-dual-motor-homologado-dgt-8436574658507.html
+                        - text: Patinete eléctrico Dynamic Pro Rider Dual Motor Homologado DGT + SEGURO RC GRATUITO
+                      - generic [ref=f27e479]: 1.049,90 €
+                      - generic [ref=f27e480]:
+                        - generic [ref=f27e481]:
+                          - generic [ref=f27e482] [cursor=pointer]: 
+                          - generic [ref=f27e483] [cursor=pointer]: 
+                          - generic [ref=f27e484] [cursor=pointer]: 
+                          - generic [ref=f27e485] [cursor=pointer]: 
+                          - generic [ref=f27e486] [cursor=pointer]: 
+                        - generic [ref=f27e487]: "24"
+              - article [ref=f27e489]:
+                - generic [ref=f27e490]:
+                  - generic [ref=f27e492]:
+                    - link [ref=f27e493] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/raiz/2042-patinete-electrico-mi-sabway-pro-350w-homologado-dgt-8436574658460.html
+                    - list:
+                      - listitem: ¡En oferta!
+                    - generic [ref=f27e497]:
+                      - button [ref=f27e501] [cursor=pointer]:  Añadir a la cesta
+                      - link [ref=f27e503] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e505] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e507] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                  - generic [ref=f27e508]:
+                    - link [ref=f27e510] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/raiz/2042-patinete-electrico-mi-sabway-pro-350w-homologado-dgt-8436574658460.html
+                      - text: Patinete eléctrico Mi Sabway Pro 350W Homologado DGT + SEGURO RC GRATUITO
+                    - generic [ref=f27e511]: 389,90 €
+                    - generic [ref=f27e512]:
+                      - generic [ref=f27e513]:
+                        - generic [ref=f27e514] [cursor=pointer]: 
+                        - generic [ref=f27e515] [cursor=pointer]: 
+                        - generic [ref=f27e516] [cursor=pointer]: 
+                        - generic [ref=f27e517] [cursor=pointer]: 
+                        - generic [ref=f27e518] [cursor=pointer]: 
+                      - generic [ref=f27e519]: "18"
+              - article [ref=f27e521]:
+                - generic [ref=f27e522]:
+                  - generic [ref=f27e524]:
+                    - link [ref=f27e525] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/productos-destacados/2347-patinete-electrico-dynamic-pro-rider-dual-motor-homologado-dgt-8436574658736.html
+                    - list:
+                      - listitem: ¡En oferta!
+                    - generic [ref=f27e529]:
+                      - button [ref=f27e533] [cursor=pointer]:  Añadir a la cesta
+                      - link [ref=f27e535] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e537] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e539] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                  - generic [ref=f27e540]:
+                    - link [ref=f27e542] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/productos-destacados/2347-patinete-electrico-dynamic-pro-rider-dual-motor-homologado-dgt-8436574658736.html
+                      - text: Patinete eléctrico Dynamic Pro Dual Motor Homologado DGT
+                    - generic [ref=f27e543]: 659,99 €
+                    - generic [ref=f27e544]:
+                      - generic [ref=f27e545]:
+                        - generic [ref=f27e546] [cursor=pointer]: 
+                        - generic [ref=f27e547] [cursor=pointer]: 
+                        - generic [ref=f27e548] [cursor=pointer]: 
+                        - generic [ref=f27e549] [cursor=pointer]: 
+                        - generic [ref=f27e550] [cursor=pointer]: 
+                      - generic [ref=f27e551]: "47"
+              - article [ref=f27e553]:
+                - generic [ref=f27e554]:
+                  - generic [ref=f27e556]:
+                    - link [ref=f27e557] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/patinetes-electricos/2043-patinete-electrico-dynamic-pro-600w-homologado-dgt-8436574658484.html
+                    - list:
+                      - listitem: ¡En oferta!
+                    - generic [ref=f27e561]:
+                      - button [ref=f27e565] [cursor=pointer]:  Añadir a la cesta
+                      - link [ref=f27e567] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e569] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e571] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                  - generic [ref=f27e572]:
+                    - link [ref=f27e574] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/patinetes-electricos/2043-patinete-electrico-dynamic-pro-600w-homologado-dgt-8436574658484.html
+                      - text: Patinete eléctrico Dynamic Pro 600W Homologado DGT+ SEGURO RC GRATUITO
+                    - generic [ref=f27e575]: 689,90 €
+                    - generic [ref=f27e576]:
+                      - generic [ref=f27e577]:
+                        - generic [ref=f27e578] [cursor=pointer]: 
+                        - generic [ref=f27e579] [cursor=pointer]: 
+                        - generic [ref=f27e580] [cursor=pointer]: 
+                        - generic [ref=f27e581] [cursor=pointer]: 
+                        - generic [ref=f27e582] [cursor=pointer]: 
+                      - generic [ref=f27e583]: "18"
+            - generic:
+              - generic [ref=f27e584] [cursor=pointer]: 
+              - generic [ref=f27e586] [cursor=pointer]: 
+            - toolbar
+          - generic [ref=f27e592]:
+            - listbox [ref=f27e595]:
+              - article [ref=f27e597]:
+                - generic [ref=f27e598]:
+                  - generic [ref=f27e600]:
+                    - link [ref=f27e601] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/patinetes-electricos-sabway/2044-patinete-electrico-dynamic-pro-rider-600w-homologado-dgt-8436574658491.html
+                    - list:
+                      - listitem: ¡En oferta!
+                    - generic [ref=f27e605]:
+                      - button [ref=f27e609] [cursor=pointer]:  Añadir a la cesta
+                      - link [ref=f27e611] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e613] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e615] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                  - generic [ref=f27e616]:
+                    - link [ref=f27e618] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/patinetes-electricos-sabway/2044-patinete-electrico-dynamic-pro-rider-600w-homologado-dgt-8436574658491.html
+                      - text: Patinete eléctrico Dynamic Pro Rider 600W Homologado DGT
+                    - generic [ref=f27e619]: 798,90 €
+                    - generic [ref=f27e620]:
+                      - generic [ref=f27e621]:
+                        - generic [ref=f27e622] [cursor=pointer]: 
+                        - generic [ref=f27e623] [cursor=pointer]: 
+                        - generic [ref=f27e624] [cursor=pointer]: 
+                        - generic [ref=f27e625] [cursor=pointer]: 
+                        - generic [ref=f27e626] [cursor=pointer]: 
+                      - generic [ref=f27e627]: "21"
+              - article [ref=f27e629]:
+                - generic [ref=f27e630]:
+                  - generic [ref=f27e632]:
+                    - link [ref=f27e633] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/productos-destacados/2045-patinete-electrico-dynamic-pro-rider-dual-motor-homologado-dgt-8436574658507.html
+                    - list:
+                      - listitem: ¡En oferta!
+                    - generic [ref=f27e637]:
+                      - button [ref=f27e641] [cursor=pointer]:  Añadir a la cesta
+                      - link [ref=f27e643] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e645] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e647] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                  - generic [ref=f27e648]:
+                    - link [ref=f27e650] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/productos-destacados/2045-patinete-electrico-dynamic-pro-rider-dual-motor-homologado-dgt-8436574658507.html
+                      - text: Patinete eléctrico Dynamic Pro Rider Dual Motor Homologado DGT + SEGURO RC GRATUITO
+                    - generic [ref=f27e651]: 1.049,90 €
+                    - generic [ref=f27e652]:
+                      - generic [ref=f27e653]:
+                        - generic [ref=f27e654] [cursor=pointer]: 
+                        - generic [ref=f27e655] [cursor=pointer]: 
+                        - generic [ref=f27e656] [cursor=pointer]: 
+                        - generic [ref=f27e657] [cursor=pointer]: 
+                        - generic [ref=f27e658] [cursor=pointer]: 
+                      - generic [ref=f27e659]: "24"
+              - article [ref=f27e661]:
+                - generic [ref=f27e662]:
+                  - generic [ref=f27e664]:
+                    - link [ref=f27e665] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/patinetes-electricos-sabway/2157-9673-patinete-electrico-titan-x2-homologado-dgt-8436574658613.html#/339-tipo-frenos_mecanicos
+                    - list:
+                      - listitem: ¡En oferta!
+                    - generic [ref=f27e669]:
+                      - link [ref=f27e671] [cursor=pointer]:
+                        - /url: "#"
+                        - text:  Seleccionar opción
+                      - link [ref=f27e673] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e675] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e677] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                  - generic [ref=f27e678]:
+                    - link [ref=f27e680] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/patinetes-electricos-sabway/2157-9673-patinete-electrico-titan-x2-homologado-dgt-8436574658613.html#/339-tipo-frenos_mecanicos
+                      - text: Patinete eléctrico Titán X2 Homologado DGT + SEGURO RC GRATUITO
+                    - generic [ref=f27e681]: 999,99 €
+                    - generic [ref=f27e682]:
+                      - generic [ref=f27e683]:
+                        - generic [ref=f27e684] [cursor=pointer]: 
+                        - generic [ref=f27e685] [cursor=pointer]: 
+                        - generic [ref=f27e686] [cursor=pointer]: 
+                        - generic [ref=f27e687] [cursor=pointer]: 
+                        - generic [ref=f27e688] [cursor=pointer]: 
+                      - generic [ref=f27e689]: "63"
+              - option [ref=f27e690]:
+                - article [ref=f27e691]:
+                  - generic [ref=f27e692]:
+                    - generic [ref=f27e694]:
+                      - link [ref=f27e695] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/productos-destacados/2347-patinete-electrico-dynamic-pro-rider-dual-motor-homologado-dgt-8436574658736.html
+                        - img "Patinete eléctrico Dynamic Pro Rider Dual Motor Homologado DGT 2" [ref=f27e696]
+                        - img "Patinete eléctrico Dynamic Pro Rider Dual Motor Homologado DGT" [ref=f27e698]
+                      - list:
+                        - listitem: ¡En oferta!
+                      - generic [ref=f27e699]:
+                        - button " Añadir a la cesta" [ref=f27e703] [cursor=pointer]
+                        - link "" [ref=f27e705] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f27e707] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f27e709] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=f27e710]:
+                      - link "Patinete eléctrico Dynamic Pro Dual Motor Homologado DGT" [ref=f27e712] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/productos-destacados/2347-patinete-electrico-dynamic-pro-rider-dual-motor-homologado-dgt-8436574658736.html
+                      - generic [ref=f27e713]: 659,99 €
+                      - generic [ref=f27e714]:
+                        - generic [ref=f27e715]:
+                          - generic [ref=f27e716] [cursor=pointer]: 
+                          - generic [ref=f27e717] [cursor=pointer]: 
+                          - generic [ref=f27e718] [cursor=pointer]: 
+                          - generic [ref=f27e719] [cursor=pointer]: 
+                          - generic [ref=f27e720] [cursor=pointer]: 
+                        - generic [ref=f27e721]: "47"
+              - option [ref=f27e722]:
+                - article [ref=f27e723]:
+                  - generic [ref=f27e724]:
+                    - generic [ref=f27e726]:
+                      - link [ref=f27e727] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos-sabway/2044-patinete-electrico-dynamic-pro-rider-600w-homologado-dgt-8436574658491.html
+                        - img "Patinete eléctrico Dynamic Pro Rider 600W Homologado DGT 2" [ref=f27e728]
+                        - img "Patinete eléctrico Dynamic Pro Rider 600W Homologado DGT" [ref=f27e730]
+                      - list:
+                        - listitem: ¡En oferta!
+                      - generic [ref=f27e731]:
+                        - button " Añadir a la cesta" [ref=f27e735] [cursor=pointer]
+                        - link "" [ref=f27e737] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f27e739] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f27e741] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=f27e742]:
+                      - link "Patinete eléctrico Dynamic Pro Rider 600W Homologado DGT" [ref=f27e744] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos-sabway/2044-patinete-electrico-dynamic-pro-rider-600w-homologado-dgt-8436574658491.html
+                      - generic [ref=f27e745]: 798,90 €
+                      - generic [ref=f27e746]:
+                        - generic [ref=f27e747]:
+                          - generic [ref=f27e748] [cursor=pointer]: 
+                          - generic [ref=f27e749] [cursor=pointer]: 
+                          - generic [ref=f27e750] [cursor=pointer]: 
+                          - generic [ref=f27e751] [cursor=pointer]: 
+                          - generic [ref=f27e752] [cursor=pointer]: 
+                        - generic [ref=f27e753]: "21"
+              - option [ref=f27e754]:
+                - article [ref=f27e755]:
+                  - generic [ref=f27e756]:
+                    - generic [ref=f27e758]:
+                      - link [ref=f27e759] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/productos-destacados/2045-patinete-electrico-dynamic-pro-rider-dual-motor-homologado-dgt-8436574658507.html
+                        - img "Patinete eléctrico Dynamic Pro Rider Dual Motor Homologado DGT 2" [ref=f27e760]
+                        - img "Patinete eléctrico Dynamic Pro Rider Dual Motor Homologado DGT" [ref=f27e762]
+                      - list:
+                        - listitem: ¡En oferta!
+                      - generic [ref=f27e763]:
+                        - button " Añadir a la cesta" [ref=f27e767] [cursor=pointer]
+                        - link "" [ref=f27e769] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f27e771] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f27e773] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=f27e774]:
+                      - link "Patinete eléctrico Dynamic Pro Rider Dual Motor Homologado DGT + SEGURO RC GRATUITO" [ref=f27e776] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/productos-destacados/2045-patinete-electrico-dynamic-pro-rider-dual-motor-homologado-dgt-8436574658507.html
+                      - generic [ref=f27e777]: 1.049,90 €
+                      - generic [ref=f27e778]:
+                        - generic [ref=f27e779]:
+                          - generic [ref=f27e780] [cursor=pointer]: 
+                          - generic [ref=f27e781] [cursor=pointer]: 
+                          - generic [ref=f27e782] [cursor=pointer]: 
+                          - generic [ref=f27e783] [cursor=pointer]: 
+                          - generic [ref=f27e784] [cursor=pointer]: 
+                        - generic [ref=f27e785]: "24"
+              - option [ref=f27e786]:
+                - article [ref=f27e787]:
+                  - generic [ref=f27e788]:
+                    - generic [ref=f27e790]:
+                      - link [ref=f27e791] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos-sabway/2157-9673-patinete-electrico-titan-x2-homologado-dgt-8436574658613.html#/339-tipo-frenos_mecanicos
+                      - list:
+                        - listitem: ¡En oferta!
+                      - generic [ref=f27e795]:
+                        - link [ref=f27e797] [cursor=pointer]:
+                          - /url: "#"
+                          - text:  Seleccionar opción
+                        - link [ref=f27e799] [cursor=pointer]:
+                          - /url: "#"
+                          - text: 
+                        - link [ref=f27e801] [cursor=pointer]:
+                          - /url: "#"
+                          - text: 
+                        - link [ref=f27e803] [cursor=pointer]:
+                          - /url: "#"
+                          - text: 
+                    - generic [ref=f27e804]:
+                      - link [ref=f27e806] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos-sabway/2157-9673-patinete-electrico-titan-x2-homologado-dgt-8436574658613.html#/339-tipo-frenos_mecanicos
+                        - text: Patinete eléctrico Titán X2 Homologado DGT + SEGURO RC GRATUITO
+                      - generic [ref=f27e807]: 999,99 €
+                      - generic [ref=f27e808]:
+                        - generic [ref=f27e809]:
+                          - generic [ref=f27e810] [cursor=pointer]: 
+                          - generic [ref=f27e811] [cursor=pointer]: 
+                          - generic [ref=f27e812] [cursor=pointer]: 
+                          - generic [ref=f27e813] [cursor=pointer]: 
+                          - generic [ref=f27e814] [cursor=pointer]: 
+                        - generic [ref=f27e815]: "63"
+              - article [ref=f27e817]:
+                - generic [ref=f27e818]:
+                  - generic [ref=f27e820]:
+                    - link [ref=f27e821] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/productos-destacados/2347-patinete-electrico-dynamic-pro-rider-dual-motor-homologado-dgt-8436574658736.html
+                    - list:
+                      - listitem: ¡En oferta!
+                    - generic [ref=f27e825]:
+                      - button [ref=f27e829] [cursor=pointer]:  Añadir a la cesta
+                      - link [ref=f27e831] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e833] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e835] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                  - generic [ref=f27e836]:
+                    - link [ref=f27e838] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/productos-destacados/2347-patinete-electrico-dynamic-pro-rider-dual-motor-homologado-dgt-8436574658736.html
+                      - text: Patinete eléctrico Dynamic Pro Dual Motor Homologado DGT
+                    - generic [ref=f27e839]: 659,99 €
+                    - generic [ref=f27e840]:
+                      - generic [ref=f27e841]:
+                        - generic [ref=f27e842] [cursor=pointer]: 
+                        - generic [ref=f27e843] [cursor=pointer]: 
+                        - generic [ref=f27e844] [cursor=pointer]: 
+                        - generic [ref=f27e845] [cursor=pointer]: 
+                        - generic [ref=f27e846] [cursor=pointer]: 
+                      - generic [ref=f27e847]: "47"
+              - article [ref=f27e849]:
+                - generic [ref=f27e850]:
+                  - generic [ref=f27e852]:
+                    - link [ref=f27e853] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/patinetes-electricos-sabway/2044-patinete-electrico-dynamic-pro-rider-600w-homologado-dgt-8436574658491.html
+                    - list:
+                      - listitem: ¡En oferta!
+                    - generic [ref=f27e857]:
+                      - button [ref=f27e861] [cursor=pointer]:  Añadir a la cesta
+                      - link [ref=f27e863] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e865] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e867] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                  - generic [ref=f27e868]:
+                    - link [ref=f27e870] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/patinetes-electricos-sabway/2044-patinete-electrico-dynamic-pro-rider-600w-homologado-dgt-8436574658491.html
+                      - text: Patinete eléctrico Dynamic Pro Rider 600W Homologado DGT
+                    - generic [ref=f27e871]: 798,90 €
+                    - generic [ref=f27e872]:
+                      - generic [ref=f27e873]:
+                        - generic [ref=f27e874] [cursor=pointer]: 
+                        - generic [ref=f27e875] [cursor=pointer]: 
+                        - generic [ref=f27e876] [cursor=pointer]: 
+                        - generic [ref=f27e877] [cursor=pointer]: 
+                        - generic [ref=f27e878] [cursor=pointer]: 
+                      - generic [ref=f27e879]: "21"
+              - article [ref=f27e881]:
+                - generic [ref=f27e882]:
+                  - generic [ref=f27e884]:
+                    - link [ref=f27e885] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/productos-destacados/2045-patinete-electrico-dynamic-pro-rider-dual-motor-homologado-dgt-8436574658507.html
+                    - list:
+                      - listitem: ¡En oferta!
+                    - generic [ref=f27e889]:
+                      - button [ref=f27e893] [cursor=pointer]:  Añadir a la cesta
+                      - link [ref=f27e895] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e897] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                      - link [ref=f27e899] [cursor=pointer]:
+                        - /url: "#"
+                        - text: 
+                  - generic [ref=f27e900]:
+                    - link [ref=f27e902] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/productos-destacados/2045-patinete-electrico-dynamic-pro-rider-dual-motor-homologado-dgt-8436574658507.html
+                      - text: Patinete eléctrico Dynamic Pro Rider Dual Motor Homologado DGT + SEGURO RC GRATUITO
+                    - generic [ref=f27e903]: 1.049,90 €
+                    - generic [ref=f27e904]:
+                      - generic [ref=f27e905]:
+                        - generic [ref=f27e906] [cursor=pointer]: 
+                        - generic [ref=f27e907] [cursor=pointer]: 
+                        - generic [ref=f27e908] [cursor=pointer]: 
+                        - generic [ref=f27e909] [cursor=pointer]: 
+                        - generic [ref=f27e910] [cursor=pointer]: 
+                      - generic [ref=f27e911]: "24"
+            - generic:
+              - generic [ref=f27e912] [cursor=pointer]: 
+              - generic [ref=f27e914] [cursor=pointer]: 
+            - toolbar
+        - generic [ref=f27e921]:
+          - heading "RESEÑAS DE CLIENTES" [level=2] [ref=f27e924]
+          - paragraph [ref=f27e928]:
+            - strong [ref=f27e929]:
+              - link "Excelente" [ref=f27e930] [cursor=pointer]:
+                - /url: https://sabway.es/shop/204-patinetes-electricos-sabway-homologados
+          - generic [ref=f27e933]:
+            - generic [ref=f27e934]: 4,7
+            - generic "4.7/5" [ref=f27e935]:
+              - generic [ref=f27e936]: ★ ★
+              - generic [ref=f27e937]: ★ ★
+              - generic [ref=f27e938]: ★ ★
+              - generic [ref=f27e939]: ★ ★
+              - generic [ref=f27e940]: ★ ★
+        - generic [ref=f27e950]:
+          - listbox [ref=f27e953]:
+            - generic [ref=f27e954]:
+              - generic [ref=f27e957]: Lleve a arreglar el patinete y el servicio fue excelente. Lo recomiendo al 100%.
+              - generic [ref=f27e958]: Susana González
+            - option "Súper amables los chicos y atención ante todo. Mi taller de confianza. David Ferreras" [ref=f27e962]:
+              - generic [ref=f27e965]: Súper amables los chicos y atención ante todo. Mi taller de confianza.
+              - generic [ref=f27e966]: David Ferreras
+            - option [ref=f27e970]:
+              - generic [ref=f27e973]: Muy contento con el trato siempre recibido. Miguel Ortega es un libro abierto y tiene respuestas para todo y te asesora en todo correctamente. Salgo muy contento con mi nuevo Sabway Spark que es una bestia en todos sentidos. Muchas gracias por todo!
+              - generic [ref=f27e974]: Daniel Muñoz Guirao
+            - option [ref=f27e978]:
+              - generic [ref=f27e981]: ¡Excelente taller y servicio! He llevado mi patinete eléctrico (iScooter iX4) para poner tres tornillos nuevos en la base del patinete, ya que los desgaste al intentar quitarlos para abrir la batería. Ellos me dieron los tornillos sin ningún problema. La atención al cliente es de 11 sobre 10. ¡Totalmente encantado, siempre los mejores!
+              - generic [ref=f27e982]: EagleBoy72
+            - option [ref=f27e986]:
+              - generic [ref=f27e989]: Relacion calidad precio es el mejor, la calidad me ha sorprendido
+              - generic [ref=f27e990]: Alex M
+            - option [ref=f27e994]:
+              - generic [ref=f27e997]: Servicio impecable de taller. Me cambiaron la rueda delantera, además de perfilar unos detalles del patín sin coste alguno. Unos profesionales, los recomiendo totalmente !!!
+              - generic [ref=f27e998]: Armand Pubill
+            - option [ref=f27e1002]:
+              - generic [ref=f27e1005]: La persona responsable de la tienda es cordial y amable y sobretodo te guía en el proceso y los chavales mecánicos de la tienda con mucha energía. Tienen patinetes para vender de todo tipo y necesidad de cada uno, yo antes iba a otra tienda pero una vez probé esta no me cambio.
+              - generic [ref=f27e1006]: Honk Honk
+            - option [ref=f27e1010]:
+              - generic [ref=f27e1013]: Es rápido y fácil de usar.
+              - generic [ref=f27e1014]: Beatriz G
+            - option [ref=f27e1018]:
+              - generic [ref=f27e1021]: ¡Un servicio excelente! El chico que me atendió, un tal “Miguel”, muy atento y super dispuesto, en todo momento, a ayudarme a solucionar todas mis dudas sobre patinetes y tal, que yo no soy muy experta en el mundillo☺️ Gracias!!
+              - generic [ref=f27e1022]: Ainoa Rodríguez
+            - option [ref=f27e1026]:
+              - generic [ref=f27e1029]: Lo compré y me vino un casco, aparte de la bolsa y el soporte móvil.
+              - generic [ref=f27e1030]: Patricia M
+            - option [ref=f27e1034]:
+              - generic [ref=f27e1037]: Este jueves compre un patinete y llego al dia siguiente. Muy rapidos y eficaces. 100% recomendable, seguro que vuelvo a comprar.
+              - generic [ref=f27e1038]: Elvira Frances
+            - option [ref=f27e1042]:
+              - generic [ref=f27e1045]: Mola mucho, y los detalles se agradecen.
+              - generic [ref=f27e1046]: Lia M
+            - option [ref=f27e1050]:
+              - generic [ref=f27e1053]: Lleve mi patín para una revisión completa y quede muy contento con el resultado. Trato genial sin duda repetiré
+              - generic [ref=f27e1054]: Agus Berrocal
+            - option [ref=f27e1058]:
+              - generic [ref=f27e1061]: La verdad que los regalos se agradecen, y me vino con casco también.
+              - generic [ref=f27e1062]: Jordi J
+            - option [ref=f27e1066]:
+              - generic [ref=f27e1069]: Lleve a arreglar el patinete y el servicio fue excelente. Lo recomiendo al 100%.
+              - generic [ref=f27e1070]: Susana González
+            - generic [ref=f27e1074]:
+              - generic [ref=f27e1077]: Súper amables los chicos y atención ante todo. Mi taller de confianza.
+              - generic [ref=f27e1078]: David Ferreras
+          - generic:
+            - generic [ref=f27e1082] [cursor=pointer]: 
+            - generic [ref=f27e1084] [cursor=pointer]: 
+          - toolbar
+        - heading "MARCAS" [level=2] [ref=f27e1094]
+        - heading [level=3] [ref=f27e1103]:
+          - link "¿Qué tener en cuenta al comprar tu patinete eléctrico?" [ref=f27e1104] [cursor=pointer]:
+            - /url: https://sabway.es/shop/204-patinetes-electricos-sabway-homologados/
+        - paragraph [ref=f27e1121]: Javi Espinosa, piloto del mundial de patinetes eléctricos y Francesc Alonso, creador de la marca Sabway, nos explican todo lo que debes tener en cuenta a la hora de adquirir tu patinete eléctrico, ruedas, batería, tiempo de carga y mucho más...Y además muchas claves para mejorar el uso y darle una larga vida. No te lo pierdas!
+        - generic [ref=f27e1134]:
+          - generic [ref=f27e1137]:
+            - paragraph [ref=f27e1138]:
+              - strong [ref=f27e1139]:
+                - link "Patinete eléctrico Mi Sabway Pro 350W Homologado y Certificado por DGT" [ref=f27e1140] [cursor=pointer]:
+                  - /url: https://sabway.es/shop/inicio/2042-patinete-electrico-mi-sabway-pro-350w-homologado-dgt.html
+              - text: 350W Brushless Hub 36V 7.8Ah
+            - list [ref=f27e1141]:
+              - listitem [ref=f27e1142]: Modelo Homologado y Certificado por la DGT.
+              - listitem [ref=f27e1143]: Neumático resistente a pinchazos de 8,5", con suspensión trasera.
+              - listitem [ref=f27e1144]: Motor brushless de 350W de potencia nominal (700W máximo).
+              - listitem [ref=f27e1145]: Sistema de plegado reforzado para evitar holguras y vibraciones del manillar.
+              - listitem [ref=f27e1146]: APP Bluetooth le permite personalizar la configuración.
+          - button "DESCUBRIR" [ref=f27e1150] [cursor=pointer]
+          - generic "5/5" [ref=f27e1156]:
+            - generic [ref=f27e1157]: ★ ☆
+            - generic [ref=f27e1158]: ★ ☆
+            - generic [ref=f27e1159]: ★ ☆
+            - generic [ref=f27e1160]: ★ ☆
+            - generic [ref=f27e1161]: ★ ☆
+        - generic [ref=f27e1175]:
+          - generic [ref=f27e1178]:
+            - paragraph [ref=f27e1179]:
+              - strong [ref=f27e1180]:
+                - link "Patinete eléctrico Dynamic Pro 600W Homologado y Certificado por DGT" [ref=f27e1181] [cursor=pointer]:
+                  - /url: https://sabway.es/shop/patinetes-electricos/2043-patinete-electrico-dynamic-pro-600w-homologado-dgt-8436574654233.html
+              - text: 350W Brushless Hub 36V 7.8Ah
+            - list [ref=f27e1182]:
+              - listitem [ref=f27e1183]: Modelo Homologado y Certificado por la DGT.
+              - listitem [ref=f27e1184]: Nuevo sistema de plegado, intermitentes delanteros Y traseros.
+              - listitem [ref=f27e1185]: Motor de 600W que permite una mayor potencia.
+              - listitem [ref=f27e1186]: Neumático resistente de 10" se adapta perfectamente al asfalto.
+              - listitem [ref=f27e1187]: "Extras: bocina, luz LED, pantalla LCD y doble suspensión."
+              - listitem [ref=f27e1188]: APP Bluetooth le permite personalizar la configuración.
+          - button "DESCUBRIR" [ref=f27e1192] [cursor=pointer]
+          - generic "5/5" [ref=f27e1198]:
+            - generic [ref=f27e1199]: ★ ☆
+            - generic [ref=f27e1200]: ★ ☆
+            - generic [ref=f27e1201]: ★ ☆
+            - generic [ref=f27e1202]: ★ ☆
+            - generic [ref=f27e1203]: ★ ☆
+        - generic [ref=f27e1207]:
+          - link [ref=f27e1214] [cursor=pointer]:
+            - /url: https://promo.lineadirecta.com/patinetes-sabway
+          - generic [ref=f27e1220]:
+            - link [ref=f27e1224] [cursor=pointer]:
+              - /url: https://sabway.es/shop/content/4-tiendas-oficiales-sabway
+            - link [ref=f27e1232] [cursor=pointer]:
+              - /url: https://sabway.es/shop/203-patinetes-electricos-homologados
+        - generic [ref=f27e1244]:
+          - heading [level=3] [ref=f27e1247]:
+            - link "7 MOTIVOS PARA VISITAR TIENDAS SABWAY" [ref=f27e1248] [cursor=pointer]:
+              - /url: https://sabway.es/shop/204-patinetes-electricos-sabway-homologados/
+          - tablist [ref=f27e1251]:
+            - tab [ref=f27e1253] [cursor=pointer]:
+              - generic [ref=f27e1254]:
+                - generic [ref=f27e1255]: 
+                - text: 
+              - link "Asesoramiento técnico especializado" [ref=f27e1257]:
+                - /url: ""
+            - tab [ref=f27e1259] [cursor=pointer]:
+              - generic [ref=f27e1260]:
+                - generic [ref=f27e1261]: 
+                - text: 
+              - link "Financiación a medida" [ref=f27e1263]:
+                - /url: ""
+            - tab [ref=f27e1265] [cursor=pointer]:
+              - generic [ref=f27e1266]:
+                - generic [ref=f27e1267]: 
+                - text: 
+              - link "Prueba GRATIS" [ref=f27e1269]:
+                - /url: ""
+            - tab [ref=f27e1271] [cursor=pointer]:
+              - generic [ref=f27e1272]:
+                - generic [ref=f27e1273]: 
+                - text: 
+              - link "Montaje y puesta a punto" [ref=f27e1275]:
+                - /url: ""
+            - tab [ref=f27e1277] [cursor=pointer]:
+              - generic [ref=f27e1278]:
+                - generic [ref=f27e1279]: 
+                - text: 
+              - link "Servicio post venta local" [ref=f27e1281]:
+                - /url: ""
+            - tab [ref=f27e1283] [cursor=pointer]:
+              - generic [ref=f27e1284]:
+                - generic [ref=f27e1285]: 
+                - text: 
+              - link "Taller exprés multimarca" [ref=f27e1287]:
+                - /url: ""
+            - tab [ref=f27e1289] [cursor=pointer]:
+              - generic [ref=f27e1290]:
+                - generic [ref=f27e1291]: 
+                - text: 
+              - link "Mejor relación calidad-precio" [ref=f27e1293]:
+                - /url: ""
+          - generic [ref=f27e1296]:
+            - heading "SABWAY es la mayor red de tiendas especializadas en venta y reparación de patinetes eléctricos homologados y certificados de la DGT con más de 40 locales en España." [level=5] [ref=f27e1297]
+            - heading "Cómo tienda multimarca podrás encontrar las mejores marcas nacionales e internacionales." [level=5] [ref=f27e1298]
+            - heading [level=5] [ref=f27e1299]
+            - heading "Servicio técnico oficial con taller multimarca:" [level=5] [ref=f27e1300]
+            - heading [level=5] [ref=f27e1301]
+            - heading "Patinete Xiaomi, Segway, Cecotec, Smartgyro, Skateflash, Brigmton, Dualtron, Youin, Ducati, Zwheel, Pioneer, Denver, Ninebot, Joyor, Kaabo, Inmotion, Joyor, Exoxtrem, Ice, e-twow, Aprilia, Pure, Inokim, Nami, Pure, neumáticos PMT" [level=5] [ref=f27e1302]
+            - heading [level=5] [ref=f27e1303]
+            - 'heading "Repara tu patinete en 24h: Reparación pinchazo exprés, diagnóstico y reparación baterías litio. Somos tu taller para arreglar patinetes eléctricos. Reparación Scooter, Scooters, bicicletas eléctricas, triciclos, cuatriciclos, movilidad reducida, plegable y ligero. Seguros y matrículas para patinetes." [level=5] [ref=f27e1304]'
+            - heading [level=5] [ref=f27e1305]
+            - heading "Pide presupuesto en nuestras tiendas." [level=5] [ref=f27e1306]
+            - heading [level=5] [ref=f27e1307]
+          - heading [level=4] [ref=f27e1310]:
+            - link "Ven a visitarnos y no te conformes con menos!" [ref=f27e1311] [cursor=pointer]:
+              - /url: https://sabway.es/shop/content/4-tiendas-oficiales-sabway
+    - generic [ref=f27e1315]:
+      - text:  
+      - generic [ref=f27e1318]:
+        - generic [ref=f27e1324]:
+          - paragraph [ref=f27e1325]: Atención al cliente
+          - text: 
+          - list [ref=f27e1326]:
+            - listitem [ref=f27e1327]:
+              - link "Tiendas & Talleres" [ref=f27e1328] [cursor=pointer]:
+                - /url: https://sabway.es/shop/content/4-tiendas-oficiales-sabway
+                - generic [ref=f27e1329]: 
+            - listitem [ref=f27e1332]:
+              - link "Envío y Devoluciones" [ref=f27e1333] [cursor=pointer]:
+                - /url: https://sabway.es/shop/content/1-entrega
+                - generic [ref=f27e1334]: 
+            - listitem [ref=f27e1337]:
+              - link "Aviso legal" [ref=f27e1338] [cursor=pointer]:
+                - /url: https://sabway.es/shop/content/2-aviso-legal
+                - generic [ref=f27e1339]: 
+            - listitem [ref=f27e1342]:
+              - link "Términos y condiciones" [ref=f27e1343] [cursor=pointer]:
+                - /url: https://sabway.es/shop/content/3-terminos-y-condiciones-de-uso
+                - generic [ref=f27e1344]: 
+            - listitem [ref=f27e1347]:
+              - link "Políticas de Privacidad" [ref=f27e1348] [cursor=pointer]:
+                - /url: https://sabway.es/shop/content/6-politicas-de-privacidad
+                - generic [ref=f27e1349]: 
+            - listitem [ref=f27e1352]:
+              - link "Declaración accesibilidad" [ref=f27e1353] [cursor=pointer]:
+                - /url: https://sabway.es/shop/content/61-declaracion-accesibilidad
+                - generic [ref=f27e1354]: 
+            - listitem [ref=f27e1357]:
+              - link "Política de Cookies" [ref=f27e1358] [cursor=pointer]:
+                - /url: https://sabway.es/shop/content/66-politica-de-cookies
+                - generic [ref=f27e1359]: 
+            - listitem [ref=f27e1362]:
+              - link "SAT SABWAY" [ref=f27e1363] [cursor=pointer]:
+                - /url: https://www.sabway.es/blog/sat/
+                - generic [ref=f27e1364]: 
+        - generic [ref=f27e1372]:
+          - paragraph [ref=f27e1373]: Productos
+          - text: 
+          - list [ref=f27e1374]:
+            - listitem [ref=f27e1375]:
+              - link "Seguros y Matrículas VMP" [ref=f27e1376] [cursor=pointer]:
+                - /url: https://sabway.es/shop/225-matricula-vmp-y-seguro
+                - generic [ref=f27e1377]: 
+            - listitem [ref=f27e1380]:
+              - link "Patinetes Eléctricos" [ref=f27e1381] [cursor=pointer]:
+                - /url: https://sabway.es/shop/12-patinetes-electricos
+                - generic [ref=f27e1382]: 
+            - listitem [ref=f27e1385]:
+              - link "Bicicletas Eléctricas" [ref=f27e1386] [cursor=pointer]:
+                - /url: https://sabway.es/shop/24-bicicletas-electricas
+                - generic [ref=f27e1387]: 
+            - listitem [ref=f27e1390]:
+              - link "Movilidad reducida" [ref=f27e1391] [cursor=pointer]:
+                - /url: https://sabway.es/shop/37-movilidad-reducida
+                - generic [ref=f27e1392]: 
+            - listitem [ref=f27e1395]:
+              - link "Juguetes" [ref=f27e1396] [cursor=pointer]:
+                - /url: https://sabway.es/shop/55-juguetes
+                - generic [ref=f27e1397]: 
+            - listitem [ref=f27e1400]:
+              - link "Recambios" [ref=f27e1401] [cursor=pointer]:
+                - /url: https://sabway.es/shop/144-recambios
+                - generic [ref=f27e1402]: 
+            - listitem [ref=f27e1405]:
+              - link "Abre tu franquicia" [ref=f27e1406] [cursor=pointer]:
+                - /url: https://www.sabway.es/blog/franquicias/
+                - generic [ref=f27e1407]: 
+        - generic [ref=f27e1412]:
+          - heading "CONTACTO" [level=2] [ref=f27e1415]
+          - list [ref=f27e1422]:
+            - listitem [ref=f27e1423]:
+              - link "Lunes a Viernes 9 a 17 hrs." [ref=f27e1424] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f27e1425]: 
+            - listitem [ref=f27e1428]:
+              - link "+34655910806" [ref=f27e1429] [cursor=pointer]:
+                - /url: https://wa.me/34655910806
+                - generic [ref=f27e1430]: 
+            - listitem [ref=f27e1433]:
+              - generic [ref=f27e1434]: 
+              - generic [ref=f27e1436]: 930 185 635
+            - listitem [ref=f27e1437]:
+              - generic [ref=f27e1438]: 
+              - generic [ref=f27e1440]: contacto@sabway.es
+      - generic [ref=f27e1443]:
+        - paragraph [ref=f27e1453]: 100% Pago seguro. financiación a medida sin papeleos.
+        - link [ref=f27e1460] [cursor=pointer]:
+          - /url: https://sabway.es/shop/index.php?controller=attachment&id_attachment=81
+        - generic [ref=f27e1466]:
+          - link "Whatsapp " [ref=f27e1467] [cursor=pointer]:
+            - /url: https://wa.me/34655910806
+            - generic [ref=f27e1468]: Whatsapp
+            - generic [ref=f27e1469]: 
+          - link "Youtube " [ref=f27e1470] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCmcJCT3rltTPd7JSEQFvHcA/videos
+            - generic [ref=f27e1471]: Youtube
+            - generic [ref=f27e1472]: 
+          - link "Instagram " [ref=f27e1473] [cursor=pointer]:
+            - /url: https://www.instagram.com/sabwayoficial/?utm_source=ig_profile_share&igshid=nl467k23wba7
+            - generic [ref=f27e1474]: Instagram
+            - generic [ref=f27e1475]: 
+          - link "Tumblr " [ref=f27e1476] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@sabwayoficial
+            - generic [ref=f27e1477]: Tumblr
+            - generic [ref=f27e1478]: 
+          - link "Twitter " [ref=f27e1479] [cursor=pointer]:
+            - /url: https://twitter.com/sabwayoficial
+            - generic [ref=f27e1480]: Twitter
+            - generic [ref=f27e1481]: 
+          - link "Linkedin-in " [ref=f27e1482] [cursor=pointer]:
+            - /url: https://es.linkedin.com/company/sabway
+            - generic [ref=f27e1483]: Linkedin-in
+            - generic [ref=f27e1484]: 
+  - text:   
+  - generic [ref=f27e1485]: tablet
+  - text:                      
+  - alertdialog [ref=f27e1486]
+  - generic [ref=f27e1489]:
+    - generic:
+      - paragraph [ref=f27e1492]: Esta tienda te pide que aceptes cookies para fines de rendimiento, redes sociales y publicidad. Las redes sociales y las cookies publicitarias de terceros se utilizan para ofrecerte funciones de redes sociales y anuncios personalizados. ¿Aceptas estas cookies y el procesamiento de datos personales involucrados?
+      - text: ✘ ✘
+      - generic [ref=f27e1495]:
+        - button "Configurar" [ref=f27e1497] [cursor=pointer]
+        - button "Rechazar" [ref=f27e1499] [cursor=pointer]
+        - button "Aceptar" [ref=f27e1501] [cursor=pointer]
+  - text: ✖ ✖

@@ -1,0 +1,17 @@
+[     819ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://patinetestore.com/categoria-producto/patinetes-electricos/:0
+[    1221ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://patinetestore.com/favicon.ico:0
+[    4077ms] [ERROR] Failed to load resource: the server responded with a status of 405 () @ https://patinetestore.com/hcdn-cgi/jschallenge-validate:0
+[   36110ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://patinetestore.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:1
+[   43445ms] [LOG] Can't find any placeholders for pricetags. @ https://pricetag.viabill.com/script/hCrcikLDKxk%3D:0
+[   45772ms] [WARNING] [21:25:29.681] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[   45772ms] [WARNING] [21:25:29.684] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[   45773ms] [WARNING] [21:25:29.684] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[   45773ms] [WARNING] [21:25:29.685] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[   45774ms] [WARNING] [21:25:29.685] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[   45774ms] [WARNING] [21:25:29.686] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[   45796ms] [WARNING] [21:25:29.707] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[   45805ms] [WARNING] [21:25:29.716] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[   45807ms] [WARNING] [21:25:29.719] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[   50707ms] [WARNING] e.Errors.PermissionError @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[   53413ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ :3338
+[   59636ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ :3338

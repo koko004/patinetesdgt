@@ -1,0 +1,460 @@
+- generic [ref=f34e1]:
+  - alertdialog [ref=f34e2]:
+    - generic [ref=f34e3]:
+      - generic [ref=f34e4]:
+        - heading "Consentimiento para el uso de cookies" [level=2] [ref=f34e5]
+        - paragraph [ref=f34e6]:
+          - text: Nosotros y nuestros partners, incluido Shopify, utilizamos cookies y otras tecnologías para personalizar tu experiencia, mostrarte anuncios y realizar informes y estadísticas, y no utilizaremos cookies ni otras tecnologías para estos fines a menos que las aceptes. Obtén más información en nuestra
+          - link "Política de privacidad" [ref=f34e7] [cursor=pointer]:
+            - /url: http://electyum.com/policies/privacy-policy
+      - generic [ref=f34e8]:
+        - button "Administrar preferencias" [ref=f34e9]
+        - button "Aceptar" [ref=f34e10]
+        - button "Rechazar" [ref=f34e11]
+  - link "Ir directamente al contenido" [ref=f34e12] [cursor=pointer]:
+    - /url: "#MainContent"
+  - banner [ref=f34e14]:
+    - generic [ref=f34e17]:
+      - generic [ref=f34e18]:
+        - link [ref=f34e19] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=f34e23]:
+          - list [ref=f34e26]:
+            - generic:
+              - link "PATINETES" [ref=f34e27] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+              - link "PATINETES HOMOLOGADOS" [ref=f34e29] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - menuitem "Más" [ref=f34e32] [cursor=pointer]
+      - generic [ref=f34e34]:
+        - button "Abrir selector de región e idioma EUR" [ref=f34e36] [cursor=pointer]:
+          - generic [ref=f34e37]: Abrir selector de región e idioma
+          - generic [ref=f34e38]: EUR
+        - button "Abrir búsqueda" [ref=f34e40] [cursor=pointer]
+        - generic [ref=f34e41]:
+          - button "Abrir menú de cuenta" [ref=f34e43] [cursor=pointer]
+          - 'button "Abrir carrito Total de artículos en el carrito: 0" [ref=f34e49] [cursor=pointer]':
+            - generic [ref=f34e51]:
+              - status:
+                - generic [ref=f34e53]: "Total de artículos en el carrito: 0"
+  - main [ref=f34e54]:
+    - generic [ref=f34e57]:
+      - link "Ir directamente a la información del producto" [ref=f34e58] [cursor=pointer]:
+        - /url: "#ProductInformation-template--26141808394565__main"
+      - generic [ref=f34e59]:
+        - generic [ref=f34e62]:
+          - generic [ref=f34e63]:
+            - generic:
+              - button "Diapositiva anterior" [ref=f34e64] [cursor=pointer]
+              - button "Siguiente diapositiva" [ref=f34e65] [cursor=pointer]
+            - img "Odyssr Drift Dual 60V 27Ah (Homologado DGT)" [ref=f34e70]
+          - generic [ref=f34e89]:
+            - button "Diapositiva 1 de 5" [ref=f34e90] [cursor=pointer]:
+              - img "Odyssr Drift Dual 60V 27Ah (Homologado DGT)" [ref=f34e91]
+            - button "Diapositiva 2 de 5" [ref=f34e92] [cursor=pointer]:
+              - img "Odyssr Drift Dual 60V 27Ah (Homologado DGT)" [ref=f34e93]
+            - button "Diapositiva 3 de 5" [ref=f34e94] [cursor=pointer]:
+              - img "Odyssr Drift Dual 60V 27Ah (Homologado DGT)" [ref=f34e95]
+            - button "Diapositiva 4 de 5" [ref=f34e96] [cursor=pointer]:
+              - img "Odyssr Drift Dual 60V 27Ah (Homologado DGT)" [ref=f34e97]
+            - button "Diapositiva 5 de 5" [ref=f34e98] [cursor=pointer]:
+              - img "Odyssr Drift Dual 60V 27Ah (Homologado DGT)" [ref=f34e99]
+        - generic [ref=f34e102]:
+          - heading "Odyssr Drift Dual" [level=1] [ref=f34e104]
+          - generic [ref=f34e105]:
+            - generic [ref=f34e106]:
+              - group [ref=f34e107]:
+                - generic [ref=f34e108]: Precio de oferta
+                - text: €1.289,00 EUR
+              - group [ref=f34e109]:
+                - generic [ref=f34e110]: Precio habitual
+                - text: €2.249,00 EUR
+            - generic [ref=f34e111]: Aranceles e impuestos incluidos. Envío calculado en el pago.
+          - iframe [ref=f34e117]:
+            - generic [ref=f39e6]:
+              - generic [ref=f39e7]:
+                - generic [ref=f39e9]:
+                  - strong [ref=f39e10]: 125,41 €
+                  - text: al mes
+                - generic [ref=f39e12]:
+                  - generic [ref=f39e13]: x12
+                  - generic [ref=f39e14] [cursor=pointer]: x6
+                  - generic [ref=f39e15] [cursor=pointer]: x3 sin coste
+                  - text: +info
+              - img "SeQura logo" [ref=f39e17] [cursor=pointer]
+          - paragraph [ref=f34e119]: Homologado por la DGT ✅
+          - list [ref=f34e125]:
+            - listitem [ref=f34e126]:
+              - strong [ref=f34e127]: 🚀 Motor Dual
+              - text: ": 2x 1000W"
+            - listitem [ref=f34e128]:
+              - strong [ref=f34e129]: "🔋 Autonomía:"
+              - text: Hasta 100 Km
+            - listitem [ref=f34e130]:
+              - strong [ref=f34e131]: "🔋 Batería:"
+              - text: 60V 27Ah
+            - listitem [ref=f34e132]:
+              - strong [ref=f34e133]: "⚡ Velocidad Limitada:"
+              - text: Hasta 25 Km/h (Limitado de fábrica)
+            - listitem [ref=f34e134]:
+              - strong [ref=f34e135]: "🛑Frenos:"
+              - text: Frenos de disco hidráulico
+            - listitem [ref=f34e136]:
+              - strong [ref=f34e137]: "🛞 Ruedas:"
+              - text: 10" todoterreno
+            - listitem [ref=f34e138]:
+              - strong [ref=f34e139]: 📱 APP móvil - Pantalla LCD NFC
+          - paragraph [ref=f34e141]:
+            - strong [ref=f34e142]: 🚚 Envíos
+            - strong [ref=f34e143]: de 3 a 5 días hábiles
+          - generic [ref=f34e146]:
+            - heading "Comprados juntos..." [level=4] [ref=f34e149]
+            - generic [ref=f34e153]:
+              - button "Siguiente diapositiva" [ref=f34e154] [cursor=pointer]
+              - generic [ref=f34e155]:
+                - generic [ref=f34e159]:
+                  - link "Patinete Eléctrico SmartGyro Raptor Dual Evo LR" [ref=f34e160] [cursor=pointer]:
+                    - /url: /products/patinete-electrico-smartgyro-raptor-dual-evo-lr?variant=57077217362245
+                  - generic [ref=f34e162] [cursor=pointer]:
+                    - generic [ref=f34e163]:
+                      - link "Patinete Eléctrico SmartGyro Raptor Dual Evo LR" [ref=f34e164]:
+                        - /url: "\n/products/patinete-electrico-smartgyro-raptor-dual-evo-lr?variant=57077217362245"
+                        - img "Patinete Eléctrico SmartGyro Raptor Dual Evo LR" [ref=f34e170]
+                      - generic [ref=f34e177]: Oferta
+                      - generic:
+                        - generic:
+                          - status
+                    - link [ref=f34e179]:
+                      - /url: "\n/products/patinete-electrico-smartgyro-raptor-dual-evo-lr?variant=57077217362245"
+                      - paragraph [ref=f34e181]: Patinete Eléctrico SmartGyro Raptor Dual Evo LR
+                    - generic [ref=f34e183]:
+                      - group [ref=f34e184]:
+                        - generic [ref=f34e185]: Precio de oferta
+                        - text: €1.075,00 EUR
+                      - group [ref=f34e186]:
+                        - generic [ref=f34e187]: Precio habitual
+                        - text: €1.490,00 EUR
+                - generic [ref=f34e191]:
+                  - link [ref=f34e192] [cursor=pointer]:
+                    - /url: /products/patiente-electrico-odyssr-rodeo-dual-homologado-dgt?variant=58309320409413
+                    - generic [ref=f34e193]: Odyssr Rodeo Dual
+                  - generic [ref=f34e194] [cursor=pointer]:
+                    - generic [ref=f34e195]:
+                      - link [ref=f34e196]:
+                        - /url: "\n/products/patiente-electrico-odyssr-rodeo-dual-homologado-dgt?variant=58309320409413"
+                      - generic [ref=f34e209]: Oferta
+                      - generic:
+                        - generic:
+                          - status
+                    - link [ref=f34e211]:
+                      - /url: "\n/products/patiente-electrico-odyssr-rodeo-dual-homologado-dgt?variant=58309320409413"
+                      - paragraph [ref=f34e213]: Odyssr Rodeo Dual
+                    - generic [ref=f34e215]:
+                      - group [ref=f34e216]:
+                        - generic [ref=f34e217]: Precio de oferta
+                        - text: €995,00 EUR
+                      - group [ref=f34e218]:
+                        - generic [ref=f34e219]: Precio habitual
+                        - text: €1.999,00 EUR
+          - generic [ref=f34e221]:
+            - status [ref=f34e222]
+            - generic [ref=f34e224]:
+              - generic [ref=f34e225]:
+                - button "Disminuir cantidad" [ref=f34e226] [cursor=pointer]
+                - spinbutton "Cantidad" [ref=f34e228]: "1"
+                - button "Aumentar cantidad" [ref=f34e229] [cursor=pointer]
+              - button "Agregar al carrito" [ref=f34e233] [cursor=pointer]:
+                - generic [ref=f34e236]: Agregada
+              - generic [ref=f34e240]:
+                - generic [ref=f34e243]:
+                  - iframe [ref=f34e244]:
+                    - generic "Payment Button" [ref=f36e2]:
+                      - link "PayPal" [ref=f36e5] [cursor=pointer]
+                  - iframe [ref=f34e245]
+                - link "Más opciones de pago" [ref=f34e247] [cursor=pointer]:
+                  - /url: "#"
+    - generic [ref=f34e252]:
+      - heading "Odyssr Drift Dual" [level=2] [ref=f34e254]
+      - generic [ref=f34e256]:
+        - paragraph [ref=f34e257]:
+          - text: El
+          - strong [ref=f34e258]: Odyssr Drift Dual
+          - text: representa una evolución estratégica dentro de la movilidad urbana de alto rendimiento. Desarrollado en colaboración bajo las líneas de fabricación de la prestigiosa marca
+          - strong [ref=f34e259]: Teverun
+          - text: ", este modelo hereda directamente la arquitectura electromecánica, la robustez del chasis y los componentes premium del reconocido"
+          - emphasis [ref=f34e260]: Blade Mini Ultra
+          - text: .
+        - paragraph [ref=f34e261]:
+          - text: Su gran valor competitivo radica en ofrecer
+          - strong [ref=f34e262]: las mismas especificaciones de gama alta pero a un precio significativamente más económico
+          - text: ", adoptando un diseño más estilizado, urbano y compacto. Es el vehículo ideal para usuarios que buscan un patinete de tamaño medio, sumamente versátil y con una potencia superlativa para \"devorar\" kilómetros en el día a día sin sufrir por la autonomía."
+        - heading "DESGLOSE DETALLADO POR COMPONENTES" [level=3] [ref=f34e263]
+        - heading "Sistema de Energía y Batería (\"Batería Infinita\")" [level=3] [ref=f34e264]
+        - list [ref=f34e265]:
+          - listitem [ref=f34e266]:
+            - strong [ref=f34e267]: "Tecnología de las Celdas:"
+            - text: Batería de iones de litio de alta densidad y estabilidad térmica.
+          - listitem [ref=f34e268]:
+            - strong [ref=f34e269]: "Voltaje Nominal:"
+            - strong [ref=f34e270]: 60V
+            - text: . Un voltaje elevado que garantiza una entrega de potencia inmediata, mejor aceleración y una gestión eficiente de la energía en condiciones de alta exigencia (subidas o carga máxima).
+          - listitem [ref=f34e271]:
+            - strong [ref=f34e272]: "Capacidad Nominal:"
+            - strong [ref=f34e273]: 27Ah
+            - text: (Amperios-hora). Una capacidad masiva para un patinete de tamaño medio, lo que le confiere el adjetivo de "batería infinita".
+          - listitem [ref=f34e274]:
+            - strong [ref=f34e275]: "Autonomía Real/Estimada:"
+            - strong [ref=f34e276]: Entre 80 y 100 kilómetros
+            - text: con una sola carga.
+            - emphasis [ref=f34e277]: "(Nota: La autonomía final varía según el peso del conductor, la velocidad media, el modo de conducción y el desnivel del terreno)."
+        - heading "Tren Motriz y Rendimiento Dinámico" [level=3] [ref=f34e278]
+        - list [ref=f34e279]:
+          - listitem [ref=f34e280]:
+            - strong [ref=f34e281]: "Configuración del Motor:"
+            - strong [ref=f34e282]: Dual Motor
+            - text: (Un motor magnético sin escobillas —Brushless— situado en la rueda delantera y otro en la trasera).
+          - listitem [ref=f34e283]:
+            - strong [ref=f34e284]: "Potencia:"
+            - strong [ref=f34e285]: 1000W en cada motor
+            - text: (Potencia nominal conjunta de
+            - strong [ref=f34e286]: 2000W
+            - text: ).
+          - listitem [ref=f34e287]:
+            - strong [ref=f34e288]: "Tracción:"
+            - text: Integral (2WD). Al traccionar ambas ruedas, se elimina el derrape en salidas, mejora drásticamente el agarre en curvas y proporciona una estabilidad sobresaliente sobre asfalto mojado.
+          - listitem [ref=f34e289]:
+            - strong [ref=f34e290]: "Velocidad Máxima Legal:"
+            - text: Limitado estrictamente de fábrica a
+            - strong [ref=f34e291]: 25 km/h
+            - text: para cumplir con la legislación española de VMP.
+          - listitem [ref=f34e292]:
+            - strong [ref=f34e293]: "Capacidad de Escalada:"
+            - text: Capaz de afrontar pendientes con un
+            - strong [ref=f34e294]: ángulo de inclinación de hasta 30º
+            - text: sin caídas drásticas de velocidad, gracias al alto par motor de su sistema de 60V.
+        - heading "Chasis, Dimensiones y Seguridad Ciclo" [level=3] [ref=f34e295]
+        - list [ref=f34e296]:
+          - listitem [ref=f34e297]:
+            - strong [ref=f34e298]: "Sistema de Frenado:"
+            - strong [ref=f34e299]: Freno de disco asistido por circuito hidráulico
+            - text: tanto en el eje delantero como en el trasero. El accionamiento hidráulico reduce la fatiga en las manetas y multiplica la presión sobre los discos, logrando una distancia de frenado extremadamente corta y segura.
+          - listitem [ref=f34e300]:
+            - strong [ref=f34e301]: "Neumáticos:"
+            - text: Ruedas de
+            - strong [ref=f34e302]: 10 pulgadas
+            - text: . Su diámetro medio-alto proporciona un excelente confort de marcha, absorbiendo baches urbanos, juntas de dilatación y desniveles de forma mucho más eficaz que las ruedas estándar de 8.5".
+          - listitem [ref=f34e303]:
+            - strong [ref=f34e304]: "Dimensiones del Patinete:"
+            - strong [ref=f34e305]: 1233 mm de largo $\times$ 650 mm de ancho $\times$ 1271 mm de alto
+            - text: ". Geometría optimizada de tamaño medio-compacto: mantiene la agilidad entre el tráfico urbano pero ofrece una base (deck) amplia para la posición de los pies."
+          - listitem [ref=f34e306]:
+            - strong [ref=f34e307]: "Peso del Vehículo:"
+            - strong [ref=f34e308]: 30 kg
+            - text: . Un peso equilibrado considerando la enorme batería y el doble motor que incorpora.
+          - listitem [ref=f34e309]:
+            - strong [ref=f34e310]: "Capacidad de Carga Útil:"
+            - text: Soporta un
+            - strong [ref=f34e311]: peso máximo de hasta 120 kg
+            - text: sin comprometer la amortiguación ni el rendimiento estructural.
+        - heading "Electrónica, Interfaz y Seguridad Anti-robo" [level=3] [ref=f34e312]
+        - list [ref=f34e313]:
+          - listitem [ref=f34e314]:
+            - strong [ref=f34e315]: "Pantalla (Display):"
+            - text: Panel
+            - strong [ref=f34e316]: LCD Multifunción
+            - text: central. Permite visualizar en tiempo real parámetros críticos como la velocidad actual, el odómetro (kilómetros totales y parciales), el modo de potencia seleccionado y el voltaje exacto de la batería.
+          - listitem [ref=f34e317]:
+            - strong [ref=f34e318]: "Sistema de Encendido NFC:"
+            - text: Sistema de seguridad
+            - emphasis [ref=f34e319]: contactless
+            - text: . El patinete cuenta con un lector de tarjetas/llaveros NFC. Si no se aproxima la llave digital autorizada, el sistema eléctrico permanece completamente bloqueado, actuando como un inmovilizador electrónico eficaz contra robos.
+          - listitem [ref=f34e320]:
+            - strong [ref=f34e321]: "Control Remoto de Seguridad:"
+            - text: Incluye un mando a distancia dotado de un limitador/deslimitador de velocidad a distancia. Este elemento es de uso exclusivo para entornos cerrados, circuitos privados o regulaciones específicas de países que permitan velocidades superiores a los 25 km/h.
+        - heading "¿Por qué elegirlo?" [level=2] [ref=f34e322]
+        - list [ref=f34e323]:
+          - listitem [ref=f34e324]:
+            - strong [ref=f34e325]: "Certificación DGT Oficial:"
+            - text: Cuenta con el número de certificado
+            - strong [ref=f34e326]: B1145
+            - text: otorgado por la Dirección General de Tráfico. Esto garantiza que el vehículo cumple con todos los requisitos de iluminación, frenado, catadióptricos y limitaciones técnicas exigidos por la ley, evitando multas y permitiendo su libre circulación.
+          - listitem [ref=f34e327]:
+            - strong [ref=f34e328]: "La alternativa inteligente al Blade Mini Ultra:"
+            - text: Al ser fabricado por Teverun con los mismos componentes internos pero bajo un diseño de marca más urbano, el usuario adquiere un patinete de gama súper alta pagando un precio notablemente inferior.
+          - listitem [ref=f34e329]:
+            - strong [ref=f34e330]: "Adiós a la \"ansiedad por la batería\":"
+            - text: Sus 100 km potenciales de autonomía permiten realizar trayectos diarios de larga distancia de ida y vuelta durante toda la semana laboral sin necesidad de cargar el dispositivo cada noche.
+          - listitem [ref=f34e331]:
+            - strong [ref=f34e332]: "Seguridad Pasiva Superior:"
+            - text: El combo de doble freno hidráulico + tracción integral en las dos ruedas + neumáticos de 10" minimiza drásticamente el riesgo de caídas provocadas por frenazos de emergencia o pérdida de tracción en firmes deslizantes.
+    - generic [ref=f34e337]:
+      - img "Odyssr Drift Dual 60V 27Ah (Homologado DGT)" [ref=f34e339]
+      - generic [ref=f34e341]:
+        - paragraph [ref=f34e343]:
+          - strong [ref=f34e344]: Hasta 100Km
+          - text: de libertad 🔋
+        - paragraph [ref=f34e346]:
+          - text: Con su batería de
+          - strong [ref=f34e347]: 60V 27Ah
+          - text: y motor de
+          - strong [ref=f34e348]: 1000W x2
+          - text: ", tendrás garantizadas horas de autonomía para todos tus trayectos diarios. ¡Circula ahora sin preocupaciones!"
+    - generic [ref=f34e352]:
+      - heading "Related products" [level=3] [ref=f34e355]
+      - generic [ref=f34e356]:
+        - generic "Carga de recomendaciones de productos" [ref=f34e357]
+        - generic "Carga de recomendaciones de productos" [ref=f34e358]
+        - generic "Carga de recomendaciones de productos" [ref=f34e359]
+        - generic "Carga de recomendaciones de productos" [ref=f34e360]
+    - generic [ref=f34e370]:
+      - generic [ref=f34e372]:
+        - heading "Capacidad de motor ⚙️" [level=2] [ref=f34e374]
+        - paragraph [ref=f34e376]: Potencia 2x 1000W
+        - paragraph [ref=f34e378]:
+          - text: Pico máximo con
+          - strong [ref=f34e379]: 1000W x2
+          - text: de potencia máxima para nunca dejarte tirado ;)
+      - generic [ref=f34e381]:
+        - heading "Batería y autonomía 🔋" [level=2] [ref=f34e383]
+        - generic [ref=f34e384]:
+          - paragraph [ref=f34e385]:
+            - text: Batería de
+            - strong [ref=f34e386]: 60V 27Ah
+            - text: ", con la que podrás hacer"
+            - strong [ref=f34e387]: Hasta 100Km
+          - paragraph [ref=f34e388]:
+            - text: Disfruta de tu
+            - strong [ref=f34e389]: Odyssr Drift Dual
+            - text: sin preocuparte por la carga!
+      - generic [ref=f34e391]:
+        - heading "Suspensión y ruedas 🛞" [level=2] [ref=f34e393]
+        - generic [ref=f34e394]:
+          - paragraph [ref=f34e395]:
+            - text: Ruedas de
+            - strong [ref=f34e396]: 10" Todoterreno
+            - text: ", con agarre y seguridad en cada trayecto."
+          - paragraph [ref=f34e397]:
+            - text: Suspensión
+            - strong [ref=f34e398]: Suspensión de muelle delantera y trasera
+            - text: para una conducción cómoda y estable.
+    - generic [ref=f34e407]:
+      - heading "Related products" [level=3] [ref=f34e410]
+      - generic [ref=f34e411]:
+        - generic "Carga de recomendaciones de productos" [ref=f34e412]
+        - generic "Carga de recomendaciones de productos" [ref=f34e413]
+        - generic "Carga de recomendaciones de productos" [ref=f34e414]
+        - generic "Carga de recomendaciones de productos" [ref=f34e415]
+    - generic [ref=f34e424]:
+      - generic [ref=f34e425]:
+        - paragraph [ref=f34e428]: Homologado por la DGT ✅
+        - paragraph [ref=f34e431]: Homologado por la DGT ✅
+        - paragraph [ref=f34e434]: Homologado por la DGT ✅
+        - paragraph [ref=f34e437]: Homologado por la DGT ✅
+      - generic [ref=f34e438]:
+        - paragraph [ref=f34e441]: Homologado por la DGT ✅
+        - paragraph [ref=f34e444]: Homologado por la DGT ✅
+        - paragraph [ref=f34e447]: Homologado por la DGT ✅
+        - paragraph [ref=f34e450]: Homologado por la DGT ✅
+    - generic [ref=f34e460]:
+      - generic [ref=f34e462]:
+        - heading "Garantía de 2 años 🔓" [level=2] [ref=f34e464]
+        - paragraph [ref=f34e466]: Somos los distribuidores oficiales de la marca en España y Europa
+      - generic [ref=f34e468]:
+        - heading "Envios 🚚" [level=2] [ref=f34e470]
+        - paragraph [ref=f34e472]: Aquí va información sobre los envíos y lo rápido que somos o lo barato que son
+        - paragraph [ref=f34e474]: de 3 a 5 días hábiles
+      - generic [ref=f34e476]:
+        - heading "Atención al cliente 📞" [level=2] [ref=f34e478]
+        - paragraph [ref=f34e480]: de 3 a 5 días hábiles
+    - generic [ref=f34e495]:
+      - heading "Preguntas frecuentes" [level=3] [ref=f34e497]
+      - generic [ref=f34e498]:
+        - group [ref=f34e500]:
+          - generic "Cual es nuestra politica postventa?" [ref=f34e501] [cursor=pointer]
+        - group [ref=f34e503]:
+          - generic "Are any purchases final sale?" [ref=f34e504] [cursor=pointer]
+        - group [ref=f34e506]:
+          - generic "When will I get my order?" [ref=f34e507] [cursor=pointer]
+        - group [ref=f34e509]:
+          - generic "Where are your products manufactured?" [ref=f34e510] [cursor=pointer]
+        - group [ref=f34e512]:
+          - generic "How much does shipping cost?" [ref=f34e513] [cursor=pointer]
+  - generic [ref=f34e518]:
+    - generic [ref=f34e520]:
+      - generic [ref=f34e522]:
+        - group [ref=f34e524]:
+          - generic "Tienda" [ref=f34e525]
+          - list [ref=f34e527]:
+            - listitem [ref=f34e528]:
+              - link "PATINETES" [ref=f34e529] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+            - listitem [ref=f34e530]:
+              - link "PATINETES HOMOLOGADOS" [ref=f34e531] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - listitem [ref=f34e532]:
+              - link "MOTOS ELÉCTRICAS" [ref=f34e533] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f34e534]:
+              - link "BICIS ELÉCTRICAS" [ref=f34e535] [cursor=pointer]:
+                - /url: /collections/bicicletas-electricas
+            - listitem [ref=f34e536]:
+              - link "MOVILIDAD INFANTIL" [ref=f34e537] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-ninos
+            - listitem [ref=f34e538]:
+              - link "MOVILIDAD REDUCIDA" [ref=f34e539] [cursor=pointer]:
+                - /url: /collections/scooters-movilidad-reducida
+            - listitem [ref=f34e540]:
+              - link "KARTS ELÉCTRICOS" [ref=f34e541] [cursor=pointer]:
+                - /url: /collections/karts-electricos
+            - listitem [ref=f34e542]:
+              - link "COCHES ELÉCTRICOS" [ref=f34e543] [cursor=pointer]:
+                - /url: /collections/coches-electricos
+            - listitem [ref=f34e544]:
+              - link "MOTOS de GASOLINA" [ref=f34e545] [cursor=pointer]:
+                - /url: /collections/motos-gasolina
+            - listitem [ref=f34e546]:
+              - link "Contacto" [ref=f34e547] [cursor=pointer]:
+                - /url: /pages/contact
+        - group [ref=f34e549]:
+          - generic "Información" [ref=f34e550]
+          - list [ref=f34e552]:
+            - listitem [ref=f34e553]:
+              - link "Financiar patinete eléctrico" [ref=f34e554] [cursor=pointer]:
+                - /url: /pages/como-financiar-un-patinete-electrico
+            - listitem [ref=f34e555]:
+              - link "Términos y condiciones" [ref=f34e556] [cursor=pointer]:
+                - /url: /policies/terms-of-service
+            - listitem [ref=f34e557]:
+              - link "Política de envíos" [ref=f34e558] [cursor=pointer]:
+                - /url: /policies/shipping-policy
+            - listitem [ref=f34e559]:
+              - link "Devoluciones y garantías" [ref=f34e560] [cursor=pointer]:
+                - /url: /policies/refund-policy
+            - listitem [ref=f34e561]:
+              - link "(+34) 689313556" [ref=f34e562] [cursor=pointer]:
+                - /url: https://wa.me/34689313556
+            - listitem [ref=f34e563]:
+              - link "sat@electyum.com" [ref=f34e564] [cursor=pointer]:
+                - /url: mailto:sat@electyum.com
+      - generic [ref=f34e565]:
+        - generic [ref=f34e566]: suscríbete para descuentitos!
+        - generic [ref=f34e568]:
+          - generic [ref=f34e569]: Correo electrónico
+          - textbox "Correo electrónico" [ref=f34e570]:
+            - /placeholder: Dirección de correo electrónico
+          - button "Registrarse" [ref=f34e571]
+    - generic [ref=f34e574]:
+      - generic [ref=f34e575]:
+        - generic [ref=f34e577]:
+          - text: © 2026
+          - link "Electyum" [ref=f34e578] [cursor=pointer]:
+            - /url: /
+        - button "Términos y políticas" [ref=f34e580] [cursor=pointer]
+      - generic [ref=f34e582]:
+        - link "Instagram" [ref=f34e584] [cursor=pointer]:
+          - /url: https://instagram.com/electyum
+        - link "Youtube" [ref=f34e588] [cursor=pointer]:
+          - /url: https://www.youtube.com/@electyummovilidadinteligen6279
+  - link "WhatsApp" [ref=f34e593] [cursor=pointer]:
+    - /url: https://web.whatsapp.com/send?phone=34689313556
+    - generic: Te ayudamos? :)

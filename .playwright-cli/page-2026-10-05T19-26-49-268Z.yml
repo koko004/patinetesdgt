@@ -1,0 +1,1094 @@
+- generic [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - generic:    
+      - navigation [ref=e4]:
+        - generic [ref=e9]:
+          - paragraph [ref=e10]:
+            - link [ref=e11] [cursor=pointer]:
+              - /url: https://smartgyro.es/
+              - img "Español" [ref=e12]
+            - link [ref=e13] [cursor=pointer]:
+              - /url: https://smartgyro.es/en/en/
+              - img "English" [ref=e14]
+          - generic:
+            - list
+      - text:      
+      - generic [ref=e20]:
+        - generic [ref=e21]:
+          - generic [ref=e22] [cursor=pointer]: 
+          - list [ref=e26]:
+            - listitem [ref=e27]:
+              - generic [ref=e28] [cursor=pointer]:
+                - generic [ref=e29]: 
+                - text: 
+              - link "Bicicletas eléctricas" [ref=e30] [cursor=pointer]:
+                - /url: https://smartgyro.es/bicicletas-electricas
+              - text:  
+            - listitem [ref=e31]:
+              - generic [ref=e32] [cursor=pointer]:
+                - generic [ref=e33]: 
+                - text: 
+              - link "Patinetes eléctricos" [ref=e34] [cursor=pointer]:
+                - /url: https://smartgyro.es/patinetes-electricos
+              - text:  
+            - listitem [ref=e35]:
+              - generic [ref=e36] [cursor=pointer]:
+                - generic [ref=e37]: 
+                - text: 
+              - link "Accesorios Patinete" [ref=e38] [cursor=pointer]:
+                - /url: https://smartgyro.es/accesorios-patinete
+              - text:  
+            - listitem [ref=e39]:
+              - generic [ref=e40] [cursor=pointer]:
+                - generic [ref=e41]: 
+                - text: 
+              - link "Repuestos por modelos" [ref=e42] [cursor=pointer]:
+                - /url: https://smartgyro.es/repuestos-por-modelos
+              - text:    
+            - listitem [ref=e43]:
+              - link "Vehículos de movilidad reducida" [ref=e44] [cursor=pointer]:
+                - /url: https://smartgyro.es/vehiculos-de-movilidad-reducida
+            - listitem [ref=e45]:
+              - link "Reacondicionados" [ref=e46] [cursor=pointer]:
+                - /url: https://smartgyro.es/reacondicionados
+            - listitem [ref=e47]:
+              - link "Registra tu patín" [ref=e48] [cursor=pointer]:
+                - /url: https://soporte.smartgyro.es/usuarios/menu_registro.php
+            - listitem [ref=e49]:
+              - link "Matrícula VMP" [ref=e50] [cursor=pointer]:
+                - /url: https://smartgyro.es/matriculas-para-patinetes
+            - listitem [ref=e51]:
+              - link "CONTRATA SEGURO OBLIGATORIO 2026" [ref=e52] [cursor=pointer]:
+                - /url: https://www.segurabici.es/smartgyro/
+            - listitem [ref=e53]:
+              - link "Seguro opcional Bicicletas 2026" [ref=e54] [cursor=pointer]:
+                - /url: https://www.segurabici.es/smartgyro-bikes/
+            - listitem [ref=e55]:
+              - link "Seguro NO OBLIGATORIO patinetes NO CERTIFICADOS" [ref=e56] [cursor=pointer]:
+                - /url: https://smartgyro.es/img/cms/CERTIFICADO_PATINETES_NOCERTIFICADOS_SEGURO_NO_OBLIGATORIO.pdf
+            - listitem [ref=e57]:
+              - link "Plan Renove" [ref=e58] [cursor=pointer]:
+                - /url: https://smartgyro.es/renove/
+            - listitem [ref=e59]:
+              - link "Alquiler" [ref=e60] [cursor=pointer]:
+                - /url: https://smartgyro.es/content/alquiler-de-bicicletas-electricas-y-patinetes-en-madrid-smartrenting
+            - listitem [ref=e61]:
+              - link "Asistencia" [ref=e62] [cursor=pointer]:
+                - /url: https://smartgyro.es/content/asistencia
+            - listitem [ref=e63]:
+              - link "Tiendas y talleres" [ref=e64] [cursor=pointer]:
+                - /url: www.smartgyro.es/tiendas
+            - listitem [ref=e65]:
+              - link "Cita Previa Alcorcón Puerta del Sur" [ref=e66] [cursor=pointer]:
+                - /url: https://smartgyro.es/content/taller-oficial-en-madrid
+            - listitem [ref=e67]:
+              - link "Cita Previa Madrid RIO" [ref=e68] [cursor=pointer]:
+                - /url: https://smartgyro.es/content/taller-y-tienda-oficial-en-madrid-rio-smartrenting
+            - listitem [ref=e69]:
+              - link "Contacta con nosotros" [ref=e70] [cursor=pointer]:
+                - /url: https://woxter.freshdesk.com/support/tickets/new
+        - generic [ref=e71]: 
+        - link [ref=e75] [cursor=pointer]:
+          - /url: https://smartgyro.es/
+          - img "Smartgyro" [ref=e76]
+        - link [ref=e78] [cursor=pointer]:
+          - /url: https://smartgyro.es/mi-cuenta
+          - generic [ref=e79]: 
+        - generic [ref=e81]:
+          - generic [ref=e83] [cursor=pointer]:
+            - text: 
+            - generic [ref=e84]: "0"
+          - generic [ref=e85]:
+            - generic [ref=e86]:
+              - text: Your cart
+              - button "×" [ref=e87] [cursor=pointer]
+              - separator [ref=e88]
+            - generic [ref=e89]: No hay más artículos en su carrito
+    - generic [ref=e90]:
+      - navigation [ref=e92]:
+        - list [ref=e95]:
+          - listitem [ref=e96]:
+            - link "Inicio" [ref=e97] [cursor=pointer]:
+              - /url: https://smartgyro.es/
+            - text: /
+          - listitem [ref=e98]:
+            - link "Productos" [ref=e99] [cursor=pointer]:
+              - /url: https://smartgyro.es/productos
+            - text: /
+          - listitem [ref=e100]:
+            - link "Patinetes eléctricos" [ref=e101] [cursor=pointer]:
+              - /url: https://smartgyro.es/patinetes-electricos
+            - text: /
+          - listitem [ref=e102]: Todos los patinetes
+      - generic [ref=e103]:
+        - complementary
+        - generic [ref=e104]:
+          - generic [ref=e106]:
+            - heading "Todos los patinetes" [level=1] [ref=e108]
+            - generic [ref=e109]:
+              - generic [ref=e112]:
+                - text: 
+                - generic [ref=e113]:
+                  - link [ref=e114] [cursor=pointer]:
+                    - /url: https://smartgyro.es/todos-los-patinetes?order=product.position.asc&productListView=grid
+                    - generic [ref=e115]: 
+                  - link [ref=e116] [cursor=pointer]:
+                    - /url: https://smartgyro.es/todos-los-patinetes?order=product.position.asc&productListView=list
+                    - generic [ref=e117]: 
+                - generic [ref=e118]:
+                  - text: Mostrando 1-18 de 18 artículo(s)
+                  - generic [ref=e120] [cursor=pointer]:
+                    - generic [ref=e121]: Relevancia
+                    - generic [ref=e122]: 
+                  - generic [ref=e124] [cursor=pointer]:
+                    - text: "18"
+                    - generic [ref=e125]: 
+              - generic [ref=e126]:
+                - text: 
+                - generic [ref=e128]:
+                  - article [ref=e130]:
+                    - generic [ref=e131]:
+                      - link [ref=e132] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-rockway-gts
+                        - img "Patinete eléctrico..." [ref=e133]
+                        - img "Patinete eléctrico... 2" [ref=e134]
+                      - list
+                      - generic [ref=e136]:
+                        - link [ref=e137] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e138]: 
+                        - link [ref=e139] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e140]: 
+                    - generic [ref=e141]:
+                      - generic [ref=e142]: Single Motor
+                      - heading [level=2] [ref=e143]:
+                        - link "Patinete eléctrico smartGyro Rockway GTS" [ref=e144] [cursor=pointer]:
+                          - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-rockway-gts
+                      - link "SG27-586" [ref=e146] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-rockway-gts
+                      - link "779,00 €" [ref=e148] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-rockway-gts
+                      - button "Comprar" [ref=e152] [cursor=pointer]:
+                        - generic [ref=e153]: 
+                        - text:  Comprar
+                  - article [ref=e155]:
+                    - generic [ref=e156]:
+                      - link [ref=e157] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-rockway-gl
+                        - img "Patinete eléctrico..." [ref=e158]
+                        - img "Patinete eléctrico... 2" [ref=e159]
+                      - list
+                      - generic [ref=e161]:
+                        - link [ref=e162] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e163]: 
+                        - link [ref=e164] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e165]: 
+                    - generic [ref=e166]:
+                      - generic [ref=e167]: Single Motor
+                      - heading [level=2] [ref=e168]:
+                        - link "Patinete eléctrico smartGyro Rockway GL" [ref=e169] [cursor=pointer]:
+                          - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-rockway-gl
+                      - link "SG27-619" [ref=e171] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-rockway-gl
+                      - link "599,00 €" [ref=e173] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-rockway-gl
+                      - button "Comprar" [ref=e177] [cursor=pointer]:
+                        - generic [ref=e178]: 
+                        - text:  Comprar
+                  - article [ref=e180]:
+                    - generic [ref=e181]:
+                      - link [ref=e182] [cursor=pointer]:
+                        - /url: https://smartgyro.es/dual-motor/patinete-electrico-smartgyro-crossover-dual-max-2-certificado
+                        - img "Patinete eléctrico..." [ref=e183]
+                        - img "Patinete eléctrico... 2" [ref=e184]
+                      - list
+                      - generic [ref=e186]:
+                        - link [ref=e187] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e188]: 
+                        - link [ref=e189] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e190]: 
+                    - generic [ref=e191]:
+                      - generic [ref=e192]: Dual Motor
+                      - heading [level=2] [ref=e193]:
+                        - link "Patinete eléctrico smartGyro CROSSOVER DUAL MAX 2" [ref=e194] [cursor=pointer]:
+                          - /url: https://smartgyro.es/dual-motor/patinete-electrico-smartgyro-crossover-dual-max-2-certificado
+                      - link "SG27-395" [ref=e196] [cursor=pointer]:
+                        - /url: https://smartgyro.es/dual-motor/patinete-electrico-smartgyro-crossover-dual-max-2-certificado
+                      - link "799,00 €" [ref=e198] [cursor=pointer]:
+                        - /url: https://smartgyro.es/dual-motor/patinete-electrico-smartgyro-crossover-dual-max-2-certificado
+                      - button "Comprar" [ref=e202] [cursor=pointer]:
+                        - generic [ref=e203]: 
+                        - text:  Comprar
+                  - article [ref=e205]:
+                    - generic [ref=e206]:
+                      - link [ref=e207] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-ryder-2-certificado
+                        - img "Patinete eléctrico..." [ref=e208]
+                        - img "Patinete eléctrico... 2" [ref=e209]
+                      - list [ref=e210]:
+                        - listitem [ref=e211]: "-100,00 €"
+                      - generic [ref=e213]:
+                        - link [ref=e214] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e215]: 
+                        - link [ref=e216] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e217]: 
+                    - generic [ref=e218]:
+                      - generic [ref=e219]: Single Motor
+                      - heading [level=2] [ref=e220]:
+                        - link "Patinete eléctrico smartGyro Ryder 2" [ref=e221] [cursor=pointer]:
+                          - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-ryder-2-certificado
+                      - link "SG27-572" [ref=e223] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-ryder-2-certificado
+                      - generic [ref=e224]:
+                        - link "799,01 €" [ref=e225] [cursor=pointer]:
+                          - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-ryder-2-certificado
+                        - text: 899,01 €
+                        - generic: 
+                      - button "Comprar" [ref=e229] [cursor=pointer]:
+                        - generic [ref=e230]: 
+                        - text:  Comprar
+                  - article [ref=e232]:
+                    - generic [ref=e233]:
+                      - link [ref=e234] [cursor=pointer]:
+                        - /url: https://smartgyro.es/dual-motor/patinete-electrico-smartgyro-raptor-dual-evo
+                        - img "Patinete eléctrico..." [ref=e235]
+                        - img "Patinete eléctrico... 2" [ref=e236]
+                      - list [ref=e237]:
+                        - listitem [ref=e238]: "-50,00 €"
+                      - generic [ref=e240]:
+                        - link [ref=e241] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e242]: 
+                        - link [ref=e243] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e244]: 
+                    - generic [ref=e245]:
+                      - generic [ref=e246]: Dual Motor
+                      - heading [level=2] [ref=e247]:
+                        - link "Patinete eléctrico smartGyro Raptor Dual Evo" [ref=e248] [cursor=pointer]:
+                          - /url: https://smartgyro.es/dual-motor/patinete-electrico-smartgyro-raptor-dual-evo
+                      - link "SG27-554" [ref=e250] [cursor=pointer]:
+                        - /url: https://smartgyro.es/dual-motor/patinete-electrico-smartgyro-raptor-dual-evo
+                      - generic [ref=e251]:
+                        - link "949,00 €" [ref=e252] [cursor=pointer]:
+                          - /url: https://smartgyro.es/dual-motor/patinete-electrico-smartgyro-raptor-dual-evo
+                        - text: 999,00 €
+                        - generic: 
+                      - button "Comprar" [ref=e256] [cursor=pointer]:
+                        - generic [ref=e257]: 
+                        - text:  Comprar
+                  - article [ref=e259]:
+                    - generic [ref=e260]:
+                      - link [ref=e261] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-k5-pro-lr-certificado
+                        - img "Patinete eléctrico..." [ref=e262]
+                        - img "Patinete eléctrico... 2" [ref=e263]
+                      - list
+                      - generic [ref=e265]:
+                        - link [ref=e266] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e267]: 
+                        - link [ref=e268] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e269]: 
+                    - generic [ref=e270]:
+                      - generic [ref=e271]: Single Motor
+                      - heading [level=2] [ref=e272]:
+                        - link "Patinete eléctrico smartGyro K5 PRO LR Certificado" [ref=e273] [cursor=pointer]:
+                          - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-k5-pro-lr-certificado
+                      - link "SG27-593" [ref=e275] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-k5-pro-lr-certificado
+                      - link "779,00 €" [ref=e277] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-k5-pro-lr-certificado
+                      - button "Comprar" [ref=e281] [cursor=pointer]:
+                        - generic [ref=e282]: 
+                        - text:  Comprar
+                  - article [ref=e284]:
+                    - generic [ref=e285]:
+                      - link [ref=e286] [cursor=pointer]:
+                        - /url: https://smartgyro.es/dual-motor/patinete-electrico-smartgyro-crossover-dual_xt
+                        - img "Patinete eléctrico..." [ref=e287]
+                        - img "Patinete eléctrico... 2" [ref=e288]
+                      - list
+                      - generic [ref=e290]:
+                        - link [ref=e291] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e292]: 
+                        - link [ref=e293] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e294]: 
+                    - generic [ref=e295]:
+                      - generic [ref=e296]: Dual Motor
+                      - heading [level=2] [ref=e297]:
+                        - link "Patinete eléctrico smartGyro Crossover Dual XT" [ref=e298] [cursor=pointer]:
+                          - /url: https://smartgyro.es/dual-motor/patinete-electrico-smartgyro-crossover-dual_xt
+                      - link "SG27-622" [ref=e300] [cursor=pointer]:
+                        - /url: https://smartgyro.es/dual-motor/patinete-electrico-smartgyro-crossover-dual_xt
+                      - link "899,00 €" [ref=e302] [cursor=pointer]:
+                        - /url: https://smartgyro.es/dual-motor/patinete-electrico-smartgyro-crossover-dual_xt
+                      - button "Comprar" [ref=e306] [cursor=pointer]:
+                        - generic [ref=e307]: 
+                        - text:  Comprar
+                  - article [ref=e309]:
+                    - generic [ref=e310]:
+                      - link [ref=e311] [cursor=pointer]:
+                        - /url: https://smartgyro.es/dual-motor/patinete-electrico-smartgyro-raptor-dual-evo-lr
+                        - img "Patinete eléctrico..." [ref=e312]
+                        - img "Patinete eléctrico... 2" [ref=e313]
+                      - list [ref=e314]:
+                        - listitem [ref=e315]: "-100,00 €"
+                      - generic [ref=e317]:
+                        - link [ref=e318] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e319]: 
+                        - link [ref=e320] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e321]: 
+                    - generic [ref=e322]:
+                      - generic [ref=e323]: Dual Motor
+                      - heading [level=2] [ref=e324]:
+                        - link "Patinete eléctrico smartGyro Raptor Dual Evo LR" [ref=e325] [cursor=pointer]:
+                          - /url: https://smartgyro.es/dual-motor/patinete-electrico-smartgyro-raptor-dual-evo-lr
+                      - link "SG27-556" [ref=e327] [cursor=pointer]:
+                        - /url: https://smartgyro.es/dual-motor/patinete-electrico-smartgyro-raptor-dual-evo-lr
+                      - generic [ref=e328]:
+                        - link "1.099,00 €" [ref=e329] [cursor=pointer]:
+                          - /url: https://smartgyro.es/dual-motor/patinete-electrico-smartgyro-raptor-dual-evo-lr
+                        - text: 1.199,00 €
+                        - generic: 
+                      - button "Comprar" [ref=e333] [cursor=pointer]:
+                        - generic [ref=e334]: 
+                        - text:  Comprar
+                  - article [ref=e336]:
+                    - generic [ref=e337]:
+                      - link [ref=e338] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-rockway-gt
+                        - img "Patinete eléctrico..." [ref=e339]
+                        - img "Patinete eléctrico... 2" [ref=e340]
+                      - list [ref=e341]:
+                        - listitem [ref=e342]: "-100,00 €"
+                      - generic [ref=e344]:
+                        - link [ref=e345] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e346]: 
+                        - link [ref=e347] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e348]: 
+                    - generic [ref=e349]:
+                      - generic [ref=e350]: Single Motor
+                      - heading [level=2] [ref=e351]:
+                        - link "Patinete eléctrico smartGyro Rockway GT" [ref=e352] [cursor=pointer]:
+                          - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-rockway-gt
+                      - link "SG27-585" [ref=e354] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-rockway-gt
+                      - generic [ref=e355]:
+                        - link "599,00 €" [ref=e356] [cursor=pointer]:
+                          - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-rockway-gt
+                        - text: 699,00 €
+                        - generic: 
+                      - button "Comprar" [ref=e360] [cursor=pointer]:
+                        - generic [ref=e361]: 
+                        - text:  Comprar
+                  - article [ref=e363]:
+                    - generic [ref=e364]:
+                      - link [ref=e365] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-speedway-certificado
+                        - img "Patinete eléctrico..." [ref=e366]
+                        - img "Patinete eléctrico... 2" [ref=e367]
+                      - list
+                      - generic [ref=e369]:
+                        - link [ref=e370] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e371]: 
+                        - link [ref=e372] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e373]: 
+                    - generic [ref=e374]:
+                      - generic [ref=e375]: Single Motor
+                      - heading [level=2] [ref=e376]:
+                        - link "Patinete eléctrico smartGyro Speedway Certificado" [ref=e377] [cursor=pointer]:
+                          - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-speedway-certificado
+                      - link "SG27-152" [ref=e379] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-speedway-certificado
+                      - link "699,00 €" [ref=e381] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-speedway-certificado
+                      - button "Comprar" [ref=e385] [cursor=pointer]:
+                        - generic [ref=e386]: 
+                        - text:  Comprar
+                  - article [ref=e388]:
+                    - generic [ref=e389]:
+                      - link [ref=e390] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-speedway-pro-certificado
+                        - img "Patinete eléctrico..." [ref=e391]
+                        - img "Patinete eléctrico... 2" [ref=e392]
+                      - list
+                      - generic [ref=e394]:
+                        - link [ref=e395] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e396]: 
+                        - link [ref=e397] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e398]: 
+                    - generic [ref=e399]:
+                      - generic [ref=e400]: Single Motor
+                      - heading [level=2] [ref=e401]:
+                        - link "Patinete eléctrico smartGyro Speedway PRO Certificado" [ref=e402] [cursor=pointer]:
+                          - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-speedway-pro-certificado
+                      - link "SG27-186" [ref=e404] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-speedway-pro-certificado
+                      - link "799,00 €" [ref=e406] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-speedway-pro-certificado
+                      - button "Comprar" [ref=e410] [cursor=pointer]:
+                        - generic [ref=e411]: 
+                        - text:  Comprar
+                  - article [ref=e413]:
+                    - generic [ref=e414]:
+                      - link [ref=e415] [cursor=pointer]:
+                        - /url: https://smartgyro.es/patinetes-electricos/patinete-electrico-smartgyro-rockway-gt-dual
+                        - img "Patinete eléctrico..." [ref=e416]
+                        - img "Patinete eléctrico... 2" [ref=e417]
+                      - list
+                      - generic [ref=e419]:
+                        - link [ref=e420] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e421]: 
+                        - link [ref=e422] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e423]: 
+                    - generic [ref=e424]:
+                      - generic [ref=e425]: Patinetes eléctricos
+                      - heading [level=2] [ref=e426]:
+                        - link "Patinete eléctrico smartGyro Rockway GT DUAL" [ref=e427] [cursor=pointer]:
+                          - /url: https://smartgyro.es/patinetes-electricos/patinete-electrico-smartgyro-rockway-gt-dual
+                      - link "SG27-633" [ref=e429] [cursor=pointer]:
+                        - /url: https://smartgyro.es/patinetes-electricos/patinete-electrico-smartgyro-rockway-gt-dual
+                      - link "799,00 €" [ref=e431] [cursor=pointer]:
+                        - /url: https://smartgyro.es/patinetes-electricos/patinete-electrico-smartgyro-rockway-gt-dual
+                      - button "Comprar" [ref=e435] [cursor=pointer]:
+                        - generic [ref=e436]: 
+                        - text:  Comprar
+                  - article [ref=e438]:
+                    - generic [ref=e439]:
+                      - link [ref=e440] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-raptor-evo-lr
+                        - img "Patinete eléctrico..." [ref=e441]
+                        - img "Patinete eléctrico... 2" [ref=e442]
+                      - list
+                      - generic [ref=e444]:
+                        - link [ref=e445] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e446]: 
+                        - link [ref=e447] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e448]: 
+                    - generic [ref=e449]:
+                      - generic [ref=e450]: Single Motor
+                      - heading [level=2] [ref=e451]:
+                        - link "Patinete eléctrico smartGyro Raptor Evo LR" [ref=e452] [cursor=pointer]:
+                          - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-raptor-evo-lr
+                      - link "SG27-555" [ref=e454] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-raptor-evo-lr
+                      - link "899,01 €" [ref=e456] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-raptor-evo-lr
+                      - button "Comprar" [ref=e460] [cursor=pointer]:
+                        - generic [ref=e461]: 
+                        - text:  Comprar
+                  - article [ref=e463]:
+                    - generic [ref=e464]:
+                      - link [ref=e465] [cursor=pointer]:
+                        - /url: https://smartgyro.es/dual-motor/patinete-electrico-smartgyro-crossover-dual-max-2-lr-certificado
+                        - img "Patinete eléctrico..." [ref=e466]
+                        - img "Patinete eléctrico... 2" [ref=e467]
+                      - list [ref=e468]:
+                        - listitem [ref=e469]: "-60,00 €"
+                      - generic [ref=e471]:
+                        - link [ref=e472] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e473]: 
+                        - link [ref=e474] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e475]: 
+                      - generic [ref=e477]:
+                        - generic [ref=e478]: 
+                        - text: Próximamente
+                    - generic [ref=e479]:
+                      - generic [ref=e480]: Dual Motor
+                      - heading [level=2] [ref=e481]:
+                        - link "Patinete eléctrico smartGyro CROSSOVER DUAL MAX 2 LR" [ref=e482] [cursor=pointer]:
+                          - /url: https://smartgyro.es/dual-motor/patinete-electrico-smartgyro-crossover-dual-max-2-lr-certificado
+                      - link "SG27-423" [ref=e484] [cursor=pointer]:
+                        - /url: https://smartgyro.es/dual-motor/patinete-electrico-smartgyro-crossover-dual-max-2-lr-certificado
+                      - generic [ref=e485]:
+                        - link "799,00 €" [ref=e486] [cursor=pointer]:
+                          - /url: https://smartgyro.es/dual-motor/patinete-electrico-smartgyro-crossover-dual-max-2-lr-certificado
+                        - text: 859,00 €
+                        - generic: 
+                      - link "Ver" [ref=e488] [cursor=pointer]:
+                        - /url: https://smartgyro.es/dual-motor/patinete-electrico-smartgyro-crossover-dual-max-2-lr-certificado
+                  - article [ref=e490]:
+                    - generic [ref=e491]:
+                      - link [ref=e492] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-raptor-evo
+                        - img "Patinete eléctrico..." [ref=e493]
+                        - img "Patinete eléctrico... 2" [ref=e494]
+                      - list
+                      - generic [ref=e496]:
+                        - link [ref=e497] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e498]: 
+                        - link [ref=e499] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e500]: 
+                      - generic [ref=e502]:
+                        - generic [ref=e503]: 
+                        - text: Próximamente
+                    - generic [ref=e504]:
+                      - generic [ref=e505]: Single Motor
+                      - heading [level=2] [ref=e506]:
+                        - link "Patinete eléctrico smartGyro Raptor Evo" [ref=e507] [cursor=pointer]:
+                          - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-raptor-evo
+                      - link "SG27-553" [ref=e509] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-raptor-evo
+                      - link "799,00 €" [ref=e511] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-raptor-evo
+                      - link "Ver" [ref=e513] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-raptor-evo
+                  - article [ref=e515]:
+                    - generic [ref=e516]:
+                      - link [ref=e517] [cursor=pointer]:
+                        - /url: https://smartgyro.es/urbanos-y-ligeros/patinete-electrico-smartgyro-k1
+                        - img "Patinete eléctrico..." [ref=e518]
+                        - img "Patinete eléctrico... 2" [ref=e519]
+                      - list
+                      - generic [ref=e521]:
+                        - link [ref=e522] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e523]: 
+                        - link [ref=e524] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e525]: 
+                      - generic [ref=e527]:
+                        - generic [ref=e528]: 
+                        - text: Próximamente
+                    - generic [ref=e529]:
+                      - generic [ref=e530]: Urbanos y ligeros
+                      - heading [level=2] [ref=e531]:
+                        - link "Patinete eléctrico Smartgyro K1" [ref=e532] [cursor=pointer]:
+                          - /url: https://smartgyro.es/urbanos-y-ligeros/patinete-electrico-smartgyro-k1
+                      - link "SG27-618" [ref=e534] [cursor=pointer]:
+                        - /url: https://smartgyro.es/urbanos-y-ligeros/patinete-electrico-smartgyro-k1
+                      - link "459,00 €" [ref=e536] [cursor=pointer]:
+                        - /url: https://smartgyro.es/urbanos-y-ligeros/patinete-electrico-smartgyro-k1
+                      - link "Ver" [ref=e538] [cursor=pointer]:
+                        - /url: https://smartgyro.es/urbanos-y-ligeros/patinete-electrico-smartgyro-k1
+                  - article [ref=e540]:
+                    - generic [ref=e541]:
+                      - link [ref=e542] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-z-one-2-gray-certificado
+                        - img "Patinete eléctrico..." [ref=e543]
+                        - img "Patinete eléctrico... 2" [ref=e544]
+                      - list
+                      - generic [ref=e546]:
+                        - link [ref=e547] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e548]: 
+                        - link [ref=e549] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e550]: 
+                      - generic [ref=e552]:
+                        - generic [ref=e553]: 
+                        - text: Próximamente - lo tendremos aproximadamente el 2026-12-16
+                    - generic [ref=e554]:
+                      - generic [ref=e555]: Single Motor
+                      - heading [level=2] [ref=e556]:
+                        - link "Patinete eléctrico smartGyro Z-One 2 Gray Certificado" [ref=e557] [cursor=pointer]:
+                          - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-z-one-2-gray-certificado
+                      - link "SG27-393" [ref=e559] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-z-one-2-gray-certificado
+                      - link "299,00 €" [ref=e561] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-z-one-2-gray-certificado
+                      - link "Ver" [ref=e563] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-z-one-2-gray-certificado
+                  - article [ref=e565]:
+                    - generic [ref=e566]:
+                      - link [ref=e567] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-k5-pro-certificado
+                        - img "Patinete eléctrico..." [ref=e568]
+                        - img "Patinete eléctrico... 2" [ref=e569]
+                      - list
+                      - generic [ref=e571]:
+                        - link [ref=e572] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e573]: 
+                        - link [ref=e574] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=e575]: 
+                      - generic [ref=e577]:
+                        - generic [ref=e578]: 
+                        - text: Próximamente
+                    - generic [ref=e579]:
+                      - generic [ref=e580]: Single Motor
+                      - heading [level=2] [ref=e581]:
+                        - link "Patinete eléctrico smartGyro K5 PRO Certificado" [ref=e582] [cursor=pointer]:
+                          - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-k5-pro-certificado
+                      - link "SG27-592" [ref=e584] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-k5-pro-certificado
+                      - link "679,00 €" [ref=e586] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-k5-pro-certificado
+                      - link "Ver" [ref=e588] [cursor=pointer]:
+                        - /url: https://smartgyro.es/single-motor/patinete-electrico-smartgyro-k5-pro-certificado
+              - text: 
+              - generic [ref=e589]:
+                - separator [ref=e590]
+                - 'heading "Patinetes eléctricos Smartgyro en España: movilidad urbana eficiente, sostenible y de calidad al mejor precio" [level=2] [ref=e591]'
+                - paragraph [ref=e592]: ¿Quieres saber más sobre la marca líder en patinetes eléctricos calidad-precio con más de 25 años de experiencia en movilidad?
+                - paragraph [ref=e593]: Los patinetes eléctricos se han convertido en una de las soluciones de movilidad urbana más demandadas en España. Cada vez más usuarios buscan alternativas al coche o al transporte público que les permitan ahorrar tiempo, reducir costes y moverse de forma más eficiente y cómoda. En este contexto, Smartgyro se posiciona como una de las marcas líderes en patinetes eléctricos en España, ofreciendo un catálogo completo adaptado a todo tipo de usuarios y necesidades.
+                - paragraph [ref=e594]: Smartgyro nace en 2015 con el objetivo de transformar la movilidad urbana e introducir el concepto de movilidad eléctrica en el día a día de las personas en España. La marca forma parte de un grupo empresarial con más de 25 años de experiencia en el sector tecnológico y de la movilidad.
+                - heading "Comprar patín eléctrico Smartgyro. Calidad-precio líder en España" [level=3] [ref=e595]
+                - paragraph [ref=e596]: Si estás buscando comprar un patinete eléctrico en España, Smartgyro destaca por ofrecer una de las mejores relaciones calidad-precio del mercado. Según los estudios de GFK, la marca ha sido reconocida por segundo año consecutivo como líder en ventas dentro del rango de precio de 500 a 700 euros en patinetes eléctricos en España.
+                - paragraph [ref=e597]: Este reconocimiento refleja la confianza del usuario y la capacidad de la marca para ofrecer VMPs fiables, potentes y adaptados al uso real en ciudad.
+                - heading "Smartgyro. Promociones y ofertas exclusivas durante todo el año" [level=2] [ref=e598]
+                - paragraph [ref=e599]: En Smartgyro a lo largo del año lanzamos distintas campañas con descuentos y promociones especiales en una gran variedad de modelos. No hablamos solo de rebajas puntuales, sino de oportunidades reales para conseguir patinetes eléctricos y bicicletas eléctricas con una muy buena relación calidad-precio.
+                - paragraph [ref=e600]: Estas promociones suelen coincidir con momentos clave como cambios de temporada, Navidad o Black Friday, pero también con ocasiones como los Smartgyro Days o lanzamientos de nuevos modelos.
+                - heading "Catálogo de patinetes eléctricos Smartgyro. Un modelo para cada necesidad" [level=2] [ref=e601]
+                - paragraph [ref=e602]: El catálogo de patinetes eléctricos de Smartgyro está diseñado para cubrir todas las necesidades de movilidad, desde usuarios que se inician en el mundo de los VMP, hasta usuarios avanzados que buscan patines con altas prestaciones.
+                - paragraph [ref=e603]:
+                  - text: Los
+                  - strong [ref=e604]: modelos urbanos
+                  - text: están pensados para desplazamientos diarios en ciudad, con diseños más ligeros, cómodos y eficientes que permiten al usuario moverse con facilidad evitando el tráfico. Son la opción ideal para quienes buscan un patinete eléctrico práctico y funcional para el día a día. Hablamos de modelos como el Smartgyro Z-ONE 2, K1, gama GT, K5 PRO, K5 PRO LR, etc.
+                - paragraph [ref=e605]:
+                  - text: Los
+                  - strong [ref=e606]: patinetes eléctricos ligeros y plegables
+                  - text: ofrecen máxima comodidad en términos de transporte y almacenamiento, permitiendo combinarlos fácilmente con viviendas sin ascensor o guardarlos en espacios reducidos como oficinas o pisos pequeños.
+                - paragraph [ref=e607]:
+                  - text: Los
+                  - strong [ref=e608]: patines eléctricos offroad
+                  - text: están orientados a usuarios que necesitan mayor potencia y resistencia. Cuentan con ruedas más robustas, muy buena suspensión y capacidad para circular por terrenos irregulares o más accidentados. Son perfectos para quienes buscan un uso más exigente o recorrer rutas mixtas.
+                - paragraph [ref=e609]:
+                  - text: Los
+                  - strong [ref=e610]: patinetes eléctricos de doble motor o dual motor
+                  - text: representan la gama más potente de Smartgyro. Están diseñados para usuarios que buscan patinetes de alto rendimiento, mayor aceleración y mejor comportamiento en pendientes o trayectos largos. Aquí hablamos de modelos como el Smartgyro Crossover Dual Max 2, su versión LR, el Raptor Dual EVO, el Raptor Dual EVO LR, etc.
+                - paragraph [ref=e611]:
+                  - link "Ver catálogo completo de patinetes eléctricos" [ref=e612] [cursor=pointer]:
+                    - /url: https://smartgyro.es/patinetes-electricos
+                - heading "Alquiler de patinetes eléctricos con Smartrenting" [level=2] [ref=e613]
+                - paragraph [ref=e614]: Si eres rider y no quieres comprar directamente o prefieres una opción más flexible, también puedes optar por el alquiler de un patinete eléctrico a través de Smartrenting. Esta opción es ideal si quieres probar un vehículo de este tipo antes de decidirte, si no quieres asumir el coste inicial o si simplemente prefieres pagar una cuota mensual con todo incluido, mantenimiento y soporte incluidos.
+                - heading "Plan Básico" [level=3] [ref=e615]
+                - paragraph [ref=e616]: El Plan Básico es perfecto si quieres total flexibilidad y no quieres compromisos.
+                - list [ref=e617]:
+                  - listitem [ref=e618]: No necesitas depósito inicial.
+                  - listitem [ref=e619]: Sin permanencia.
+                  - listitem [ref=e620]: Cuota de 109 €/mes.
+                  - listitem [ref=e621]: "Seguro obligatorio: 18 €/mes."
+                - heading "Plan Pro" [level=3] [ref=e622]
+                - paragraph [ref=e623]: El plan PRO está pensado para quienes ya tienen claro que van a utilizar el patín durante un tiempo, pero sin comprometerse a largo plazo.
+                - list [ref=e624]:
+                  - listitem [ref=e625]: No requiere depósito.
+                  - listitem [ref=e626]: Permanencia de 3 meses.
+                  - listitem [ref=e627]: Cuota de 89 €/mes.
+                  - listitem [ref=e628]: "Seguro obligatorio: 18 €/mes."
+                - heading "Plan Premium" [level=3] [ref=e629]
+                - paragraph [ref=e630]: El plan Premium es la mejor opción si buscas el máximo ahorro y tienes claro que vas a utilizar el patinete de forma continuada.
+                - list [ref=e631]:
+                  - listitem [ref=e632]: Sin depósito inicial.
+                  - listitem [ref=e633]: Permanencia de 6 meses.
+                  - listitem [ref=e634]: Cuota de 79 €/mes.
+                  - listitem [ref=e635]: "Seguro obligatorio: 18 €/mes."
+                - paragraph [ref=e636]:
+                  - link "Saber más sobre Smartrenting" [ref=e637] [cursor=pointer]:
+                    - /url: https://smartrenting.es/content/alquiler-patinete-electrico-smartgyro
+          - generic [ref=e638]:
+            - generic [ref=e639]:
+              - heading [level=5] [ref=e640]:
+                - link "Todos los patinetes" [ref=e642] [cursor=pointer]:
+                  - /url: https://smartgyro.es/todos-los-patinetes
+              - list [ref=e644]:
+                - listitem [ref=e645]:
+                  - link " Gama Pro" [ref=e646] [cursor=pointer]:
+                    - /url: https://smartgyro.es/gama-pro
+                - listitem [ref=e647]:
+                  - link " Gama Élite" [ref=e648] [cursor=pointer]:
+                    - /url: https://smartgyro.es/gama-elite
+                - listitem [ref=e649]:
+                  - link " Urbanos y ligeros" [ref=e650] [cursor=pointer]:
+                    - /url: https://smartgyro.es/urbanos-y-ligeros
+                - listitem [ref=e651]:
+                  - link " Patinetes con Tecnología Core Inside" [ref=e652] [cursor=pointer]:
+                    - /url: https://smartgyro.es/patinetes-con-tecnologia-core-inside
+            - generic [ref=e654]:
+              - text:  
+              - generic [ref=e656]:
+                - complementary [ref=e657]:
+                  - heading "Disponibilidad" [level=4] [ref=e658]
+                  - list [ref=e659]:
+                    - listitem [ref=e660]:
+                      - generic [ref=e661]:
+                        - generic [ref=e662]:
+                          - checkbox "En stock (13)" [ref=e663] [cursor=pointer]
+                          - generic [ref=e664] [cursor=pointer]: 
+                        - link "En stock (13)" [ref=e665] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Disponibilidad-En+stock
+                    - listitem [ref=e666]:
+                      - generic [ref=e667]:
+                        - generic [ref=e668]:
+                          - checkbox "No disponible (5)" [ref=e669] [cursor=pointer]
+                          - generic [ref=e670] [cursor=pointer]: 
+                        - link "No disponible (5)" [ref=e671] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Disponibilidad-No+disponible
+                - complementary [ref=e672]:
+                  - heading "Precio" [level=4] [ref=e673]
+                  - list [ref=e674]:
+                    - listitem [ref=e675]:
+                      - paragraph [ref=e676]: 299,00 € - 1.200,00 €
+                      - generic [ref=e678]:
+                        - slider [ref=e681] [cursor=pointer]
+                        - slider [ref=e683] [cursor=pointer]
+                - complementary [ref=e685]:
+                  - heading "Con Tecnología Core Inside" [level=4] [ref=e686]
+                  - list [ref=e687]:
+                    - listitem [ref=e688]:
+                      - generic [ref=e689]:
+                        - generic [ref=e690]:
+                          - checkbox "No (5)" [ref=e691] [cursor=pointer]
+                          - generic [ref=e692] [cursor=pointer]: 
+                        - link "No (5)" [ref=e693] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Con+Tecnolog%C3%ADa+Core+Inside-No
+                    - listitem [ref=e694]:
+                      - generic [ref=e695]:
+                        - generic [ref=e696]:
+                          - checkbox "Sí (11)" [ref=e697] [cursor=pointer]
+                          - generic [ref=e698] [cursor=pointer]: 
+                        - link "Sí (11)" [ref=e699] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Con+Tecnolog%C3%ADa+Core+Inside-S%C3%AD
+                - complementary [ref=e700]:
+                  - heading "Batería" [level=4] [ref=e701]
+                  - list [ref=e702]:
+                    - listitem [ref=e703]:
+                      - generic [ref=e704]:
+                        - generic [ref=e705]:
+                          - checkbox "8.000mAh (1)" [ref=e706] [cursor=pointer]
+                          - generic [ref=e707] [cursor=pointer]: 
+                        - link "8.000mAh (1)" [ref=e708] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Bater%C3%ADa-8.000mAh
+                    - listitem [ref=e709]:
+                      - generic [ref=e710]:
+                        - generic [ref=e711]:
+                          - checkbox "13.000mAh (3)" [ref=e712] [cursor=pointer]
+                          - generic [ref=e713] [cursor=pointer]: 
+                        - link "13.000mAh (3)" [ref=e714] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Bater%C3%ADa-13.000mAh
+                    - listitem [ref=e715]:
+                      - generic [ref=e716]:
+                        - generic [ref=e717]:
+                          - checkbox "15.000mAh (5)" [ref=e718] [cursor=pointer]
+                          - generic [ref=e719] [cursor=pointer]: 
+                        - link "15.000mAh (5)" [ref=e720] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Bater%C3%ADa-15.000mAh
+                    - listitem [ref=e721]:
+                      - generic [ref=e722]:
+                        - generic [ref=e723]:
+                          - checkbox "16.000mAh (2)" [ref=e724] [cursor=pointer]
+                          - generic [ref=e725] [cursor=pointer]: 
+                        - link "16.000mAh (2)" [ref=e726] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Bater%C3%ADa-16.000mAh
+                    - listitem [ref=e727]:
+                      - generic [ref=e728]:
+                        - generic [ref=e729]:
+                          - checkbox "18.000mAh (2)" [ref=e730] [cursor=pointer]
+                          - generic [ref=e731] [cursor=pointer]: 
+                        - link "18.000mAh (2)" [ref=e732] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Bater%C3%ADa-18.000mAh
+                    - listitem [ref=e733]:
+                      - generic [ref=e734]:
+                        - generic [ref=e735]:
+                          - checkbox "20.000 mAh (1)" [ref=e736] [cursor=pointer]
+                          - generic [ref=e737] [cursor=pointer]: 
+                        - link "20.000 mAh (1)" [ref=e738] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Bater%C3%ADa-20.000+mAh
+                    - listitem [ref=e739]:
+                      - generic [ref=e740]:
+                        - generic [ref=e741]:
+                          - checkbox "20.000mAh (4)" [ref=e742] [cursor=pointer]
+                          - generic [ref=e743] [cursor=pointer]: 
+                        - link "20.000mAh (4)" [ref=e744] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Bater%C3%ADa-20.000mAh
+                - complementary [ref=e745]:
+                  - heading "Autonomía" [level=4] [ref=e746]
+                  - list [ref=e747]:
+                    - listitem [ref=e748]:
+                      - generic [ref=e749]:
+                        - generic [ref=e750]:
+                          - checkbox "30km (1)" [ref=e751] [cursor=pointer]
+                          - generic [ref=e752] [cursor=pointer]: 
+                        - link "30km (1)" [ref=e753] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Autonom%C3%ADa-30km
+                    - listitem [ref=e754]:
+                      - generic [ref=e755]:
+                        - generic [ref=e756]:
+                          - checkbox "45 Km (1)" [ref=e757] [cursor=pointer]
+                          - generic [ref=e758] [cursor=pointer]: 
+                        - link "45 Km (1)" [ref=e759] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Autonom%C3%ADa-45+Km
+                    - listitem [ref=e760]:
+                      - generic [ref=e761]:
+                        - generic [ref=e762]:
+                          - checkbox "50km (4)" [ref=e763] [cursor=pointer]
+                          - generic [ref=e764] [cursor=pointer]: 
+                        - link "50km (4)" [ref=e765] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Autonom%C3%ADa-50km
+                    - listitem [ref=e766]:
+                      - generic [ref=e767]:
+                        - generic [ref=e768]:
+                          - checkbox "60km (7)" [ref=e769] [cursor=pointer]
+                          - generic [ref=e770] [cursor=pointer]: 
+                        - link "60km (7)" [ref=e771] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Autonom%C3%ADa-60km
+                    - listitem [ref=e772]:
+                      - generic [ref=e773]:
+                        - generic [ref=e774]:
+                          - checkbox "75km (5)" [ref=e775] [cursor=pointer]
+                          - generic [ref=e776] [cursor=pointer]: 
+                        - link "75km (5)" [ref=e777] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Autonom%C3%ADa-75km
+                - complementary [ref=e778]:
+                  - heading "Suspensiones" [level=4] [ref=e779]
+                  - list [ref=e780]:
+                    - listitem [ref=e781]:
+                      - generic [ref=e782]:
+                        - generic [ref=e783]:
+                          - checkbox "Delantera invertida y trasera helicoidal (2)" [ref=e784] [cursor=pointer]
+                          - generic [ref=e785] [cursor=pointer]: 
+                        - link "Delantera invertida y trasera helicoidal (2)" [ref=e786] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Suspensiones-Delantera+invertida+y+trasera+helicoidal
+                    - listitem [ref=e787]:
+                      - generic [ref=e788]:
+                        - generic [ref=e789]:
+                          - checkbox "Delantera por elastómeros y trasera helicoidal (1)" [ref=e790] [cursor=pointer]
+                          - generic [ref=e791] [cursor=pointer]: 
+                        - link "Delantera por elastómeros y trasera helicoidal (1)" [ref=e792] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Suspensiones-Delantera+por+elast%C3%B3meros+y+trasera+helicoidal+
+                    - listitem [ref=e793]:
+                      - generic [ref=e794]:
+                        - generic [ref=e795]:
+                          - checkbox "Delantera y trasera (1)" [ref=e796] [cursor=pointer]
+                          - generic [ref=e797] [cursor=pointer]: 
+                        - link "Delantera y trasera (1)" [ref=e798] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Suspensiones-Delantera+y+trasera
+                    - listitem [ref=e799]:
+                      - generic [ref=e800]:
+                        - generic [ref=e801]:
+                          - checkbox "Delantera y trasera helicoidal (7)" [ref=e802] [cursor=pointer]
+                          - generic [ref=e803] [cursor=pointer]: 
+                        - link "Delantera y trasera helicoidal (7)" [ref=e804] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Suspensiones-Delantera+y+trasera+helicoidal
+                    - listitem [ref=e805]:
+                      - generic [ref=e806]:
+                        - generic [ref=e807]:
+                          - checkbox "Delantera y trasera por elastómeros (5)" [ref=e808] [cursor=pointer]
+                          - generic [ref=e809] [cursor=pointer]: 
+                        - link "Delantera y trasera por elastómeros (5)" [ref=e810] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Suspensiones-Delantera+y+trasera+por+elast%C3%B3meros
+                    - listitem [ref=e811]:
+                      - generic [ref=e812]:
+                        - generic [ref=e813]:
+                          - checkbox "No (1)" [ref=e814] [cursor=pointer]
+                          - generic [ref=e815] [cursor=pointer]: 
+                        - link "No (1)" [ref=e816] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Suspensiones-No
+                    - listitem [ref=e817]:
+                      - generic [ref=e818]:
+                        - generic [ref=e819]:
+                          - checkbox "Profesional Allroad (1)" [ref=e820] [cursor=pointer]
+                          - generic [ref=e821] [cursor=pointer]: 
+                        - link "Profesional Allroad (1)" [ref=e822] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Suspensiones-Profesional+Allroad
+                - complementary [ref=e823]:
+                  - heading "Sistema de frenado" [level=4] [ref=e824]
+                  - list [ref=e825]:
+                    - listitem [ref=e826]:
+                      - generic [ref=e827]:
+                        - generic [ref=e828]:
+                          - checkbox "Delantero eléctrico y trasero de disco (1)" [ref=e829] [cursor=pointer]
+                          - generic [ref=e830] [cursor=pointer]: 
+                        - link "Delantero eléctrico y trasero de disco (1)" [ref=e831] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Sistema+de+frenado-Delantero+el%C3%A9ctrico+y+trasero+de+disco
+                    - listitem [ref=e832]:
+                      - generic [ref=e833]:
+                        - generic [ref=e834]:
+                          - checkbox "Freno delantero y trasero de disco (11)" [ref=e835] [cursor=pointer]
+                          - generic [ref=e836] [cursor=pointer]: 
+                        - link "Freno delantero y trasero de disco (11)" [ref=e837] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Sistema+de+frenado-Freno+delantero+y+trasero+de+disco
+                    - listitem [ref=e838]:
+                      - generic [ref=e839]:
+                        - generic [ref=e840]:
+                          - checkbox "Freno delantero y trasero hidráulico (5)" [ref=e841] [cursor=pointer]
+                          - generic [ref=e842] [cursor=pointer]: 
+                        - link "Freno delantero y trasero hidráulico (5)" [ref=e843] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Sistema+de+frenado-Freno+delantero+y+trasero+hidr%C3%A1ulico
+                - complementary [ref=e844]:
+                  - heading "Voltaje del motor" [level=4] [ref=e845]
+                  - list [ref=e846]:
+                    - listitem [ref=e847]:
+                      - generic [ref=e848]:
+                        - generic [ref=e849]:
+                          - checkbox "36v (2)" [ref=e850] [cursor=pointer]
+                          - generic [ref=e851] [cursor=pointer]: 
+                        - link "36v (2)" [ref=e852] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Voltaje+del+motor-36v
+                    - listitem [ref=e853]:
+                      - generic [ref=e854]:
+                        - generic [ref=e855]:
+                          - checkbox "48 V (1)" [ref=e856] [cursor=pointer]
+                          - generic [ref=e857] [cursor=pointer]: 
+                        - link "48 V (1)" [ref=e858] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Voltaje+del+motor-48+V
+                    - listitem [ref=e859]:
+                      - generic [ref=e860]:
+                        - generic [ref=e861]:
+                          - checkbox "48v (11)" [ref=e862] [cursor=pointer]
+                          - generic [ref=e863] [cursor=pointer]: 
+                        - link "48v (11)" [ref=e864] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Voltaje+del+motor-48v
+                    - listitem [ref=e865]:
+                      - generic [ref=e866]:
+                        - generic [ref=e867]:
+                          - checkbox "Dual Motor 48V (4)" [ref=e868] [cursor=pointer]
+                          - generic [ref=e869] [cursor=pointer]: 
+                        - link "Dual Motor 48V (4)" [ref=e870] [cursor=pointer]:
+                          - /url: https://smartgyro.es/todos-los-patinetes?q=Voltaje+del+motor-Dual+Motor+48V
+    - generic [ref=e871]:
+      - generic [ref=e874]:
+        - generic [ref=e875]:
+          - heading "Enlaces Más buscados" [level=5] [ref=e876]
+          - list [ref=e878]:
+            - listitem [ref=e879]:
+              - link " Registra tu patín" [ref=e880] [cursor=pointer]:
+                - /url: https://soporte.smartgyro.es/usuarios/menu_registro.php
+            - listitem [ref=e881]:
+              - link " CONTRATA SEGURO OBLIGATORIO 2026" [ref=e882] [cursor=pointer]:
+                - /url: https://www.segurabici.es/smartgyro/
+            - listitem [ref=e883]:
+              - link " Modelos anteriores" [ref=e884] [cursor=pointer]:
+                - /url: https://smartgyro.es/content/manuales-productos-descatalogados
+            - listitem [ref=e885]:
+              - link " Talleres y tiendas oficiales de smartgyro" [ref=e886] [cursor=pointer]:
+                - /url: https://smartgyro.es/tiendas
+            - listitem [ref=e887]:
+              - link " Grandes superficies donde nos podrás encontrar" [ref=e888] [cursor=pointer]:
+                - /url: https://smartgyro.es/content/grandes-superficies-donde-nos-podras-encontrar
+            - listitem [ref=e889]:
+              - link " Tiendas online donde nos podrás encontrar" [ref=e890] [cursor=pointer]:
+                - /url: https://smartgyro.es/content/tiendas-online-donde-nos-podras-encontrar
+            - listitem [ref=e891]:
+              - link " Mayoristas donde nos podrás encontrar" [ref=e892] [cursor=pointer]:
+                - /url: https://smartgyro.es/content/mayoristas-donde-nos-podras-encontrar
+            - listitem [ref=e893]:
+              - link " 10 aniversario" [ref=e894] [cursor=pointer]:
+                - /url: https://smartgyro.es/content/decimo-aniversario
+        - generic [ref=e895]:
+          - heading "Nuestras redes" [level=5] [ref=e896]
+          - list [ref=e898]:
+            - listitem [ref=e899]:
+              - link " Youtube" [ref=e900] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UCefJU0WSE5QU5scbaSG2tng/videos
+            - listitem [ref=e901]:
+              - link " Instagram" [ref=e902] [cursor=pointer]:
+                - /url: https://www.instagram.com/smartgyro/?hl=es
+            - listitem [ref=e903]:
+              - link " Telegram" [ref=e904] [cursor=pointer]:
+                - /url: https://t.me/SmartgyroOficial
+            - listitem [ref=e905]:
+              - link " Facebook" [ref=e906] [cursor=pointer]:
+                - /url: https://es-es.facebook.com/smartGyro/
+            - listitem [ref=e907]:
+              - link " Twitter" [ref=e908] [cursor=pointer]:
+                - /url: https://twitter.com/smartgyro_es?lang=es
+            - listitem [ref=e909]:
+              - link " Linkedin" [ref=e910] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/smartgyro-oficial/?originalSubdomain=es
+            - listitem [ref=e911]:
+              - link " Blog" [ref=e912] [cursor=pointer]:
+                - /url: https://smartgyro.es/blog/entradas
+        - generic [ref=e913]:
+          - heading "Información" [level=5] [ref=e914]
+          - list [ref=e916]:
+            - listitem [ref=e917]:
+              - link " Sobre nosotros" [ref=e918] [cursor=pointer]:
+                - /url: https://smartgyro.es/content/sobre-nosotros
+            - listitem [ref=e919]:
+              - link " Pago seguro" [ref=e920] [cursor=pointer]:
+                - /url: https://smartgyro.es/content/pago-seguro
+            - listitem [ref=e921]:
+              - link " Pago a plazos con Aplazame" [ref=e922] [cursor=pointer]:
+                - /url: https://smartgyro.es/content/pago-a-plazos-con-aplazame
+            - listitem [ref=e923]:
+              - link " Mi cuenta" [ref=e924] [cursor=pointer]:
+                - /url: https://smartgyro.es/mi-cuenta
+            - listitem [ref=e925]:
+              - link " Política de privacidad" [ref=e926] [cursor=pointer]:
+                - /url: https://smartgyro.es/content/politica-de-privacidad
+            - listitem [ref=e927]:
+              - link " Política de calidad" [ref=e928] [cursor=pointer]:
+                - /url: https://smartgyro.es/img/cms/politica_calidad_quatrotec.pdf
+            - listitem [ref=e929]:
+              - link " Condiciones generales de venta" [ref=e930] [cursor=pointer]:
+                - /url: https://smartgyro.es/content/condiciones-generales-de-venta
+            - listitem [ref=e931]:
+              - link " Aviso legal" [ref=e932] [cursor=pointer]:
+                - /url: https://smartgyro.es/content/aviso-legal
+            - listitem [ref=e933]:
+              - link " Uso de cookies en smartGyro" [ref=e934] [cursor=pointer]:
+                - /url: https://smartgyro.es/content/uso-de-cookies-en-smartgyro
+            - listitem [ref=e935]:
+              - link " Condiciones de la garantía" [ref=e936] [cursor=pointer]:
+                - /url: https://smartgyro.es/index.php?controller=attachment&id_attachment=216
+            - listitem [ref=e937]:
+              - link " Información sobre datos de productos conectados" [ref=e938] [cursor=pointer]:
+                - /url: https://smartgyro.es/content/informacion-sobre-datos-de-productos-conectados
+        - generic [ref=e939]:
+          - heading "Contacta con nosotros" [level=5] [ref=e940]
+          - generic [ref=e941]:
+            - generic [ref=e942]:
+              - strong [ref=e943]: smartGyro
+              - separator [ref=e944]
+              - generic [ref=e945]:
+                - generic [ref=e946]: 
+                - link "info@smartgyro.es" [ref=e949] [cursor=pointer]:
+                  - /url: "mailto: info@smartgyro.es"
+            - separator [ref=e950]
+            - generic [ref=e951]:
+              - paragraph [ref=e952]: "TF: 91 642 95 20"
+              - paragraph [ref=e953]: Estamos revolucionando la forma de desplazarse. Nuestra pasión es la tecnología, sin sacrificar el medio ambiente. Descubre este viaje con nosotros.
+        - generic [ref=e964]:
+          - paragraph [ref=e965]: Las imágenes y fotografías en nuestra web y RSS no son contractuales y pueden cambiar ligeramente por motivos publicitarios y/o necesidades de producción sin variar las prestaciones de los productos.
+          - paragraph [ref=e966]: "Promoción seguro gratuito, validez del 01-06-2026 al 31-08-2026: Seguro anual obligatorio gratuito solo en los patinetes marcados con dicha oferta. Código a canjear en https://www.segurabici.es/smartgyro/ (1) QUATROTEC ELECTRÓNICA, S.L asume el importe correspondiente a la cobertura de Responsabilidad Civil de 6.450.000€ daños personales, 1.300.000€ daños materiales durante la primera anualidad del seguro de Segurabici. El importe a descontar son 31.47€, si el cliente incluye alguna cobertura opcional, el importe de esta, deberá abonarse. Esta promoción es válida únicamente para los patinetes seleccionados adquiridos en smartgyro.es, en las tiendas oficiales smartGyro y en determinados marketplaces. No válido para productos reacondicionados ni otros patinetes no marcados en la promoción. Promoción válida en las fechas establecidas. QUATROTEC ELECTRÓNICA, S.L se reserva el derecho a modificar o cancelar, sin necesidad de justificación y en cualquier momento, la presente promoción."
+      - generic [ref=e969]:
+        - img "Payments" [ref=e971]
+        - generic [ref=e972]:
+          - paragraph [ref=e973]:
+            - link "smartGyro. Todos los derechos reservados" [ref=e975] [cursor=pointer]:
+              - /url: https://smartgyro.es/
+            - link:
+              - /url: https://smartgyro.es/content/pago-seguro
+          - paragraph
+  - generic:
+    - button [ref=e977] [cursor=pointer]:
+      - img "Smartgyro" [ref=e978]
+    - generic:
+      - generic:
+        - generic:
+          - heading "Smartgyro" [level=3]
+          - generic: En linea
+      - generic:
+        - textbox "Escribe tu pregunta..."
+        - button
+      - generic: La IA de este chatbot puede cometer errores. Por favor, verifica la informacion.

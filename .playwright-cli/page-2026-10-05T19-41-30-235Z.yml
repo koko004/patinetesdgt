@@ -1,0 +1,712 @@
+- generic [ref=f260e1]:
+  - link [ref=f260e2] [cursor=pointer]:
+    - /url: https://web.whatsapp.com/send?l=es&phone=34688751888&text= https://www.imoveblue.es/52-joyor
+  - main [ref=f260e4]:
+    - generic [ref=f260e5]:
+      - list [ref=f260e17]:
+        - listitem [ref=f260e18]:
+          - generic [ref=f260e19]: 
+          - text: ¡ENVÍO GRATIS A PENÍNSULA Y BALEARES!
+      - navigation [ref=f260e21]:
+        - generic [ref=f260e23]:
+          - list [ref=f260e26]:
+            - listitem [ref=f260e27]:
+              - link "¡LLÁMANOS! 688 751 888" [ref=f260e28] [cursor=pointer]:
+                - /url: tel:+34688751888
+          - list [ref=f260e32]:
+            - listitem [ref=f260e33]:
+              - link "OPINIONES DE CLIENTES" [ref=f260e34] [cursor=pointer]:
+                - /url: https://www.trustedshops.es/evaluacion/info_X7971BAC9A2BC178FCCBEA75B22E0AD86.html
+            - listitem [ref=f260e35]:
+              - link "CONTACTO" [ref=f260e36] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/contactenos
+      - text:      
+      - generic [ref=f260e37]:
+        - link [ref=f260e41] [cursor=pointer]:
+          - /url: https://www.imoveblue.es/
+          - img "imoveblue.es - UJ Solutions SC" [ref=f260e42]
+        - generic [ref=f260e46]:
+          - generic [ref=f260e47]:
+            - generic [ref=f260e48] [cursor=pointer]:
+              - generic [ref=f260e49]: 
+              - generic [ref=f260e50]: Menu
+            - list [ref=f260e52]:
+              - listitem [ref=f260e53]:
+                - link "Inicio" [ref=f260e54] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/
+              - listitem [ref=f260e55]:
+                - link "Contacto" [ref=f260e56] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/contactenos
+              - listitem [ref=f260e57]:
+                - generic [ref=f260e58] [cursor=pointer]:
+                  - generic [ref=f260e59]: 
+                  - text: 
+                - link "Patinetes eléctricos certificados DGT" [ref=f260e60] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+              - listitem [ref=f260e61]:
+                - link "MATRICULA TU VMP" [ref=f260e62] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1726-comprar-matricula-patinete-vmp-adhesivo.html
+              - listitem [ref=f260e63]:
+                - link "Seguro patinete eléctrico VMP" [ref=f260e64] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/content/15-seguro-patinete-electrico-vmp
+              - listitem [ref=f260e65]:
+                - generic [ref=f260e66] [cursor=pointer]:
+                  - generic [ref=f260e67]: 
+                  - text: 
+                - link "Movilidad infantil" [ref=f260e68] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/26-movilidad-infantil
+              - listitem [ref=f260e69]:
+                - link "Bicicletas eléctricas" [ref=f260e70] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/14-bicicletas-electricas
+              - listitem [ref=f260e71]:
+                - link "Motos eléctricas" [ref=f260e72] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/18-motos-electricas
+              - listitem [ref=f260e73]:
+                - link "Monociclos eléctricos" [ref=f260e74] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/30-monociclos-electricos
+              - listitem [ref=f260e75]:
+                - link "Bicicletas" [ref=f260e76] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/31-bicicletas
+              - listitem [ref=f260e77]:
+                - link "Componentes ciclismo" [ref=f260e78] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/38-componentes-ciclismo
+              - listitem [ref=f260e79]:
+                - link "Recambios" [ref=f260e80] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/20-recambios
+              - listitem [ref=f260e81]:
+                - link "Triciclos eléctricos y movilidad reducida" [ref=f260e82] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/32-triciclos-electricos-y-movilidad-reducida
+              - listitem [ref=f260e83]:
+                - link "Accesorios VMP y ciclismo" [ref=f260e84] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/28-accesorios-vmp-ciclismo
+              - listitem [ref=f260e85]:
+                - link "Patinetes eléctricos" [ref=f260e86] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/13-patinete-electrico
+              - listitem [ref=f260e87]:
+                - link "Condiciones de compra y envío" [ref=f260e88] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/content/3-terminos-y-condiciones-de-uso
+          - generic [ref=f260e90] [cursor=pointer]:
+            - generic [ref=f260e91]: 
+            - generic [ref=f260e92]: Buscar
+          - link "Iniciar sesión" [ref=f260e94] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/mi-cuenta
+            - generic [ref=f260e95]: 
+          - generic [ref=f260e99] [cursor=pointer]:
+            - generic [ref=f260e100]:
+              - text: 
+              - generic [ref=f260e101]: "0"
+            - generic [ref=f260e102]: Carrito
+    - generic [ref=f260e103]:
+      - navigation [ref=f260e104]:
+        - list [ref=f260e108]:
+          - listitem [ref=f260e109]:
+            - link "Inicio" [ref=f260e110] [cursor=pointer]:
+              - /url: https://www.imoveblue.es/
+            - text: /
+          - listitem [ref=f260e111]:
+            - link "Patinetes eléctricos certificados DGT" [ref=f260e112] [cursor=pointer]:
+              - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+            - text: /
+          - listitem [ref=f260e113]:
+            - generic [ref=f260e114]: Joyor
+      - generic [ref=f260e115]:
+        - complementary
+        - generic [ref=f260e116]:
+          - generic [ref=f260e118]:
+            - heading "Joyor" [level=1] [ref=f260e120]
+            - generic [ref=f260e122]:
+              - paragraph [ref=f260e123]:
+                - text: Somos
+                - strong [ref=f260e124]: Distribuidor Oficicial Joyor
+                - text: ", marca experta de movilidad personal y fabricante de patinetes eléctricos con su propia fábrica"
+                - strong [ref=f260e125]: Joyor
+                - text: en China y su sede europea, almacén central y centro de soporte técnico España.
+                - strong [ref=f260e126]: Joyor
+                - text: destaca por ofrecer una amplia gama de patinetes eléctricos ligeros, de calidad, completos y a precios accesibles.
+              - paragraph [ref=f260e127]:
+                - strong [ref=f260e128]: TRABAJAMOS ÚNICAMENTE CON IMPORTADOR JOYOR OFICIAL DE ESPAÑA, LO QUE GARANTIZA EL MEJOR SERVICIO POSTVENTA, RECAMBIOS Y GARANTÍAS.
+              - paragraph [ref=f260e129]:
+                - strong [ref=f260e130]:
+                  - img "Joyor" [ref=f260e131]
+            - generic [ref=f260e132]:
+              - generic [ref=f260e135]:
+                - text: 
+                - generic [ref=f260e136]:
+                  - link [ref=f260e137] [cursor=pointer]:
+                    - /url: https://www.imoveblue.es/52-joyor?order=product.position.asc&productListView=grid
+                    - generic [ref=f260e138]: 
+                  - link [ref=f260e139] [cursor=pointer]:
+                    - /url: https://www.imoveblue.es/52-joyor?order=product.position.asc&productListView=list
+                    - generic [ref=f260e140]: 
+                - generic [ref=f260e141]:
+                  - generic [ref=f260e143] [cursor=pointer]:
+                    - generic [ref=f260e144]: Relevancia
+                    - generic [ref=f260e145]: 
+                  - generic [ref=f260e147] [cursor=pointer]:
+                    - text: "7"
+                    - generic [ref=f260e148]: 
+                - generic:
+                  - navigation
+              - generic [ref=f260e149]:
+                - text: 
+                - generic [ref=f260e150]:
+                  - generic [ref=f260e151]:
+                    - article [ref=f260e153]:
+                      - generic [ref=f260e154]:
+                        - link [ref=f260e156] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/121-joyor-y10-500w.html
+                          - img "Joyor Y10 Certificado DGT" [ref=f260e157]
+                          - img "Joyor Y10 Certificado DGT 2" [ref=f260e158]
+                        - list [ref=f260e159]:
+                          - listitem [ref=f260e160]: "-500,00 €"
+                        - link [ref=f260e163] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f260e164]: 
+                        - generic: 
+                      - generic [ref=f260e165]:
+                        - heading [level=3] [ref=f260e166]:
+                          - link "Joyor Y10 Certificado" [ref=f260e167] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/121-joyor-y10-500w.html
+                        - generic [ref=f260e169]:
+                          - link "599,00 €" [ref=f260e170] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/121-joyor-y10-500w.html
+                          - text: 1.099,00 €
+                        - text:    
+                    - article [ref=f260e172]:
+                      - generic [ref=f260e173]:
+                        - link [ref=f260e175] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1229-joyor-litego-certificado.html
+                          - img "Joyor LiteGo Certificado" [ref=f260e176]
+                          - img "Joyor LiteGo Certificado 2" [ref=f260e177]
+                        - list [ref=f260e178]:
+                          - listitem [ref=f260e179]: "-200,00 €"
+                        - link [ref=f260e182] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f260e183]: 
+                        - generic: 
+                      - generic [ref=f260e184]:
+                        - heading [level=3] [ref=f260e185]:
+                          - link "Joyor LiteGo Certificado" [ref=f260e186] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1229-joyor-litego-certificado.html
+                        - generic [ref=f260e188]:
+                          - link "399,00 €" [ref=f260e189] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1229-joyor-litego-certificado.html
+                          - text: 599,00 €
+                        - text:    
+                    - article [ref=f260e191]:
+                      - generic [ref=f260e192]:
+                        - link [ref=f260e194] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1237-joyor-s-pro-certificado-dgt.html
+                          - img "Joyor S-PRO" [ref=f260e195]
+                          - img "Joyor S-PRO 2" [ref=f260e196]
+                        - list [ref=f260e197]:
+                          - listitem [ref=f260e198]: "-950,00 €"
+                        - link [ref=f260e201] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f260e202]: 
+                        - generic: 
+                      - generic [ref=f260e203]:
+                        - heading [level=3] [ref=f260e204]:
+                          - link "Joyor S-PRO Certificado" [ref=f260e205] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1237-joyor-s-pro-certificado-dgt.html
+                        - generic [ref=f260e207]:
+                          - link "749,00 €" [ref=f260e208] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1237-joyor-s-pro-certificado-dgt.html
+                          - text: 1.699,00 €
+                        - text:    
+                    - article [ref=f260e210]:
+                      - generic [ref=f260e211]:
+                        - link [ref=f260e213] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1505-joyor-c10-.html
+                          - img "Joyor C10" [ref=f260e214]
+                          - img "Joyor C10 2" [ref=f260e215]
+                        - list [ref=f260e216]:
+                          - listitem [ref=f260e217]: "-250,00 €"
+                        - link [ref=f260e220] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f260e221]: 
+                        - generic: 
+                      - generic [ref=f260e222]:
+                        - heading [level=3] [ref=f260e223]:
+                          - link "Joyor C10 certificado" [ref=f260e224] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1505-joyor-c10-.html
+                        - generic [ref=f260e226]:
+                          - link "549,00 €" [ref=f260e227] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1505-joyor-c10-.html
+                          - text: 799,00 €
+                        - text:    
+                    - article [ref=f260e229]:
+                      - generic [ref=f260e230]:
+                        - link [ref=f260e232] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1726-comprar-matricula-patinete-vmp-adhesivo.html
+                          - img "Matrícula patinete eléctrico VMP adhesivo" [ref=f260e233]
+                          - img "Matrícula patinete eléctrico VMP adhesivo 2" [ref=f260e234]
+                        - list [ref=f260e235]:
+                          - listitem [ref=f260e236]: "-5,00 €"
+                        - link [ref=f260e239] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f260e240]: 
+                        - generic: 
+                      - generic [ref=f260e241]:
+                        - heading [level=3] [ref=f260e242]:
+                          - link "Matrícula patinete eléctrico VMP" [ref=f260e243] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1726-comprar-matricula-patinete-vmp-adhesivo.html
+                        - generic [ref=f260e245]:
+                          - link "19,90 €" [ref=f260e246] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1726-comprar-matricula-patinete-vmp-adhesivo.html
+                          - text: 24,90 €
+                    - article [ref=f260e248]:
+                      - generic [ref=f260e249]:
+                        - link [ref=f260e251] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1770-joyor-t-pro.html
+                          - img "Joyor T-PRO" [ref=f260e252]
+                          - img "Joyor T-PRO 2" [ref=f260e253]
+                        - list [ref=f260e254]:
+                          - listitem [ref=f260e255]: "-550,00 €"
+                        - link [ref=f260e258] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f260e259]: 
+                        - generic: 
+                      - generic [ref=f260e260]:
+                        - heading [level=3] [ref=f260e261]:
+                          - link "Joyor T-PRO" [ref=f260e262] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1770-joyor-t-pro.html
+                        - generic [ref=f260e264]:
+                          - link "749,00 €" [ref=f260e265] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1770-joyor-t-pro.html
+                          - text: 1.299,00 €
+                        - text:    
+                    - article [ref=f260e267]:
+                      - generic [ref=f260e268]:
+                        - link [ref=f260e270] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1940-8488-matricula-gratis-patinete-electrico-vmp.html#/439-elige_regalo-matricula_vmp
+                          - img "Matrícula patinete eléctrico VMP adhesivo" [ref=f260e271]
+                          - img "Matrícula patinete eléctrico VMP adhesivo 2" [ref=f260e272]
+                        - list [ref=f260e273]:
+                          - listitem [ref=f260e274]: "-5,00 €"
+                          - listitem [ref=f260e275]: Nuevo
+                        - link [ref=f260e278] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f260e279]: 
+                        - generic: 
+                      - generic [ref=f260e280]:
+                        - heading [level=3] [ref=f260e281]:
+                          - link "REGALO MATRÍCULA VMP, CASCO O CHALECO REFLECTANTE" [ref=f260e282] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1940-matricula-gratis-patinete-electrico-vmp.html
+                        - generic [ref=f260e284]:
+                          - link "0,00 €" [ref=f260e285] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1940-8488-matricula-gratis-patinete-electrico-vmp.html#/439-elige_regalo-matricula_vmp
+                          - text: 0,00 €
+                        - text:    
+                  - generic [ref=f260e287]:
+                    - generic [ref=f260e288]: Mostrando 1-7 de 7 artículo(s)
+                    - generic:
+                      - navigation
+              - text: 
+          - generic [ref=f260e289]:
+            - generic [ref=f260e291]:
+              - text:  
+              - generic [ref=f260e293]:
+                - complementary [ref=f260e294]:
+                  - heading "Marca" [level=4] [ref=f260e295]
+                  - list [ref=f260e296]:
+                    - listitem [ref=f260e297]:
+                      - generic [ref=f260e298]:
+                        - generic [ref=f260e299]:
+                          - checkbox "Joyor (5)" [ref=f260e300] [cursor=pointer]
+                          - generic [ref=f260e301] [cursor=pointer]: 
+                        - link "Joyor (5)" [ref=f260e302] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/52-joyor?q=Marca-Joyor
+                - complementary [ref=f260e303]:
+                  - heading "Precio" [level=4] [ref=f260e304]
+                  - list [ref=f260e305]:
+                    - listitem [ref=f260e306]:
+                      - paragraph [ref=f260e307]: 0,00 € - 1.699,00 €
+                      - generic [ref=f260e309]:
+                        - slider [ref=f260e312] [cursor=pointer]
+                        - slider [ref=f260e314] [cursor=pointer]
+                - complementary [ref=f260e316]:
+                  - heading "Potencia nominal" [level=4] [ref=f260e317]
+                  - list [ref=f260e318]:
+                    - listitem [ref=f260e319]:
+                      - generic [ref=f260e320]:
+                        - generic [ref=f260e321]:
+                          - checkbox "350W (1)" [ref=f260e322] [cursor=pointer]
+                          - generic [ref=f260e323] [cursor=pointer]: 
+                        - link "350W (1)" [ref=f260e324] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/52-joyor?q=Potencia+nominal-350W
+                    - listitem [ref=f260e325]:
+                      - generic [ref=f260e326]:
+                        - generic [ref=f260e327]:
+                          - checkbox "500W (2)" [ref=f260e328] [cursor=pointer]
+                          - generic [ref=f260e329] [cursor=pointer]: 
+                        - link "500W (2)" [ref=f260e330] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/52-joyor?q=Potencia+nominal-500W
+                    - listitem [ref=f260e331]:
+                      - generic [ref=f260e332]:
+                        - generic [ref=f260e333]:
+                          - checkbox "1000W (2)" [ref=f260e334] [cursor=pointer]
+                          - generic [ref=f260e335] [cursor=pointer]: 
+                        - link "1000W (2)" [ref=f260e336] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/52-joyor?q=Potencia+nominal-1000W
+                - complementary [ref=f260e337]:
+                  - heading "Motor tipo" [level=4] [ref=f260e338]
+                  - list [ref=f260e339]:
+                    - listitem [ref=f260e340]:
+                      - generic [ref=f260e341]:
+                        - generic [ref=f260e342]:
+                          - checkbox "Dual (2)" [ref=f260e343] [cursor=pointer]
+                          - generic [ref=f260e344] [cursor=pointer]: 
+                        - link "Dual (2)" [ref=f260e345] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/52-joyor?q=Motor+tipo-Dual
+                    - listitem [ref=f260e346]:
+                      - generic [ref=f260e347]:
+                        - generic [ref=f260e348]:
+                          - checkbox "Single (3)" [ref=f260e349] [cursor=pointer]
+                          - generic [ref=f260e350] [cursor=pointer]: 
+                        - link "Single (3)" [ref=f260e351] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/52-joyor?q=Motor+tipo-Single
+                - complementary [ref=f260e352]:
+                  - heading "Batería capacidad" [level=4] [ref=f260e353]
+                  - list [ref=f260e354]:
+                    - listitem [ref=f260e355]:
+                      - generic [ref=f260e356]:
+                        - generic [ref=f260e357]:
+                          - checkbox "10Ah (1)" [ref=f260e358] [cursor=pointer]
+                          - generic [ref=f260e359] [cursor=pointer]: 
+                        - link "10Ah (1)" [ref=f260e360] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/52-joyor?q=Bater%C3%ADa+capacidad-10Ah
+                    - listitem [ref=f260e361]:
+                      - generic [ref=f260e362]:
+                        - generic [ref=f260e363]:
+                          - checkbox "13Ah (1)" [ref=f260e364] [cursor=pointer]
+                          - generic [ref=f260e365] [cursor=pointer]: 
+                        - link "13Ah (1)" [ref=f260e366] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/52-joyor?q=Bater%C3%ADa+capacidad-13Ah
+                    - listitem [ref=f260e367]:
+                      - generic [ref=f260e368]:
+                        - generic [ref=f260e369]:
+                          - checkbox "26Ah (3)" [ref=f260e370] [cursor=pointer]
+                          - generic [ref=f260e371] [cursor=pointer]: 
+                        - link "26Ah (3)" [ref=f260e372] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/52-joyor?q=Bater%C3%ADa+capacidad-26Ah
+                - complementary [ref=f260e373]:
+                  - heading "Tamaño de rueda" [level=4] [ref=f260e374]
+                  - list [ref=f260e375]:
+                    - listitem [ref=f260e376]:
+                      - generic [ref=f260e377]:
+                        - generic [ref=f260e378]:
+                          - checkbox "10\" (5)" [ref=f260e379] [cursor=pointer]
+                          - generic [ref=f260e380] [cursor=pointer]: 
+                        - link "10\" (5)" [ref=f260e381] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/52-joyor?q=Tama%C3%B1o+de+rueda-10%22
+                - complementary [ref=f260e382]:
+                  - heading "Peso" [level=4] [ref=f260e383]
+                  - list [ref=f260e384]:
+                    - listitem [ref=f260e385]:
+                      - generic [ref=f260e386]:
+                        - generic [ref=f260e387]:
+                          - checkbox "18 (1)" [ref=f260e388] [cursor=pointer]
+                          - generic [ref=f260e389] [cursor=pointer]: 
+                        - link "18 (1)" [ref=f260e390] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/52-joyor?q=peso-18
+                    - listitem [ref=f260e391]:
+                      - generic [ref=f260e392]:
+                        - generic [ref=f260e393]:
+                          - checkbox "19 (1)" [ref=f260e394] [cursor=pointer]
+                          - generic [ref=f260e395] [cursor=pointer]: 
+                        - link "19 (1)" [ref=f260e396] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/52-joyor?q=peso-19
+                    - listitem [ref=f260e397]:
+                      - generic [ref=f260e398]:
+                        - generic [ref=f260e399]:
+                          - checkbox "23 (1)" [ref=f260e400] [cursor=pointer]
+                          - generic [ref=f260e401] [cursor=pointer]: 
+                        - link "23 (1)" [ref=f260e402] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/52-joyor?q=peso-23
+                    - listitem [ref=f260e403]:
+                      - generic [ref=f260e404]:
+                        - generic [ref=f260e405]:
+                          - checkbox "27 (1)" [ref=f260e406] [cursor=pointer]
+                          - generic [ref=f260e407] [cursor=pointer]: 
+                        - link "27 (1)" [ref=f260e408] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/52-joyor?q=peso-27
+                    - listitem [ref=f260e409]:
+                      - generic [ref=f260e410]:
+                        - generic [ref=f260e411]:
+                          - checkbox "29 (1)" [ref=f260e412] [cursor=pointer]
+                          - generic [ref=f260e413] [cursor=pointer]: 
+                        - link "29 (1)" [ref=f260e414] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/52-joyor?q=peso-29
+                - complementary [ref=f260e415]:
+                  - heading "Batería voltaje" [level=4] [ref=f260e416]
+                  - list [ref=f260e417]:
+                    - listitem [ref=f260e418]:
+                      - generic [ref=f260e419]:
+                        - generic [ref=f260e420]:
+                          - checkbox "36V (1)" [ref=f260e421] [cursor=pointer]
+                          - generic [ref=f260e422] [cursor=pointer]: 
+                        - link "36V (1)" [ref=f260e423] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/52-joyor?q=Bater%C3%ADa+voltaje+-36V
+                    - listitem [ref=f260e424]:
+                      - generic [ref=f260e425]:
+                        - generic [ref=f260e426]:
+                          - checkbox "48V (4)" [ref=f260e427] [cursor=pointer]
+                          - generic [ref=f260e428] [cursor=pointer]: 
+                        - link "48V (4)" [ref=f260e429] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/52-joyor?q=Bater%C3%ADa+voltaje+-48V
+            - 'link "Opiniones de productos           (3,4/5) Categoría : Joyor Basados en 5 calificación(es) y 2 opiniones del usuario Todas las opiniones >" [ref=f260e433] [cursor=pointer]':
+              - /url: https://www.imoveblue.es/module/gsnippetsreviews/reviews?list=1
+              - strong [ref=f260e434]: Opiniones de productos
+              - generic [ref=f260e435]:
+                - generic [ref=f260e437]:
+                  - generic "1" [ref=f260e438]: 
+                  - generic "2" [ref=f260e439]: 
+                  - generic "3" [ref=f260e440]: 
+                  - generic "4" [ref=f260e441]: 
+                  - generic "5" [ref=f260e442]: 
+                  - generic "6" [ref=f260e443]: 
+                  - generic "7" [ref=f260e444]: 
+                  - generic "8" [ref=f260e445]: 
+                  - generic "9" [ref=f260e446]: 
+                  - generic "10" [ref=f260e447]: 
+                - text: (3,4/5)
+                - strong [ref=f260e448]: "Categoría :"
+                - text: Joyor Basados en 5 calificación(es) y 2 opiniones del usuario
+              - text: Todas las opiniones >
+    - generic [ref=f260e449]:
+      - generic [ref=f260e452]:
+        - generic [ref=f260e453]:
+          - heading "Suscríbete y te regalamos 10€" [level=5] [ref=f260e454]
+          - generic [ref=f260e456]:
+            - generic [ref=f260e457]:
+              - textbox "Su dirección de correo electrónico" [ref=f260e458]
+              - button "Suscribirse" [disabled] [ref=f260e459]:
+                - generic [ref=f260e460]: 
+            - generic [ref=f260e463]:
+              - checkbox "Acepto los términos y condiciones y la política de privacidad. Lee los términos y condiciones de uso." [ref=f260e464] [cursor=pointer]
+              - generic [ref=f260e465] [cursor=pointer]: 
+              - generic [ref=f260e466]:
+                - text: Acepto los términos y condiciones y la política de privacidad.
+                - generic [ref=f260e467]:
+                  - link "Lee los términos y condiciones de uso" [ref=f260e468] [cursor=pointer]:
+                    - /url: https://www.imoveblue.es/content/2-aviso-legal
+                  - text: .
+        - list [ref=f260e470]:
+          - listitem [ref=f260e471]:
+            - link [ref=f260e472] [cursor=pointer]:
+              - /url: https://www.facebook.com/imoveblue/
+              - generic [ref=f260e473]: 
+          - listitem [ref=f260e474]:
+            - link [ref=f260e475] [cursor=pointer]:
+              - /url: https://twitter.com/imoveblue
+              - generic [ref=f260e476]: 
+          - listitem [ref=f260e477]:
+            - link [ref=f260e478] [cursor=pointer]:
+              - /url: https://www.instagram.com/imoveblue.es/
+              - generic [ref=f260e479]: 
+          - listitem [ref=f260e480]:
+            - link [ref=f260e481] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCFwHWdvgGT9VnTsA5MxFfWw
+              - generic [ref=f260e482]: 
+      - generic [ref=f260e485]:
+        - generic [ref=f260e486]:
+          - heading "Atención al cliente" [level=5] [ref=f260e487]
+          - generic [ref=f260e489]:
+            - generic [ref=f260e490]:
+              - strong [ref=f260e491]: "Imoveblue.es - NIF: ESJ01585108"
+              - generic [ref=f260e492]:
+                - generic [ref=f260e493]: 
+                - generic [ref=f260e495]: Apartado de Correos 5003 - 01015 Vitoria-Gasteiz, Euskadi
+              - separator [ref=f260e496]
+              - generic [ref=f260e497]:
+                - generic [ref=f260e498]: 
+                - link "+34 688 751 888" [ref=f260e501] [cursor=pointer]:
+                  - /url: tel:+34 688 751 888
+              - separator [ref=f260e502]
+              - generic [ref=f260e503]:
+                - generic [ref=f260e504]: 
+                - link "info@imoveblue.es" [ref=f260e507] [cursor=pointer]:
+                  - /url: mailto:info@imoveblue.es
+            - separator [ref=f260e508]
+            - generic [ref=f260e509]:
+              - paragraph [ref=f260e510]: Si necesitas asesoramiento o servicio postventa no dudes en contactar con nosotros. Nuestro equipo estará encantado de ayudarte.
+              - paragraph [ref=f260e511]: "Horario de atención al cliente verano: Lunes a Viernes de 10:00h a 15:00h"
+        - generic [ref=f260e512]:
+          - heading "Información" [level=5] [ref=f260e513]
+          - list [ref=f260e516]:
+            - listitem [ref=f260e517]:
+              - link " Contacto" [ref=f260e518] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/contactenos
+            - listitem [ref=f260e519]:
+              - link " Matricular patinete eléctrico VMP DGT" [ref=f260e520] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/14-matricular-patinete-electrico-vmp-dgt
+            - listitem [ref=f260e521]:
+              - link " Financiar patinete eléctrico" [ref=f260e522] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/12-financiar-patinete-electrico
+            - listitem [ref=f260e523]:
+              - link " Normativa VMP" [ref=f260e524] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/11-normativa-vmp
+            - listitem [ref=f260e525]:
+              - link " Postventa y Garantía" [ref=f260e526] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/13-postventa-y-garantia
+            - listitem [ref=f260e527]:
+              - link " Opiniones Trusted Shops" [ref=f260e528] [cursor=pointer]:
+                - /url: https://www.trustedshops.es/evaluacion/info_X7971BAC9A2BC178FCCBEA75B22E0AD86.html?utm_source=shop&utm_medium=link&utm_content=allRatings__full&utm_campaign=trustbadge_maximised
+            - listitem [ref=f260e529]:
+              - link " Opiniones Google" [ref=f260e530] [cursor=pointer]:
+                - /url: https://www.google.com/search?q=imovebblue+opiniones+google&oq=imovebblue+opiniones+google&aqs=chrome..69i57j33i160.3751j0j7&sourceid=chrome&ie=UTF-8#lrd=0xd4fc185e0cebe53:0x21a8560d6ea10371,1,,,,
+            - listitem [ref=f260e531]:
+              - link " Opiniones Trustpilot" [ref=f260e532] [cursor=pointer]:
+                - /url: https://es.trustpilot.com/review/www.imoveblue.es
+            - listitem [ref=f260e533]:
+              - link " Descuentos y promociones" [ref=f260e534] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/8-descuentos
+            - listitem [ref=f260e535]:
+              - link " Condiciones de compra y envío" [ref=f260e536] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/3-terminos-y-condiciones-de-uso
+            - listitem [ref=f260e537]:
+              - link " Pago seguro" [ref=f260e538] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/5-pago-seguro
+            - listitem [ref=f260e539]:
+              - link " Sobre nosotros" [ref=f260e540] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/4-sobre-nosotros
+            - listitem [ref=f260e541]:
+              - link " Talleres colaboradores" [ref=f260e542] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/10-talleres-colaboradores
+            - listitem [ref=f260e543]:
+              - link " Seguro para tu VMP" [ref=f260e544] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/15-seguro-patinete-electrico-vmp
+            - listitem [ref=f260e545]:
+              - link " Mapa del sitio" [ref=f260e546] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/mapa del sitio
+            - listitem [ref=f260e547]:
+              - link " Aviso legal y Protección de datos" [ref=f260e548] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/2-aviso-legal
+        - generic [ref=f260e549]:
+          - heading "Categorías de productos" [level=5] [ref=f260e550]
+          - list [ref=f260e553]:
+            - listitem [ref=f260e554]:
+              - link " Patinetes eléctricos" [ref=f260e555] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/13-patinete-electrico
+            - listitem [ref=f260e556]:
+              - link " Patinetes eléctricos certificados DGT" [ref=f260e557] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+            - listitem [ref=f260e558]:
+              - link " Motos eléctricas" [ref=f260e559] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/18-motos-electricas
+            - listitem [ref=f260e560]:
+              - link " Bicicletas eléctricas" [ref=f260e561] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/14-bicicletas-electricas
+            - listitem [ref=f260e562]:
+              - link " Monociclos eléctricos" [ref=f260e563] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/30-monociclos-electricos
+            - listitem [ref=f260e564]:
+              - link " Movilidad infantil" [ref=f260e565] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/26-movilidad-infantil
+            - listitem [ref=f260e566]:
+              - link " Estaciones de carga" [ref=f260e567] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/39-estaciones-de-carga
+            - listitem [ref=f260e568]:
+              - link " Accesorios VMP y ciclismo" [ref=f260e569] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/28-accesorios-vmp-ciclismo
+            - listitem [ref=f260e570]:
+              - link " Triciclos y movilidad reducida" [ref=f260e571] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/32-triciclos-electricos
+            - listitem [ref=f260e572]:
+              - link " Bicicletas" [ref=f260e573] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/31-bicicletas
+            - listitem [ref=f260e574]:
+              - link " Recambios" [ref=f260e575] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/20-recambios
+            - listitem [ref=f260e576]:
+              - link " Patinetes Dualtron DGT" [ref=f260e577] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/44-dualtron
+        - generic [ref=f260e578]:
+          - heading "Pago seguro garantizado 100%" [level=5] [ref=f260e579]
+          - generic [ref=f260e581]:
+            - paragraph [ref=f260e582]:
+              - img "Pago seguro garantizado - PLAZOX" [ref=f260e583]
+            - paragraph
+      - generic [ref=f260e587]:
+        - paragraph [ref=f260e588]:
+          - text: "Somos un tienda online especializada en movilidad sostenible:"
+          - link "Patinetes eléctricos" [ref=f260e589] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/13-patinetes-electricos
+          - text: ","
+          - link "motos eléctricas" [ref=f260e590] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/18-motos-electricas
+          - text: ","
+          - link "bicicletas eléctricas" [ref=f260e591] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/14-bicicletas-electricas
+          - text: ","
+          - link "remolques de bicicleta" [ref=f260e592] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/10-remolques-de-bicicleta
+          - text: ","
+          - link "quads eléctricos" [ref=f260e593] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/15-quads-electricos
+          - text: y mucho más.
+        - paragraph [ref=f260e594]:
+          - emphasis [ref=f260e595]:
+            - 'link "Diseño web ecommerce: Rp Imagen" [ref=f260e596] [cursor=pointer]':
+              - /url: https://www.rpimagen.com/
+  - generic [ref=f260e598]:
+    - paragraph [ref=f260e602]: Tu privacidad, tu consentimiento
+    - paragraph [ref=f260e603]:
+      - text: En UJ Solutions SC utilizamos cookies y tecnologías similares para mejorar su experiencia y medir sus interacciones con nuestro sitio web. También los usamos para servirle información más relevante en búsquedas y en anuncios en este y otros sitios.
+      - generic [ref=f260e604]:
+        - text: Lee más en nuestra
+        - link "Política de Cookies" [ref=f260e605] [cursor=pointer]:
+          - /url: https://www.imoveblue.es/content/2-aviso-legal
+    - generic [ref=f260e606]:
+      - generic [ref=f260e608] [cursor=pointer]:
+        - generic [ref=f260e609]: Ajusta tus preferencias de cookies
+        - img "Arrow" [ref=f260e610]
+      - generic:
+        - generic:
+          - generic [ref=f260e611]:
+            - generic [ref=f260e612]:
+              - generic [ref=f260e613]: Técnicas (obligatorias)
+              - generic [ref=f260e614]:
+                - generic [ref=f260e615]: i
+                - generic [ref=f260e618]:
+                  - img "lock"
+            - generic [ref=f260e619]:
+              - generic [ref=f260e620]: Preferencias
+              - generic [ref=f260e621]:
+                - generic [ref=f260e622]: i
+                - checkbox [ref=f260e626] [cursor=pointer]
+            - generic [ref=f260e627]:
+              - generic [ref=f260e628]: Estadísticas
+              - generic [ref=f260e629]:
+                - generic [ref=f260e630]: i
+                - checkbox [ref=f260e634] [cursor=pointer]
+            - generic [ref=f260e635]:
+              - generic [ref=f260e636]: Marketing
+              - generic [ref=f260e637]:
+                - generic [ref=f260e638]: i
+                - checkbox [ref=f260e642] [cursor=pointer]
+          - button "Guardar configuración personalizada de cookies" [ref=f260e643] [cursor=pointer]
+    - generic [ref=f260e644]:
+      - generic [ref=f260e646] [cursor=pointer]:
+        - button "RECHAZAR LAS NO NECESARIAS" [ref=f260e647]
+        - generic [ref=f260e648]: Rechazar las cookies que no son extrictamente necesarias para el correcto funcionamiento de la web.
+      - generic [ref=f260e650] [cursor=pointer]:
+        - button "ACEPTAR TODAS" [ref=f260e651]
+        - generic [ref=f260e652]: Habilitar todas las cookies y tecnologías disponibles para mejorar la experiencia.
+    - link "powered by Visible Privacy Logo" [ref=f260e653] [cursor=pointer]:
+      - /url: https://www.visibleprivacy.com/
+      - generic [ref=f260e654]: powered by
+      - img "Visible Privacy Logo" [ref=f260e655]
+  - generic [ref=f260e656]:
+    - button "Sello de Calidad de Trusted Shops Protección al Comprador 4,32 (682) Bueno Trstd Login" [ref=f260e657] [cursor=pointer]:
+      - generic [ref=f260e658]:
+        - img "Sello de Calidad de Trusted Shops" [ref=f260e659]
+        - generic [ref=f260e660]: Protección al Comprador
+      - generic [ref=f260e662]:
+        - generic [ref=f260e663]:
+          - generic [ref=f260e664]: 4,32
+          - generic [ref=f260e666]: (682)
+        - generic [ref=f260e667]: Bueno
+      - switch "Trstd Login" [ref=f260e669]
+    - button "Menú" [ref=f260e671] [cursor=pointer]

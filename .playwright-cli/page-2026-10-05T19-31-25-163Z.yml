@@ -1,0 +1,434 @@
+- generic [ref=f90e1]:
+  - alertdialog [ref=f90e2]:
+    - generic [ref=f90e3]:
+      - generic [ref=f90e4]:
+        - heading "Consentimiento para el uso de cookies" [level=2] [ref=f90e5]
+        - paragraph [ref=f90e6]:
+          - text: Nosotros y nuestros partners, incluido Shopify, utilizamos cookies y otras tecnologías para personalizar tu experiencia, mostrarte anuncios y realizar informes y estadísticas, y no utilizaremos cookies ni otras tecnologías para estos fines a menos que las aceptes. Obtén más información en nuestra
+          - link "Política de privacidad" [ref=f90e7] [cursor=pointer]:
+            - /url: http://electyum.com/policies/privacy-policy
+      - generic [ref=f90e8]:
+        - button "Administrar preferencias" [ref=f90e9]
+        - button "Aceptar" [ref=f90e10]
+        - button "Rechazar" [ref=f90e11]
+  - link "Ir directamente al contenido" [ref=f90e12] [cursor=pointer]:
+    - /url: "#MainContent"
+  - banner [ref=f90e14]:
+    - generic [ref=f90e17]:
+      - generic [ref=f90e18]:
+        - link [ref=f90e19] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=f90e23]:
+          - list [ref=f90e26]:
+            - generic:
+              - link "PATINETES" [ref=f90e27] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+              - link "PATINETES HOMOLOGADOS" [ref=f90e29] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - menuitem "Más" [ref=f90e32] [cursor=pointer]
+      - generic [ref=f90e34]:
+        - button "Abrir selector de región e idioma EUR" [ref=f90e36] [cursor=pointer]:
+          - generic [ref=f90e37]: Abrir selector de región e idioma
+          - generic [ref=f90e38]: EUR
+        - button "Abrir búsqueda" [ref=f90e40] [cursor=pointer]
+        - generic [ref=f90e41]:
+          - button "Abrir menú de cuenta" [ref=f90e43] [cursor=pointer]
+          - 'button "Abrir carrito Total de artículos en el carrito: 0" [ref=f90e49] [cursor=pointer]':
+            - generic [ref=f90e51]:
+              - status:
+                - generic [ref=f90e53]: "Total de artículos en el carrito: 0"
+  - main [ref=f90e54]:
+    - generic [ref=f90e57]:
+      - link "Ir directamente a la información del producto" [ref=f90e58] [cursor=pointer]:
+        - /url: "#ProductInformation-template--26141808394565__main"
+      - generic [ref=f90e59]:
+        - generic [ref=f90e62]:
+          - generic [ref=f90e63]:
+            - generic:
+              - button "Diapositiva anterior" [ref=f90e64] [cursor=pointer]
+              - button "Siguiente diapositiva" [ref=f90e65] [cursor=pointer]
+            - img "Patinete Eléctrico Dualtron Victor Luxury Plus EY4" [ref=f90e70]
+          - generic [ref=f90e89]:
+            - button "Diapositiva 1 de 5" [ref=f90e90] [cursor=pointer]:
+              - img "Patinete Eléctrico Dualtron Victor Luxury Plus EY4" [ref=f90e91]
+            - button "Diapositiva 2 de 5" [ref=f90e92] [cursor=pointer]:
+              - img "Patinete Eléctrico Dualtron Victor Luxury Plus EY4" [ref=f90e93]
+            - button "Diapositiva 3 de 5" [ref=f90e94] [cursor=pointer]:
+              - img "Patinete Eléctrico Dualtron Victor Luxury Plus EY4" [ref=f90e95]
+            - button "Diapositiva 4 de 5" [ref=f90e96] [cursor=pointer]:
+              - img "Patinete Eléctrico Dualtron Victor Luxury Plus EY4" [ref=f90e97]
+            - button "Diapositiva 5 de 5" [ref=f90e98] [cursor=pointer]:
+              - img "Dualtron Victor Luxury Plus EY4" [ref=f90e99]
+        - generic [ref=f90e102]:
+          - heading "Patinete Eléctrico Dualtron Victor Luxury Plus EY4" [level=1] [ref=f90e104]
+          - generic [ref=f90e105]:
+            - generic [ref=f90e106]:
+              - group [ref=f90e107]:
+                - generic [ref=f90e108]: Precio de oferta
+                - text: €1.990,00 EUR
+              - group [ref=f90e109]:
+                - generic [ref=f90e110]: Precio habitual
+                - text: €3.299,00 EUR
+            - generic [ref=f90e111]: Aranceles e impuestos incluidos. Envío calculado en el pago.
+          - iframe [ref=f90e117]:
+            - generic [ref=f95e6]:
+              - generic [ref=f95e7]:
+                - generic [ref=f95e9]:
+                  - strong [ref=f95e10]: 192,83 €
+                  - text: al mes
+                - generic [ref=f95e12]:
+                  - generic [ref=f95e13]: x12
+                  - generic [ref=f95e14] [cursor=pointer]: x6
+                  - generic [ref=f95e15] [cursor=pointer]: x3 sin coste
+                  - text: +info
+              - img "SeQura logo" [ref=f95e17] [cursor=pointer]
+          - paragraph [ref=f90e119]: Homologado por la DGT ✅
+          - generic [ref=f90e121]:
+            - paragraph [ref=f90e122]:
+              - text: El
+              - strong [ref=f90e123]: Dualtron Victor Luxury Plus EY4
+              - text: es un patinete eléctrico premium de Dualtron, marca de referencia mundial en movilidad eléctrica de alta gama. Fabricación de precisión, baterías de alta capacidad y tecnología de suspensión avanzada para la experiencia de conducción más exigente.
+            - list [ref=f90e124]:
+              - listitem [ref=f90e125]:
+                - strong [ref=f90e126]: "🚀 Motor Dual:"
+                - text: Nominal 1300W x2 pico 2600W
+              - listitem [ref=f90e127]:
+                - strong [ref=f90e128]: "🔋 Autonomía:"
+                - text: Hasta 120 Km
+              - listitem [ref=f90e129]:
+                - strong [ref=f90e130]: "🔋 Batería:"
+                - text: 60V 31.5Ah - 60V 35Ah
+              - listitem [ref=f90e131]:
+                - strong [ref=f90e132]: "⚡ Velocidad Limitada:"
+                - text: Hasta 25 Km/h - Alcance 80 km/h (Uso privado)
+              - listitem [ref=f90e133]:
+                - strong [ref=f90e134]: "🛞 Ruedas:"
+                - text: 10″ Tubeless
+              - listitem [ref=f90e135]:
+                - text: 🛑
+                - strong [ref=f90e136]: "Frenos:"
+                - text: Frenos hidráulicos delanteros y traseros (NUTT)
+              - listitem [ref=f90e137]:
+                - strong [ref=f90e138]: 📱 APP móvil -
+                - text: Display EY4
+            - paragraph [ref=f90e139]:
+              - strong [ref=f90e140]: "Ideal para:"
+            - list [ref=f90e141]:
+              - listitem [ref=f90e142]: ✅ Usuarios avanzados que buscan el máximo rendimiento y autonomía
+              - listitem [ref=f90e143]: ✅ Trayectos largos y exigentes donde la calidad de componentes marca la diferencia
+              - listitem [ref=f90e144]: ✅ Coleccionistas y entusiastas de los mejores patinetes eléctricos del mundo
+          - paragraph [ref=f90e146]:
+            - strong [ref=f90e147]: 🚚 Envíos
+            - strong [ref=f90e148]: Envío express 48h
+          - generic [ref=f90e150]:
+            - group "ColorNegro" [ref=f90e151]:
+              - radio "Negro" [checked] [ref=f90e154] [cursor=pointer]
+            - group "Batería" [ref=f90e156]:
+              - generic [ref=f90e158]:
+                - radio "60V 31.5Ah (Autonomía 90 km)" [checked] [ref=f90e159] [cursor=pointer]
+                - generic [ref=f90e160]: 60V 31.5Ah (Autonomía 90 km)
+              - generic [ref=f90e161]:
+                - radio "60V 35Ah (Autonomía 110 km)" [ref=f90e162] [cursor=pointer]
+                - generic [ref=f90e163]: 60V 35Ah (Autonomía 110 km)
+          - generic [ref=f90e166]:
+            - heading "Comprados juntos..." [level=4] [ref=f90e169]
+            - generic [ref=f90e170]:
+              - generic "Carga de recomendaciones de productos" [ref=f90e171]
+              - generic "Carga de recomendaciones de productos" [ref=f90e172]
+          - generic [ref=f90e174]:
+            - status [ref=f90e175]
+            - generic [ref=f90e177]:
+              - generic [ref=f90e178]:
+                - button "Disminuir cantidad" [ref=f90e179] [cursor=pointer]
+                - spinbutton "Cantidad" [ref=f90e181]: "1"
+                - button "Aumentar cantidad" [ref=f90e182] [cursor=pointer]
+              - button "Agregar al carrito" [ref=f90e186] [cursor=pointer]:
+                - generic [ref=f90e189]: Agregada
+              - generic [ref=f90e193]:
+                - generic [ref=f90e196]:
+                  - iframe [ref=f90e197]:
+                    - generic "Payment Button" [ref=f92e2]:
+                      - link "PayPal" [ref=f92e5] [cursor=pointer]
+                  - iframe [ref=f90e198]
+                - link "Más opciones de pago" [ref=f90e200] [cursor=pointer]:
+                  - /url: "#"
+    - generic [ref=f90e205]:
+      - heading "Patinete Eléctrico Dualtron Victor Luxury Plus EY4" [level=2] [ref=f90e207]
+      - generic [ref=f90e209]:
+        - 'heading "Dualtron Victor Luxury Plus: El Patinete Eléctrico de Alta Gama con Mayor Autonomía y Confort" [level=3] [ref=f90e210]'
+        - paragraph [ref=f90e211]: El Dualtron Victor Luxury Plus se posiciona como el referente definitivo dentro de la gama Victor. Diseñado específicamente para aquellos usuarios que no quieren sacrificar agilidad por espacio, este modelo ofrece dimensiones ampliadas y características tecnológicas de vanguardia, manteniendo la potencia bruta característica de la marca.
+        - paragraph [ref=f90e212]: Es la opción ideal para conductores de mayor estatura o para quienes buscan una base de apoyo más amplia y una postura de conducción erguida y relajada, tanto en trayectos urbanos como en aventuras de larga distancia.
+        - heading "Ergonomía y Confort Mejorados" [level=3] [ref=f90e213]
+        - paragraph [ref=f90e214]: "El Victor Luxury Plus ha sido rediseñado para maximizar la comodidad del usuario mediante dos modificaciones estructurales clave:"
+        - list [ref=f90e215]:
+          - listitem [ref=f90e216]:
+            - strong [ref=f90e217]: "Tubo de dirección extendido:"
+            - text: El manillar es 60 mm más alto que el modelo estándar, facilitando una postura ergonómica que reduce la fatiga en brazos y espalda.
+          - listitem [ref=f90e218]:
+            - strong [ref=f90e219]: "Base (Deck) ampliada:"
+            - text: La plataforma cuenta con 60 mm adicionales de longitud, proporcionando un espacio generoso para los pies que mejora significativamente la estabilidad y el control.
+          - listitem [ref=f90e220]:
+            - strong [ref=f90e221]: "Suspensión ajustable:"
+            - text: Equipado con el sistema de cartuchos de goma Dualtron, permite personalizar la amortiguación en 9 niveles diferentes para adaptarse a cualquier tipo de pavimento.
+        - heading "Rendimiento y Autonomía de Largo Alcance" [level=3] [ref=f90e222]
+        - paragraph [ref=f90e223]: Equipado con dos motores BLDC de 1300W cada uno, este patinete entrega una potencia nominal de 2600W, capaz de alcanzar velocidades de hasta 80 km/h (uso exclusivo en terrenos privados) y superar pendientes pronunciadas sin esfuerzo.
+        - paragraph [ref=f90e224]: "Para gestionar esta potencia, el Victor Luxury Plus ofrece configuraciones de batería de alta densidad:"
+        - list [ref=f90e225]:
+          - listitem [ref=f90e226]:
+            - strong [ref=f90e227]: "Batería 60V 31.5Ah / 35Ah:"
+            - text: Permite alcanzar una autonomía impresionante de hasta 110-120 km con una sola carga.
+          - listitem [ref=f90e228]:
+            - strong [ref=f90e229]: "Gestión Inteligente (BMS):"
+            - text: Un sistema avanzado protege las celdas contra sobrecargas, cortocircuitos y sobrecalentamiento, alargando la vida útil del componente.
+          - listitem [ref=f90e230]:
+            - strong [ref=f90e231]: "Doble puerto de carga:"
+            - text: Permite conectar dos cargadores simultáneamente para reducir el tiempo de espera a la mitad.
+        - heading "Tecnología y Seguridad de Vanguardia" [level=3] [ref=f90e232]
+        - paragraph [ref=f90e233]: "La seguridad es el pilar central de este modelo. No solo se trata de ir rápido, sino de ir seguro en cualquier condición:"
+        - list [ref=f90e234]:
+          - listitem [ref=f90e235]:
+            - strong [ref=f90e236]: "Frenado Hidráulico NUTT:"
+            - text: Frenos de disco hidráulicos de 140 mm en ambas ruedas que garantizan una detención precisa y progresiva.
+          - listitem [ref=f90e237]:
+            - strong [ref=f90e238]: "Pantalla Inteligente EY4:"
+            - text: La nueva pantalla panorámica de alta visibilidad es compatible con la App oficial de Dualtron (iOS y Android), permitiendo configurar el control de crucero, los modos de potencia y personalizar la iluminación LED.
+          - listitem [ref=f90e239]:
+            - strong [ref=f90e240]: "Iluminación Integral:"
+            - text: Incluye faro delantero de alta intensidad, intermitentes para señalización de giro, bocina electrónica y un spoiler trasero multifuncional que integra luz de freno y actúa como asa de transporte.
+        - heading "Especificaciones Técnicas Detalladas" [level=3] [ref=f90e241]
+        - list [ref=f90e242]:
+          - listitem [ref=f90e243]:
+            - strong [ref=f90e244]: "Motor:"
+            - text: Dual Motor 1300W x 2 (Potencia nominal 2600W).
+          - listitem [ref=f90e245]:
+            - strong [ref=f90e246]: "Velocidad máxima:"
+            - text: 80 km/h (Limitado a 25 km/h por normativa vigente. Deslimitado solo para uso en propiedades privadas).
+          - listitem [ref=f90e247]:
+            - strong [ref=f90e248]: "Batería:"
+            - text: 31.5Ah / 35Ah (Celdas de alta calidad CN/LG/Samsung según versión).
+          - listitem [ref=f90e249]:
+            - strong [ref=f90e250]: "Autonomía:"
+            - text: Entre 90 km y 120 km (Dependiendo del peso del conductor y modo de conducción).
+          - listitem [ref=f90e251]:
+            - strong [ref=f90e252]: "Tiempo de carga:"
+            - text: 7 a 15 horas (Reducible con cargador rápido o doble cargador).
+          - listitem [ref=f90e253]:
+            - strong [ref=f90e254]: "Ruedas:"
+            - text: Neumáticos de 10 pulgadas con cámara de aire para mayor absorción.
+          - listitem [ref=f90e255]:
+            - strong [ref=f90e256]: "Frenos:"
+            - text: Hidráulicos NUTT delanteros y traseros de 140 mm + Freno eléctrico.
+          - listitem [ref=f90e257]:
+            - strong [ref=f90e258]: "Carga máxima:"
+            - text: 120 kg.
+          - listitem [ref=f90e259]:
+            - strong [ref=f90e260]: "Peso:"
+            - text: 37.4 kg.
+          - listitem [ref=f90e261]:
+            - strong [ref=f90e262]: "Dimensiones:"
+            - text: Distancia entre ejes de 940 mm y altura libre al suelo de 180 mm.
+          - listitem [ref=f90e263]:
+            - strong [ref=f90e264]: "Plegado:"
+            - text: Manillar y mástil plegables para almacenamiento optimizado.
+          - listitem [ref=f90e265]:
+            - strong [ref=f90e266]: "Conectividad:"
+            - text: Pantalla EY4 con conexión Bluetooth a App Dualtron.
+          - listitem [ref=f90e267]:
+            - strong [ref=f90e268]: "Certificación:"
+            - text: Homologado por la DGT (Modelo 2025).
+        - heading "Contenido del paquete" [level=3] [ref=f90e269]
+        - list [ref=f90e270]:
+          - listitem [ref=f90e271]: 1 x Patinete Eléctrico Dualtron Victor Luxury Plus.
+          - listitem [ref=f90e272]: 1 x Cargador estándar.
+          - listitem [ref=f90e273]: 1 x Kit de herramientas básico.
+          - listitem [ref=f90e274]: 1 x Manual de usuario.
+        - paragraph [ref=f90e275]:
+          - text: "Potencia Dual de 2600W y Diseño Ergonómico: La Evolución de la Movilidad Urbana Premium Si buscas"
+          - strong [ref=f90e276]: comprar el mejor patinete eléctrico potente
+          - text: de 2026, el
+          - strong [ref=f90e277]: Dualtron Victor Luxury Plus
+          - text: es la opción definitiva para quienes exigen rendimiento sin compromisos. Este modelo destaca en el mercado de la
+          - strong [ref=f90e278]: movilidad urbana
+          - text: por su impresionante configuración de
+          - strong [ref=f90e279]: doble motor
+          - text: ", que entrega una potencia constante para superar cualquier pendiente. Además, al estar"
+          - strong [ref=f90e280]: homologado por la DGT
+          - text: ", garantiza una circulación segura y legal, combinando la velocidad de un vehículo de alto rendimiento con la fiabilidad de la ingeniería coreana de Minimotors."
+        - paragraph [ref=f90e281]:
+          - text: La experiencia de conducción se eleva gracias a su
+          - strong [ref=f90e282]: batería de largo alcance
+          - text: ", capaz de ofrecer hasta"
+          - strong [ref=f90e283]: 120 km de autonomía
+          - text: ", eliminando la ansiedad por la carga en trayectos largos. Este"
+          - strong [ref=f90e284]: scooter eléctrico premium
+          - text: no solo es más rápido, sino también más espacioso; su tabla ampliada y el mástil elevado lo convierten en el favorito de los usuarios que buscan
+          - strong [ref=f90e285]: patinetes eléctricos para personas altas
+          - text: o con mayor peso. Con frenos hidráulicos NUTT y la nueva pantalla inteligente EY4, el Victor Luxury Plus lidera las
+          - strong [ref=f90e286]: opiniones de expertos en Dualtron
+          - text: como el modelo más equilibrado entre lujo, seguridad y potencia bruta.
+    - generic [ref=f90e294]:
+      - paragraph [ref=f90e296]:
+        - strong [ref=f90e297]: Hasta 120Km
+        - text: de libertad 🔋
+      - paragraph [ref=f90e299]:
+        - text: Con su batería de
+        - strong [ref=f90e300]: 60V 31.5Ah y 60V 35Ah
+        - text: y motor de
+        - strong [ref=f90e301]: 2600W
+        - text: ", tendrás garantizadas horas de autonomía para todos tus trayectos diarios. ¡Circula ahora sin preocupaciones!"
+    - generic [ref=f90e305]:
+      - heading "Related products" [level=3] [ref=f90e308]
+      - generic [ref=f90e309]:
+        - generic "Carga de recomendaciones de productos" [ref=f90e310]
+        - generic "Carga de recomendaciones de productos" [ref=f90e311]
+        - generic "Carga de recomendaciones de productos" [ref=f90e312]
+        - generic "Carga de recomendaciones de productos" [ref=f90e313]
+    - generic [ref=f90e323]:
+      - generic [ref=f90e325]:
+        - heading "Capacidad de motor ⚙️" [level=2] [ref=f90e327]
+        - paragraph [ref=f90e329]: Potencia nominal 1300W x2 - Potencia máxima 2600W
+        - paragraph [ref=f90e331]:
+          - text: Pico máximo con
+          - strong [ref=f90e332]: 2600W
+          - text: de potencia máxima para nunca dejarte tirado ;)
+      - generic [ref=f90e334]:
+        - heading "Batería y autonomía 🔋" [level=2] [ref=f90e336]
+        - generic [ref=f90e337]:
+          - paragraph [ref=f90e338]:
+            - text: Batería de
+            - strong [ref=f90e339]: 60V 31.5Ah y 60V 35Ah
+            - text: ", con la que podrás hacer"
+            - strong [ref=f90e340]: Hasta 120Km
+          - paragraph [ref=f90e341]:
+            - text: Disfruta de tu
+            - strong [ref=f90e342]: Patinete Eléctrico Dualtron Victor Luxury Plus EY4
+            - text: sin preocuparte por la carga!
+      - generic [ref=f90e344]:
+        - heading "Suspensión y ruedas 🛞" [level=2] [ref=f90e346]
+        - generic [ref=f90e347]:
+          - paragraph [ref=f90e348]:
+            - text: Ruedas de
+            - strong [ref=f90e349]: Neumáticos de 10″ Tubeless
+            - text: ", con agarre y seguridad en cada trayecto."
+          - paragraph [ref=f90e350]:
+            - text: Suspensión
+            - strong [ref=f90e351]: Suspensiones delanteras y traseras de goma
+            - text: para una conducción cómoda y estable.
+    - generic [ref=f90e360]:
+      - heading "Related products" [level=3] [ref=f90e363]
+      - generic [ref=f90e364]:
+        - generic "Carga de recomendaciones de productos" [ref=f90e365]
+        - generic "Carga de recomendaciones de productos" [ref=f90e366]
+        - generic "Carga de recomendaciones de productos" [ref=f90e367]
+        - generic "Carga de recomendaciones de productos" [ref=f90e368]
+    - generic [ref=f90e377]:
+      - generic [ref=f90e378]:
+        - paragraph [ref=f90e381]: Homologado por la DGT ✅
+        - paragraph [ref=f90e384]: Homologado por la DGT ✅
+        - paragraph [ref=f90e387]: Homologado por la DGT ✅
+        - paragraph [ref=f90e390]: Homologado por la DGT ✅
+      - generic [ref=f90e391]:
+        - paragraph [ref=f90e394]: Homologado por la DGT ✅
+        - paragraph [ref=f90e397]: Homologado por la DGT ✅
+        - paragraph [ref=f90e400]: Homologado por la DGT ✅
+        - paragraph [ref=f90e403]: Homologado por la DGT ✅
+    - generic [ref=f90e413]:
+      - generic [ref=f90e415]:
+        - heading "Garantía de 2 años 🔓" [level=2] [ref=f90e417]
+        - paragraph [ref=f90e419]: Somos los distribuidores oficiales de la marca en España y Europa
+      - generic [ref=f90e421]:
+        - heading "Envios 🚚" [level=2] [ref=f90e423]
+        - paragraph [ref=f90e425]: Aquí va información sobre los envíos y lo rápido que somos o lo barato que son
+        - paragraph [ref=f90e427]: Envío express 48h
+      - generic [ref=f90e429]:
+        - heading "Atención al cliente 📞" [level=2] [ref=f90e431]
+        - paragraph [ref=f90e433]: Envío express 48h
+    - generic [ref=f90e448]:
+      - heading "Preguntas frecuentes" [level=3] [ref=f90e450]
+      - generic [ref=f90e451]:
+        - group [ref=f90e453]:
+          - generic "Cual es nuestra politica postventa?" [ref=f90e454] [cursor=pointer]
+        - group [ref=f90e456]:
+          - generic "Are any purchases final sale?" [ref=f90e457] [cursor=pointer]
+        - group [ref=f90e459]:
+          - generic "When will I get my order?" [ref=f90e460] [cursor=pointer]
+        - group [ref=f90e462]:
+          - generic "Where are your products manufactured?" [ref=f90e463] [cursor=pointer]
+        - group [ref=f90e465]:
+          - generic "How much does shipping cost?" [ref=f90e466] [cursor=pointer]
+  - generic [ref=f90e471]:
+    - generic [ref=f90e473]:
+      - generic [ref=f90e475]:
+        - group [ref=f90e477]:
+          - generic "Tienda" [ref=f90e478]
+          - list [ref=f90e480]:
+            - listitem [ref=f90e481]:
+              - link "PATINETES" [ref=f90e482] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+            - listitem [ref=f90e483]:
+              - link "PATINETES HOMOLOGADOS" [ref=f90e484] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - listitem [ref=f90e485]:
+              - link "MOTOS ELÉCTRICAS" [ref=f90e486] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f90e487]:
+              - link "BICIS ELÉCTRICAS" [ref=f90e488] [cursor=pointer]:
+                - /url: /collections/bicicletas-electricas
+            - listitem [ref=f90e489]:
+              - link "MOVILIDAD INFANTIL" [ref=f90e490] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-ninos
+            - listitem [ref=f90e491]:
+              - link "MOVILIDAD REDUCIDA" [ref=f90e492] [cursor=pointer]:
+                - /url: /collections/scooters-movilidad-reducida
+            - listitem [ref=f90e493]:
+              - link "KARTS ELÉCTRICOS" [ref=f90e494] [cursor=pointer]:
+                - /url: /collections/karts-electricos
+            - listitem [ref=f90e495]:
+              - link "COCHES ELÉCTRICOS" [ref=f90e496] [cursor=pointer]:
+                - /url: /collections/coches-electricos
+            - listitem [ref=f90e497]:
+              - link "MOTOS de GASOLINA" [ref=f90e498] [cursor=pointer]:
+                - /url: /collections/motos-gasolina
+            - listitem [ref=f90e499]:
+              - link "Contacto" [ref=f90e500] [cursor=pointer]:
+                - /url: /pages/contact
+        - group [ref=f90e502]:
+          - generic "Información" [ref=f90e503]
+          - list [ref=f90e505]:
+            - listitem [ref=f90e506]:
+              - link "Financiar patinete eléctrico" [ref=f90e507] [cursor=pointer]:
+                - /url: /pages/como-financiar-un-patinete-electrico
+            - listitem [ref=f90e508]:
+              - link "Términos y condiciones" [ref=f90e509] [cursor=pointer]:
+                - /url: /policies/terms-of-service
+            - listitem [ref=f90e510]:
+              - link "Política de envíos" [ref=f90e511] [cursor=pointer]:
+                - /url: /policies/shipping-policy
+            - listitem [ref=f90e512]:
+              - link "Devoluciones y garantías" [ref=f90e513] [cursor=pointer]:
+                - /url: /policies/refund-policy
+            - listitem [ref=f90e514]:
+              - link "(+34) 689313556" [ref=f90e515] [cursor=pointer]:
+                - /url: https://wa.me/34689313556
+            - listitem [ref=f90e516]:
+              - link "sat@electyum.com" [ref=f90e517] [cursor=pointer]:
+                - /url: mailto:sat@electyum.com
+      - generic [ref=f90e518]:
+        - generic [ref=f90e519]: suscríbete para descuentitos!
+        - generic [ref=f90e521]:
+          - generic [ref=f90e522]: Correo electrónico
+          - textbox "Correo electrónico" [ref=f90e523]:
+            - /placeholder: Dirección de correo electrónico
+          - button "Registrarse" [ref=f90e524]
+    - generic [ref=f90e527]:
+      - generic [ref=f90e528]:
+        - generic [ref=f90e530]:
+          - text: © 2026
+          - link "Electyum" [ref=f90e531] [cursor=pointer]:
+            - /url: /
+        - button "Términos y políticas" [ref=f90e533] [cursor=pointer]
+      - generic [ref=f90e535]:
+        - link "Instagram" [ref=f90e537] [cursor=pointer]:
+          - /url: https://instagram.com/electyum
+        - link "Youtube" [ref=f90e541] [cursor=pointer]:
+          - /url: https://www.youtube.com/@electyummovilidadinteligen6279

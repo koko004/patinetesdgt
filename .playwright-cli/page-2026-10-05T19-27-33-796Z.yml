@@ -1,0 +1,1306 @@
+- generic [ref=f28e1]:
+  - generic [ref=f28e4]:
+    - generic:
+      - link "logo":
+        - /url: /
+        - img "logo"
+    - textbox "¿Qué estás buscando?" [ref=f28e6]
+    - generic [ref=f28e7]:
+      - generic [ref=f28e8]: "0"
+      - button [ref=f28e13] [cursor=pointer]
+  - region "Ventajas de comprar en Patinete Store" [ref=f28e14]:
+    - generic [ref=f28e16]:
+      - generic [ref=f28e17]:
+        - generic [ref=f28e18]: ALMACÉN EN ESPAÑA
+        - generic [ref=f28e19]: ENVÍOS EN 24-48 HORAS
+        - generic [ref=f28e20]: •
+        - generic [ref=f28e21]: TIENDA Nº1 DE PATINETES EN ESPAÑA
+        - generic [ref=f28e22]: •
+        - generic [ref=f28e23]: ★
+        - link "+2.500 RESEÑAS EN GOOGLE" [ref=f28e24] [cursor=pointer]:
+          - /url: https://share.google/RuIHo1gsaQe1QaF8z
+        - generic [ref=f28e25]: •
+        - generic [ref=f28e26]:
+          - text: ¡VINILO
+          - generic [ref=f28e27]: GRATIS
+          - text: CON LA COMPRA DE TU PATINETE!
+      - generic [ref=f28e28]:
+        - generic [ref=f28e29]: ALMACÉN EN ESPAÑA
+        - generic [ref=f28e30]: ENVÍOS EN 24-48 HORAS
+        - generic [ref=f28e31]: •
+        - generic [ref=f28e32]: TIENDA Nº1 DE PATINETES EN ESPAÑA
+        - generic [ref=f28e33]: •
+        - generic [ref=f28e34]: ★
+        - generic [ref=f28e35]: +2.500 RESEÑAS EN GOOGLE
+        - generic [ref=f28e36]: •
+        - generic [ref=f28e37]:
+          - text: ¡VINILO
+          - generic [ref=f28e38]: GRATIS
+          - text: CON LA COMPRA DE TU PATINETE!
+  - link "Saltar al contenido" [ref=f28e39] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=f28e40]:
+    - banner [ref=f28e41]:
+      - generic [ref=f28e42]:
+        - text:   
+        - navigation [ref=f28e44]:
+          - link [ref=f28e46] [cursor=pointer]:
+            - /url: https://patinetestore.com/
+            - img "Patinete Store | Venta de patinetes eléctricos y repuestos de patinete" [ref=f28e47]
+          - list [ref=f28e49]:
+            - listitem [ref=f28e50]:
+              - button "Menú" [ref=f28e51] [cursor=pointer]:
+                - generic [ref=f28e52]: 
+          - text:  
+          - list [ref=f28e54]:
+            - listitem [ref=f28e55]:
+              - button "Ver carrito" [ref=f28e56] [cursor=pointer]:
+                - generic [ref=f28e57]: 
+        - text:     
+        - search "Buscar productos" [ref=f28e63]:
+          - searchbox "Buscar" [ref=f28e65]
+    - generic [ref=f28e72]:
+      - heading "Patinetes eléctricos" [level=1] [ref=f28e73]
+      - navigation [ref=f28e75]:
+        - generic [ref=f28e76]:
+          - link "Portada" [ref=f28e78] [cursor=pointer]:
+            - /url: https://patinetestore.com/
+          - text: » Patinetes eléctricos
+    - main [ref=f28e80]:
+      - generic [ref=f28e83]:
+        - generic [ref=f28e85]:
+          - link "ODYSSR ODYSSR 2 productos" [ref=f28e86] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/odyssr/
+            - img "ODYSSR" [ref=f28e88]
+            - generic [ref=f28e89]: ODYSSR
+            - generic [ref=f28e90]: 2 productos
+          - link "Xtreme Xtreme 2 productos" [ref=f28e91] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/xtreme/
+            - img "Xtreme" [ref=f28e93]
+            - generic [ref=f28e94]: Xtreme
+            - generic [ref=f28e95]: 2 productos
+          - link "Adasmart Adasmart 2 productos" [ref=f28e96] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/adasmart/
+            - img "Adasmart" [ref=f28e98]
+            - generic [ref=f28e99]: Adasmart
+            - generic [ref=f28e100]: 2 productos
+          - link "Dualtron Dualtron 10 productos" [ref=f28e101] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/dualtron/
+            - img "Dualtron" [ref=f28e103]
+            - generic [ref=f28e104]: Dualtron
+            - generic [ref=f28e105]: 10 productos
+          - link "Ecoxtrem Ecoxtrem 14 productos" [ref=f28e106] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/ecoxtrem/
+            - img "Ecoxtrem" [ref=f28e108]
+            - generic [ref=f28e109]: Ecoxtrem
+            - generic [ref=f28e110]: 14 productos
+          - link "IceQ IceQ 4 productos" [ref=f28e111] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/iceq/
+            - img "IceQ" [ref=f28e113]
+            - generic [ref=f28e114]: IceQ
+            - generic [ref=f28e115]: 4 productos
+          - link "Inmotion Inmotion 1 producto" [ref=f28e116] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/inmotion/
+            - img "Inmotion" [ref=f28e118]
+            - generic [ref=f28e119]: Inmotion
+            - generic [ref=f28e120]: 1 producto
+          - link "Kaabo Kaabo 4 productos" [ref=f28e121] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/kaabo/
+            - img "Kaabo" [ref=f28e123]
+            - generic [ref=f28e124]: Kaabo
+            - generic [ref=f28e125]: 4 productos
+          - link "Kamikaze Kamikaze 9 productos" [ref=f28e126] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/kamikaze/
+            - img "Kamikaze" [ref=f28e128]
+            - generic [ref=f28e129]: Kamikaze
+            - generic [ref=f28e130]: 9 productos
+          - link "Kukirin Kukirin 7 productos" [ref=f28e131] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/kukirin/
+            - img "Kukirin" [ref=f28e133]
+            - generic [ref=f28e134]: Kukirin
+            - generic [ref=f28e135]: 7 productos
+          - link "Navee Navee 16 productos" [ref=f28e136] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/navee/
+            - img "Navee" [ref=f28e138]
+            - generic [ref=f28e139]: Navee
+            - generic [ref=f28e140]: 16 productos
+          - link "Patinetes Modificados Patinetes Modificados 20 productos" [ref=f28e141] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/patinetes-modificados/
+            - img "Patinetes Modificados" [ref=f28e143]
+            - generic [ref=f28e144]: Patinetes Modificados
+            - generic [ref=f28e145]: 20 productos
+          - link "Rovoron Rovoron 6 productos" [ref=f28e146] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/rovoron/
+            - img "Rovoron" [ref=f28e148]
+            - generic [ref=f28e149]: Rovoron
+            - generic [ref=f28e150]: 6 productos
+          - link "Smartgyro Smartgyro 19 productos" [ref=f28e151] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/smartgyro/
+            - img "Smartgyro" [ref=f28e153]
+            - generic [ref=f28e154]: Smartgyro
+            - generic [ref=f28e155]: 19 productos
+          - link "Teverun Teverun 3 productos" [ref=f28e156] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/teverun/
+            - img "Teverun" [ref=f28e158]
+            - generic [ref=f28e159]: Teverun
+            - generic [ref=f28e160]: 3 productos
+          - link "Zwheel Zwheel 5 productos" [ref=f28e161] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/zwheel/
+            - img "Zwheel" [ref=f28e163]
+            - generic [ref=f28e164]: Zwheel
+            - generic [ref=f28e165]: 5 productos
+        - generic [ref=f28e166]:
+          - generic [ref=f28e168]:
+            - generic [ref=f28e169]: OFERTÓN!
+            - generic [ref=f28e170]:
+              - generic [ref=f28e171]:
+                - generic:
+                  - link "Ecoxtrem M41 Armored Dual LR 24Ah homologado por la DGT":
+                    - /url: https://patinetestore.com/producto/ecoxtrem-m41-armored-dual-lr-60v-24ah/
+                    - img "Ecoxtrem M41 Armored Dual LR 24Ah homologado por la DGT" [ref=f28e172] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e173]:
+                - generic [ref=f28e174]:
+                  - generic [ref=f28e175]: Envío en 24-48 horas
+                  - paragraph [ref=f28e178]:
+                    - link "Patinete Eléctrico Ecoxtrem M41 Armored Dual LR 60V 24Ah" [ref=f28e179] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/ecoxtrem-m41-armored-dual-lr-60v-24ah/
+                - generic [ref=f28e181]:
+                  - deletion [ref=f28e182]:
+                    - generic [ref=f28e183]: €1.050,00
+                  - generic [ref=f28e185]: "El precio original era: €1.050,00."
+                  - insertion [ref=f28e186]:
+                    - generic [ref=f28e187]: €879,00
+                  - generic [ref=f28e189]: "El precio actual es: €879,00."
+          - generic [ref=f28e192]:
+            - generic [ref=f28e193]: OFERTÓN!
+            - generic [ref=f28e194]:
+              - generic [ref=f28e195]:
+                - generic:
+                  - link "Patinete Eléctrico Ecoxtrem Armored ONE PRO":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-ecoxtrem-armored-one/
+                    - img "Patinete Eléctrico Ecoxtrem Armored ONE PRO" [ref=f28e196] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e197]:
+                - generic [ref=f28e198]:
+                  - generic [ref=f28e199]: Envío en 24-48 horas
+                  - paragraph [ref=f28e202]:
+                    - link "Patinete Eléctrico Ecoxtrem Armored ONE PRO" [ref=f28e203] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-ecoxtrem-armored-one/
+                - generic [ref=f28e205]:
+                  - deletion [ref=f28e206]:
+                    - generic [ref=f28e207]: €849,00
+                  - generic [ref=f28e209]: "El precio original era: €849,00."
+                  - insertion [ref=f28e210]:
+                    - generic [ref=f28e211]: €689,50
+                  - generic [ref=f28e213]: "El precio actual es: €689,50."
+          - generic [ref=f28e216]:
+            - generic [ref=f28e217]: OFERTÓN!
+            - generic [ref=f28e218]:
+              - generic [ref=f28e219]:
+                - generic:
+                  - link "Patinete eléctrico KAMIKAZE K1 DGT":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-dgt/
+                    - img "Patinete eléctrico KAMIKAZE K1 DGT" [ref=f28e220] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e221]:
+                - generic [ref=f28e222]:
+                  - generic [ref=f28e223]: Envío en 24-48 horas
+                  - paragraph [ref=f28e226]:
+                    - link "Patinete eléctrico KAMIKAZE K1 DGT" [ref=f28e227] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-dgt/
+                - generic [ref=f28e229]:
+                  - deletion [ref=f28e230]:
+                    - generic [ref=f28e231]: €699,00
+                  - generic [ref=f28e233]: "El precio original era: €699,00."
+                  - insertion [ref=f28e234]:
+                    - generic [ref=f28e235]: €529,00
+                  - generic [ref=f28e237]: "El precio actual es: €529,00."
+          - generic [ref=f28e240]:
+            - generic [ref=f28e241]: OFERTÓN!
+            - generic [ref=f28e242]:
+              - generic [ref=f28e243]:
+                - generic:
+                  - link "Patinete Eléctrico Ecoxtrem Deimos DGT":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-ecoxtrem-deimos-dgt/
+                    - img "Patinete Eléctrico Ecoxtrem Deimos DGT" [ref=f28e244] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e245]:
+                - generic [ref=f28e246]:
+                  - generic [ref=f28e247]: Envío en 24-48 horas
+                  - paragraph [ref=f28e250]:
+                    - link "Patinete Eléctrico Ecoxtrem Deimos DGT" [ref=f28e251] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-ecoxtrem-deimos-dgt/
+                - generic [ref=f28e253]:
+                  - deletion [ref=f28e254]:
+                    - generic [ref=f28e255]: €599,00
+                  - generic [ref=f28e257]: "El precio original era: €599,00."
+                  - insertion [ref=f28e258]:
+                    - generic [ref=f28e259]: €498,90
+                  - generic [ref=f28e261]: "El precio actual es: €498,90."
+          - generic [ref=f28e265]:
+            - generic [ref=f28e266]:
+              - generic:
+                - link "Patinete Eléctrico Ecoxtrem Deimos DGT Dual Motor":
+                  - /url: https://patinetestore.com/producto/patinete-electrico-ecoxtrem-deimos-dgt-dual-motor/
+                  - img "Patinete Eléctrico Ecoxtrem Deimos DGT Dual Motor" [ref=f28e267] [cursor=pointer]
+              - generic:
+                - button "Vista Rápida"
+            - generic [ref=f28e268]:
+              - generic [ref=f28e269]:
+                - generic [ref=f28e270]: Envío en 24-48 horas
+                - paragraph [ref=f28e273]:
+                  - link "Patinete Eléctrico Ecoxtrem Deimos DGT Dual Motor" [ref=f28e274] [cursor=pointer]:
+                    - /url: https://patinetestore.com/producto/patinete-electrico-ecoxtrem-deimos-dgt-dual-motor/
+              - generic [ref=f28e275]: €647,90
+          - generic [ref=f28e281]:
+            - generic [ref=f28e282]: OFERTÓN!
+            - generic [ref=f28e283]:
+              - generic [ref=f28e284]:
+                - generic:
+                  - link "Ecoxtrem Armored Dual Pro azul oscuro, mástil limpio sin anagramas y pieza delantera azul, con luces RGB":
+                    - /url: https://patinetestore.com/producto/ecoxtrem-armored-pro-dual-homologado-dgt/
+                    - img "Ecoxtrem Armored Dual Pro azul oscuro, mástil limpio sin anagramas y pieza delantera azul, con luces RGB" [ref=f28e285] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e286]:
+                - generic [ref=f28e287]:
+                  - generic [ref=f28e288]: Envío en 24-48 horas
+                  - paragraph [ref=f28e291]:
+                    - link "Ecoxtrem Armored PRO Dual Homologado DGT" [ref=f28e292] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/ecoxtrem-armored-pro-dual-homologado-dgt/
+                - generic [ref=f28e294]:
+                  - deletion [ref=f28e295]:
+                    - generic [ref=f28e296]: €999,00
+                  - generic [ref=f28e298]: "El precio original era: €999,00."
+                  - insertion [ref=f28e299]:
+                    - generic [ref=f28e300]: €895,00
+                  - generic [ref=f28e302]: "El precio actual es: €895,00."
+          - generic [ref=f28e305]:
+            - generic [ref=f28e306]: OFERTÓN!
+            - generic [ref=f28e307]:
+              - generic [ref=f28e308]:
+                - generic:
+                  - link "Patinete eléctrico Ecoxtrem M41 Tank Single":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-ecoxtrem-m41-tank-dgt/
+                    - img "Patinete eléctrico Ecoxtrem M41 Tank Single" [ref=f28e309] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e310]:
+                - generic [ref=f28e311]:
+                  - generic [ref=f28e312]: Envío en 24-48 horas
+                  - paragraph [ref=f28e315]:
+                    - link "Patinete eléctrico Ecoxtrem M41 Tank Single" [ref=f28e316] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-ecoxtrem-m41-tank-dgt/
+                - generic [ref=f28e318]:
+                  - deletion [ref=f28e319]:
+                    - generic [ref=f28e320]: €780,00
+                  - generic [ref=f28e322]: "El precio original era: €780,00."
+                  - insertion [ref=f28e323]:
+                    - generic [ref=f28e324]: €599,00
+                  - generic [ref=f28e326]: "El precio actual es: €599,00."
+          - generic [ref=f28e329]:
+            - generic [ref=f28e330]: OFERTÓN!
+            - generic [ref=f28e331]:
+              - generic [ref=f28e332]:
+                - generic:
+                  - link "Patinete Eléctrico Ecoxtrem M41 Tank Dual (Frenos hidráulicos)":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-ecoxtrem-ultimate-v2-dual-motor/
+                    - img "Patinete Eléctrico Ecoxtrem M41 Tank Dual (Frenos hidráulicos)" [ref=f28e333] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e334]:
+                - generic [ref=f28e335]:
+                  - generic [ref=f28e336]: Envío en 24-48 horas
+                  - paragraph [ref=f28e339]:
+                    - link "Patinete Eléctrico Ecoxtrem M41 Tank Dual (Frenos hidráulicos)" [ref=f28e340] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-ecoxtrem-ultimate-v2-dual-motor/
+                - generic [ref=f28e342]:
+                  - deletion [ref=f28e343]:
+                    - generic [ref=f28e344]: €1.099,00
+                  - generic [ref=f28e346]: "El precio original era: €1.099,00."
+                  - insertion [ref=f28e347]:
+                    - generic [ref=f28e348]: €799,00
+                  - generic [ref=f28e350]: "El precio actual es: €799,00."
+          - generic [ref=f28e353]:
+            - generic [ref=f28e354]: OFERTÓN!
+            - generic [ref=f28e355]:
+              - generic [ref=f28e356]:
+                - generic:
+                  - link "Patinete eléctrico KAMIKAZE K1 Plus DGT":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-plus-dgt/
+                    - img "Patinete eléctrico KAMIKAZE K1 Plus DGT" [ref=f28e357] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e358]:
+                - generic [ref=f28e359]:
+                  - generic [ref=f28e360]: Envío en 24-48 horas
+                  - paragraph [ref=f28e363]:
+                    - link "Patinete eléctrico KAMIKAZE K1 Plus DGT" [ref=f28e364] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-plus-dgt/
+                - generic [ref=f28e366]:
+                  - deletion [ref=f28e367]:
+                    - generic [ref=f28e368]: €799,00
+                  - generic [ref=f28e370]: "El precio original era: €799,00."
+                  - insertion [ref=f28e371]:
+                    - generic [ref=f28e372]: €599,00
+                  - generic [ref=f28e374]: "El precio actual es: €599,00."
+          - generic [ref=f28e378]:
+            - generic [ref=f28e379]:
+              - generic:
+                - link "Patinete Eléctrico Rovoron R7 PRO DGT":
+                  - /url: https://patinetestore.com/producto/patinete-electrico-rovoron-r7-pro-dgt/
+                  - img "Patinete Eléctrico Rovoron R7 PRO DGT" [ref=f28e380] [cursor=pointer]
+              - generic:
+                - button "Vista Rápida"
+            - generic [ref=f28e381]:
+              - generic [ref=f28e382]:
+                - generic [ref=f28e383]: Envío en 24-48 horas
+                - paragraph [ref=f28e386]:
+                  - link "Patinete Eléctrico Rovoron R7 PRO DGT" [ref=f28e387] [cursor=pointer]:
+                    - /url: https://patinetestore.com/producto/patinete-electrico-rovoron-r7-pro-dgt/
+              - generic [ref=f28e388]: €1.295,00
+          - generic [ref=f28e394]:
+            - generic [ref=f28e395]: OFERTÓN!
+            - generic [ref=f28e396]:
+              - generic [ref=f28e397]:
+                - generic:
+                  - link "Patinete eléctrico KAMIKAZE K1 Lite DGT":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-lite-dgt/
+                    - img "Patinete eléctrico KAMIKAZE K1 Lite DGT" [ref=f28e398] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e399]:
+                - generic [ref=f28e400]:
+                  - generic [ref=f28e401]: Envío en 24-48 horas
+                  - paragraph [ref=f28e404]:
+                    - link "Patinete eléctrico KAMIKAZE K1 Lite DGT" [ref=f28e405] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-lite-dgt/
+                - generic [ref=f28e407]:
+                  - deletion [ref=f28e408]:
+                    - generic [ref=f28e409]: €479,00
+                  - generic [ref=f28e411]: "El precio original era: €479,00."
+                  - insertion [ref=f28e412]:
+                    - generic [ref=f28e413]: €470,00
+                  - generic [ref=f28e415]: "El precio actual es: €470,00."
+          - generic [ref=f28e418]:
+            - generic [ref=f28e419]: OFERTÓN!
+            - generic [ref=f28e420]:
+              - generic [ref=f28e421]:
+                - generic:
+                  - link "Patinete Eléctrico Xtreme F1 Max DGT":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-xtreme-f1-max-dgt/
+                    - img "Patinete Eléctrico Xtreme F1 Max DGT" [ref=f28e422] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e423]:
+                - generic [ref=f28e424]:
+                  - generic [ref=f28e425]: Envío en 24-48 horas
+                  - paragraph [ref=f28e428]:
+                    - link "Patinete Eléctrico Xtreme F1 Max DGT" [ref=f28e429] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-xtreme-f1-max-dgt/
+                - generic [ref=f28e431]:
+                  - deletion [ref=f28e432]:
+                    - generic [ref=f28e433]: €799,00
+                  - generic [ref=f28e435]: "El precio original era: €799,00."
+                  - insertion [ref=f28e436]:
+                    - generic [ref=f28e437]: €798,00
+                  - generic [ref=f28e439]: "El precio actual es: €798,00."
+          - generic [ref=f28e442]:
+            - generic [ref=f28e443]: OFERTÓN!
+            - generic [ref=f28e444]:
+              - generic [ref=f28e445]:
+                - generic:
+                  - link "Patinete Eléctrico Xtreme F1 DGT":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-xtreme-f1-dgt/
+                    - img "Patinete Eléctrico Xtreme F1 DGT" [ref=f28e446] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e447]:
+                - generic [ref=f28e448]:
+                  - generic [ref=f28e449]: Envío en 24-48 horas
+                  - paragraph [ref=f28e452]:
+                    - link "Patinete Eléctrico Xtreme F1 DGT" [ref=f28e453] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-xtreme-f1-dgt/
+                - generic [ref=f28e455]:
+                  - deletion [ref=f28e456]:
+                    - generic [ref=f28e457]: €549,00
+                  - generic [ref=f28e459]: "El precio original era: €549,00."
+                  - insertion [ref=f28e460]:
+                    - generic [ref=f28e461]: €528,01
+                  - generic [ref=f28e463]: "El precio actual es: €528,01."
+          - generic [ref=f28e467]:
+            - generic [ref=f28e468]:
+              - generic:
+                - link "Patinete Eléctrico Rovoron R7 DGT":
+                  - /url: https://patinetestore.com/producto/patinete-electrico-rovoron-r7/
+                  - img "Patinete Eléctrico Rovoron R7 DGT" [ref=f28e469] [cursor=pointer]
+              - generic:
+                - button "Vista Rápida"
+            - generic [ref=f28e470]:
+              - generic [ref=f28e471]:
+                - generic [ref=f28e472]: Envío en 24-48 horas
+                - paragraph [ref=f28e475]:
+                  - link "Patinete Eléctrico Rovoron R7 DGT" [ref=f28e476] [cursor=pointer]:
+                    - /url: https://patinetestore.com/producto/patinete-electrico-rovoron-r7/
+              - generic [ref=f28e477]: €1.045,00
+          - generic [ref=f28e483]:
+            - generic [ref=f28e484]: OFERTÓN!
+            - generic [ref=f28e485]:
+              - generic [ref=f28e486]:
+                - generic:
+                  - link "Patinete Eléctrico Rovoron S7 DGT":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-rovoron-s7-dgt/
+                    - img "Patinete Eléctrico Rovoron S7 DGT" [ref=f28e487] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e488]:
+                - generic [ref=f28e489]:
+                  - generic [ref=f28e490]: Envío en 24-48 horas
+                  - paragraph [ref=f28e493]:
+                    - link "Patinete Eléctrico Rovoron S7 DGT" [ref=f28e494] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-rovoron-s7-dgt/
+                - generic [ref=f28e496]:
+                  - deletion [ref=f28e497]:
+                    - generic [ref=f28e498]: €3.000,00
+                  - generic [ref=f28e500]: "El precio original era: €3.000,00."
+                  - insertion [ref=f28e501]:
+                    - generic [ref=f28e502]: €2.389,00
+                  - generic [ref=f28e504]: "El precio actual es: €2.389,00."
+          - generic [ref=f28e507]:
+            - generic [ref=f28e508]: OFERTÓN!
+            - generic [ref=f28e509]:
+              - generic [ref=f28e510]:
+                - generic:
+                  - link "Smartgyro Raptor EVO LR OFERTA LIQUIDACIÓN":
+                    - /url: https://patinetestore.com/producto/smartgyro-raptor-evo-lr/
+                    - img "Smartgyro Raptor EVO LR OFERTA LIQUIDACIÓN" [ref=f28e511] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e512]:
+                - generic [ref=f28e513]:
+                  - generic [ref=f28e514]: Envío en 24-48 horas
+                  - paragraph [ref=f28e517]:
+                    - link "Patinete Eléctrico Smartgyro Raptor EVO LR" [ref=f28e518] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-raptor-evo-lr/
+                - generic [ref=f28e520]:
+                  - deletion [ref=f28e521]:
+                    - generic [ref=f28e522]: €1.199,00
+                  - generic [ref=f28e524]: "El precio original era: €1.199,00."
+                  - insertion [ref=f28e525]:
+                    - generic [ref=f28e526]: €794,00
+                  - generic [ref=f28e528]: "El precio actual es: €794,00."
+          - generic [ref=f28e531]:
+            - generic [ref=f28e532]: OFERTÓN!
+            - generic [ref=f28e533]:
+              - generic [ref=f28e534]:
+                - generic:
+                  - link "Smartgyro Rockway EVO PRO":
+                    - /url: https://patinetestore.com/producto/smartgyro-rockway-evo/
+                    - img "Smartgyro Rockway EVO PRO" [ref=f28e535] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e536]:
+                - generic [ref=f28e537]:
+                  - generic [ref=f28e538]: Envío en 24-48 horas
+                  - paragraph [ref=f28e541]:
+                    - link "Patinete Eléctrico Smartgyro Rockway EVO" [ref=f28e542] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-rockway-evo/
+                - generic [ref=f28e543]:
+                  - generic [ref=f28e544]: Compatible con Smartgyro Rockway EVO
+                  - generic [ref=f28e545]:
+                    - deletion [ref=f28e546]:
+                      - generic [ref=f28e547]: €1.199,00
+                    - generic [ref=f28e549]: "El precio original era: €1.199,00."
+                    - insertion [ref=f28e550]:
+                      - generic [ref=f28e551]: €754,00
+                    - generic [ref=f28e553]: "El precio actual es: €754,00."
+          - generic [ref=f28e556]:
+            - generic [ref=f28e557]: OFERTÓN!
+            - generic [ref=f28e558]:
+              - generic [ref=f28e559]:
+                - generic:
+                  - link "Zwheel Zwolf DUO DGT":
+                    - /url: https://patinetestore.com/producto/zwheel-zwolf-duo-dgt/
+                    - img "Zwheel Zwolf DUO DGT" [ref=f28e560] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e561]:
+                - generic [ref=f28e562]:
+                  - generic [ref=f28e563]: Envío en 24-48 horas
+                  - paragraph [ref=f28e566]:
+                    - link "Zwheel Zwolf DUO DGT" [ref=f28e567] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/zwheel-zwolf-duo-dgt/
+                - generic [ref=f28e569]:
+                  - deletion [ref=f28e570]:
+                    - generic [ref=f28e571]: €1.149,00
+                  - generic [ref=f28e573]: "El precio original era: €1.149,00."
+                  - insertion [ref=f28e574]:
+                    - generic [ref=f28e575]: €899,00
+                  - generic [ref=f28e577]: "El precio actual es: €899,00."
+          - generic [ref=f28e580]:
+            - generic [ref=f28e581]: OFERTÓN!
+            - generic [ref=f28e582]:
+              - generic [ref=f28e583]:
+                - generic:
+                  - link "Patinete eléctrico KuKirin G2":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-kukirin-g2/
+                    - img "Patinete eléctrico KuKirin G2" [ref=f28e584] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e585]:
+                - generic [ref=f28e586]:
+                  - generic [ref=f28e587]: Envío en 24-48 horas
+                  - paragraph [ref=f28e590]:
+                    - link "Patinete eléctrico KuKirin G2" [ref=f28e591] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-kukirin-g2/
+                - generic [ref=f28e593]:
+                  - deletion [ref=f28e594]:
+                    - generic [ref=f28e595]: €724,00
+                  - generic [ref=f28e597]: "El precio original era: €724,00."
+                  - insertion [ref=f28e598]:
+                    - generic [ref=f28e599]: €590,00
+                  - generic [ref=f28e601]: "El precio actual es: €590,00."
+          - generic [ref=f28e605]:
+            - generic [ref=f28e606]:
+              - generic:
+                - link "Patinete Eléctrico Adasmart X":
+                  - /url: https://patinetestore.com/producto/patinete-electrico-adasmart-x/
+                  - img "Patinete Eléctrico Adasmart X" [ref=f28e607] [cursor=pointer]
+              - generic:
+                - button "Vista Rápida"
+            - generic [ref=f28e608]:
+              - generic [ref=f28e609]:
+                - generic [ref=f28e610]: Envío en 24-48 horas
+                - paragraph [ref=f28e613]:
+                  - link "Patinete Eléctrico Adasmart X" [ref=f28e614] [cursor=pointer]:
+                    - /url: https://patinetestore.com/producto/patinete-electrico-adasmart-x/
+              - generic [ref=f28e615]: €599,00
+          - generic [ref=f28e621]:
+            - generic [ref=f28e622]: OFERTÓN!
+            - generic [ref=f28e623]:
+              - generic [ref=f28e624]:
+                - generic:
+                  - link "Patinete eléctrico KuKirin G2 PRO DGT":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-kukirin-g2-pro-dgt/
+                    - img "Patinete eléctrico KuKirin G2 PRO DGT" [ref=f28e625] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e626]:
+                - generic [ref=f28e627]:
+                  - generic [ref=f28e628]: Envío en 24-48 horas
+                  - paragraph [ref=f28e631]:
+                    - link "Patinete eléctrico KuKirin G2 PRO DGT (versión Ecoxtrem)" [ref=f28e632] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-kukirin-g2-pro-dgt/
+                - generic [ref=f28e634]:
+                  - deletion [ref=f28e635]:
+                    - generic [ref=f28e636]: €800,00
+                  - generic [ref=f28e638]: "El precio original era: €800,00."
+                  - insertion [ref=f28e639]:
+                    - generic [ref=f28e640]: €499,00
+                  - generic [ref=f28e642]: "El precio actual es: €499,00."
+          - generic [ref=f28e645]:
+            - generic [ref=f28e646]: OFERTÓN!
+            - generic [ref=f28e647]:
+              - generic [ref=f28e648]:
+                - generic:
+                  - link "Patinete Eléctrico Navee NT5 MAX":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-navee-nt5-max/
+                    - img "Patinete Eléctrico Navee NT5 MAX" [ref=f28e649] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e650]:
+                - generic [ref=f28e651]:
+                  - generic [ref=f28e652]: Envío en 24-48 horas
+                  - paragraph [ref=f28e655]:
+                    - link "Patinete Eléctrico Navee NT5 MAX" [ref=f28e656] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-navee-nt5-max/
+                - generic [ref=f28e658]:
+                  - deletion [ref=f28e659]:
+                    - generic [ref=f28e660]: €1.399,00
+                  - generic [ref=f28e662]: "El precio original era: €1.399,00."
+                  - insertion [ref=f28e663]:
+                    - generic [ref=f28e664]: €659,00
+                  - generic [ref=f28e666]: "El precio actual es: €659,00."
+          - generic [ref=f28e669]:
+            - generic [ref=f28e670]: OFERTÓN!
+            - generic [ref=f28e671]:
+              - generic [ref=f28e672]:
+                - generic:
+                  - link "Ecoxtrem Negro 1 Motor DGT - MODIFICADO":
+                    - /url: https://patinetestore.com/producto/ecoxtrem-negro-1-motor-dgt-modificado/
+                    - img "Ecoxtrem Negro 1 Motor DGT - MODIFICADO" [ref=f28e673] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e674]:
+                - generic [ref=f28e675]:
+                  - generic [ref=f28e676]: Envío en 24-48 horas
+                  - paragraph [ref=f28e679]:
+                    - link "Ecoxtrem Negro 1 Motor DGT – MODIFICADO" [ref=f28e680] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/ecoxtrem-negro-1-motor-dgt-modificado/
+                - generic [ref=f28e682]:
+                  - deletion [ref=f28e683]:
+                    - generic [ref=f28e684]: €999,00
+                  - generic [ref=f28e686]: "El precio original era: €999,00."
+                  - insertion [ref=f28e687]:
+                    - generic [ref=f28e688]: €650,00
+                  - generic [ref=f28e690]: "El precio actual es: €650,00."
+          - generic [ref=f28e693]:
+            - generic [ref=f28e694]: OFERTÓN!
+            - generic [ref=f28e695]:
+              - generic [ref=f28e696]:
+                - generic:
+                  - link "Smartgyro K2 PRO":
+                    - /url: https://patinetestore.com/producto/smartgyro-k2-pro/
+                    - img "Smartgyro K2 PRO" [ref=f28e697] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e698]:
+                - generic [ref=f28e699]:
+                  - generic [ref=f28e700]: Envío en 24-48 horas
+                  - paragraph [ref=f28e703]:
+                    - link "Patinete Eléctrico Smartgyro K2 PRO" [ref=f28e704] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-k2-pro/
+                - generic [ref=f28e706]:
+                  - deletion [ref=f28e707]:
+                    - generic [ref=f28e708]: €879,00
+                  - generic [ref=f28e710]: "El precio original era: €879,00."
+                  - insertion [ref=f28e711]:
+                    - generic [ref=f28e712]: €699,00
+                  - generic [ref=f28e714]: "El precio actual es: €699,00."
+          - generic [ref=f28e717]:
+            - generic [ref=f28e718]: OFERTÓN!
+            - generic [ref=f28e719]:
+              - generic [ref=f28e720]:
+                - generic:
+                  - link "Dualtron Forever Limited MAX DGT 30Ah":
+                    - /url: https://patinetestore.com/producto/dualtron-forever-limited-eye4/
+                    - img "Dualtron Forever Limited MAX DGT 30Ah" [ref=f28e721] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e722]:
+                - generic [ref=f28e723]:
+                  - generic [ref=f28e724]: Envío en 24-48 horas
+                  - paragraph [ref=f28e727]:
+                    - link "Dualtron Forever Limited EYE 4 27 Ah 2026" [ref=f28e728] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/dualtron-forever-limited-eye4/
+                - generic [ref=f28e730]:
+                  - deletion [ref=f28e731]:
+                    - generic [ref=f28e732]: €1.599,00
+                  - generic [ref=f28e734]: "El precio original era: €1.599,00."
+                  - insertion [ref=f28e735]:
+                    - generic [ref=f28e736]: €1.399,00
+                  - generic [ref=f28e738]: "El precio actual es: €1.399,00."
+          - generic [ref=f28e742]:
+            - generic [ref=f28e743]:
+              - generic:
+                - link "Patinete Eléctrico Ecoxtrem Deimos Dual PRO naranja con frenos hidráulicos NUTT":
+                  - /url: https://patinetestore.com/producto/patinete-electrico-ecoxtrem-deimos-dual-pro-homologado-dgt/
+                  - img "Patinete Eléctrico Ecoxtrem Deimos Dual PRO naranja con frenos hidráulicos NUTT" [ref=f28e744] [cursor=pointer]
+              - generic:
+                - button "Vista Rápida"
+            - generic [ref=f28e745]:
+              - generic [ref=f28e746]:
+                - generic [ref=f28e747]: Envío en 24-48 horas
+                - paragraph [ref=f28e750]:
+                  - link "Patinete Eléctrico Ecoxtrem Deimos Dual PRO (Homologado DGT)" [ref=f28e751] [cursor=pointer]:
+                    - /url: https://patinetestore.com/producto/patinete-electrico-ecoxtrem-deimos-dual-pro-homologado-dgt/
+              - generic [ref=f28e752]: €749,00
+          - generic [ref=f28e758]:
+            - generic [ref=f28e759]: OFERTÓN!
+            - generic [ref=f28e760]:
+              - generic [ref=f28e761]:
+                - generic:
+                  - link "Patinete Eléctrico Ecoxtrem PUCK Homologado por la DGT":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-ecoxtrem-puck-homologado-por-la-dgt/
+                    - img "Patinete Eléctrico Ecoxtrem PUCK Homologado por la DGT" [ref=f28e762] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e763]:
+                - generic [ref=f28e764]:
+                  - generic [ref=f28e765]: Envío en 24-48 horas
+                  - paragraph [ref=f28e768]:
+                    - link "Patinete Eléctrico Ecoxtrem PUCK Homologado por la DGT" [ref=f28e769] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-ecoxtrem-puck-homologado-por-la-dgt/
+                - generic [ref=f28e771]:
+                  - deletion [ref=f28e772]:
+                    - generic [ref=f28e773]: €329,00
+                  - generic [ref=f28e775]: "El precio original era: €329,00."
+                  - insertion [ref=f28e776]:
+                    - generic [ref=f28e777]: €299,00
+                  - generic [ref=f28e779]: "El precio actual es: €299,00."
+          - generic [ref=f28e783]:
+            - generic [ref=f28e784]:
+              - generic:
+                - link "Patinete Eléctrico Kaabo Wolf X Plus DGT":
+                  - /url: https://patinetestore.com/producto/kaabo-mantis-x-plus-patinete-electrico/
+                  - img "Patinete Eléctrico Kaabo Wolf X Plus DGT" [ref=f28e785] [cursor=pointer]
+              - generic:
+                - button "Vista Rápida"
+            - generic [ref=f28e786]:
+              - generic [ref=f28e787]:
+                - generic [ref=f28e788]: Envío en 24-48 horas
+                - paragraph [ref=f28e791]:
+                  - link "Patinete Eléctrico Kaabo Mantis X Plus DGT" [ref=f28e792] [cursor=pointer]:
+                    - /url: https://patinetestore.com/producto/kaabo-mantis-x-plus-patinete-electrico/
+              - generic [ref=f28e793]: €1.349,00
+          - generic [ref=f28e799]:
+            - generic [ref=f28e800]: OFERTÓN!
+            - generic [ref=f28e801]:
+              - generic [ref=f28e802]:
+                - generic:
+                  - link "Patinete eléctrico Smartgyro Rockway GL 2026":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-rockway-gl-2026/
+                    - img "Patinete eléctrico Smartgyro Rockway GL 2026" [ref=f28e803] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e804]:
+                - generic [ref=f28e805]:
+                  - generic [ref=f28e806]: Envío en 24-48 horas
+                  - paragraph [ref=f28e809]:
+                    - link "Patinete Eléctrico Smartgyro Rockway GL 2026" [ref=f28e810] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-rockway-gl-2026/
+                - generic [ref=f28e812]:
+                  - deletion [ref=f28e813]:
+                    - generic [ref=f28e814]: €790,00
+                  - generic [ref=f28e816]: "El precio original era: €790,00."
+                  - insertion [ref=f28e817]:
+                    - generic [ref=f28e818]: €594,00
+                  - generic [ref=f28e820]: "El precio actual es: €594,00."
+          - generic [ref=f28e823]:
+            - generic [ref=f28e824]: OFERTÓN!
+            - generic [ref=f28e825]:
+              - generic [ref=f28e826]:
+                - generic:
+                  - link "Dualtron Victor Limited DGT":
+                    - /url: https://patinetestore.com/producto/dualtron-victor-limited-dgt/
+                    - img "Dualtron Victor Limited DGT" [ref=f28e827] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e828]:
+                - generic [ref=f28e829]:
+                  - generic [ref=f28e830]: Envío en 24-48 horas
+                  - paragraph [ref=f28e833]:
+                    - link "Dualtron Victor Limited DGT" [ref=f28e834] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/dualtron-victor-limited-dgt/
+                - generic [ref=f28e836]:
+                  - deletion [ref=f28e837]:
+                    - generic [ref=f28e838]: €2.490,00
+                  - generic [ref=f28e840]: "El precio original era: €2.490,00."
+                  - insertion [ref=f28e841]:
+                    - generic [ref=f28e842]: €1.890,00
+                  - generic [ref=f28e844]: "El precio actual es: €1.890,00."
+          - generic [ref=f28e847]:
+            - generic [ref=f28e848]: OFERTÓN!
+            - generic [ref=f28e849]:
+              - generic [ref=f28e850]:
+                - generic:
+                  - link "SmartGyro Z-One 2 Gray":
+                    - /url: https://patinetestore.com/producto/smartgyro-z-one-2-gray/
+                    - img "SmartGyro Z-One 2 Gray" [ref=f28e851] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e852]:
+                - generic [ref=f28e853]:
+                  - generic [ref=f28e854]: Envío en 24-48 horas
+                  - paragraph [ref=f28e857]:
+                    - link "Patinete Eléctrico Smartgyro Z-One 2 Gray" [ref=f28e858] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-z-one-2-gray/
+                - generic [ref=f28e860]:
+                  - deletion [ref=f28e861]:
+                    - generic [ref=f28e862]: €349,00
+                  - generic [ref=f28e864]: "El precio original era: €349,00."
+                  - insertion [ref=f28e865]:
+                    - generic [ref=f28e866]: €294,00
+                  - generic [ref=f28e868]: "El precio actual es: €294,00."
+          - generic [ref=f28e871]:
+            - generic [ref=f28e872]: OFERTÓN!
+            - generic [ref=f28e873]:
+              - generic [ref=f28e874]:
+                - generic:
+                  - link "Dualtron Victor Luxury PLUS DGT 60V 35Ah":
+                    - /url: https://patinetestore.com/producto/dualtron-victor-luxury-plus-dgt-60v-35ah/
+                    - img "Dualtron Victor Luxury PLUS DGT 60V 35Ah" [ref=f28e875] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e876]:
+                - generic [ref=f28e877]:
+                  - generic [ref=f28e878]: Envío en 24-48 horas
+                  - paragraph [ref=f28e881]:
+                    - link "Dualtron Victor Luxury PLUS DGT 60V 35Ah" [ref=f28e882] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/dualtron-victor-luxury-plus-dgt-60v-35ah/
+                - generic [ref=f28e884]:
+                  - deletion [ref=f28e885]:
+                    - generic [ref=f28e886]: €2.599,00
+                  - generic [ref=f28e888]: "El precio original era: €2.599,00."
+                  - insertion [ref=f28e889]:
+                    - generic [ref=f28e890]: €2.085,00
+                  - generic [ref=f28e892]: "El precio actual es: €2.085,00."
+          - generic [ref=f28e895]:
+            - generic [ref=f28e896]: OFERTÓN!
+            - generic [ref=f28e897]:
+              - generic [ref=f28e898]:
+                - generic:
+                  - link "Patinete eléctrico KAMIKAZE K1 MAX Tokio Drift":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-max-tokio-drift/
+                    - img "Patinete eléctrico KAMIKAZE K1 MAX Tokio Drift" [ref=f28e899] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e900]:
+                - generic [ref=f28e901]:
+                  - generic [ref=f28e902]: Envío en 24-48 horas
+                  - paragraph [ref=f28e905]:
+                    - link "Patinete eléctrico KAMIKAZE K1 MAX Tokio Drift" [ref=f28e906] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-max-tokio-drift/
+                - generic [ref=f28e908]:
+                  - deletion [ref=f28e909]:
+                    - generic [ref=f28e910]: €899,00
+                  - generic [ref=f28e912]: "El precio original era: €899,00."
+                  - insertion [ref=f28e913]:
+                    - generic [ref=f28e914]: €860,00
+                  - generic [ref=f28e916]: "El precio actual es: €860,00."
+          - generic [ref=f28e919]:
+            - generic [ref=f28e920]: OFERTÓN!
+            - generic [ref=f28e921]:
+              - generic [ref=f28e922]:
+                - generic:
+                  - link "SmartGyro Ryder 2":
+                    - /url: https://patinetestore.com/producto/smartgyro-ryder-2/
+                    - img "SmartGyro Ryder 2" [ref=f28e923] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e924]:
+                - generic [ref=f28e925]:
+                  - generic [ref=f28e926]: Envío en 24-48 horas
+                  - paragraph [ref=f28e929]:
+                    - link "Patinete Eléctrico Smartgyro Ryder 2" [ref=f28e930] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-ryder-2/
+                - generic [ref=f28e932]:
+                  - deletion [ref=f28e933]:
+                    - generic [ref=f28e934]: €1.099,00
+                  - generic [ref=f28e936]: "El precio original era: €1.099,00."
+                  - insertion [ref=f28e937]:
+                    - generic [ref=f28e938]: €794,00
+                  - generic [ref=f28e940]: "El precio actual es: €794,00."
+          - generic [ref=f28e943]:
+            - generic [ref=f28e944]: OFERTÓN!
+            - generic [ref=f28e945]:
+              - generic [ref=f28e946]:
+                - generic:
+                  - link "Smartgyro Rockway GT 2026":
+                    - /url: https://patinetestore.com/producto/smartgyro-rockway-gt-2026/
+                    - img "Smartgyro Rockway GT 2026" [ref=f28e947] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e948]:
+                - generic [ref=f28e949]:
+                  - generic [ref=f28e950]: Envío en 24-48 horas
+                  - paragraph [ref=f28e953]:
+                    - link "Patinete Eléctrico Smartgyro Rockway GT 2026" [ref=f28e954] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-rockway-gt-2026/
+                - generic [ref=f28e955]:
+                  - generic [ref=f28e956]: Compatible con Smartgyro Rockway GT
+                  - generic [ref=f28e957]:
+                    - deletion [ref=f28e958]:
+                      - generic [ref=f28e959]: €1.090,00
+                    - generic [ref=f28e961]: "El precio original era: €1.090,00."
+                    - insertion [ref=f28e962]:
+                      - generic [ref=f28e963]: €595,00
+                    - generic [ref=f28e965]: "El precio actual es: €595,00."
+          - generic [ref=f28e968]:
+            - generic [ref=f28e969]: OFERTÓN!
+            - generic [ref=f28e970]:
+              - generic [ref=f28e971]:
+                - generic:
+                  - link "Navee ST3 Pro DGT":
+                    - /url: https://patinetestore.com/producto/navee-st3-dgt/
+                    - img "Navee ST3 Pro DGT" [ref=f28e972] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e973]:
+                - generic [ref=f28e974]:
+                  - generic [ref=f28e975]: Envío en 24-48 horas
+                  - paragraph [ref=f28e978]:
+                    - link "Navee ST3 DGT" [ref=f28e979] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/navee-st3-dgt/
+                - generic [ref=f28e981]:
+                  - deletion [ref=f28e982]:
+                    - generic [ref=f28e983]: €899,00
+                  - generic [ref=f28e985]: "El precio original era: €899,00."
+                  - insertion [ref=f28e986]:
+                    - generic [ref=f28e987]: €499,00
+                  - generic [ref=f28e989]: "El precio actual es: €499,00."
+          - generic [ref=f28e992]:
+            - generic [ref=f28e993]: OFERTÓN!
+            - generic [ref=f28e994]:
+              - generic [ref=f28e995]:
+                - generic:
+                  - link "Patinete Eléctrico Ecoxtrem Bison GT Carbon":
+                    - /url: https://patinetestore.com/producto/ecoxtreme-bison-gt-carbon-dgt/
+                    - img "Patinete Eléctrico Ecoxtrem Bison GT Carbon" [ref=f28e996] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e997]:
+                - generic [ref=f28e998]:
+                  - generic [ref=f28e999]: Envío en 24-48 horas
+                  - paragraph [ref=f28e1002]:
+                    - link "Patinete Eléctrico Ecoxtrem Bison GT Carbon" [ref=f28e1003] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/ecoxtreme-bison-gt-carbon-dgt/
+                - generic [ref=f28e1004]:
+                  - generic [ref=f28e1005]: Compatible con Ecoxtrem Bison GT
+                  - generic [ref=f28e1006]:
+                    - deletion [ref=f28e1007]:
+                      - generic [ref=f28e1008]: €749,00
+                    - generic [ref=f28e1010]: "El precio original era: €749,00."
+                    - insertion [ref=f28e1011]:
+                      - generic [ref=f28e1012]: €589,00
+                    - generic [ref=f28e1014]: "El precio actual es: €589,00."
+          - generic [ref=f28e1017]:
+            - generic [ref=f28e1018]: OFERTÓN!
+            - generic [ref=f28e1019]:
+              - generic [ref=f28e1020]:
+                - generic:
+                  - link "Smartgyro Crossover Dual Max 2 LR EXCLUSIVO FRENOS HIDRÁULICOS":
+                    - /url: https://patinetestore.com/producto/smartgyro-dualmax-2-dgt/
+                    - img "Smartgyro Crossover Dual Max 2 LR EXCLUSIVO FRENOS HIDRÁULICOS" [ref=f28e1021] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e1022]:
+                - generic [ref=f28e1023]:
+                  - generic [ref=f28e1024]: Envío en 24-48 horas
+                  - paragraph [ref=f28e1027]:
+                    - link "Patinete Eléctrico Smartgyro Crossover Dual Max 2" [ref=f28e1028] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-dualmax-2-dgt/
+                - generic [ref=f28e1030]:
+                  - deletion [ref=f28e1031]:
+                    - generic [ref=f28e1032]: €1.090,00
+                  - generic [ref=f28e1034]: "El precio original era: €1.090,00."
+                  - insertion [ref=f28e1035]:
+                    - generic [ref=f28e1036]: €689,00
+                  - generic [ref=f28e1038]: "El precio actual es: €689,00."
+          - generic [ref=f28e1041]:
+            - generic [ref=f28e1042]: OFERTÓN!
+            - generic [ref=f28e1043]:
+              - generic [ref=f28e1044]:
+                - generic:
+                  - link "Zwheel Zwolf DGT":
+                    - /url: https://patinetestore.com/producto/zwheel-zwolf-dgt/
+                    - img "Zwheel Zwolf DGT" [ref=f28e1045] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e1046]:
+                - generic [ref=f28e1047]:
+                  - generic [ref=f28e1048]: Envío en 24-48 horas
+                  - paragraph [ref=f28e1051]:
+                    - link "Zwheel Zwolf DGT" [ref=f28e1052] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/zwheel-zwolf-dgt/
+                - generic [ref=f28e1053]:
+                  - generic [ref=f28e1054]: Compatible con Zwheel ZWolf
+                  - generic [ref=f28e1055]:
+                    - deletion [ref=f28e1056]:
+                      - generic [ref=f28e1057]: €749,00
+                    - generic [ref=f28e1059]: "El precio original era: €749,00."
+                    - insertion [ref=f28e1060]:
+                      - generic [ref=f28e1061]: €579,00
+                    - generic [ref=f28e1063]: "El precio actual es: €579,00."
+          - generic [ref=f28e1067]:
+            - generic [ref=f28e1068]:
+              - generic:
+                - link "Damper de Dirección Kukirin G4":
+                  - /url: https://patinetestore.com/producto/damper-direccion-kukirin-g4/
+                  - img "Damper de Dirección Kukirin G4" [ref=f28e1069] [cursor=pointer]
+              - generic:
+                - button "Vista Rápida"
+              - generic [ref=f28e1070]: Sin existencias
+            - generic [ref=f28e1071]:
+              - generic [ref=f28e1072]:
+                - generic [ref=f28e1073]: Envío en 24-48 horas
+                - paragraph [ref=f28e1076]:
+                  - link "Damper de Dirección Kukirin G4" [ref=f28e1077] [cursor=pointer]:
+                    - /url: https://patinetestore.com/producto/damper-direccion-kukirin-g4/
+              - generic [ref=f28e1078]: €74,90
+          - generic [ref=f28e1084]:
+            - generic [ref=f28e1085]: OFERTÓN!
+            - generic [ref=f28e1086]:
+              - generic [ref=f28e1087]:
+                - generic:
+                  - link "VENDIDO - Ecoxtrem ARMORED ONE CUPRA DGT - MODIFICADO":
+                    - /url: https://patinetestore.com/producto/ecoxtrem-armored-one-cupra-dgt-modificado/
+                    - img "VENDIDO - Ecoxtrem ARMORED ONE CUPRA DGT - MODIFICADO" [ref=f28e1088] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e1089]:
+                - generic [ref=f28e1090]:
+                  - generic [ref=f28e1091]: Envío en 24-48 horas
+                  - paragraph [ref=f28e1094]:
+                    - link "VENDIDO – Ecoxtrem ARMORED ONE CUPRA DGT – MODIFICADO" [ref=f28e1095] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/ecoxtrem-armored-one-cupra-dgt-modificado/
+                - generic [ref=f28e1097]:
+                  - deletion [ref=f28e1098]:
+                    - generic [ref=f28e1099]: €899,00
+                  - generic [ref=f28e1101]: "El precio original era: €899,00."
+                  - insertion [ref=f28e1102]:
+                    - generic [ref=f28e1103]: €650,00
+                  - generic [ref=f28e1105]: "El precio actual es: €650,00."
+          - generic [ref=f28e1108]:
+            - generic [ref=f28e1109]: OFERTÓN!
+            - generic [ref=f28e1110]:
+              - generic [ref=f28e1111]:
+                - generic:
+                  - link "Dualtron Sonic Alien DGT":
+                    - /url: https://patinetestore.com/producto/dualtron-sonic-alien-dgt/
+                    - img "Dualtron Sonic Alien DGT" [ref=f28e1112] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e1113]:
+                - generic [ref=f28e1114]:
+                  - generic [ref=f28e1115]: Envío en 24-48 horas
+                  - paragraph [ref=f28e1118]:
+                    - link "Dualtron Sonic Alien DGT" [ref=f28e1119] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/dualtron-sonic-alien-dgt/
+                - generic [ref=f28e1121]:
+                  - deletion [ref=f28e1122]:
+                    - generic [ref=f28e1123]: €4.199,00
+                  - generic [ref=f28e1125]: "El precio original era: €4.199,00."
+                  - insertion [ref=f28e1126]:
+                    - generic [ref=f28e1127]: €3.885,00
+                  - generic [ref=f28e1129]: "El precio actual es: €3.885,00."
+          - generic [ref=f28e1132]:
+            - generic [ref=f28e1133]: OFERTÓN!
+            - generic [ref=f28e1134]:
+              - generic [ref=f28e1135]:
+                - generic:
+                  - link "Patinete Eléctrico Smartgyro K5 PRO LR":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-k5-pro-lr/
+                    - img "Patinete Eléctrico Smartgyro K5 PRO LR" [ref=f28e1136] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e1137]:
+                - generic [ref=f28e1138]:
+                  - generic [ref=f28e1139]: Envío en 24-48 horas
+                  - paragraph [ref=f28e1142]:
+                    - link "Patinete Eléctrico Smartgyro K5 PRO LR" [ref=f28e1143] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-k5-pro-lr/
+                - generic [ref=f28e1145]:
+                  - deletion [ref=f28e1146]:
+                    - generic [ref=f28e1147]: €879,00
+                  - generic [ref=f28e1149]: "El precio original era: €879,00."
+                  - insertion [ref=f28e1150]:
+                    - generic [ref=f28e1151]: €774,00
+                  - generic [ref=f28e1153]: "El precio actual es: €774,00."
+          - generic [ref=f28e1156]:
+            - generic [ref=f28e1157]: OFERTÓN!
+            - generic [ref=f28e1158]:
+              - generic [ref=f28e1159]:
+                - generic:
+                  - link "Ecoxtrem Verde 1 Motor DGT - MODIFICADO":
+                    - /url: https://patinetestore.com/producto/ecoxtrem-verde-1-motor-dgt-modificado/
+                    - img "Ecoxtrem Verde 1 Motor DGT - MODIFICADO" [ref=f28e1160] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e1161]:
+                - generic [ref=f28e1162]:
+                  - generic [ref=f28e1163]: Envío en 24-48 horas
+                  - paragraph [ref=f28e1166]:
+                    - link "Ecoxtrem Verde 1 Motor DGT – MODIFICADO" [ref=f28e1167] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/ecoxtrem-verde-1-motor-dgt-modificado/
+                - generic [ref=f28e1169]:
+                  - deletion [ref=f28e1170]:
+                    - generic [ref=f28e1171]: €1.099,00
+                  - generic [ref=f28e1173]: "El precio original era: €1.099,00."
+                  - insertion [ref=f28e1174]:
+                    - generic [ref=f28e1175]: €899,00
+                  - generic [ref=f28e1177]: "El precio actual es: €899,00."
+          - generic [ref=f28e1180]:
+            - generic [ref=f28e1181]: OFERTÓN!
+            - generic [ref=f28e1182]:
+              - generic [ref=f28e1183]:
+                - generic:
+                  - link "Patinete eléctrico KuKirin G2 Master 2025":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-kukirin-g2-master-2025/
+                    - img "Patinete eléctrico KuKirin G2 Master 2025" [ref=f28e1184] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e1185]:
+                - generic [ref=f28e1186]:
+                  - generic [ref=f28e1187]: Envío en 24-48 horas
+                  - paragraph [ref=f28e1190]:
+                    - link "Patinete eléctrico KuKirin G2 Master 2026" [ref=f28e1191] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-kukirin-g2-master-2025/
+                - generic [ref=f28e1192]:
+                  - generic [ref=f28e1193]: Compatible con Kukirin G2 Master
+                  - generic [ref=f28e1194]:
+                    - deletion [ref=f28e1195]:
+                      - generic [ref=f28e1196]: €1.499,00
+                    - generic [ref=f28e1198]: "El precio original era: €1.499,00."
+                    - insertion [ref=f28e1199]:
+                      - generic [ref=f28e1200]: €887,00
+                    - generic [ref=f28e1202]: "El precio actual es: €887,00."
+          - generic [ref=f28e1206]:
+            - generic [ref=f28e1207]:
+              - generic:
+                - link "Ecoxtrem Armored Dual Red Bull Glitter DGT - MODIFICADO por PatineteStore":
+                  - /url: https://patinetestore.com/producto/ecoxtrem-armored-dual-red-bull-glitter-dgt-modificado-patinetestore/
+                  - img "Ecoxtrem Armored Dual Red Bull Glitter DGT - MODIFICADO por PatineteStore" [ref=f28e1208] [cursor=pointer]
+              - generic:
+                - button "Vista Rápida"
+              - generic [ref=f28e1209]: Sin existencias
+            - generic [ref=f28e1210]:
+              - generic [ref=f28e1211]:
+                - generic [ref=f28e1212]: Envío en 24-48 horas
+                - paragraph [ref=f28e1215]:
+                  - link "Ecoxtrem Armored Dual Red Bull Glitter DGT – MODIFICADO por PatineteStore" [ref=f28e1216] [cursor=pointer]:
+                    - /url: https://patinetestore.com/producto/ecoxtrem-armored-dual-red-bull-glitter-dgt-modificado-patinetestore/
+              - generic [ref=f28e1217]: €1.150,00
+          - generic [ref=f28e1223]:
+            - generic [ref=f28e1224]: OFERTÓN!
+            - generic [ref=f28e1225]:
+              - generic [ref=f28e1226]:
+                - generic:
+                  - link "Patinete eléctrico KAMIKAZE K1 MAX Tokio Drift DGT":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-max-dgt/
+                    - img "Patinete eléctrico KAMIKAZE K1 MAX Tokio Drift DGT" [ref=f28e1227] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e1228]:
+                - generic [ref=f28e1229]:
+                  - generic [ref=f28e1230]: Envío en 24-48 horas
+                  - paragraph [ref=f28e1233]:
+                    - link "Patinete Eléctrico Kamikaze K1 Max DGT" [ref=f28e1234] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-max-dgt/
+                - generic [ref=f28e1236]:
+                  - deletion [ref=f28e1237]:
+                    - generic [ref=f28e1238]: €860,00
+                  - generic [ref=f28e1240]: "El precio original era: €860,00."
+                  - insertion [ref=f28e1241]:
+                    - generic [ref=f28e1242]: €799,00
+                  - generic [ref=f28e1244]: "El precio actual es: €799,00."
+          - generic [ref=f28e1247]:
+            - generic [ref=f28e1248]: OFERTÓN!
+            - generic [ref=f28e1249]:
+              - generic [ref=f28e1250]:
+                - generic:
+                  - link "Smartgyro Crossover Dual Max 2 LR EXCLUSIVO FRENOS HIDRÁULICOS":
+                    - /url: https://patinetestore.com/producto/smartgyro-crossover-dual-max-2-lr-2/
+                    - img "Smartgyro Crossover Dual Max 2 LR EXCLUSIVO FRENOS HIDRÁULICOS" [ref=f28e1251] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f28e1252]:
+                - generic [ref=f28e1253]:
+                  - generic [ref=f28e1254]: Envío en 24-48 horas
+                  - paragraph [ref=f28e1257]:
+                    - link "Patinete Eléctrico Smartgyro Crossover Dual Max 2 LR" [ref=f28e1258] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-crossover-dual-max-2-lr-2/
+                - generic [ref=f28e1260]:
+                  - deletion [ref=f28e1261]:
+                    - generic [ref=f28e1262]: €1.090,00
+                  - generic [ref=f28e1264]: "El precio original era: €1.090,00."
+                  - insertion [ref=f28e1265]:
+                    - generic [ref=f28e1266]: €794,00
+                  - generic [ref=f28e1268]: "El precio actual es: €794,00."
+        - navigation "Paginación de producto" [ref=f28e1271]:
+          - list [ref=f28e1272]:
+            - listitem [ref=f28e1273]:
+              - generic [ref=f28e1274]: "1"
+            - listitem [ref=f28e1275]:
+              - link "2" [ref=f28e1276] [cursor=pointer]:
+                - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/page/2/
+            - listitem [ref=f28e1277]:
+              - link "3" [ref=f28e1278] [cursor=pointer]:
+                - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/page/3/
+            - listitem [ref=f28e1279]:
+              - link "Next" [ref=f28e1280] [cursor=pointer]:
+                - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/page/2/
+                - generic [ref=f28e1281]: 
+        - generic [ref=f28e1283]:
+          - paragraph [ref=f28e1284]: Patinetes eléctricos
+          - paragraph [ref=f28e1285]: En Patinete Store reunimos patinetes eléctricos para que puedas encontrar piezas y accesorios compatibles sin perder tiempo comparando referencias equivocadas.
+          - paragraph [ref=f28e1286]: Esta selección está pensada para comprar con criterio. Revisa compatibilidad, uso previsto, medidas y disponibilidad antes de decidir.
+          - paragraph [ref=f28e1287]: Cómo elegir bien
+          - paragraph [ref=f28e1288]: – Comprueba el modelo exacto y la versión del patinete. – Revisa medidas, conectores, tornillos y forma de montaje. – Compara las fotos del producto con la pieza antigua cuando sea posible. – Si dudas, es mejor confirmar compatibilidad antes de comprar.
+          - paragraph [ref=f28e1289]: Trabajamos esta categoría para que comprar patinetes eléctricos sea más sencillo, con referencias pensadas para taller, mantenimiento y uso diario.
+    - contentinfo [ref=f28e1290]:
+      - region "Instagram feed" [ref=f28e1295]:
+        - link "patinetestore_ on Instagram" [ref=f28e1297] [cursor=pointer]:
+          - /url: https://www.instagram.com/patinetestore_/
+          - generic [ref=f28e1303]:
+            - heading "patinetestore_" [level=3] [ref=f28e1304]
+            - paragraph [ref=f28e1305]:
+              - text: Tienda y Taller patinetes eléctricos
+              - img "🏁" [ref=f28e1306]
+              - img "🥷🏽" [ref=f28e1307]
+              - img "🛴" [ref=f28e1308]
+              - text: Avenida del Cid, 4 Valencia
+        - list [ref=f28e1309]:
+          - listitem [ref=f28e1310]:
+            - 'link "asmr #patinete #escooter #asmr" [ref=f28e1312] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeFNuD-IZ0m/
+          - listitem [ref=f28e1316]:
+            - 'link "Como vinilar patinete eléctrico #patinete #vinilar" [ref=f28e1318] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeB57zCo_Oz/
+          - listitem [ref=f28e1322]:
+            - 'link "Always back to the line#escooter #crash #dualt" [ref=f28e1324] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeAN95qRJH-/
+          - listitem [ref=f28e1328]:
+            - link "Si vas a hacer el canelo, hazlo cuando no hay nadi" [ref=f28e1330] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/Dd_jt9NIDvP/
+          - listitem [ref=f28e1334]:
+            - 'link "Como copiar llave NFC en patinete eléctrico #nfc #" [ref=f28e1336] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/Dd8_W1_ITu9/
+          - listitem [ref=f28e1340]:
+            - 'link "Hemos comprado los nuevos Ecoxtrem Armored PRO #pa" [ref=f28e1342] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/Dd600xwo6-O/
+        - generic [ref=f28e1346]:
+          - button "Cargar más" [ref=f28e1347] [cursor=pointer]
+          - link "Seguir en Instagram" [ref=f28e1350] [cursor=pointer]:
+            - /url: https://www.instagram.com/patinetestore_/
+      - generic [ref=f28e1354]:
+        - link [ref=f28e1356] [cursor=pointer]:
+          - /url: https://patinetestore.com/
+        - list [ref=f28e1359]:
+          - listitem [ref=f28e1360]:
+            - link "Aviso legal" [ref=f28e1361] [cursor=pointer]:
+              - /url: https://patinetestore.com/aviso-legal/
+          - listitem [ref=f28e1362]:
+            - link "Política de devolución y reembolsos" [ref=f28e1363] [cursor=pointer]:
+              - /url: https://patinetestore.com/politica-de-devolucion-y-reembolsos/
+          - listitem [ref=f28e1364]:
+            - link "Métodos de pago" [ref=f28e1365] [cursor=pointer]:
+              - /url: https://patinetestore.com/metodos-de-pago/
+          - listitem [ref=f28e1366]:
+            - link "Política de privacidad" [ref=f28e1367] [cursor=pointer]:
+              - /url: https://patinetestore.com/privacy-policy/
+          - listitem [ref=f28e1368]:
+            - link "Mapa del sitio" [ref=f28e1369] [cursor=pointer]:
+              - /url: https://patinetestore.com/sitemap_index.xml
+          - listitem [ref=f28e1370]:
+            - link "Blog" [ref=f28e1371] [cursor=pointer]:
+              - /url: https://patinetestore.com/blog/
+          - listitem [ref=f28e1372]:
+            - link "Acceso B2B" [ref=f28e1373] [cursor=pointer]:
+              - /url: https://patinetestore.com/my-account/
+      - generic [ref=f28e1375]:
+        - group "Payment icons" [ref=f28e1377]:
+          - generic [ref=f28e1378]: Visa
+          - generic [ref=f28e1382]: Klarna
+          - generic [ref=f28e1395]: Apple Pay
+          - generic [ref=f28e1399]: Cash On Delivery
+          - generic [ref=f28e1403]: Cash on Pickup
+          - generic [ref=f28e1407]: Google Pay
+          - generic [ref=f28e1411]: MasterCard
+          - generic [ref=f28e1418]: PayPal
+          - generic [ref=f28e1422]: Revolut
+        - generic [ref=f28e1428]:
+          - text: Copyright 2026 ©
+          - strong [ref=f28e1429]: Patinete Store
+  - text:          
+  - generic:
+    - button "¡Contacta con nosotros! Abrir chat" [ref=f28e1430] [cursor=pointer]:
+      - generic: ¡Contacta con nosotros!
+    - generic: "1"
+    - dialog "Patinete Store"
+  - status [ref=f28e1432]

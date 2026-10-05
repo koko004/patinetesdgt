@@ -1,0 +1,740 @@
+- generic [ref=f26e1]:
+  - alertdialog [ref=f26e2]:
+    - generic [ref=f26e3]:
+      - generic [ref=f26e4]:
+        - heading "Consentimiento para el uso de cookies" [level=2] [ref=f26e5]
+        - paragraph [ref=f26e6]:
+          - text: Nosotros y nuestros partners, incluido Shopify, utilizamos cookies y otras tecnologías para personalizar tu experiencia, mostrarte anuncios y realizar informes y estadísticas, y no utilizaremos cookies ni otras tecnologías para estos fines a menos que las aceptes. Obtén más información en nuestra
+          - link "Política de privacidad" [ref=f26e7] [cursor=pointer]:
+            - /url: http://electyum.com/policies/privacy-policy
+      - generic [ref=f26e8]:
+        - button "Administrar preferencias" [ref=f26e9]
+        - button "Aceptar" [ref=f26e10]
+        - button "Rechazar" [ref=f26e11]
+  - link "Ir directamente al contenido" [ref=f26e12] [cursor=pointer]:
+    - /url: "#MainContent"
+  - generic:
+    - banner:
+      - generic [ref=f26e15]:
+        - generic [ref=f26e16]:
+          - link [ref=f26e17] [cursor=pointer]:
+            - /url: /
+          - navigation [ref=f26e21]:
+            - list [ref=f26e24]:
+              - generic:
+                - link "PATINETES" [ref=f26e25] [cursor=pointer]:
+                  - /url: /collections/patinetes-electricos
+                - link "PATINETES HOMOLOGADOS" [ref=f26e27] [cursor=pointer]:
+                  - /url: /collections/patinetes-electricos-homologados-dgt
+              - menuitem "Más" [ref=f26e30] [cursor=pointer]
+        - generic [ref=f26e32]:
+          - button "Abrir selector de región e idioma EUR" [ref=f26e34] [cursor=pointer]:
+            - generic [ref=f26e35]: Abrir selector de región e idioma
+            - generic [ref=f26e36]: EUR
+          - button "Abrir búsqueda" [ref=f26e38] [cursor=pointer]
+          - generic [ref=f26e39]:
+            - button "Abrir menú de cuenta" [ref=f26e41] [cursor=pointer]
+            - 'button "Abrir carrito Total de artículos en el carrito: 0" [ref=f26e47] [cursor=pointer]':
+              - generic [ref=f26e49]:
+                - status:
+                  - generic [ref=f26e51]: "Total de artículos en el carrito: 0"
+  - main [ref=f26e52]:
+    - generic [ref=f26e58]:
+      - heading "Patinetes Eléctricos Homologados DGT" [level=1] [ref=f26e60]
+      - paragraph [ref=f26e62]: "Patinetes eléctricos homologados por la DGT: Descubre en esta sección los patinetes eléctricos que cumplen con las futuras regulaciones de la DGT, efectivas a partir de 2027."
+    - generic [ref=f26e65]:
+      - link "Omitir para ir a lista de resultados" [ref=f26e66] [cursor=pointer]:
+        - /url: "#ResultsList"
+      - generic [ref=f26e67]:
+        - generic "Filtros" [ref=f26e69]:
+          - generic [ref=f26e71]:
+            - list [ref=f26e74]:
+              - generic:
+                - group [ref=f26e76]:
+                  - generic "Disponibilidad" [ref=f26e77] [cursor=pointer]
+                - group [ref=f26e81]:
+                  - generic "Precio" [ref=f26e82] [cursor=pointer]
+                - group [ref=f26e85]:
+                  - generic "Marca" [ref=f26e86] [cursor=pointer]
+                - group [ref=f26e90]:
+                  - generic "Autonomía" [ref=f26e91] [cursor=pointer]
+            - generic "Recuento de productos" [ref=f26e95]: 16 artículos
+            - group [ref=f26e98]:
+              - button "Ordenar" [ref=f26e99] [cursor=pointer]
+        - list [ref=f26e103]:
+          - listitem [ref=f26e104]:
+            - generic [ref=f26e106]:
+              - link "Patinete Eléctrico SmartGyro K5 PRO" [ref=f26e107] [cursor=pointer]:
+                - /url: /products/patinete-electrico-smartgyro-k5-pro-certificado?variant=57376041730373
+              - generic [ref=f26e109] [cursor=pointer]:
+                - generic [ref=f26e110]:
+                  - link "Patinete Eléctrico SmartGyro K5 PRO" [ref=f26e111]:
+                    - /url: "\n/products/patinete-electrico-smartgyro-k5-pro-certificado?variant=57376041730373"
+                    - generic [ref=f26e113]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f26e114]
+                        - button "Siguiente diapositiva" [ref=f26e115]
+                      - img "SmartGyro K5 PRO Certificado" [ref=f26e119]
+                  - generic [ref=f26e132]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f26e137]:
+                  - link [ref=f26e138]:
+                    - /url: "\n/products/patinete-electrico-smartgyro-k5-pro-certificado?variant=57376041730373"
+                    - paragraph [ref=f26e140]: Patinete Eléctrico SmartGyro K5 PRO
+                  - generic [ref=f26e142]:
+                    - group [ref=f26e143]:
+                      - generic [ref=f26e144]: Precio de oferta
+                      - text: €659,00 EUR
+                    - group [ref=f26e145]:
+                      - generic [ref=f26e146]: Precio habitual
+                      - text: €899,00 EUR
+          - listitem [ref=f26e147]:
+            - generic [ref=f26e149]:
+              - link "Adasmart V Dual" [ref=f26e150] [cursor=pointer]:
+                - /url: /products/patinete-electrico-adasmart-v-dual-48v-homologado-dgt?variant=58351824273733
+              - generic [ref=f26e152] [cursor=pointer]:
+                - generic [ref=f26e153]:
+                  - link "Adasmart V Dual" [ref=f26e154]:
+                    - /url: "\n/products/patinete-electrico-adasmart-v-dual-48v-homologado-dgt?variant=58351824273733"
+                    - generic [ref=f26e156]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f26e157]
+                        - button "Siguiente diapositiva" [ref=f26e158]
+                      - img "Adasmart V Dual" [ref=f26e162]
+                  - generic [ref=f26e175]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f26e180]:
+                  - link [ref=f26e181]:
+                    - /url: "\n/products/patinete-electrico-adasmart-v-dual-48v-homologado-dgt?variant=58351824273733"
+                    - paragraph [ref=f26e183]: Adasmart V Dual
+                  - generic [ref=f26e185]:
+                    - group [ref=f26e186]:
+                      - generic [ref=f26e187]: Precio de oferta
+                      - text: €749,00 EUR
+                    - group [ref=f26e188]:
+                      - generic [ref=f26e189]: Precio habitual
+                      - text: €1.999,00 EUR
+          - listitem [ref=f26e190]:
+            - generic [ref=f26e192]:
+              - link "Patinete Eléctrico SmartGyro Rockway GL" [ref=f26e193] [cursor=pointer]:
+                - /url: /products/patinete-electrico-smartgyro-rockway-gl-certificado?variant=57374790877509
+              - generic [ref=f26e195] [cursor=pointer]:
+                - generic [ref=f26e196]:
+                  - link "Patinete Eléctrico SmartGyro Rockway GL" [ref=f26e197]:
+                    - /url: "\n/products/patinete-electrico-smartgyro-rockway-gl-certificado?variant=57374790877509"
+                    - generic [ref=f26e199]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f26e200]
+                        - button "Siguiente diapositiva" [ref=f26e201]
+                      - img "SmartGyro Rockway GL" [ref=f26e205]
+                  - generic [ref=f26e218]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f26e223]:
+                  - link [ref=f26e224]:
+                    - /url: "\n/products/patinete-electrico-smartgyro-rockway-gl-certificado?variant=57374790877509"
+                    - paragraph [ref=f26e226]: Patinete Eléctrico SmartGyro Rockway GL
+                  - generic [ref=f26e228]:
+                    - group [ref=f26e229]:
+                      - generic [ref=f26e230]: Precio de oferta
+                      - text: €585,00 EUR
+                    - group [ref=f26e231]:
+                      - generic [ref=f26e232]: Precio habitual
+                      - text: €899,00 EUR
+          - listitem [ref=f26e233]:
+            - generic [ref=f26e235]:
+              - link "Odyssr Rodeo Mono" [ref=f26e236] [cursor=pointer]:
+                - /url: /products/patinete-electrico-odyssr-rodeo-homologado-dgt?variant=58318008516933
+              - generic [ref=f26e238] [cursor=pointer]:
+                - generic [ref=f26e239]:
+                  - link "Odyssr Rodeo Mono" [ref=f26e240]:
+                    - /url: "\n/products/patinete-electrico-odyssr-rodeo-homologado-dgt?variant=58318008516933"
+                    - generic [ref=f26e242]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f26e243]
+                        - button "Siguiente diapositiva" [ref=f26e244]
+                      - img "Odyssr Rodeo Mono 52V 18Ah (Homologado DGT)" [ref=f26e248]
+                  - generic [ref=f26e261]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f26e266]:
+                  - link [ref=f26e267]:
+                    - /url: "\n/products/patinete-electrico-odyssr-rodeo-homologado-dgt?variant=58318008516933"
+                    - paragraph [ref=f26e269]: Odyssr Rodeo Mono
+                  - generic [ref=f26e271]:
+                    - group [ref=f26e272]:
+                      - generic [ref=f26e273]: Precio de oferta
+                      - text: €898,00 EUR
+                    - group [ref=f26e274]:
+                      - generic [ref=f26e275]: Precio habitual
+                      - text: €1.999,00 EUR
+          - listitem [ref=f26e276]:
+            - generic [ref=f26e278]:
+              - link "Adasmart Tank Dual" [ref=f26e279] [cursor=pointer]:
+                - /url: /products/patinete-electrico-adasmart-tank-dual-homologado-dgt?variant=58353076175173
+              - generic [ref=f26e281] [cursor=pointer]:
+                - generic [ref=f26e282]:
+                  - link "Adasmart Tank Dual" [ref=f26e283]:
+                    - /url: "\n/products/patinete-electrico-adasmart-tank-dual-homologado-dgt?variant=58353076175173"
+                    - generic [ref=f26e285]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f26e286]
+                        - button "Siguiente diapositiva" [ref=f26e287]
+                      - img "Adasmart Tank DUAL 48V 23,4Ah (Homologado DGT)" [ref=f26e291]
+                  - generic [ref=f26e304]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f26e309]:
+                  - link [ref=f26e310]:
+                    - /url: "\n/products/patinete-electrico-adasmart-tank-dual-homologado-dgt?variant=58353076175173"
+                    - paragraph [ref=f26e312]: Adasmart Tank Dual
+                  - generic [ref=f26e314]:
+                    - group [ref=f26e315]:
+                      - generic [ref=f26e316]: Precio de oferta
+                      - text: €1.099,00 EUR
+                    - group [ref=f26e317]:
+                      - generic [ref=f26e318]: Precio habitual
+                      - text: €1.399,00 EUR
+          - listitem [ref=f26e319]:
+            - generic [ref=f26e321]:
+              - link "Patinete Eléctrico KuKirin G2 Pro" [ref=f26e322] [cursor=pointer]:
+                - /url: /products/patinete-electrico-homologado-kukirin-g2-pro?variant=58172961161541
+              - generic [ref=f26e324] [cursor=pointer]:
+                - generic [ref=f26e325]:
+                  - link "Patinete Eléctrico KuKirin G2 Pro" [ref=f26e326]:
+                    - /url: "\n/products/patinete-electrico-homologado-kukirin-g2-pro?variant=58172961161541"
+                    - generic [ref=f26e328]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f26e329]
+                        - button "Siguiente diapositiva" [ref=f26e330]
+                      - img "Patinete Eléctrico KuKirin G2 Pro" [ref=f26e334]
+                  - generic [ref=f26e347]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f26e352]:
+                  - link [ref=f26e353]:
+                    - /url: "\n/products/patinete-electrico-homologado-kukirin-g2-pro?variant=58172961161541"
+                    - paragraph [ref=f26e355]: Patinete Eléctrico KuKirin G2 Pro
+                  - generic [ref=f26e357]:
+                    - group [ref=f26e358]:
+                      - generic [ref=f26e359]: Precio de oferta
+                      - text: €489,00 EUR
+                    - group [ref=f26e360]:
+                      - generic [ref=f26e361]: Precio habitual
+                      - text: €599,00 EUR
+          - listitem [ref=f26e362]:
+            - generic [ref=f26e364]:
+              - link "Patinete Eléctrico Xiaomi Electric Scooter 6" [ref=f26e365] [cursor=pointer]:
+                - /url: /products/patinete-electrico-homologado-xiaomi-electric-scooter-6?variant=58137776062789
+              - generic [ref=f26e367] [cursor=pointer]:
+                - generic [ref=f26e368]:
+                  - link "Patinete Eléctrico Xiaomi Electric Scooter 6" [ref=f26e369]:
+                    - /url: "\n/products/patinete-electrico-homologado-xiaomi-electric-scooter-6?variant=58137776062789"
+                    - generic [ref=f26e371]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f26e372]
+                        - button "Siguiente diapositiva" [ref=f26e373]
+                      - img "Patinete Eléctrico Xiaomi Electric Scooter 6" [ref=f26e377]
+                  - generic [ref=f26e390]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f26e395]:
+                  - link [ref=f26e396]:
+                    - /url: "\n/products/patinete-electrico-homologado-xiaomi-electric-scooter-6?variant=58137776062789"
+                    - paragraph [ref=f26e398]: Patinete Eléctrico Xiaomi Electric Scooter 6
+                  - generic [ref=f26e400]:
+                    - group [ref=f26e401]:
+                      - generic [ref=f26e402]: Precio de oferta
+                      - text: €429,00 EUR
+                    - group [ref=f26e403]:
+                      - generic [ref=f26e404]: Precio habitual
+                      - text: €849,00 EUR
+          - listitem [ref=f26e405]:
+            - generic [ref=f26e407]:
+              - link "Patinete Eléctrico ICe Q3 EVO 2026" [ref=f26e408] [cursor=pointer]:
+                - /url: /products/patinete-electrico-ic-electric-q3-evo-2026-homologado?variant=57109561213253
+              - generic [ref=f26e410] [cursor=pointer]:
+                - generic [ref=f26e411]:
+                  - link "Patinete Eléctrico ICe Q3 EVO 2026" [ref=f26e412]:
+                    - /url: "\n/products/patinete-electrico-ic-electric-q3-evo-2026-homologado?variant=57109561213253"
+                    - generic [ref=f26e414]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f26e415]
+                        - button "Siguiente diapositiva" [ref=f26e416]
+                      - img "Patinete Eléctrico ICe Q3 EVO 2026" [ref=f26e420]
+                  - generic [ref=f26e433]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f26e438]:
+                  - link [ref=f26e439]:
+                    - /url: "\n/products/patinete-electrico-ic-electric-q3-evo-2026-homologado?variant=57109561213253"
+                    - paragraph [ref=f26e441]: Patinete Eléctrico ICe Q3 EVO 2026
+                  - generic [ref=f26e443]:
+                    - group [ref=f26e444]:
+                      - generic [ref=f26e445]: Precio de oferta
+                      - text: €999,00 EUR
+                    - group [ref=f26e446]:
+                      - generic [ref=f26e447]: Precio habitual
+                      - text: €1.299,00 EUR
+          - listitem [ref=f26e448]:
+            - generic [ref=f26e450]:
+              - link "Patinete Eléctrico Zwheel ZWolf" [ref=f26e451] [cursor=pointer]:
+                - /url: /products/patinete-electrico-zwheel-zwolf-homologado?variant=57255916110149
+              - generic [ref=f26e453] [cursor=pointer]:
+                - generic [ref=f26e454]:
+                  - link "Patinete Eléctrico Zwheel ZWolf" [ref=f26e455]:
+                    - /url: "\n/products/patinete-electrico-zwheel-zwolf-homologado?variant=57255916110149"
+                    - generic [ref=f26e457]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f26e458]
+                        - button "Siguiente diapositiva" [ref=f26e459]
+                      - img "ZWolf Homologado" [ref=f26e463]
+                  - generic [ref=f26e473]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f26e478]:
+                  - link [ref=f26e479]:
+                    - /url: "\n/products/patinete-electrico-zwheel-zwolf-homologado?variant=57255916110149"
+                    - paragraph [ref=f26e481]: Patinete Eléctrico Zwheel ZWolf
+                  - generic [ref=f26e483]:
+                    - group [ref=f26e484]:
+                      - generic [ref=f26e485]: Precio de oferta
+                      - text: €659,00 EUR
+                    - group [ref=f26e486]:
+                      - generic [ref=f26e487]: Precio habitual
+                      - text: €749,00 EUR
+          - listitem [ref=f26e488]:
+            - generic [ref=f26e490]:
+              - link "Patinete Eléctrico Rovoron R7 Lite DGT" [ref=f26e491] [cursor=pointer]:
+                - /url: /products/patinete-electrico-rovoron-r7-lite-dgt?variant=58566020858181
+              - generic [ref=f26e493] [cursor=pointer]:
+                - generic [ref=f26e494]:
+                  - link "Patinete Eléctrico Rovoron R7 Lite DGT" [ref=f26e495]:
+                    - /url: "\n/products/patinete-electrico-rovoron-r7-lite-dgt?variant=58566020858181"
+                    - generic [ref=f26e497]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f26e498]
+                        - button "Siguiente diapositiva" [ref=f26e499]
+                      - img "Patinete Eléctrico Rovoron R7 Lite DGT - Black" [ref=f26e503]
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f26e519]:
+                  - link [ref=f26e520]:
+                    - /url: "\n/products/patinete-electrico-rovoron-r7-lite-dgt?variant=58566020858181"
+                    - paragraph [ref=f26e522]: Patinete Eléctrico Rovoron R7 Lite DGT
+                  - generic [ref=f26e523]: €1.090,00 EUR
+          - listitem [ref=f26e525]:
+            - generic [ref=f26e527]:
+              - link "Odyssr Drift Dual" [ref=f26e528] [cursor=pointer]:
+                - /url: /products/patinete-electrico-odyssr-drift-dual-homologado-dgt?variant=58309185044805
+              - generic [ref=f26e530] [cursor=pointer]:
+                - generic [ref=f26e531]:
+                  - link "Odyssr Drift Dual" [ref=f26e532]:
+                    - /url: "\n/products/patinete-electrico-odyssr-drift-dual-homologado-dgt?variant=58309185044805"
+                    - generic [ref=f26e534]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f26e535]
+                        - button "Siguiente diapositiva" [ref=f26e536]
+                      - img "Odyssr Drift Dual 60V 27Ah (Homologado DGT)" [ref=f26e540]
+                  - generic [ref=f26e553]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f26e558]:
+                  - link [ref=f26e559]:
+                    - /url: "\n/products/patinete-electrico-odyssr-drift-dual-homologado-dgt?variant=58309185044805"
+                    - paragraph [ref=f26e561]: Odyssr Drift Dual
+                  - generic [ref=f26e563]:
+                    - group [ref=f26e564]:
+                      - generic [ref=f26e565]: Precio de oferta
+                      - text: €1.289,00 EUR
+                    - group [ref=f26e566]:
+                      - generic [ref=f26e567]: Precio habitual
+                      - text: €2.249,00 EUR
+          - listitem [ref=f26e568]:
+            - generic [ref=f26e570]:
+              - link "Odyssr Rodeo Dual" [ref=f26e571] [cursor=pointer]:
+                - /url: /products/patiente-electrico-odyssr-rodeo-dual-homologado-dgt?variant=58309320409413
+              - generic [ref=f26e573] [cursor=pointer]:
+                - generic [ref=f26e574]:
+                  - link "Odyssr Rodeo Dual" [ref=f26e575]:
+                    - /url: "\n/products/patiente-electrico-odyssr-rodeo-dual-homologado-dgt?variant=58309320409413"
+                    - generic [ref=f26e577]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f26e578]
+                        - button "Siguiente diapositiva" [ref=f26e579]
+                      - img "Odyssr Rodeo Dual 52V 18Ah (Homologado DGT)" [ref=f26e583]
+                  - generic [ref=f26e596]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f26e601]:
+                  - link [ref=f26e602]:
+                    - /url: "\n/products/patiente-electrico-odyssr-rodeo-dual-homologado-dgt?variant=58309320409413"
+                    - paragraph [ref=f26e604]: Odyssr Rodeo Dual
+                  - generic [ref=f26e606]:
+                    - group [ref=f26e607]:
+                      - generic [ref=f26e608]: Precio de oferta
+                      - text: €995,00 EUR
+                    - group [ref=f26e609]:
+                      - generic [ref=f26e610]: Precio habitual
+                      - text: €1.999,00 EUR
+          - listitem [ref=f26e611]:
+            - generic [ref=f26e613]:
+              - link "Adasmart X" [ref=f26e614] [cursor=pointer]:
+                - /url: /products/patinete-electrico-adasmart-x-15-6ah-homologado-dgt?variant=58318338326853
+              - generic [ref=f26e616] [cursor=pointer]:
+                - generic [ref=f26e617]:
+                  - link "Adasmart X" [ref=f26e618]:
+                    - /url: "\n/products/patinete-electrico-adasmart-x-15-6ah-homologado-dgt?variant=58318338326853"
+                    - generic [ref=f26e620]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f26e621]
+                        - button "Siguiente diapositiva" [ref=f26e622]
+                      - img "Adasmart X 15,6Ah (Homologado DGT)" [ref=f26e626]
+                  - generic [ref=f26e639]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f26e644]:
+                  - link [ref=f26e645]:
+                    - /url: "\n/products/patinete-electrico-adasmart-x-15-6ah-homologado-dgt?variant=58318338326853"
+                    - paragraph [ref=f26e647]: Adasmart X
+                  - generic [ref=f26e649]:
+                    - group [ref=f26e650]:
+                      - generic [ref=f26e651]: Precio de oferta
+                      - text: €599,00 EUR
+                    - group [ref=f26e652]:
+                      - generic [ref=f26e653]: Precio habitual
+                      - text: €999,00 EUR
+          - listitem [ref=f26e654]:
+            - generic [ref=f26e656]:
+              - link "Adasmart XE" [ref=f26e657] [cursor=pointer]:
+                - /url: /products/patinete-electrico-adasmart-xe-23-4ah-homologado-dgt?variant=58340457906501
+              - generic [ref=f26e659] [cursor=pointer]:
+                - generic [ref=f26e660]:
+                  - link "Adasmart XE" [ref=f26e661]:
+                    - /url: "\n/products/patinete-electrico-adasmart-xe-23-4ah-homologado-dgt?variant=58340457906501"
+                    - generic [ref=f26e663]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f26e664]
+                        - button "Siguiente diapositiva" [ref=f26e665]
+                      - img "Adasmart XE" [ref=f26e669]
+                  - generic [ref=f26e682]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f26e687]:
+                  - link [ref=f26e688]:
+                    - /url: "\n/products/patinete-electrico-adasmart-xe-23-4ah-homologado-dgt?variant=58340457906501"
+                    - paragraph [ref=f26e690]: Adasmart XE
+                  - generic [ref=f26e692]:
+                    - group [ref=f26e693]:
+                      - generic [ref=f26e694]: Precio de oferta
+                      - text: €799,00 EUR
+                    - group [ref=f26e695]:
+                      - generic [ref=f26e696]: Precio habitual
+                      - text: €1.299,00 EUR
+          - listitem [ref=f26e697]:
+            - generic [ref=f26e699]:
+              - link "Patinete Eléctrico ICe Q3 EVO Dual" [ref=f26e700] [cursor=pointer]:
+                - /url: /products/patinete-electrico-ic-electric-q3-evo-homologado?variant=57114117570885
+              - generic [ref=f26e702] [cursor=pointer]:
+                - generic [ref=f26e703]:
+                  - link "Patinete Eléctrico ICe Q3 EVO Dual" [ref=f26e704]:
+                    - /url: "\n/products/patinete-electrico-ic-electric-q3-evo-homologado?variant=57114117570885"
+                    - generic [ref=f26e706]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f26e707]
+                        - button "Siguiente diapositiva" [ref=f26e708]
+                      - img "Patinete Eléctrico ICe Q3 EVO Dual" [ref=f26e712]
+                  - generic [ref=f26e725]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f26e730]:
+                  - link [ref=f26e731]:
+                    - /url: "\n/products/patinete-electrico-ic-electric-q3-evo-homologado?variant=57114117570885"
+                    - paragraph [ref=f26e733]: Patinete Eléctrico ICe Q3 EVO Dual
+                  - generic [ref=f26e735]:
+                    - group [ref=f26e736]:
+                      - generic [ref=f26e737]: Precio de oferta
+                      - text: €939,00 EUR
+                    - group [ref=f26e738]:
+                      - generic [ref=f26e739]: Precio habitual
+                      - text: €1.349,00 EUR
+          - listitem [ref=f26e740]:
+            - generic [ref=f26e742]:
+              - link "Patinete Eléctrico ICe M5" [ref=f26e743] [cursor=pointer]:
+                - /url: /products/patinete-electrico-ice-m5-homologado?variant=57407371968837
+              - generic [ref=f26e745] [cursor=pointer]:
+                - generic [ref=f26e746]:
+                  - link "Patinete Eléctrico ICe M5" [ref=f26e747]:
+                    - /url: "\n/products/patinete-electrico-ice-m5-homologado?variant=57407371968837"
+                    - generic [ref=f26e749]:
+                      - generic:
+                        - button "Diapositiva anterior" [ref=f26e750]
+                        - button "Siguiente diapositiva" [ref=f26e751]
+                      - img "Patinete Eléctrico ICe M5" [ref=f26e755]
+                  - generic [ref=f26e768]: Oferta
+                  - generic:
+                    - generic:
+                      - status
+                - generic [ref=f26e773]:
+                  - link [ref=f26e774]:
+                    - /url: "\n/products/patinete-electrico-ice-m5-homologado?variant=57407371968837"
+                    - paragraph [ref=f26e776]: Patinete Eléctrico ICe M5
+                  - generic [ref=f26e778]:
+                    - group [ref=f26e779]:
+                      - generic [ref=f26e780]: Precio de oferta
+                      - text: €740,00 EUR
+                    - group [ref=f26e781]:
+                      - generic [ref=f26e782]: Precio habitual
+                      - text: €1.099,00 EUR
+    - generic [ref=f26e788]:
+      - paragraph [ref=f26e789]:
+        - text: Desde enero de 2021, circular con un
+        - strong [ref=f26e790]: patinete eléctrico homologado DGT
+        - text: no es una opción, es una obligación. En Electyum encontrarás la mayor selección de
+        - strong [ref=f26e791]: patinetes eléctricos homologados
+        - text: "del mercado: modelos de las marcas más reconocidas, certificados para circular legalmente por las vías públicas de España, con garantía oficial y envío en 24-72 horas."
+      - heading "¿Qué requisitos debe cumplir un patinete eléctrico homologado en España?" [level=2] [ref=f26e792]
+      - paragraph [ref=f26e793]:
+        - text: La normativa de la
+        - link "DGT" [ref=f26e794] [cursor=pointer]:
+          - /url: https://www.dgt.es/inicio/
+        - text: "establece los siguientes requisitos técnicos obligatorios para que un patinete eléctrico pueda circular por vías públicas en España:"
+      - list [ref=f26e795]:
+        - listitem [ref=f26e796]:
+          - strong [ref=f26e797]: "Potencia máxima del motor:"
+          - text: 500 W.
+        - listitem [ref=f26e798]:
+          - strong [ref=f26e799]: "Velocidad máxima:"
+          - text: 25 km/h.
+        - listitem [ref=f26e800]:
+          - strong [ref=f26e801]: Peso máximo del conjunto
+          - text: "(usuario + vehículo): 100 kg."
+        - listitem [ref=f26e802]:
+          - strong [ref=f26e803]: Sistema de frenado eficiente
+          - text: que permita detener el vehículo en espacio reducido.
+        - listitem [ref=f26e804]:
+          - strong [ref=f26e805]: "Iluminación:"
+          - text: luces delantera, trasera y lateral, más elementos reflectantes.
+        - listitem [ref=f26e806]:
+          - strong [ref=f26e807]: Dispositivo de aviso acústico
+          - text: (timbre o señal sonora).
+        - listitem [ref=f26e808]:
+          - strong [ref=f26e809]: Placa identificativa
+          - text: con número de homologación y características técnicas del vehículo.
+      - paragraph [ref=f26e810]: Cualquier patinete que no cumpla estos requisitos no puede circular legalmente por vías públicas y su uso puede conllevar multas y sanciones.
+      - heading "Patinetes eléctricos homologados DGT por marca" [level=2] [ref=f26e811]
+      - heading "Patinetes homologados Xiaomi" [level=3] [ref=f26e812]
+      - paragraph [ref=f26e813]:
+        - text: →
+        - link "Ver todos los patinetes eléctricos homologados Xiaomi" [ref=f26e814] [cursor=pointer]:
+          - /url: https://electyum.com/collections/patinetes-electricos-homologados-dgt-xiaomi
+      - heading "Patinetes homologados Smartgyro" [level=3] [ref=f26e815]
+      - list [ref=f26e816]:
+        - listitem [ref=f26e817]:
+          - link "Patinete eléctrico Smartgyro Speedway Certificado" [ref=f26e818] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-smartgyro-speedway-homologado
+        - listitem [ref=f26e819]:
+          - link "Smartgyro Crossover Dual Pro" [ref=f26e820] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-smartgyro-crossover-dual-max-2-homologado-dgt
+        - listitem [ref=f26e821]:
+          - link "Smartgyro Crossover Dual X2" [ref=f26e822] [cursor=pointer]:
+            - /url: https://electyum.com/patinetes-electricos/smartgyro-crossover-dual/
+      - heading "Patinetes homologados Cecotec" [level=3] [ref=f26e823]
+      - list [ref=f26e824]:
+        - listitem [ref=f26e825]:
+          - link "Bongo Serie A Max 45 Connected" [ref=f26e826] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-bongo-serie-a-max-connected
+        - listitem [ref=f26e827]:
+          - link "Bongo Serie M20" [ref=f26e828] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-bongo-serie-m20
+        - listitem [ref=f26e829]:
+          - link "Bongo Serie Z Mountain" [ref=f26e830] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-bongo-serie-z-mountain
+        - listitem [ref=f26e831]:
+          - link "Cecotec Bongo Serie D20" [ref=f26e832] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-bongo-serie-d20
+        - listitem [ref=f26e833]:
+          - link "Cecotec Bongo Serie M30" [ref=f26e834] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-cecotec-bongo-serie-m30
+        - listitem [ref=f26e835]:
+          - link "Cecotec Bongo Serie S+ Max Infinity" [ref=f26e836] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-cecotec-bongo-serie-s
+        - listitem [ref=f26e837]:
+          - link "Cecotec Bongo Serie S+ Max Unlimited" [ref=f26e838] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-cecotec-bongo-serie-s-max-unlimited
+      - heading "Patinetes homologados Segway-Ninebot" [level=3] [ref=f26e839]
+      - list [ref=f26e840]:
+        - listitem [ref=f26e841]:
+          - link "Ninebot Kickscooter F25E II" [ref=f26e842] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-ninebot-kickscooter-f25ii
+        - listitem [ref=f26e843]:
+          - link "Ninebot Kickscooter F40I" [ref=f26e844] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-ninebot-kickscooter-f40i
+        - listitem [ref=f26e845]:
+          - link "Ninebot Kickscooter F65I" [ref=f26e846] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-ninebot-kickscooter-f65i
+        - listitem [ref=f26e847]:
+          - link "Ninebot Kickscooter F2 Plus" [ref=f26e848] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-ninebot-kickscooter-f2-plus
+        - listitem [ref=f26e849]:
+          - link "Ninebot Kickscooter F2 Pro" [ref=f26e850] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-ninebot-kickscooter-f2-pro
+        - listitem [ref=f26e851]:
+          - link "Ninebot Kickscooter Max G2" [ref=f26e852] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-ninebot-kickscooter-f2-pro
+        - listitem [ref=f26e853]:
+          - link "Ninebot Kickscooter E2" [ref=f26e854] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-ninebot-kickscooter-e2
+        - listitem [ref=f26e855]:
+          - link "Ninebot Kickscooter E2 Plus" [ref=f26e856] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-ninebot-kickscooter-e2-plus
+      - heading "Patinetes homologados IC Electric" [level=3] [ref=f26e857]
+      - list [ref=f26e858]:
+        - listitem [ref=f26e859]:
+          - link "ICE M5" [ref=f26e860] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-ice-m5
+        - listitem [ref=f26e861]:
+          - link "ICE Q3 Evo One" [ref=f26e862] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-ice-q3-evolution-one
+        - listitem [ref=f26e863]:
+          - link "ICE Q5 Evolution" [ref=f26e864] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-ice-q5-evolution
+      - heading "Patinetes homologados Zwheel" [level=3] [ref=f26e865]
+      - list [ref=f26e866]:
+        - listitem [ref=f26e867]:
+          - link "ZFOX" [ref=f26e868] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-zfox-homologado-dgt
+        - listitem [ref=f26e869]:
+          - link "ZLion X" [ref=f26e870] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-zwheel-zlion-x-homologado
+        - listitem [ref=f26e871]:
+          - link "ZRino SE" [ref=f26e872] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-zwheel-zrino-se-homologado-dgt
+        - listitem [ref=f26e873]:
+          - link "ZRino" [ref=f26e874] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-zwheel-zrino-homologado-dgt
+        - listitem [ref=f26e875]:
+          - link "ZRino DUO" [ref=f26e876] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-zrino-duo-doble-motor-homologado-dgt
+        - listitem [ref=f26e877]:
+          - link "ZFox Max" [ref=f26e878] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-zwheel-zfox-max-homologado
+          - text: (disponible en Urban Dark, Autumn Sunrise, Artic White y Sky City)
+        - listitem [ref=f26e879]:
+          - link "ZCougar" [ref=f26e880] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-zwheel-zcougar-homologado
+        - listitem [ref=f26e881]:
+          - link "ZCougar DUO" [ref=f26e882] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-zwheel-zcougar-duo-homologado
+        - listitem [ref=f26e883]:
+          - link "ZCougar Plus" [ref=f26e884] [cursor=pointer]:
+            - /url: https://electyum.com/products/patinete-electrico-zcougar-plus-homologado-dgt
+      - heading "Preguntas frecuentes sobre patinetes eléctricos homologados DGT" [level=2] [ref=f26e885]
+      - heading "¿Desde cuándo es obligatorio circular con un patinete homologado en España?" [level=3] [ref=f26e886]
+      - paragraph [ref=f26e887]: Desde el 2 de enero de 2021. A partir de esa fecha, todos los patinetes eléctricos que circulen por vías públicas en España deben cumplir con los requisitos de homologación establecidos por la DGT, independientemente de cuándo fueron comprados.
+      - heading "¿Cómo sé si mi patinete está homologado?" [level=3] [ref=f26e888]
+      - paragraph [ref=f26e889]:
+        - text: Un
+        - strong [ref=f26e890]: patinete eléctrico homologado
+        - text: debe contar con una placa identificativa visible en la que consten el número de homologación y las características técnicas del vehículo. Además, debe cumplir los límites de potencia (máx. 500 W), velocidad (máx. 25 km/h) y peso, y estar equipado con luces y dispositivo acústico reglamentarios.
+      - heading "¿Se puede homologar un patinete eléctrico que no lo está?" [level=3] [ref=f26e891]
+      - paragraph [ref=f26e892]: En la mayoría de los casos no es posible homologar un patinete que no cumple con los requisitos técnicos de la DGT, ya que implicaría modificar componentes clave como el motor o el limitador de velocidad. Lo más recomendable es adquirir directamente un modelo homologado de fábrica.
+      - heading "¿Qué multa me pueden poner por circular con un patinete no homologado?" [level=3] [ref=f26e893]
+      - paragraph [ref=f26e894]: Circular con un patinete eléctrico no homologado por vías públicas puede conllevar sanciones de entre 200 € y 500 € según la infracción concreta. Además, el vehículo puede ser inmovilizado por los agentes de tráfico.
+      - heading "¿Es obligatorio el casco con un patinete homologado?" [level=3] [ref=f26e895]
+      - paragraph [ref=f26e896]: La normativa estatal no obliga al uso de casco para mayores de edad en patinetes eléctricos, pero muchos municipios lo exigen por ordenanza local. Sí es obligatorio para menores de 16 años. En cualquier caso, su uso es siempre muy recomendable por seguridad.
+      - heading "¿Puedo circular por la calzada con un patinete homologado?" [level=3] [ref=f26e897]
+      - paragraph [ref=f26e898]: No. Los patinetes eléctricos homologados deben circular por carriles bici, vías ciclistas o, donde no existan, por zonas de 30 km/h habilitadas para ello. Está prohibido circular por aceras, zonas peatonales y calzadas generales.
+  - generic [ref=f26e903]:
+    - generic [ref=f26e905]:
+      - generic [ref=f26e907]:
+        - group [ref=f26e909]:
+          - generic "Tienda" [ref=f26e910]
+          - list [ref=f26e912]:
+            - listitem [ref=f26e913]:
+              - link "PATINETES" [ref=f26e914] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+            - listitem [ref=f26e915]:
+              - link "PATINETES HOMOLOGADOS" [ref=f26e916] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - listitem [ref=f26e917]:
+              - link "MOTOS ELÉCTRICAS" [ref=f26e918] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f26e919]:
+              - link "BICIS ELÉCTRICAS" [ref=f26e920] [cursor=pointer]:
+                - /url: /collections/bicicletas-electricas
+            - listitem [ref=f26e921]:
+              - link "MOVILIDAD INFANTIL" [ref=f26e922] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-ninos
+            - listitem [ref=f26e923]:
+              - link "MOVILIDAD REDUCIDA" [ref=f26e924] [cursor=pointer]:
+                - /url: /collections/scooters-movilidad-reducida
+            - listitem [ref=f26e925]:
+              - link "KARTS ELÉCTRICOS" [ref=f26e926] [cursor=pointer]:
+                - /url: /collections/karts-electricos
+            - listitem [ref=f26e927]:
+              - link "COCHES ELÉCTRICOS" [ref=f26e928] [cursor=pointer]:
+                - /url: /collections/coches-electricos
+            - listitem [ref=f26e929]:
+              - link "MOTOS de GASOLINA" [ref=f26e930] [cursor=pointer]:
+                - /url: /collections/motos-gasolina
+            - listitem [ref=f26e931]:
+              - link "Contacto" [ref=f26e932] [cursor=pointer]:
+                - /url: /pages/contact
+        - group [ref=f26e934]:
+          - generic "Información" [ref=f26e935]
+          - list [ref=f26e937]:
+            - listitem [ref=f26e938]:
+              - link "Financiar patinete eléctrico" [ref=f26e939] [cursor=pointer]:
+                - /url: /pages/como-financiar-un-patinete-electrico
+            - listitem [ref=f26e940]:
+              - link "Términos y condiciones" [ref=f26e941] [cursor=pointer]:
+                - /url: /policies/terms-of-service
+            - listitem [ref=f26e942]:
+              - link "Política de envíos" [ref=f26e943] [cursor=pointer]:
+                - /url: /policies/shipping-policy
+            - listitem [ref=f26e944]:
+              - link "Devoluciones y garantías" [ref=f26e945] [cursor=pointer]:
+                - /url: /policies/refund-policy
+            - listitem [ref=f26e946]:
+              - link "(+34) 689313556" [ref=f26e947] [cursor=pointer]:
+                - /url: https://wa.me/34689313556
+            - listitem [ref=f26e948]:
+              - link "sat@electyum.com" [ref=f26e949] [cursor=pointer]:
+                - /url: mailto:sat@electyum.com
+      - generic [ref=f26e950]:
+        - generic [ref=f26e951]: suscríbete para descuentitos!
+        - generic [ref=f26e953]:
+          - generic [ref=f26e954]: Correo electrónico
+          - textbox "Correo electrónico" [ref=f26e955]:
+            - /placeholder: Dirección de correo electrónico
+          - button "Registrarse" [ref=f26e956]
+    - generic [ref=f26e959]:
+      - generic [ref=f26e960]:
+        - generic [ref=f26e962]:
+          - text: © 2026
+          - link "Electyum" [ref=f26e963] [cursor=pointer]:
+            - /url: /
+        - button "Términos y políticas" [ref=f26e965] [cursor=pointer]
+      - generic [ref=f26e967]:
+        - link "Instagram" [ref=f26e969] [cursor=pointer]:
+          - /url: https://instagram.com/electyum
+        - link "Youtube" [ref=f26e973] [cursor=pointer]:
+          - /url: https://www.youtube.com/@electyummovilidadinteligen6279

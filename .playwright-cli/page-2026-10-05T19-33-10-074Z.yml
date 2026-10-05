@@ -1,0 +1,417 @@
+- generic [ref=f120e1]:
+  - alertdialog [ref=f120e2]:
+    - generic [ref=f120e3]:
+      - generic [ref=f120e4]:
+        - heading "Consentimiento para el uso de cookies" [level=2] [ref=f120e5]
+        - paragraph [ref=f120e6]:
+          - text: Nosotros y nuestros partners, incluido Shopify, utilizamos cookies y otras tecnologías para personalizar tu experiencia, mostrarte anuncios y realizar informes y estadísticas, y no utilizaremos cookies ni otras tecnologías para estos fines a menos que las aceptes. Obtén más información en nuestra
+          - link "Política de privacidad" [ref=f120e7] [cursor=pointer]:
+            - /url: http://electyum.com/policies/privacy-policy
+      - generic [ref=f120e8]:
+        - button "Administrar preferencias" [ref=f120e9]
+        - button "Aceptar" [ref=f120e10]
+        - button "Rechazar" [ref=f120e11]
+  - link "Ir directamente al contenido" [ref=f120e12] [cursor=pointer]:
+    - /url: "#MainContent"
+  - banner [ref=f120e14]:
+    - generic [ref=f120e17]:
+      - generic [ref=f120e18]:
+        - link [ref=f120e19] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=f120e23]:
+          - list [ref=f120e26]:
+            - generic:
+              - link "PATINETES" [ref=f120e27] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+              - link "PATINETES HOMOLOGADOS" [ref=f120e29] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - menuitem "Más" [ref=f120e32] [cursor=pointer]
+      - generic [ref=f120e34]:
+        - button "Abrir selector de región e idioma EUR" [ref=f120e36] [cursor=pointer]:
+          - generic [ref=f120e37]: Abrir selector de región e idioma
+          - generic [ref=f120e38]: EUR
+        - button "Abrir búsqueda" [ref=f120e40] [cursor=pointer]
+        - generic [ref=f120e41]:
+          - button "Abrir menú de cuenta" [ref=f120e43] [cursor=pointer]
+          - 'button "Abrir carrito Total de artículos en el carrito: 0" [ref=f120e49] [cursor=pointer]':
+            - generic [ref=f120e51]:
+              - status:
+                - generic [ref=f120e53]: "Total de artículos en el carrito: 0"
+  - main [ref=f120e54]:
+    - generic [ref=f120e57]:
+      - link "Ir directamente a la información del producto" [ref=f120e58] [cursor=pointer]:
+        - /url: "#ProductInformation-template--26141808394565__main"
+      - generic [ref=f120e59]:
+        - generic [ref=f120e62]:
+          - generic [ref=f120e63]:
+            - generic:
+              - button "Diapositiva anterior" [ref=f120e64] [cursor=pointer]
+              - button "Siguiente diapositiva" [ref=f120e65] [cursor=pointer]
+            - img "Patinete Eléctrico Dualtron Forever Limited 60V EY4" [ref=f120e70]
+          - generic [ref=f120e89]:
+            - button "Diapositiva 1 de 5" [ref=f120e90] [cursor=pointer]:
+              - img "Patinete Eléctrico Dualtron Forever Limited 60V EY4" [ref=f120e91]
+            - button "Diapositiva 2 de 5" [ref=f120e92] [cursor=pointer]:
+              - img "Patinete Eléctrico Dualtron Forever Limited 60V EY4" [ref=f120e93]
+            - button "Diapositiva 3 de 5" [ref=f120e94] [cursor=pointer]:
+              - img "Patinete Eléctrico Dualtron Forever Limited 60V EY4" [ref=f120e95]
+            - button "Diapositiva 4 de 5" [ref=f120e96] [cursor=pointer]:
+              - img "Patinete Eléctrico Dualtron Forever Limited 60V EY4" [ref=f120e97]
+            - button "Diapositiva 5 de 5" [ref=f120e98] [cursor=pointer]:
+              - img "Patinete Eléctrico Dualtron Forever Limited 60V EY4" [ref=f120e99]
+        - generic [ref=f120e102]:
+          - heading "Patinete Eléctrico Dualtron Forever Limited 60V EY4" [level=1] [ref=f120e104]
+          - generic [ref=f120e105]:
+            - generic [ref=f120e106]:
+              - group [ref=f120e107]:
+                - generic [ref=f120e108]: Precio de oferta
+                - text: €1.249,00 EUR
+              - group [ref=f120e109]:
+                - generic [ref=f120e110]: Precio habitual
+                - text: €1.349,00 EUR
+            - generic [ref=f120e111]: Aranceles e impuestos incluidos. Envío calculado en el pago.
+          - iframe [ref=f120e117]:
+            - generic [ref=f125e6]:
+              - generic [ref=f125e7]:
+                - generic [ref=f125e9]:
+                  - strong [ref=f125e10]: 122,08 €
+                  - text: al mes
+                - generic [ref=f125e12]:
+                  - generic [ref=f125e13]: x12
+                  - generic [ref=f125e14] [cursor=pointer]: x6
+                  - generic [ref=f125e15] [cursor=pointer]: x3 sin coste
+                  - text: +info
+              - img "SeQura logo" [ref=f125e17] [cursor=pointer]
+          - paragraph [ref=f120e119]: Homologado por la DGT ✅
+          - generic [ref=f120e121]:
+            - paragraph [ref=f120e122]:
+              - text: El
+              - strong [ref=f120e123]: Dualtron Forever Limited 60V EY4
+              - text: es un patinete eléctrico premium de Dualtron, marca de referencia mundial en movilidad eléctrica de alta gama. Fabricación de precisión, baterías de alta capacidad y tecnología de suspensión avanzada para la experiencia de conducción más exigente.
+            - paragraph [ref=f120e124]:
+              - strong [ref=f120e125]: "🚀 Motor:"
+              - text: 900W x2 pico 2900W
+            - paragraph [ref=f120e126]:
+              - strong [ref=f120e127]: "🔋 Autonomía:"
+              - text: Hasta 100 Km
+            - paragraph [ref=f120e128]:
+              - strong [ref=f120e129]: "🔋 Batería:"
+              - text: 60V - 18Ah - 24Ah - 27Ah - 30Ah
+            - paragraph [ref=f120e130]:
+              - strong [ref=f120e131]: "⚡ Velocidad Limitada:"
+              - text: 25 Km/h (Limitado de fábrica)
+            - paragraph [ref=f120e132]:
+              - strong [ref=f120e133]: "🛞 Ruedas:"
+              - text: 10"
+            - paragraph [ref=f120e134]:
+              - text: 🛑
+              - strong [ref=f120e135]: "Frenos:"
+              - text: Disco + Hidráulico NUTT
+            - paragraph [ref=f120e136]:
+              - strong [ref=f120e137]: 📱 APP móvil -
+              - text: iOS/Android (EY4 APP)
+            - paragraph [ref=f120e138]:
+              - strong [ref=f120e139]: "Ideal para:"
+            - list [ref=f120e140]:
+              - listitem [ref=f120e141]: ✅ Usuarios avanzados que buscan el máximo rendimiento y autonomía
+              - listitem [ref=f120e142]: ✅ Trayectos largos y exigentes donde la calidad de componentes marca la diferencia
+              - listitem [ref=f120e143]: ✅ Coleccionistas y entusiastas de los mejores patinetes eléctricos del mundo
+          - paragraph [ref=f120e145]:
+            - strong [ref=f120e146]: 🚚 Envíos
+            - strong [ref=f120e147]: de 4 a 6 días hábiles
+          - group "Batería" [ref=f120e150]:
+            - generic [ref=f120e152]:
+              - radio "60V 18Ah" [checked] [ref=f120e153] [cursor=pointer]
+              - generic [ref=f120e154]: 60V 18Ah
+            - generic [ref=f120e155]:
+              - radio "60V 24Ah" [ref=f120e156] [cursor=pointer]
+              - generic [ref=f120e157]: 60V 24Ah
+            - generic [ref=f120e158]:
+              - radio "60V 27Ah" [ref=f120e159] [cursor=pointer]
+              - generic [ref=f120e160]: 60V 27Ah
+            - generic [ref=f120e161]:
+              - radio "60V 30Ah" [ref=f120e162] [cursor=pointer]
+              - generic [ref=f120e163]: 60V 30Ah
+          - generic [ref=f120e166]:
+            - heading "Comprados juntos..." [level=4] [ref=f120e169]
+            - generic [ref=f120e170]:
+              - generic "Carga de recomendaciones de productos" [ref=f120e171]
+              - generic "Carga de recomendaciones de productos" [ref=f120e172]
+          - generic [ref=f120e174]:
+            - status [ref=f120e175]
+            - generic [ref=f120e177]:
+              - generic [ref=f120e178]:
+                - button "Disminuir cantidad" [ref=f120e179] [cursor=pointer]
+                - spinbutton "Cantidad" [ref=f120e181]: "1"
+                - button "Aumentar cantidad" [ref=f120e182] [cursor=pointer]
+              - button "Agregar al carrito" [ref=f120e186] [cursor=pointer]:
+                - generic [ref=f120e189]: Agregada
+              - generic [ref=f120e193]:
+                - generic [ref=f120e196]:
+                  - iframe [ref=f120e197]:
+                    - generic "Payment Button" [ref=f122e2]:
+                      - link "PayPal" [ref=f122e5] [cursor=pointer]
+                  - iframe [ref=f120e198]
+                - link "Más opciones de pago" [ref=f120e200] [cursor=pointer]:
+                  - /url: "#"
+    - generic [ref=f120e205]:
+      - heading "Patinete Eléctrico Dualtron Forever Limited 60V EY4" [level=2] [ref=f120e207]
+      - generic [ref=f120e209]:
+        - 'heading "Dualtron Forever Limited 60V: El Patinete Eléctrico Homologado Más Potente" [level=3] [ref=f120e210]'
+        - paragraph [ref=f120e211]:
+          - text: El
+          - strong [ref=f120e212]: Dualtron Forever Limited
+          - text: no es solo un patinete electrico, es una declaracion de intenciones. Este modelo,
+          - strong [ref=f120e213]: homologado por la DGT
+          - text: ", combina la legendaria robustez de Minimotors con las exigencias de movilidad urbana moderna. Disenado para quienes buscan potencia bruta sin renunciar a la agilidad, este vehiculo destaca por su peso contenido y una configuracion de motor dual que redefine la aceleracion."
+        - heading [level=3] [ref=f120e214]:
+          - strong [ref=f120e215]: Rendimiento y Potencia Dual
+        - paragraph [ref=f120e216]:
+          - text: Equipado con un sistema de
+          - strong [ref=f120e217]: motor dual de 900W cada uno
+          - text: (1800W nominales), el Forever Limited ofrece una traccion integral que permite superar pendientes pronunciadas y alcanzar velocidades de crucero con una estabilidad pasmosa. Gracias a su arquitectura de
+          - strong [ref=f120e218]: 60V
+          - text: ", la entrega de energia es instantanea, permitiendo una conduccion deportiva y segura en cualquier entorno."
+        - heading [level=3] [ref=f120e219]:
+          - strong [ref=f120e220]: Autonomia Adaptada a tu Estilo de Vida
+        - paragraph [ref=f120e221]: "Entendemos que cada usuario tiene necesidades diferentes. Por ello, el Dualtron Forever Limited esta disponible en cuatro configuraciones de bateria para que elijas el rango que mejor se adapte a tus trayectos cotidianos o de larga distancia:"
+        - list [ref=f120e222]:
+          - listitem [ref=f120e223]:
+            - strong [ref=f120e224]: "Bateria 18Ah:"
+            - text: Ideal para movilidad urbana agil y cargas rapidas.
+          - listitem [ref=f120e225]:
+            - strong [ref=f120e226]: "Bateria 24Ah:"
+            - text: El equilibrio perfecto entre peso y recorrido.
+          - listitem [ref=f120e227]:
+            - strong [ref=f120e228]: "Bateria 27Ah:"
+            - text: Disenada para quienes olvidan cargar el patinete a diario.
+          - listitem [ref=f120e229]:
+            - strong [ref=f120e230]: "Bateria 30Ah:"
+            - text: La joya de la corona, capaz de alcanzar
+            - strong [ref=f120e231]: hasta 100 kilometros
+            - text: de autonomia con una sola carga.
+        - heading [level=3] [ref=f120e232]:
+          - strong [ref=f120e233]: Tecnologia de Control y Seguridad
+        - paragraph [ref=f120e234]:
+          - text: La seguridad es primordial cuando manejas una maquina de este calibre. Este modelo incorpora un
+          - strong [ref=f120e235]: sistema de frenado hidraulico
+          - text: de alta precision, ofreciendo una frenada modulable y contundente incluso en situaciones de emergencia.
+        - paragraph [ref=f120e236]:
+          - text: Ademas, incluye la nueva
+          - strong [ref=f120e237]: pantalla multifuncion EY4
+          - text: ", el centro de control inteligente de Dualtron. Desde este panel podras monitorizar la velocidad, el estado de la bateria, los modos de conduccion y configurar los parametros avanzados de rendimiento."
+        - heading [level=3] [ref=f120e238]:
+          - strong [ref=f120e239]: Especificaciones Tecnicas Detalladas
+        - paragraph [ref=f120e240]: Caracteristica Detalle Tecnico Motor Dual Motor 900W x 2 (1800W Nominal) Bateria Litio 60V (Opciones en 18Ah, 24Ah, 27Ah y 30Ah) Autonomia Maxima Hasta 100 km (segun version de bateria y uso) Sistema de Frenos Hidraulico Delantero y Trasero Display Pantalla EY4 Inteligente Multifuncion Peso del Vehiculo 24,9 kg Carga Maxima120 kg Certificacion Homologado por la DGT para circulacion legal Voltaje del Sistema 60V
+        - heading [level=3] [ref=f120e241]:
+          - strong [ref=f120e242]: Por que elegir el Dualtron Forever Limited
+        - list [ref=f120e243]:
+          - listitem [ref=f120e244]:
+            - strong [ref=f120e245]: "Ligereza Excepcional:"
+            - text: Con solo 24,9 kg, es uno de los patinetes duales mas livianos del mercado, facilitando su transporte y maniobrabilidad.
+          - listitem [ref=f120e246]:
+            - strong [ref=f120e247]: "Seguridad Homologada:"
+            - text: Cumple con toda la normativa vigente de la DGT, permitiendote circular con total tranquilidad legal.
+          - listitem [ref=f120e248]:
+            - strong [ref=f120e249]: "Iluminacion Avanzada:"
+            - text: Equipado con sistemas LED de alta visibilidad para garantizar tu seguridad en trayectos nocturnos.
+          - listitem [ref=f120e250]:
+            - strong [ref=f120e251]: "Suspension de Alto Rendimiento:"
+            - text: Sistema disenado para absorber las irregularidades del asfalto, brindando una conduccion suave y fluida.
+        - paragraph [ref=f120e252]:
+          - strong [ref=f120e253]: "Contenido de la caja:"
+        - list [ref=f120e254]:
+          - listitem [ref=f120e255]: Patinete Dualtron Forever Limited.
+          - listitem [ref=f120e256]: Cargador original 60V.
+          - listitem [ref=f120e257]: Kit de herramientas basico.
+          - listitem [ref=f120e258]: Manual de usuario y certificado de homologacion.
+        - heading [level=3] [ref=f120e259]:
+          - strong [ref=f120e260]: Rendimiento superior y autonomía de largo alcance con la garantía de Minimotors
+        - paragraph [ref=f120e261]:
+          - text: Si estás buscando
+          - strong [ref=f120e262]: comprar un patinete eléctrico potente
+          - text: que cumpla estrictamente con la normativa vigente, el
+          - strong [ref=f120e263]: Dualtron Forever Limited 60V
+          - text: es la opción definitiva. Este modelo no solo destaca por su
+          - strong [ref=f120e264]: motor dual de 900W
+          - text: ", sino por ser uno de los pocos vehículos de alta gama totalmente"
+          - strong [ref=f120e265]: homologado por la DGT
+          - text: . Gracias a su estructura ligera de solo 24,9 kg y su avanzado sistema de frenado hidráulico, este
+          - strong [ref=f120e266]: patinete Dualtron
+          - text: ofrece una experiencia de conducción premium, equilibrando velocidad, seguridad y una agilidad inigualable en trayectos urbanos.
+        - paragraph [ref=f120e267]:
+          - text: La versatilidad es el punto fuerte de este
+          - strong [ref=f120e268]: patinete eléctrico de 60V
+          - text: ", permitiéndote elegir configuraciones de batería que alcanzan una"
+          - strong [ref=f120e269]: autonomía de hasta 100 km
+          - text: . Equipado con la nueva
+          - strong [ref=f120e270]: pantalla EY4 de Minimotors
+          - text: ", el Dualtron Forever Limited te permite gestionar cada parámetro de potencia y consumo en tiempo real. Ya sea para desplazamientos diarios o rutas largas, este dispositivo se posiciona como el referente en movilidad eléctrica de alta fidelidad, garantizando durabilidad y el soporte técnico de la marca líder en el mercado de"
+          - strong [ref=f120e271]: movilidad personal
+          - text: .
+    - generic [ref=f120e279]:
+      - paragraph [ref=f120e281]:
+        - strong [ref=f120e282]: Hasta 100Km
+        - text: de libertad 🔋
+      - paragraph [ref=f120e284]:
+        - text: Con su batería de
+        - strong [ref=f120e285]: 60V 18Ah, 60V 24Ah, 60V 27Ah y 60V 30Ah
+        - text: y motor de
+        - strong [ref=f120e286]: 2900W
+        - text: ", tendrás garantizadas horas de autonomía para todos tus trayectos diarios. ¡Circula ahora sin preocupaciones!"
+    - generic [ref=f120e290]:
+      - heading "Related products" [level=3] [ref=f120e293]
+      - generic [ref=f120e294]:
+        - generic "Carga de recomendaciones de productos" [ref=f120e295]
+        - generic "Carga de recomendaciones de productos" [ref=f120e296]
+        - generic "Carga de recomendaciones de productos" [ref=f120e297]
+        - generic "Carga de recomendaciones de productos" [ref=f120e298]
+    - generic [ref=f120e308]:
+      - generic [ref=f120e310]:
+        - heading "Capacidad de motor ⚙️" [level=2] [ref=f120e312]
+        - paragraph [ref=f120e314]: Doble 900W x2 Potencia total hasta 2900W
+        - paragraph [ref=f120e316]:
+          - text: Pico máximo con
+          - strong [ref=f120e317]: 2900W
+          - text: de potencia máxima para nunca dejarte tirado ;)
+      - generic [ref=f120e319]:
+        - heading "Batería y autonomía 🔋" [level=2] [ref=f120e321]
+        - generic [ref=f120e322]:
+          - paragraph [ref=f120e323]:
+            - text: Batería de
+            - strong [ref=f120e324]: 60V 18Ah, 60V 24Ah, 60V 27Ah y 60V 30Ah
+            - text: ", con la que podrás hacer"
+            - strong [ref=f120e325]: Hasta 100Km
+          - paragraph [ref=f120e326]:
+            - text: Disfruta de tu
+            - strong [ref=f120e327]: Patinete Eléctrico Dualtron Forever Limited 60V EY4
+            - text: sin preocuparte por la carga!
+      - generic [ref=f120e329]:
+        - heading "Suspensión y ruedas 🛞" [level=2] [ref=f120e331]
+        - generic [ref=f120e332]:
+          - paragraph [ref=f120e333]:
+            - text: Ruedas de
+            - strong [ref=f120e334]: Neumáticos de 10”
+            - text: ", con agarre y seguridad en cada trayecto."
+          - paragraph [ref=f120e335]:
+            - text: Suspensión
+            - strong [ref=f120e336]: delantera y trasera con sistema de amortiguación Dualtron por elastómeros (ajustable)
+            - text: para una conducción cómoda y estable.
+    - generic [ref=f120e345]:
+      - heading "Related products" [level=3] [ref=f120e348]
+      - generic [ref=f120e349]:
+        - generic "Carga de recomendaciones de productos" [ref=f120e350]
+        - generic "Carga de recomendaciones de productos" [ref=f120e351]
+        - generic "Carga de recomendaciones de productos" [ref=f120e352]
+        - generic "Carga de recomendaciones de productos" [ref=f120e353]
+    - generic [ref=f120e362]:
+      - generic [ref=f120e363]:
+        - paragraph [ref=f120e366]: Homologado por la DGT ✅
+        - paragraph [ref=f120e369]: Homologado por la DGT ✅
+        - paragraph [ref=f120e372]: Homologado por la DGT ✅
+        - paragraph [ref=f120e375]: Homologado por la DGT ✅
+      - generic [ref=f120e376]:
+        - paragraph [ref=f120e379]: Homologado por la DGT ✅
+        - paragraph [ref=f120e382]: Homologado por la DGT ✅
+        - paragraph [ref=f120e385]: Homologado por la DGT ✅
+        - paragraph [ref=f120e388]: Homologado por la DGT ✅
+    - generic [ref=f120e398]:
+      - generic [ref=f120e400]:
+        - heading "Garantía de 2 años 🔓" [level=2] [ref=f120e402]
+        - paragraph [ref=f120e404]: Somos los distribuidores oficiales de la marca en España y Europa
+      - generic [ref=f120e406]:
+        - heading "Envios 🚚" [level=2] [ref=f120e408]
+        - paragraph [ref=f120e410]: Aquí va información sobre los envíos y lo rápido que somos o lo barato que son
+        - paragraph [ref=f120e412]: de 4 a 6 días hábiles
+      - generic [ref=f120e414]:
+        - heading "Atención al cliente 📞" [level=2] [ref=f120e416]
+        - paragraph [ref=f120e418]: de 4 a 6 días hábiles
+    - generic [ref=f120e433]:
+      - heading "Preguntas frecuentes" [level=3] [ref=f120e435]
+      - generic [ref=f120e436]:
+        - group [ref=f120e438]:
+          - generic "Cual es nuestra politica postventa?" [ref=f120e439] [cursor=pointer]
+        - group [ref=f120e441]:
+          - generic "Are any purchases final sale?" [ref=f120e442] [cursor=pointer]
+        - group [ref=f120e444]:
+          - generic "When will I get my order?" [ref=f120e445] [cursor=pointer]
+        - group [ref=f120e447]:
+          - generic "Where are your products manufactured?" [ref=f120e448] [cursor=pointer]
+        - group [ref=f120e450]:
+          - generic "How much does shipping cost?" [ref=f120e451] [cursor=pointer]
+  - generic [ref=f120e456]:
+    - generic [ref=f120e458]:
+      - generic [ref=f120e460]:
+        - group [ref=f120e462]:
+          - generic "Tienda" [ref=f120e463]
+          - list [ref=f120e465]:
+            - listitem [ref=f120e466]:
+              - link "PATINETES" [ref=f120e467] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+            - listitem [ref=f120e468]:
+              - link "PATINETES HOMOLOGADOS" [ref=f120e469] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - listitem [ref=f120e470]:
+              - link "MOTOS ELÉCTRICAS" [ref=f120e471] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f120e472]:
+              - link "BICIS ELÉCTRICAS" [ref=f120e473] [cursor=pointer]:
+                - /url: /collections/bicicletas-electricas
+            - listitem [ref=f120e474]:
+              - link "MOVILIDAD INFANTIL" [ref=f120e475] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-ninos
+            - listitem [ref=f120e476]:
+              - link "MOVILIDAD REDUCIDA" [ref=f120e477] [cursor=pointer]:
+                - /url: /collections/scooters-movilidad-reducida
+            - listitem [ref=f120e478]:
+              - link "KARTS ELÉCTRICOS" [ref=f120e479] [cursor=pointer]:
+                - /url: /collections/karts-electricos
+            - listitem [ref=f120e480]:
+              - link "COCHES ELÉCTRICOS" [ref=f120e481] [cursor=pointer]:
+                - /url: /collections/coches-electricos
+            - listitem [ref=f120e482]:
+              - link "MOTOS de GASOLINA" [ref=f120e483] [cursor=pointer]:
+                - /url: /collections/motos-gasolina
+            - listitem [ref=f120e484]:
+              - link "Contacto" [ref=f120e485] [cursor=pointer]:
+                - /url: /pages/contact
+        - group [ref=f120e487]:
+          - generic "Información" [ref=f120e488]
+          - list [ref=f120e490]:
+            - listitem [ref=f120e491]:
+              - link "Financiar patinete eléctrico" [ref=f120e492] [cursor=pointer]:
+                - /url: /pages/como-financiar-un-patinete-electrico
+            - listitem [ref=f120e493]:
+              - link "Términos y condiciones" [ref=f120e494] [cursor=pointer]:
+                - /url: /policies/terms-of-service
+            - listitem [ref=f120e495]:
+              - link "Política de envíos" [ref=f120e496] [cursor=pointer]:
+                - /url: /policies/shipping-policy
+            - listitem [ref=f120e497]:
+              - link "Devoluciones y garantías" [ref=f120e498] [cursor=pointer]:
+                - /url: /policies/refund-policy
+            - listitem [ref=f120e499]:
+              - link "(+34) 689313556" [ref=f120e500] [cursor=pointer]:
+                - /url: https://wa.me/34689313556
+            - listitem [ref=f120e501]:
+              - link "sat@electyum.com" [ref=f120e502] [cursor=pointer]:
+                - /url: mailto:sat@electyum.com
+      - generic [ref=f120e503]:
+        - generic [ref=f120e504]: suscríbete para descuentitos!
+        - generic [ref=f120e506]:
+          - generic [ref=f120e507]: Correo electrónico
+          - textbox "Correo electrónico" [ref=f120e508]:
+            - /placeholder: Dirección de correo electrónico
+          - button "Registrarse" [ref=f120e509]
+    - generic [ref=f120e512]:
+      - generic [ref=f120e513]:
+        - generic [ref=f120e515]:
+          - text: © 2026
+          - link "Electyum" [ref=f120e516] [cursor=pointer]:
+            - /url: /
+        - button "Términos y políticas" [ref=f120e518] [cursor=pointer]
+      - generic [ref=f120e520]:
+        - link "Instagram" [ref=f120e522] [cursor=pointer]:
+          - /url: https://instagram.com/electyum
+        - link "Youtube" [ref=f120e526] [cursor=pointer]:
+          - /url: https://www.youtube.com/@electyummovilidadinteligen6279

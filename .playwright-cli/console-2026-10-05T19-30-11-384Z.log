@@ -1,0 +1,33 @@
+[    2838ms] [LOG] %c%s: %s color:#ff6700 @mi/i18n-onetrack-web-sdk 1.5.6 @ https://browser.sentry-cdn.com/7.64.0/bundle.tracing.min.js:1
+[    3511ms] [LOG] %c%s color:#ff6700 
+   MMMMMMMMMMMMMMMMMm     IIII
+   MMMMMMMMMMMMMMMMMMMm   IIII
+   MMMM           mMMMM   IIII
+   MMMM    MMMM    MMMM   IIII
+   MMMM    MMMM    MMMM   IIII
+   MMMM    MMMM    MMMM   IIII
+   MMMM    MMMM    MMMM   IIII
+   MMMM    MMMM    MMMM   IIII
+   MMMM    MMMM    MMMM   IIII
+ 
+   v2.66.0@1773910433356
+  @ https://browser.sentry-cdn.com/7.64.0/bundle.tracing.min.js:1
+[    3762ms] [LOG] {components: Object, platform: pc, isSSR: false, onlyShowFootnote: false, navigation: Array(0)} footerData @ https://browser.sentry-cdn.com/7.64.0/bundle.tracing.min.js:1
+[    3771ms] [LOG] https://www.mi.com/sgp/spps_files/i18n/scripts/shared-footer/pro/1.0.9/remoteEntry.js script.src @ https://browser.sentry-cdn.com/7.64.0/bundle.tracing.min.js:1
+[    3886ms] [LOG] {offsetHeight: 17} @ https://browser.sentry-cdn.com/7.64.0/bundle.tracing.min.js:1
+[    3997ms] [LOG] {components: Object, platform: pc, isSSR: false, onlyShowFootnote: false, navigation: Array(0)} footerData @ https://browser.sentry-cdn.com/7.64.0/bundle.tracing.min.js:1
+[    4141ms] [LOG] 已加载联邦模块 SharedFooter @ https://browser.sentry-cdn.com/7.64.0/bundle.tracing.min.js:1
+[    4186ms] [LOG] {components: Object, platform: pc, isSSR: false, onlyShowFootnote: false, navigation: Array(0)} footerData @ https://browser.sentry-cdn.com/7.64.0/bundle.tracing.min.js:1
+[    4331ms] [LOG] 已加载联邦模块 SharedHeader @ https://browser.sentry-cdn.com/7.64.0/bundle.tracing.min.js:1
+[    4393ms] [LOG] {offsetHeight: 17} @ https://browser.sentry-cdn.com/7.64.0/bundle.tracing.min.js:1
+[    4431ms] [LOG] {components: Object, platform: pc, isSSR: false, onlyShowFootnote: false, navigation: Array(4)} footerData @ https://browser.sentry-cdn.com/7.64.0/bundle.tracing.min.js:1
+[   11621ms] [WARNING] [CombinedLCW:ConfigFetcher] Config fetch failed (parse; retryable=false) @ https://browser.sentry-cdn.com/7.64.0/bundle.tracing.min.js:1
+[   11621ms] [WARNING] [CombinedLCW:ConfigFetcher] Config fetch stopped (parse) @ https://browser.sentry-cdn.com/7.64.0/bundle.tracing.min.js:1
+[   13727ms] [WARNING] data-customization-callback attribute not found in the script. Learn more: https://learn.microsoft.com/en-us/dynamics365/customer-service/develop/develop-live-chat-widget @ https://browser.sentry-cdn.com/7.64.0/bundle.tracing.min.js:1
+[   13731ms] [WARNING] data-customization-callback attribute not found in the script. Learn more: https://learn.microsoft.com/en-us/dynamics365/customer-service/develop/develop-live-chat-widget @ https://browser.sentry-cdn.com/7.64.0/bundle.tracing.min.js:1
+[   17221ms] [WARNING] Start Chat button hidden due to data-hide-chat-button: true. See SDK methods to start chat and subscribe to widget state: https://learn.microsoft.com/en-us/dynamics365/customer-service/develop/omnichannel-reference @ https://oc-cdn-public-eur.azureedge.net/livechatwidget/v2scripts/widget.js:1
+[   17316ms] [WARNING] botframework-webchat: "styleOptions.bubbleImageHeight" has been deprecated. Use "styleOptions.bubbleImageMaxHeight" and "styleOptions.bubbleImageMinHeight" instead. This deprecation migration will be removed on or after 2026-07-05.. @ https://oc-cdn-public-eur.azureedge.net/livechatwidget/v2scripts/webchat.js:1
+[   17316ms] [WARNING] botframework-webchat: "styleOptions.bubbleMaxWidth" has been deprecated. Use "styleOptions.bubbleAttachmentMaxWidth" and "styleOptions.bubbleMessageMaxWidth" instead. This deprecation migration will be removed on or after 2026-07-05.. @ https://oc-cdn-public-eur.azureedge.net/livechatwidget/v2scripts/webchat.js:1
+[   17317ms] [WARNING] botframework-webchat: "styleOptions.bubbleMinWidth" has been deprecated. Use "styleOptions.bubbleAttachmentMinWidth" and "styleOptions.bubbleMessageMinWidth" instead. This deprecation migration will be removed on or after 2026-07-05.. @ https://oc-cdn-public-eur.azureedge.net/livechatwidget/v2scripts/webchat.js:1
+[   18667ms] [WARNING] Some icons were re-registered. Applications should only call registerIcons for any given icon once. Redefining what an icon is may have unintended consequences. Duplicates include: 
+GlobalNavButton, ChevronDown, ChevronUp, Edit, Add, Cancel, More, Settings, Mail, Filter (+ 1791 more) @ https://oc-cdn-public-eur.azureedge.net/livechatwidget/v2scripts/ocw.js:91

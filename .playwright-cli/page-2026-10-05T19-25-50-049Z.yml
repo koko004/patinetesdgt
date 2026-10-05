@@ -1,0 +1,787 @@
+- generic [ref=f11e1]:
+  - link [ref=f11e2] [cursor=pointer]:
+    - /url: https://web.whatsapp.com/send?l=es&phone=34688751888&text= https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1862-navee-nt5-max.html
+  - main [ref=f11e4]:
+    - generic [ref=f11e5]:
+      - list [ref=f11e17]:
+        - listitem [ref=f11e18]:
+          - generic [ref=f11e19]: 
+          - text: ¡ENVÍO GRATIS A PENÍNSULA Y BALEARES!
+      - navigation [ref=f11e21]:
+        - generic [ref=f11e23]:
+          - list [ref=f11e26]:
+            - listitem [ref=f11e27]:
+              - link "¡LLÁMANOS! 688 751 888" [ref=f11e28] [cursor=pointer]:
+                - /url: tel:+34688751888
+          - list [ref=f11e32]:
+            - listitem [ref=f11e33]:
+              - link "OPINIONES DE CLIENTES" [ref=f11e34] [cursor=pointer]:
+                - /url: https://www.trustedshops.es/evaluacion/info_X7971BAC9A2BC178FCCBEA75B22E0AD86.html
+            - listitem [ref=f11e35]:
+              - link "CONTACTO" [ref=f11e36] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/contactenos
+      - text:      
+      - generic [ref=f11e37]:
+        - link [ref=f11e41] [cursor=pointer]:
+          - /url: https://www.imoveblue.es/
+          - img "imoveblue.es - UJ Solutions SC" [ref=f11e42]
+        - generic [ref=f11e46]:
+          - generic [ref=f11e47]:
+            - generic [ref=f11e48] [cursor=pointer]:
+              - generic [ref=f11e49]: 
+              - generic [ref=f11e50]: Menu
+            - list [ref=f11e52]:
+              - listitem [ref=f11e53]:
+                - link "Inicio" [ref=f11e54] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/
+              - listitem [ref=f11e55]:
+                - link "Contacto" [ref=f11e56] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/contactenos
+              - listitem [ref=f11e57]:
+                - generic [ref=f11e58] [cursor=pointer]:
+                  - generic [ref=f11e59]: 
+                  - text: 
+                - link "Patinetes eléctricos certificados DGT" [ref=f11e60] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+              - listitem [ref=f11e61]:
+                - link "MATRICULA TU VMP" [ref=f11e62] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1726-comprar-matricula-patinete-vmp-adhesivo.html
+              - listitem [ref=f11e63]:
+                - link "Seguro patinete eléctrico VMP" [ref=f11e64] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/content/15-seguro-patinete-electrico-vmp
+              - listitem [ref=f11e65]:
+                - generic [ref=f11e66] [cursor=pointer]:
+                  - generic [ref=f11e67]: 
+                  - text: 
+                - link "Movilidad infantil" [ref=f11e68] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/26-movilidad-infantil
+              - listitem [ref=f11e69]:
+                - link "Bicicletas eléctricas" [ref=f11e70] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/14-bicicletas-electricas
+              - listitem [ref=f11e71]:
+                - link "Motos eléctricas" [ref=f11e72] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/18-motos-electricas
+              - listitem [ref=f11e73]:
+                - link "Monociclos eléctricos" [ref=f11e74] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/30-monociclos-electricos
+              - listitem [ref=f11e75]:
+                - link "Bicicletas" [ref=f11e76] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/31-bicicletas
+              - listitem [ref=f11e77]:
+                - link "Componentes ciclismo" [ref=f11e78] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/38-componentes-ciclismo
+              - listitem [ref=f11e79]:
+                - link "Recambios" [ref=f11e80] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/20-recambios
+              - listitem [ref=f11e81]:
+                - link "Triciclos eléctricos y movilidad reducida" [ref=f11e82] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/32-triciclos-electricos-y-movilidad-reducida
+              - listitem [ref=f11e83]:
+                - link "Accesorios VMP y ciclismo" [ref=f11e84] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/28-accesorios-vmp-ciclismo
+              - listitem [ref=f11e85]:
+                - link "Patinetes eléctricos" [ref=f11e86] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/13-patinete-electrico
+              - listitem [ref=f11e87]:
+                - link "Condiciones de compra y envío" [ref=f11e88] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/content/3-terminos-y-condiciones-de-uso
+          - generic [ref=f11e90] [cursor=pointer]:
+            - generic [ref=f11e91]: 
+            - generic [ref=f11e92]: Buscar
+          - link "Iniciar sesión" [ref=f11e94] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/mi-cuenta
+            - generic [ref=f11e95]: 
+          - generic [ref=f11e99] [cursor=pointer]:
+            - generic [ref=f11e100]:
+              - text: 
+              - generic [ref=f11e101]: "0"
+            - generic [ref=f11e102]: Carrito
+    - generic [ref=f11e103]:
+      - navigation [ref=f11e104]:
+        - generic [ref=f11e106]:
+          - list [ref=f11e108]:
+            - listitem [ref=f11e109]:
+              - link "Inicio" [ref=f11e110] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/
+              - text: /
+            - listitem [ref=f11e111]:
+              - link "Patinetes eléctricos certificados DGT" [ref=f11e112] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+              - text: /
+            - listitem [ref=f11e113]:
+              - generic [ref=f11e114]: Navee NT5 MAX certificado
+          - generic [ref=f11e116]:
+            - link "Previous product" [ref=f11e117] [cursor=pointer]:
+              - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1917-8446-kaabo-mantis-x-plus.html#/color-negro
+              - generic [ref=f11e118]: 
+            - link "Next product" [ref=f11e119] [cursor=pointer]:
+              - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1838-teverun-fighter-mini-pro-2026-60v-31ah-bosch.html
+              - generic [ref=f11e120]: 
+      - generic [ref=f11e121]:
+        - complementary
+        - generic [ref=f11e123]:
+          - text: 
+          - generic [ref=f11e124]:
+            - generic [ref=f11e125]:
+              - generic [ref=f11e127]:
+                - generic [ref=f11e128]:
+                  - generic [ref=f11e129]:
+                    - generic [ref=f11e131]:
+                      - img "Sticker" [ref=f11e132]
+                      - text: ¡MATRÍCULA GRATIS!
+                    - list [ref=f11e133]:
+                      - listitem [ref=f11e134]: "-40,00 €"
+                    - generic [ref=f11e137]:
+                      - generic [ref=f11e138]: 
+                      - generic [ref=f11e147]:
+                        - generic [ref=f11e148] [cursor=pointer]: 
+                        - img "Navee NT5 MAX" [ref=f11e151]
+                      - generic [ref=f11e152]: 
+                      - generic [ref=f11e159]: 
+                      - generic [ref=f11e166]: 
+                      - generic [ref=f11e173]: 
+                      - generic [ref=f11e180]: 
+                      - generic [ref=f11e187]: 
+                      - generic [ref=f11e194]: 
+                  - generic [ref=f11e204]:
+                    - img "Navee NT5 MAX" [ref=f11e208] [cursor=pointer]
+                    - img "Navee NT5 MAX" [ref=f11e212] [cursor=pointer]
+                    - img "Navee NT5 MAX" [ref=f11e216] [cursor=pointer]
+                    - img "Navee NT5 MAX" [ref=f11e220] [cursor=pointer]
+                - button " Ver vídeos" [ref=f11e222] [cursor=pointer]:
+                  - generic [ref=f11e223]: 
+                  - text: Ver vídeos
+              - generic [ref=f11e225]:
+                - generic [ref=f11e226]:
+                  - heading "Navee NT5 MAX certificado" [level=1] [ref=f11e227]
+                  - link [ref=f11e230] [cursor=pointer]:
+                    - /url: https://www.imoveblue.es/85_navee
+                    - img "Navee" [ref=f11e231]
+                  - generic [ref=f11e232]:
+                    - generic [ref=f11e233]:
+                      - generic [ref=f11e234]: 
+                      - text: EN STOCK. ENVÍO GRATIS EN 24-72 HORAS
+                    - generic [ref=f11e236]:
+                      - generic [ref=f11e237]: 659,00 €
+                      - generic [ref=f11e238]: 699,00 €
+                      - text: "-40,00 €"
+                    - generic [ref=f11e239]: Impuestos incluidos ENVÍO GRATIS
+                - generic [ref=f11e240]:
+                  - generic [ref=f11e241]:
+                    - paragraph [ref=f11e242]:
+                      - strong [ref=f11e243]: Navee NT5 Max certificado por la DGT con nº
+                      - text: C1021
+                      - strong [ref=f11e244]
+                      - text: es exactamente lo que necesitas. Diseñado bajo un concepto de "estilo SUV", este modelo combina una potencia arrolladora, una autonomía líder en el mercado y un nivel de confort diseñado para que los baches y desniveles de la ciudad dejen de ser un problema.
+                    - paragraph [ref=f11e245]:
+                      - strong [ref=f11e246]: ¡REGALO MATRÍCULA O CASCO! INDÍCANOS TU REGALO EN EL PEDIDO
+                  - generic [ref=f11e247]:
+                    - generic [ref=f11e249]:
+                      - generic [ref=f11e250]:
+                        - generic [ref=f11e253]:
+                          - spinbutton [ref=f11e254]: "1"
+                          - generic [ref=f11e255]:
+                            - button "" [ref=f11e256] [cursor=pointer]
+                            - button "" [ref=f11e258] [cursor=pointer]
+                        - button "Añadir al carrito" [ref=f11e262] [cursor=pointer]:
+                          - generic [ref=f11e263]: 
+                          - text:  Añadir al carrito
+                      - paragraph
+                    - generic [ref=f11e264]:
+                      - generic [ref=f11e265]:
+                        - generic [ref=f11e266]: Añade accesorios extra
+                        - generic [ref=f11e267]:
+                          - article [ref=f11e269]:
+                            - table [ref=f11e270]:
+                              - rowgroup [ref=f11e271]:
+                                - row [ref=f11e272]:
+                                  - cell [ref=f11e273]:
+                                    - checkbox [ref=f11e274]
+                                  - cell [ref=f11e275]:
+                                    - link [ref=f11e276] [cursor=pointer]:
+                                      - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1940-matricula-gratis-patinete-electrico-vmp.html
+                                      - img "Matrícula patinete eléctrico VMP adhesivo" [ref=f11e277]
+                                  - cell [ref=f11e278]:
+                                    - link [ref=f11e279] [cursor=pointer]:
+                                      - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1940-matricula-gratis-patinete-electrico-vmp.html
+                                      - strong [ref=f11e280]: REGALO MATRÍCULA VMP, CASCO O CHALECO REFLECTANTE
+                                    - combobox [ref=f11e282]:
+                                      - option "Elige regalo - Matrícula VMP +0,00 €" [selected]
+                                      - option "Elige regalo - Casco talla M +0,00 €"
+                                      - option "Elige regalo - Casco talla L +0,00 €"
+                                      - option "Elige regalo - Chaleco reflectante +0,00 €"
+                          - article [ref=f11e284]:
+                            - table [ref=f11e285]:
+                              - rowgroup [ref=f11e286]:
+                                - row [ref=f11e287]:
+                                  - cell [ref=f11e288]:
+                                    - checkbox [ref=f11e289]
+                                  - cell [ref=f11e290]:
+                                    - link [ref=f11e291] [cursor=pointer]:
+                                      - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1938-chaleco-reflectante-amarillo-fluorescente-vmp.html
+                                      - img "Chaleco Reflectante Amarillo Fluorescente VMP" [ref=f11e292]
+                                  - cell "Chaleco Reflectante Amarillo Fluorescente VMP +19,90 €" [ref=f11e293]:
+                                    - link [ref=f11e294] [cursor=pointer]:
+                                      - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1938-chaleco-reflectante-amarillo-fluorescente-vmp.html
+                                      - strong [ref=f11e295]: Chaleco Reflectante Amarillo Fluorescente VMP
+                                    - generic [ref=f11e296]: +19,90 €
+                          - article [ref=f11e298]:
+                            - table [ref=f11e299]:
+                              - rowgroup [ref=f11e300]:
+                                - row [ref=f11e301]:
+                                  - cell [ref=f11e302]:
+                                    - checkbox [ref=f11e303]
+                                  - cell [ref=f11e304]:
+                                    - link [ref=f11e305] [cursor=pointer]:
+                                      - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1939-chaleco-reflectante-tirante-suniik.html
+                                      - img "Chaleco reflectante tirante SUNIIK" [ref=f11e306]
+                                  - cell [ref=f11e307]:
+                                    - link [ref=f11e308] [cursor=pointer]:
+                                      - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1939-chaleco-reflectante-tirante-suniik.html
+                                      - strong [ref=f11e309]: Chaleco reflectante tirante SUNIIK
+                                    - combobox [ref=f11e311]:
+                                      - option "Color - Amarillo +18,90 €" [selected]
+                                      - option "Color - Azul +18,90 €"
+                                      - option "Color - Rojo +18,90 €"
+                                      - option "Color - Naranja +18,90 €"
+                          - article [ref=f11e313]:
+                            - table [ref=f11e314]:
+                              - rowgroup [ref=f11e315]:
+                                - row [ref=f11e316]:
+                                  - cell [ref=f11e317]:
+                                    - checkbox [ref=f11e318]
+                                  - cell [ref=f11e319]:
+                                    - link [ref=f11e320] [cursor=pointer]:
+                                      - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1874-casco-integral-suniik.html
+                                      - img "Casco integral Suniik" [ref=f11e321]
+                                  - cell [ref=f11e322]:
+                                    - link [ref=f11e323] [cursor=pointer]:
+                                      - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1874-casco-integral-suniik.html
+                                      - strong [ref=f11e324]: Casco integral Suniik
+                                    - combobox [ref=f11e326]:
+                                      - option "Color - Azul +99,00 €"
+                                      - option "Color - Naranja +99,00 €"
+                                      - option "Color - Negro +99,00 €" [selected]
+                      - list [ref=f11e328]:
+                        - listitem [ref=f11e329]:
+                          - link "Compartir" [ref=f11e330] [cursor=pointer]:
+                            - /url: https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.imoveblue.es%2Fpatinetes-electricos-certificados-dgt%2F1862-navee-nt5-max.html
+                            - generic [ref=f11e331]: 
+                        - listitem [ref=f11e332]:
+                          - link "Tuitear" [ref=f11e333] [cursor=pointer]:
+                            - /url: https://twitter.com/intent/tweet?text=Navee+NT5+MAX+certificado https%3A%2F%2Fwww.imoveblue.es%2Fpatinetes-electricos-certificados-dgt%2F1862-navee-nt5-max.html
+                            - generic [ref=f11e334]: 
+                        - listitem [ref=f11e335]:
+                          - link "Pinterest" [ref=f11e336] [cursor=pointer]:
+                            - /url: https://www.pinterest.com/pin/create/button/?media=https%3A%2F%2Fwww.imoveblue.es%2F10010%2Fnavee-nt5-max.jpg&url=https%3A%2F%2Fwww.imoveblue.es%2Fpatinetes-electricos-certificados-dgt%2F1862-navee-nt5-max.html
+                            - generic [ref=f11e337]: 
+                      - list [ref=f11e339]:
+                        - listitem [ref=f11e340]:
+                          - link "Navee NT5 MAX" [ref=f11e341] [cursor=pointer]:
+                            - /url: //www.imoveblue.es/busqueda?tag=Navee%2BNT5%2BMAX
+                      - generic [ref=f11e343]:
+                        - paragraph [ref=f11e344]:
+                          - link [ref=f11e345] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/content/15-seguro-patinete-electrico-vmp
+                            - img "Seguro patinete VMP" [ref=f11e346]
+                        - paragraph
+                        - paragraph [ref=f11e347]:
+                          - link [ref=f11e348] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/contactenos
+                            - img "Financiar patinete" [ref=f11e349]
+                        - paragraph
+                      - generic [ref=f11e350]:
+                        - paragraph [ref=f11e351]:
+                          - text: Llévatelo por 27,46€ en 24 meses
+                          - superscript [ref=f11e352]: "*"
+                        - list [ref=f11e353]:
+                          - listitem [ref=f11e354]:
+                            - strong [ref=f11e355]:
+                              - text: "TIN: 0% /"
+                              - generic [ref=f11e356]: "TAE: 5,07%"
+                          - listitem [ref=f11e357]: "Número de cuotas: 24 cuotas"
+                          - listitem [ref=f11e358]: "Primera cuota: 60,41€"
+                          - listitem [ref=f11e359]: "Cuota mensual: 27,46€/mes"
+                          - listitem [ref=f11e360]: "Última cuota: 27,42€"
+                          - listitem [ref=f11e361]: "Importe total adeudado y precio total a plazos: 691,95€"
+                          - listitem [ref=f11e362]: "Coste total de crédito e intereses: 32,95€"
+                          - listitem [ref=f11e363]: "Precio del servicio: 5,00% - 32,95€"
+                        - paragraph [ref=f11e364]: "*Oferta financiera realizada por la entidad de pago híbrida CaixaBank Payments & Consumer E.F.C., E.P., S.A.U., y sujeta a su autorización. La entidad ha escogido como sistema de protección de los fondos recibidos de usuarios de servicios de pago que presta su depósito en una cuenta bancaria separada abierta en CaixaBank, S.A. Sistema de amortización francés. Oferta válida hasta 01/01/2050"
+                    - generic [ref=f11e365]:
+                      - paragraph [ref=f11e369] [cursor=pointer]: "SUPERATENCIÓN AL CLIENTE: T 688 751 888"
+                      - paragraph [ref=f11e373] [cursor=pointer]: OFRECEMOS SEGURO PARA TU VMP. CONSÚLTANOS
+                      - paragraph [ref=f11e377]: ENVÍO GRATIS A PENÍNSULA Y BALEARES (Europa y Canarias consultar previamente)
+                      - paragraph [ref=f11e381]: GARANTÍA OFICIAL DE LA MARCA 3 AÑOS CON RECOGIDA GRATIS *
+                      - paragraph [ref=f11e385]: REPUESTOS Y SERVICIO TÉCNICO OFICIAL
+                      - paragraph [ref=f11e389]: TALLERES COLABORADORES EN TODA ESPAÑA
+                    - generic [ref=f11e390]:
+                      - 'heading "DESCUENTO 20€ CON CUPÓN: BLUE20" [level=5] [ref=f11e391]'
+                      - generic [ref=f11e392]:
+                        - paragraph [ref=f11e393]:
+                          - 'img "Cupón 20€: BLUE20" [ref=f11e394]'
+                        - paragraph
+                    - generic [ref=f11e398]:
+                      - generic [ref=f11e399]:
+                        - generic [ref=f11e400]: 
+                        - text: Opiniones de clientes
+                      - generic [ref=f11e402]:
+                        - text: Nadie ha efectuado una evaluación en este idioma
+                        - link "Puntúalo" [ref=f11e405] [cursor=pointer]:
+                          - /url: /modules/gsnippetsreviews/ws-gsnippetsreviews.php?bt_token=3fdf871f2d73a99a5cc5b70623982830&sAction=display&sType=review&iPId=1862&iCId=0&sURI=%2Fpatinetes-electricos-certificados-dgt%2F1862-navee-nt5-max.html&btKey=332faae3ca0a672f40ff12c24e265839
+            - generic [ref=f11e406]:
+              - list [ref=f11e407]:
+                - listitem [ref=f11e408]:
+                  - link "Detalles del producto" [ref=f11e409] [cursor=pointer]:
+                    - /url: "#product-details-tab"
+                - listitem [ref=f11e410]:
+                  - link "Sobre Navee" [ref=f11e411] [cursor=pointer]:
+                    - /url: "#brand-tab"
+                - listitem [ref=f11e412]:
+                  - link "Postventa Premium y Garantía" [ref=f11e413] [cursor=pointer]:
+                    - /url: "#extra-0"
+                - listitem [ref=f11e414]:
+                  - link "Matrícula Gratis y Seguro VMP" [ref=f11e415] [cursor=pointer]:
+                    - /url: "#extra-1"
+                - listitem [ref=f11e416]:
+                  - link "Trusted Shops Reviews" [ref=f11e417] [cursor=pointer]:
+                    - /url: "#extra-2"
+              - generic [ref=f11e418]:
+                - generic [ref=f11e422]:
+                  - term [ref=f11e423]: Potencia nominal
+                  - definition [ref=f11e424]: 500W
+                  - term [ref=f11e425]: Motor tipo
+                  - definition [ref=f11e426]: Single
+                  - term [ref=f11e427]: Batería capacidad
+                  - definition [ref=f11e428]: 12Ah
+                  - term [ref=f11e429]: Tamaño de rueda
+                  - definition [ref=f11e430]: 11"
+                  - term [ref=f11e431]: Peso
+                  - definition [ref=f11e432]: "33"
+                  - term [ref=f11e433]: Potencia máxima pico
+                  - definition [ref=f11e434]: 1600W
+                  - term [ref=f11e435]: Batería voltaje
+                  - definition [ref=f11e436]: 48V
+                  - term [ref=f11e437]: Certificados
+                  - definition [ref=f11e438]: Certificado DGT
+                  - term [ref=f11e439]: Nº de certificado DGT
+                  - definition [ref=f11e440]: C1021
+                - paragraph [ref=f11e442]: Somos Distribuidor Oficicial Navee, marca experta de movilidad personal y fabricante de patinetes eléctricos con su propia fábrica Navee en China. Navee destaca por ofrecer una amplia gama de patinetes eléctricos de calidad, completos y a precios accesibles.
+                - generic [ref=f11e443]:
+                  - paragraph [ref=f11e444]:
+                    - text: En imoveblue.es, tu tranquilidad es lo primero y es lo que nos diferencia del resto de tiendas. Por eso, te ofrecemos un Servicio de Garantía Completo y Servicio postventa Premium para que solo te preocupes de disfrutar de tu vehículo.
+                    - strong [ref=f11e445]: Nos diferenciamos por aportar siempre soluciones
+                    - text: a cualquier problema que tenga tu vehículo en cualquier punto del país.
+                  - heading "Garantía Oficial y Cobertura" [level=2] [ref=f11e446]
+                  - list [ref=f11e447]:
+                    - listitem [ref=f11e448]:
+                      - paragraph [ref=f11e449]: "Garantía Oficial de 3 Años: Todos nuestros vehículos y productos cuentan con la Garantía Oficial del fabricante de 3 años desde la fecha de compra."
+                    - listitem [ref=f11e450]:
+                      - paragraph [ref=f11e451]: "Excepciones: La garantía cubre fallos de fabricación y componentes principales. Quedan excluidas las piezas consideradas de desgaste (como neumáticos, pastillas de freno, etc...) Las baterías y determinados componentes eléctricos de vehículos tendrán una garantía de 6 meses, 1, 2 o 3 años o límite de km en función de las normas de fabricante-marca."
+                  - heading "Servicio Premium de Recogida y Reparación Gratuita" [level=2] [ref=f11e452]
+                  - list [ref=f11e453]:
+                    - listitem [ref=f11e454]:
+                      - paragraph [ref=f11e455]: "Máxima Comodidad: Si tu vehículo presenta un fallo cubierto por la garantía, nosotros nos encargamos de todo."
+                    - listitem [ref=f11e456]:
+                      - paragraph [ref=f11e457]: "Recogida Gratuita: Recogemos tu producto a domicilio sin coste alguno para ti."
+                    - listitem [ref=f11e458]:
+                      - paragraph [ref=f11e459]: "Reparación Profesional: Será reparado por Técnicos Oficiales en el taller oficial correspondiente para asegurar la máxima calidad."
+                    - listitem [ref=f11e460]:
+                      - paragraph [ref=f11e461]: "Devolución sin Coste: Una vez reparado, te lo devolvemos en tu domicilio completamente gratis."
+                  - heading "Opciones de Solución de Problemas (Según el Caso)" [level=2] [ref=f11e462]
+                  - paragraph [ref=f11e463]: "Una vez que contactes con nosotros, evaluaremos tu caso para ofrecerte la solución más rápida y eficiente:"
+                  - list [ref=f11e464]:
+                    - listitem [ref=f11e465]:
+                      - paragraph [ref=f11e466]: Recogida y Reparación Gratuita en Taller Oficial (la opción estándar y más cómoda para ti).
+                    - listitem [ref=f11e467]:
+                      - paragraph [ref=f11e468]: Envío de Pieza Defectuosa y reparación por parte del cliente (ideal para fallos menores y clientes con conocimientos técnicos).
+                    - listitem [ref=f11e469]:
+                      - paragraph [ref=f11e470]: Reparación en Taller Colaborador (si disponemos de un taller asociado cerca de tu ubicación, facilitando una solución local y rápida).
+                  - heading "Mantenimiento y Red de Talleres" [level=2] [ref=f11e471]
+                  - list [ref=f11e472]:
+                    - listitem [ref=f11e473]:
+                      - paragraph [ref=f11e474]: "Red de Talleres Colaboradores: Además del servicio de garantía, contamos con una red de talleres colaboradores en crecimiento a nivel nacional."
+                    - listitem [ref=f11e475]:
+                      - paragraph [ref=f11e476]: "Mantenimiento al Día: Puedes utilizar esta red para realizar las revisiones, puestas a punto y el mantenimiento periódico de tu vehículo de forma cómoda y con profesionales de confianza."
+                  - heading "¿Tienes un Problema? ¡Contáctanos!" [level=2] [ref=f11e477]
+                  - paragraph [ref=f11e478]:
+                    - text: Si tienes cualquier incidencia con tu producto o necesitas gestionar la garantía,
+                    - strong [ref=f11e479]:
+                      - link "simplemente contacta con nuestro equipo" [ref=f11e480] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/contactenos
+                    - text: . Te guiaremos en cada paso para resolver tu situación lo antes posible.
+                - generic [ref=f11e481]:
+                  - paragraph [ref=f11e482]:
+                    - strong [ref=f11e483]: ¡Matrícula gratis! ¡Te lo ponemos muy fácil para circular con total legalidad! Tenemos una promoción activa para la compra de patinetes eléctricos y VMP. Te regalamos la matrícula en patinetes eléctricos señalados en la descripción de producto
+                    - text: (No compatible con otros regalos o cupones de descuento. Promoción válida para patinetes comprados desde el 12 de febrero hasta el 31 de marzo). Para pedir la matrícula deberás registrar el VMP en la web de la DGT y pagas las tasas, y una vez obtengas el nº de matrícula debes facilitarnos vía email o Whatsapp el certificado de registro de VMP del la DGT y DNI por las 2 caras. En 2-3 días te enviaremos tu matrícula gratis a domicilio.
+                  - paragraph [ref=f11e484]:
+                    - img "Matrícula patinete gratis" [ref=f11e485]
+                  - paragraph [ref=f11e486]:
+                    - text: Además en el siguiente enlace os dejamos un
+                    - strong [ref=f11e487]:
+                      - link "tutorial para poder registrar y matricular vuestro patinete eléctrico o VMP en la DGT" [ref=f11e488] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/content/14-matricular-patinete-electrico-vmp-dgt
+                    - text: y obtener la matrícula adhesiva. ¡Es muy sencillo! Si tienes cualquier duda puedes
+                    - strong [ref=f11e489]:
+                      - link "contactar con nosotros" [ref=f11e490] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/contactenos
+                    - text: y te ayudamos en el proceso.
+                  - paragraph [ref=f11e491]:
+                    - text: Por otro lado, también te ofrecemos un servicio de seguro para patinetes eléctrico y VMP gracias a la colaboración con
+                    - strong [ref=f11e492]:
+                      - link "Cleverea," [ref=f11e493] [cursor=pointer]:
+                        - /url: https://app.cleverea.com/checkout/mobility/pmv?partner_agent_id=158&stepId=risk_object&s=1
+                      - text: Axa o Insurama.
+                      - link "Podrás obtener un seguro para tu patinete desde los 2€/mes con Cleverea en el siguiente enlace" [ref=f11e494] [cursor=pointer]:
+                        - /url: https://app.cleverea.com/checkout/mobility/pmv?partner_agent_id=158&stepId=risk_object&s=1
+                      - text: o también podemos hacerte una propuesta personalizada con AXA o Insurama.
+                  - paragraph [ref=f11e495]:
+                    - img "Seguro patinete VMP" [ref=f11e496]
+                    - strong
+                  - paragraph [ref=f11e497]:
+                    - strong [ref=f11e498]: "¡PROMOCIÓN SEGURO GRATIS! Por la compra de una selección de patinetes eléctricos de alta gama ofrecemos seguro gratuito básico durante 1 año. Puedes ver en la descripción de producto que patinetes están incluidos en la promoción (No compatible con otros cupones de descuento ni regalos. Seguro gratis válido solo para mayores de 18 años.). Patinetes incluidos en la promoción de seguro gratis:"
+                  - list [ref=f11e499]:
+                    - list [ref=f11e500]:
+                      - listitem [ref=f11e501]:
+                        - link "Dualtron Thunder 3" [ref=f11e502] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1517-7837-dualtron-thunder-3.html#/versiones_dualtron_thunder_3-version_2025_damper_doble_foco_deck_goma
+                      - listitem [ref=f11e503]:
+                        - link "Dualtron Sonic Alien" [ref=f11e504] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1617-dualtron-sonic-alien.html
+                      - listitem [ref=f11e505]: Selección de patinetes Smartgyro (promoción válida mes de julio)
+                  - paragraph
+                  - paragraph
+            - tablist
+            - generic [ref=f11e509]:
+              - generic [ref=f11e515]:
+                - 'heading "Patinete Eléctrico Navee NT5 Max: Potencia SUV y Autonomía Récord en imoveblue.es" [level=2] [ref=f11e516]'
+                - paragraph [ref=f11e517]:
+                  - text: Si buscas dar un salto de calidad en tu movilidad urbana y dejar atrás los patinetes básicos, el patinete eléctrico
+                  - strong [ref=f11e518]: Navee NT5 Max
+                  - text: es exactamente lo que necesitas. Diseñado bajo un concepto de "estilo SUV", este modelo combina una potencia arrolladora, una autonomía líder en el mercado y un nivel de confort diseñado para que los baches y desniveles de la ciudad dejen de ser un problema.
+                - paragraph [ref=f11e519]: En imoveblue.es te contamos por qué el Navee NT5 Max se ha convertido en el vehículo definitivo para los usuarios más exigentes.
+                - heading "¿Por qué el Navee NT5 Max domina las calles?" [level=2] [ref=f11e520]
+                - paragraph [ref=f11e521]:
+                  - text: El
+                  - strong [ref=f11e522]: NT5 Max
+                  - text: no es un patinete convencional. Está pensado para quienes recorren largas distancias a diario, necesitan subir pendientes pronunciadas o simplemente buscan la máxima estabilidad en terrenos irregulares.
+                - paragraph [ref=f11e523]:
+                  - strong [ref=f11e524]: "Motor de 1600W: Aceleración y potencia sin límites"
+                - paragraph [ref=f11e525]: "Equipado con un motor que alcanza picos de hasta 1600W de potencia máxima, este patinete ofrece una respuesta inmediata y una aceleración impresionante. Olvídate de perder velocidad en las subidas: el NT5 Max es capaz de afrontar cuestas con hasta un 28-32% de inclinación sin inmutarse."
+                - paragraph [ref=f11e526]:
+                  - strong [ref=f11e527]: "85 km de Autonomía: Olvídate del cargador"
+                - paragraph [ref=f11e528]:
+                  - text: Uno de sus mayores atractivos es su batería de alta capacidad (aproximadamente 562 Wh). El
+                  - strong [ref=f11e529]: Navee NT5 Max DGT
+                  - text: ofrece hasta 65-85 kilómetros de autonomía ( en determinadas condiciones) con una sola carga. Esto te permite utilizarlo durante varios días seguidos para ir al trabajo o hacer rutas largas sin la ansiedad de quedarte tirado a mitad de camino.
+                - paragraph [ref=f11e530]:
+                  - strong [ref=f11e531]: "Confort Extremo: Doble Suspensión y Neumáticos Tubeless"
+                - paragraph [ref=f11e532]: Conducir este patinete es ir flotando sobre el asfalto. Incorpora un avanzado sistema de suspensión delantera telescópica y trasera (Damping Arm™) que absorbe eficazmente los impactos de baches y adoquines. Además, monta unos imponentes neumáticos tubeless de 10,5 pulgadas, preparados para ofrecer un agarre superior en cualquier tipo de terreno, evitando pinchazos frecuentes.
+                - paragraph [ref=f11e533]:
+                  - strong [ref=f11e534]: Seguridad y Tecnología de Vanguardia
+                - list [ref=f11e535]:
+                  - listitem [ref=f11e536]: "La potencia no sirve de nada sin control. El Navee NT5 Max destaca por su completísimo equipamiento de seguridad y conectividad:"
+                  - listitem [ref=f11e537]: "Frenada impecable: Doble freno de disco (delantero y trasero) asistido por frenado electrónico EABS para detenerte con total precisión."
+                  - listitem [ref=f11e538]: "Sistema TCS (Traction Control System): Evita derrapes y mejora la tracción en superficies resbaladizas."
+                  - listitem [ref=f11e539]: "A prueba de agua: Cuenta con certificación IPX6, lo que te permite circular bajo la lluvia sin riesgo de dañar sus componentes electrónicos."
+                  - listitem [ref=f11e540]: "Inteligencia y conectividad: Pantalla LED, encendido automático de luces, intermitentes integrados, desbloqueo por Bluetooth y compatibilidad con Apple Find My para que siempre sepas dónde está tu patinete."
+                - heading "Especificaciones Técnicas del Navee NT5 Max certificado DGT" [level=2] [ref=f11e541]
+                - list [ref=f11e542]:
+                  - listitem [ref=f11e543]:
+                    - strong [ref=f11e544]: Certificad por la DGT con nº C1021
+                  - listitem [ref=f11e545]:
+                    - strong [ref=f11e546]: Potencia del motor Hasta 1600W (máxima)
+                  - listitem [ref=f11e547]: Velocidad máxima 25 km/h (Limitación legal)
+                  - listitem [ref=f11e548]: Autonomía máxima Hasta 65-85 km (en determinadas condiciones)
+                  - listitem [ref=f11e549]: Batería 46.8V 12Ah (561.6Wh)
+                  - listitem [ref=f11e550]: Tiempo de carga 5 - 6 horas
+                  - listitem [ref=f11e551]: Neumáticos 10.5" Tubeless todoterreno
+                  - listitem [ref=f11e552]: Suspensión Doble (Delantera telescópica y trasera Damping Arm)
+                  - listitem [ref=f11e553]: Frenos Disco delantero + Disco trasero + EABS
+                  - listitem [ref=f11e554]: Resistencia al agua IPX6 (Apto para lluvia ligera)
+                  - listitem [ref=f11e555]: Carga máxima soportada 150 kg
+                  - listitem [ref=f11e556]: Peso del patinete 33,5 kg
+                - heading "¿Para quién es ideal este patinete eléctrico?" [level=2] [ref=f11e557]
+                - paragraph [ref=f11e558]: "El Navee NT5 Max soporta hasta 150 kg de peso gracias a su robusto chasis de estilo automoción. Es la opción definitiva para:"
+                - list [ref=f11e559]:
+                  - listitem [ref=f11e560]: Trabajadores y estudiantes que recorren la ciudad de punta a punta a diario.
+                  - listitem [ref=f11e561]: Usuarios pesados o altos que sienten que los patinetes estándar se quedan cortos de fuerza y estabilidad.
+                  - listitem [ref=f11e562]: Conductores exigentes que valoran la seguridad, la tracción en lluvia y la amortiguación premium en sus trayectos.
+                - heading "Compra tu Navee NT5 Max al Mejor Precio en imoveblue.es" [level=2] [ref=f11e563]
+                - paragraph [ref=f11e564]: En imoveblue.es somos especialistas en movilidad eléctrica. Al comprar tu patinete con nosotros, te garantizas el mejor servicio postventa, envío rápido y total garantía.
+                - paragraph [ref=f11e565]: No te conformes con un patinete básico cuando puedes dominar la ciudad con estilo SUV. ¡Añade el Navee NT5 Max a tu carrito ahora y transforma tu forma de moverte para siempre!
+              - iframe [ref=f11e572]:
+                - generic [ref=f13e1]:
+                  - generic "YouTube Video Player" [ref=f13e3]
+                  - generic [ref=f13e5]:
+                    - generic:
+                      - generic:
+                        - button "Play video" [ref=f13e10] [cursor=pointer]
+                        - button "Hide player controls" [ref=f13e12] [cursor=pointer]
+                        - generic [ref=f13e14]:
+                          - generic [ref=f13e19]:
+                            - generic [ref=f13e20]:
+                              - 'link "Patinete Electrico NAVEE NT5 MAX: ¿Lo mejor que he probado este año?" [ref=f13e21] [cursor=pointer]':
+                                - /url: https://www.youtube.com/watch?v=7t6YFGra-mI
+                              - link "A film by OX" [ref=f13e22] [cursor=pointer]:
+                                - /url: /channel/UC_XZvw2sCJWEfEiG7aTDnPA
+                            - generic [ref=f13e24]:
+                              - button [ref=f13e25] [cursor=pointer]
+                              - generic [ref=f13e27]:
+                                - generic: A film by OX
+                                - generic: 121K subscribers
+                          - generic [ref=f13e28]:
+                            - button "Share" [ref=f13e31] [cursor=pointer]
+                            - link "Watch on YouTube" [ref=f13e42] [cursor=pointer]:
+                              - /url: https://www.youtube.com/watch?v=7t6YFGra-mI
+                              - generic [ref=f13e43]: Watch on
+          - generic [ref=f11e573]:
+            - generic [ref=f11e574]:
+              - generic [ref=f11e575]: 
+              - text: Opiniones
+            - paragraph [ref=f11e577]:
+              - link "Sea el primero en dar su opinión !" [ref=f11e578] [cursor=pointer]:
+                - /url: /modules/gsnippetsreviews/ws-gsnippetsreviews.php?bt_token=3fdf871f2d73a99a5cc5b70623982830&sAction=display&sType=review&iPId=1862&iCId=0&sURI=%2Fpatinetes-electricos-certificados-dgt%2F1862-navee-nt5-max.html&btKey=332faae3ca0a672f40ff12c24e265839
+    - generic [ref=f11e579]:
+      - generic [ref=f11e582]:
+        - generic [ref=f11e583]:
+          - heading "Suscríbete y te regalamos 10€" [level=5] [ref=f11e584]
+          - generic [ref=f11e586]:
+            - generic [ref=f11e587]:
+              - textbox "Su dirección de correo electrónico" [ref=f11e588]
+              - button "Suscribirse" [disabled] [ref=f11e589]:
+                - generic [ref=f11e590]: 
+            - generic [ref=f11e593]:
+              - checkbox "Acepto los términos y condiciones y la política de privacidad. Lee los términos y condiciones de uso." [ref=f11e594] [cursor=pointer]
+              - generic [ref=f11e595] [cursor=pointer]: 
+              - generic [ref=f11e596]:
+                - text: Acepto los términos y condiciones y la política de privacidad.
+                - generic [ref=f11e597]:
+                  - link "Lee los términos y condiciones de uso" [ref=f11e598] [cursor=pointer]:
+                    - /url: https://www.imoveblue.es/content/2-aviso-legal
+                  - text: .
+        - list [ref=f11e600]:
+          - listitem [ref=f11e601]:
+            - link [ref=f11e602] [cursor=pointer]:
+              - /url: https://www.facebook.com/imoveblue/
+              - generic [ref=f11e603]: 
+          - listitem [ref=f11e604]:
+            - link [ref=f11e605] [cursor=pointer]:
+              - /url: https://twitter.com/imoveblue
+              - generic [ref=f11e606]: 
+          - listitem [ref=f11e607]:
+            - link [ref=f11e608] [cursor=pointer]:
+              - /url: https://www.instagram.com/imoveblue.es/
+              - generic [ref=f11e609]: 
+          - listitem [ref=f11e610]:
+            - link [ref=f11e611] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCFwHWdvgGT9VnTsA5MxFfWw
+              - generic [ref=f11e612]: 
+      - generic [ref=f11e615]:
+        - generic [ref=f11e616]:
+          - heading "Atención al cliente" [level=5] [ref=f11e617]
+          - generic [ref=f11e619]:
+            - generic [ref=f11e620]:
+              - strong [ref=f11e621]: "Imoveblue.es - NIF: ESJ01585108"
+              - generic [ref=f11e622]:
+                - generic [ref=f11e623]: 
+                - generic [ref=f11e625]: Apartado de Correos 5003 - 01015 Vitoria-Gasteiz, Euskadi
+              - separator [ref=f11e626]
+              - generic [ref=f11e627]:
+                - generic [ref=f11e628]: 
+                - link "+34 688 751 888" [ref=f11e631] [cursor=pointer]:
+                  - /url: tel:+34 688 751 888
+              - separator [ref=f11e632]
+              - generic [ref=f11e633]:
+                - generic [ref=f11e634]: 
+                - link "info@imoveblue.es" [ref=f11e637] [cursor=pointer]:
+                  - /url: mailto:info@imoveblue.es
+            - separator [ref=f11e638]
+            - generic [ref=f11e639]:
+              - paragraph [ref=f11e640]: Si necesitas asesoramiento o servicio postventa no dudes en contactar con nosotros. Nuestro equipo estará encantado de ayudarte.
+              - paragraph [ref=f11e641]: "Horario de atención al cliente verano: Lunes a Viernes de 10:00h a 15:00h"
+        - generic [ref=f11e642]:
+          - heading "Información" [level=5] [ref=f11e643]
+          - list [ref=f11e646]:
+            - listitem [ref=f11e647]:
+              - link " Contacto" [ref=f11e648] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/contactenos
+            - listitem [ref=f11e649]:
+              - link " Matricular patinete eléctrico VMP DGT" [ref=f11e650] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/14-matricular-patinete-electrico-vmp-dgt
+            - listitem [ref=f11e651]:
+              - link " Financiar patinete eléctrico" [ref=f11e652] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/12-financiar-patinete-electrico
+            - listitem [ref=f11e653]:
+              - link " Normativa VMP" [ref=f11e654] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/11-normativa-vmp
+            - listitem [ref=f11e655]:
+              - link " Postventa y Garantía" [ref=f11e656] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/13-postventa-y-garantia
+            - listitem [ref=f11e657]:
+              - link " Opiniones Trusted Shops" [ref=f11e658] [cursor=pointer]:
+                - /url: https://www.trustedshops.es/evaluacion/info_X7971BAC9A2BC178FCCBEA75B22E0AD86.html?utm_source=shop&utm_medium=link&utm_content=allRatings__full&utm_campaign=trustbadge_maximised
+            - listitem [ref=f11e659]:
+              - link " Opiniones Google" [ref=f11e660] [cursor=pointer]:
+                - /url: https://www.google.com/search?q=imovebblue+opiniones+google&oq=imovebblue+opiniones+google&aqs=chrome..69i57j33i160.3751j0j7&sourceid=chrome&ie=UTF-8#lrd=0xd4fc185e0cebe53:0x21a8560d6ea10371,1,,,,
+            - listitem [ref=f11e661]:
+              - link " Opiniones Trustpilot" [ref=f11e662] [cursor=pointer]:
+                - /url: https://es.trustpilot.com/review/www.imoveblue.es
+            - listitem [ref=f11e663]:
+              - link " Descuentos y promociones" [ref=f11e664] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/8-descuentos
+            - listitem [ref=f11e665]:
+              - link " Condiciones de compra y envío" [ref=f11e666] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/3-terminos-y-condiciones-de-uso
+            - listitem [ref=f11e667]:
+              - link " Pago seguro" [ref=f11e668] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/5-pago-seguro
+            - listitem [ref=f11e669]:
+              - link " Sobre nosotros" [ref=f11e670] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/4-sobre-nosotros
+            - listitem [ref=f11e671]:
+              - link " Talleres colaboradores" [ref=f11e672] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/10-talleres-colaboradores
+            - listitem [ref=f11e673]:
+              - link " Seguro para tu VMP" [ref=f11e674] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/15-seguro-patinete-electrico-vmp
+            - listitem [ref=f11e675]:
+              - link " Mapa del sitio" [ref=f11e676] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/mapa del sitio
+            - listitem [ref=f11e677]:
+              - link " Aviso legal y Protección de datos" [ref=f11e678] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/2-aviso-legal
+        - generic [ref=f11e679]:
+          - heading "Categorías de productos" [level=5] [ref=f11e680]
+          - list [ref=f11e683]:
+            - listitem [ref=f11e684]:
+              - link " Patinetes eléctricos" [ref=f11e685] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/13-patinete-electrico
+            - listitem [ref=f11e686]:
+              - link " Patinetes eléctricos certificados DGT" [ref=f11e687] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+            - listitem [ref=f11e688]:
+              - link " Motos eléctricas" [ref=f11e689] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/18-motos-electricas
+            - listitem [ref=f11e690]:
+              - link " Bicicletas eléctricas" [ref=f11e691] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/14-bicicletas-electricas
+            - listitem [ref=f11e692]:
+              - link " Monociclos eléctricos" [ref=f11e693] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/30-monociclos-electricos
+            - listitem [ref=f11e694]:
+              - link " Movilidad infantil" [ref=f11e695] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/26-movilidad-infantil
+            - listitem [ref=f11e696]:
+              - link " Estaciones de carga" [ref=f11e697] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/39-estaciones-de-carga
+            - listitem [ref=f11e698]:
+              - link " Accesorios VMP y ciclismo" [ref=f11e699] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/28-accesorios-vmp-ciclismo
+            - listitem [ref=f11e700]:
+              - link " Triciclos y movilidad reducida" [ref=f11e701] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/32-triciclos-electricos
+            - listitem [ref=f11e702]:
+              - link " Bicicletas" [ref=f11e703] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/31-bicicletas
+            - listitem [ref=f11e704]:
+              - link " Recambios" [ref=f11e705] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/20-recambios
+            - listitem [ref=f11e706]:
+              - link " Patinetes Dualtron DGT" [ref=f11e707] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/44-dualtron
+        - generic [ref=f11e708]:
+          - heading "Pago seguro garantizado 100%" [level=5] [ref=f11e709]
+          - generic [ref=f11e711]:
+            - paragraph [ref=f11e712]:
+              - img "Pago seguro garantizado - PLAZOX" [ref=f11e713]
+            - paragraph
+        - generic [ref=f11e717]:
+          - strong [ref=f11e718]: Navee NT5 MAX certificado
+          - text: "- Navee - Navee NT5 Max certificado por la DGT con nº C1021 es... -"
+          - generic [ref=f11e719]:
+            - strong [ref=f11e720]: Categoría
+            - text: ": Patinetes eléctricos certificados DGT -"
+            - strong [ref=f11e721]: Precio
+            - text: ": 659.00€"
+      - generic [ref=f11e725]:
+        - paragraph [ref=f11e726]:
+          - text: "Somos un tienda online especializada en movilidad sostenible:"
+          - link "Patinetes eléctricos" [ref=f11e727] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/13-patinetes-electricos
+          - text: ","
+          - link "motos eléctricas" [ref=f11e728] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/18-motos-electricas
+          - text: ","
+          - link "bicicletas eléctricas" [ref=f11e729] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/14-bicicletas-electricas
+          - text: ","
+          - link "remolques de bicicleta" [ref=f11e730] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/10-remolques-de-bicicleta
+          - text: ","
+          - link "quads eléctricos" [ref=f11e731] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/15-quads-electricos
+          - text: y mucho más.
+        - paragraph [ref=f11e732]:
+          - emphasis [ref=f11e733]:
+            - 'link "Diseño web ecommerce: Rp Imagen" [ref=f11e734] [cursor=pointer]':
+              - /url: https://www.rpimagen.com/
+  - generic [ref=f11e736]:
+    - paragraph [ref=f11e740]: Tu privacidad, tu consentimiento
+    - paragraph [ref=f11e741]:
+      - text: En UJ Solutions SC utilizamos cookies y tecnologías similares para mejorar su experiencia y medir sus interacciones con nuestro sitio web. También los usamos para servirle información más relevante en búsquedas y en anuncios en este y otros sitios.
+      - generic [ref=f11e742]:
+        - text: Lee más en nuestra
+        - link "Política de Cookies" [ref=f11e743] [cursor=pointer]:
+          - /url: https://www.imoveblue.es/content/2-aviso-legal
+    - generic [ref=f11e744]:
+      - generic [ref=f11e746] [cursor=pointer]:
+        - generic [ref=f11e747]: Ajusta tus preferencias de cookies
+        - img "Arrow" [ref=f11e748]
+      - generic:
+        - generic:
+          - generic [ref=f11e749]:
+            - generic [ref=f11e750]:
+              - generic [ref=f11e751]: Técnicas (obligatorias)
+              - generic [ref=f11e752]:
+                - generic [ref=f11e753]: i
+                - generic [ref=f11e756]:
+                  - img "lock"
+            - generic [ref=f11e757]:
+              - generic [ref=f11e758]: Preferencias
+              - generic [ref=f11e759]:
+                - generic [ref=f11e760]: i
+                - checkbox [ref=f11e764] [cursor=pointer]
+            - generic [ref=f11e765]:
+              - generic [ref=f11e766]: Estadísticas
+              - generic [ref=f11e767]:
+                - generic [ref=f11e768]: i
+                - checkbox [ref=f11e772] [cursor=pointer]
+            - generic [ref=f11e773]:
+              - generic [ref=f11e774]: Marketing
+              - generic [ref=f11e775]:
+                - generic [ref=f11e776]: i
+                - checkbox [ref=f11e780] [cursor=pointer]
+          - button "Guardar configuración personalizada de cookies" [ref=f11e781] [cursor=pointer]
+    - generic [ref=f11e782]:
+      - generic [ref=f11e784] [cursor=pointer]:
+        - button "RECHAZAR LAS NO NECESARIAS" [ref=f11e785]
+        - generic [ref=f11e786]: Rechazar las cookies que no son extrictamente necesarias para el correcto funcionamiento de la web.
+      - generic [ref=f11e788] [cursor=pointer]:
+        - button "ACEPTAR TODAS" [ref=f11e789]
+        - generic [ref=f11e790]: Habilitar todas las cookies y tecnologías disponibles para mejorar la experiencia.
+    - link "powered by Visible Privacy Logo" [ref=f11e791] [cursor=pointer]:
+      - /url: https://www.visibleprivacy.com/
+      - generic [ref=f11e792]: powered by
+      - img "Visible Privacy Logo" [ref=f11e793]
+  - generic [ref=f11e794]:
+    - button "Sello de Calidad de Trusted Shops Protección al Comprador 4,32 (682) Bueno Trstd Login" [ref=f11e795] [cursor=pointer]:
+      - generic [ref=f11e796]:
+        - img "Sello de Calidad de Trusted Shops" [ref=f11e797]
+        - generic [ref=f11e798]: Protección al Comprador
+      - generic [ref=f11e800]:
+        - generic [ref=f11e801]:
+          - generic [ref=f11e802]: 4,32
+          - generic [ref=f11e804]: (682)
+        - generic [ref=f11e805]: Bueno
+      - switch "Trstd Login" [ref=f11e807]
+    - button "Menú" [ref=f11e809] [cursor=pointer]

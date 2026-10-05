@@ -1,0 +1,680 @@
+- generic [ref=f142e1]:
+  - generic [ref=f142e4]:
+    - link [ref=f142e6] [cursor=pointer]:
+      - /url: /
+      - img "logo" [ref=f142e7]
+    - textbox "¿Qué estás buscando?" [ref=f142e9]
+    - generic [ref=f142e10]:
+      - generic [ref=f142e11]: "0"
+      - button [ref=f142e16] [cursor=pointer]
+  - region "Ventajas de comprar en Patinete Store" [ref=f142e17]:
+    - generic [ref=f142e19]:
+      - generic [ref=f142e20]:
+        - generic [ref=f142e21]: ALMACÉN EN ESPAÑA
+        - generic [ref=f142e22]: ENVÍOS EN 24-48 HORAS
+        - generic [ref=f142e23]: •
+        - generic [ref=f142e24]: TIENDA Nº1 DE PATINETES EN ESPAÑA
+        - generic [ref=f142e25]: •
+        - generic [ref=f142e26]: ★
+        - link "+2.500 RESEÑAS EN GOOGLE" [ref=f142e27] [cursor=pointer]:
+          - /url: https://share.google/RuIHo1gsaQe1QaF8z
+        - generic [ref=f142e28]: •
+        - generic [ref=f142e29]:
+          - text: ¡VINILO
+          - generic [ref=f142e30]: GRATIS
+          - text: CON LA COMPRA DE TU PATINETE!
+      - generic [ref=f142e31]:
+        - generic [ref=f142e32]: ALMACÉN EN ESPAÑA
+        - generic [ref=f142e33]: ENVÍOS EN 24-48 HORAS
+        - generic [ref=f142e34]: •
+        - generic [ref=f142e35]: TIENDA Nº1 DE PATINETES EN ESPAÑA
+        - generic [ref=f142e36]: •
+        - generic [ref=f142e37]: ★
+        - generic [ref=f142e38]: +2.500 RESEÑAS EN GOOGLE
+        - generic [ref=f142e39]: •
+        - generic [ref=f142e40]:
+          - text: ¡VINILO
+          - generic [ref=f142e41]: GRATIS
+          - text: CON LA COMPRA DE TU PATINETE!
+  - link "Saltar al contenido" [ref=f142e42] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=f142e43]:
+    - banner [ref=f142e44]:
+      - generic [ref=f142e45]:
+        - text:   
+        - navigation [ref=f142e47]:
+          - link [ref=f142e49] [cursor=pointer]:
+            - /url: https://patinetestore.com/
+            - img "Patinete Store | Venta de patinetes eléctricos y repuestos de patinete" [ref=f142e50]
+          - list [ref=f142e52]:
+            - listitem [ref=f142e53]:
+              - button "Menú" [ref=f142e54] [cursor=pointer]:
+                - generic [ref=f142e55]: 
+          - text:  
+          - list [ref=f142e57]:
+            - listitem [ref=f142e58]:
+              - button "Ver carrito" [ref=f142e59] [cursor=pointer]:
+                - generic [ref=f142e60]: 
+        - text:     
+        - search "Buscar productos" [ref=f142e66]:
+          - searchbox "Buscar" [ref=f142e68]
+    - generic [ref=f142e75]:
+      - heading "Smartgyro" [level=1] [ref=f142e76]
+      - navigation [ref=f142e78]:
+        - generic [ref=f142e79]:
+          - link "Portada" [ref=f142e81] [cursor=pointer]:
+            - /url: https://patinetestore.com/
+          - text: »
+          - link "Patinetes eléctricos" [ref=f142e83] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/
+          - text: » Smartgyro
+    - main [ref=f142e85]:
+      - generic [ref=f142e88]:
+        - generic [ref=f142e90]:
+          - link "ODYSSR ODYSSR 2 productos" [ref=f142e91] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/odyssr/
+            - img "ODYSSR" [ref=f142e93]
+            - generic [ref=f142e94]: ODYSSR
+            - generic [ref=f142e95]: 2 productos
+          - link "Xtreme Xtreme 2 productos" [ref=f142e96] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/xtreme/
+            - img "Xtreme" [ref=f142e98]
+            - generic [ref=f142e99]: Xtreme
+            - generic [ref=f142e100]: 2 productos
+          - link "Adasmart Adasmart 2 productos" [ref=f142e101] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/adasmart/
+            - img "Adasmart" [ref=f142e103]
+            - generic [ref=f142e104]: Adasmart
+            - generic [ref=f142e105]: 2 productos
+          - link "Dualtron Dualtron 10 productos" [ref=f142e106] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/dualtron/
+            - img "Dualtron" [ref=f142e108]
+            - generic [ref=f142e109]: Dualtron
+            - generic [ref=f142e110]: 10 productos
+          - link "Ecoxtrem Ecoxtrem 14 productos" [ref=f142e111] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/ecoxtrem/
+            - img "Ecoxtrem" [ref=f142e113]
+            - generic [ref=f142e114]: Ecoxtrem
+            - generic [ref=f142e115]: 14 productos
+          - link "IceQ IceQ 4 productos" [ref=f142e116] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/iceq/
+            - img "IceQ" [ref=f142e118]
+            - generic [ref=f142e119]: IceQ
+            - generic [ref=f142e120]: 4 productos
+          - link "Inmotion Inmotion 1 producto" [ref=f142e121] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/inmotion/
+            - img "Inmotion" [ref=f142e123]
+            - generic [ref=f142e124]: Inmotion
+            - generic [ref=f142e125]: 1 producto
+          - link "Kaabo Kaabo 4 productos" [ref=f142e126] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/kaabo/
+            - img "Kaabo" [ref=f142e128]
+            - generic [ref=f142e129]: Kaabo
+            - generic [ref=f142e130]: 4 productos
+          - link "Kamikaze Kamikaze 9 productos" [ref=f142e131] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/kamikaze/
+            - img "Kamikaze" [ref=f142e133]
+            - generic [ref=f142e134]: Kamikaze
+            - generic [ref=f142e135]: 9 productos
+          - link "Kukirin Kukirin 7 productos" [ref=f142e136] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/kukirin/
+            - img "Kukirin" [ref=f142e138]
+            - generic [ref=f142e139]: Kukirin
+            - generic [ref=f142e140]: 7 productos
+          - link "Navee Navee 16 productos" [ref=f142e141] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/navee/
+            - img "Navee" [ref=f142e143]
+            - generic [ref=f142e144]: Navee
+            - generic [ref=f142e145]: 16 productos
+          - link "Patinetes Modificados Patinetes Modificados 20 productos" [ref=f142e146] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/patinetes-modificados/
+            - img "Patinetes Modificados" [ref=f142e148]
+            - generic [ref=f142e149]: Patinetes Modificados
+            - generic [ref=f142e150]: 20 productos
+          - link "Rovoron Rovoron 6 productos" [ref=f142e151] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/rovoron/
+            - img "Rovoron" [ref=f142e153]
+            - generic [ref=f142e154]: Rovoron
+            - generic [ref=f142e155]: 6 productos
+          - link "Smartgyro Smartgyro 19 productos" [ref=f142e156] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/smartgyro/
+            - img "Smartgyro" [ref=f142e158]
+            - generic [ref=f142e159]: Smartgyro
+            - generic [ref=f142e160]: 19 productos
+          - link "Teverun Teverun 3 productos" [ref=f142e161] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/teverun/
+            - img "Teverun" [ref=f142e163]
+            - generic [ref=f142e164]: Teverun
+            - generic [ref=f142e165]: 3 productos
+          - link "Zwheel Zwheel 5 productos" [ref=f142e166] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/zwheel/
+            - img "Zwheel" [ref=f142e168]
+            - generic [ref=f142e169]: Zwheel
+            - generic [ref=f142e170]: 5 productos
+        - generic [ref=f142e171]:
+          - generic [ref=f142e173]:
+            - generic [ref=f142e174]: OFERTÓN!
+            - generic [ref=f142e175]:
+              - generic [ref=f142e176]:
+                - generic:
+                  - link "Smartgyro Raptor EVO LR OFERTA LIQUIDACIÓN":
+                    - /url: https://patinetestore.com/producto/smartgyro-raptor-evo-lr/
+                    - img "Smartgyro Raptor EVO LR OFERTA LIQUIDACIÓN" [ref=f142e177] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f142e178]:
+                - generic [ref=f142e179]:
+                  - generic [ref=f142e180]: Envío en 24-48 horas
+                  - paragraph [ref=f142e183]:
+                    - link "Patinete Eléctrico Smartgyro Raptor EVO LR" [ref=f142e184] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-raptor-evo-lr/
+                - generic [ref=f142e186]:
+                  - deletion [ref=f142e187]:
+                    - generic [ref=f142e188]: €1.199,00
+                  - generic [ref=f142e190]: "El precio original era: €1.199,00."
+                  - insertion [ref=f142e191]:
+                    - generic [ref=f142e192]: €794,00
+                  - generic [ref=f142e194]: "El precio actual es: €794,00."
+          - generic [ref=f142e197]:
+            - generic [ref=f142e198]: OFERTÓN!
+            - generic [ref=f142e199]:
+              - generic [ref=f142e200]:
+                - generic:
+                  - link "Smartgyro Rockway EVO PRO":
+                    - /url: https://patinetestore.com/producto/smartgyro-rockway-evo/
+                    - img "Smartgyro Rockway EVO PRO" [ref=f142e201] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f142e202]:
+                - generic [ref=f142e203]:
+                  - generic [ref=f142e204]: Envío en 24-48 horas
+                  - paragraph [ref=f142e207]:
+                    - link "Patinete Eléctrico Smartgyro Rockway EVO" [ref=f142e208] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-rockway-evo/
+                - generic [ref=f142e209]:
+                  - generic [ref=f142e210]: Compatible con Smartgyro Rockway EVO
+                  - generic [ref=f142e211]:
+                    - deletion [ref=f142e212]:
+                      - generic [ref=f142e213]: €1.199,00
+                    - generic [ref=f142e215]: "El precio original era: €1.199,00."
+                    - insertion [ref=f142e216]:
+                      - generic [ref=f142e217]: €754,00
+                    - generic [ref=f142e219]: "El precio actual es: €754,00."
+          - generic [ref=f142e222]:
+            - generic [ref=f142e223]: OFERTÓN!
+            - generic [ref=f142e224]:
+              - generic [ref=f142e225]:
+                - generic:
+                  - link "Smartgyro K2 PRO":
+                    - /url: https://patinetestore.com/producto/smartgyro-k2-pro/
+                    - img "Smartgyro K2 PRO" [ref=f142e226] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f142e227]:
+                - generic [ref=f142e228]:
+                  - generic [ref=f142e229]: Envío en 24-48 horas
+                  - paragraph [ref=f142e232]:
+                    - link "Patinete Eléctrico Smartgyro K2 PRO" [ref=f142e233] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-k2-pro/
+                - generic [ref=f142e235]:
+                  - deletion [ref=f142e236]:
+                    - generic [ref=f142e237]: €879,00
+                  - generic [ref=f142e239]: "El precio original era: €879,00."
+                  - insertion [ref=f142e240]:
+                    - generic [ref=f142e241]: €699,00
+                  - generic [ref=f142e243]: "El precio actual es: €699,00."
+          - generic [ref=f142e246]:
+            - generic [ref=f142e247]: OFERTÓN!
+            - generic [ref=f142e248]:
+              - generic [ref=f142e249]:
+                - generic:
+                  - link "Patinete eléctrico Smartgyro Rockway GL 2026":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-rockway-gl-2026/
+                    - img "Patinete eléctrico Smartgyro Rockway GL 2026" [ref=f142e250] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f142e251]:
+                - generic [ref=f142e252]:
+                  - generic [ref=f142e253]: Envío en 24-48 horas
+                  - paragraph [ref=f142e256]:
+                    - link "Patinete Eléctrico Smartgyro Rockway GL 2026" [ref=f142e257] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-rockway-gl-2026/
+                - generic [ref=f142e259]:
+                  - deletion [ref=f142e260]:
+                    - generic [ref=f142e261]: €790,00
+                  - generic [ref=f142e263]: "El precio original era: €790,00."
+                  - insertion [ref=f142e264]:
+                    - generic [ref=f142e265]: €594,00
+                  - generic [ref=f142e267]: "El precio actual es: €594,00."
+          - generic [ref=f142e270]:
+            - generic [ref=f142e271]: OFERTÓN!
+            - generic [ref=f142e272]:
+              - generic [ref=f142e273]:
+                - generic:
+                  - link "SmartGyro Z-One 2 Gray":
+                    - /url: https://patinetestore.com/producto/smartgyro-z-one-2-gray/
+                    - img "SmartGyro Z-One 2 Gray" [ref=f142e274] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f142e275]:
+                - generic [ref=f142e276]:
+                  - generic [ref=f142e277]: Envío en 24-48 horas
+                  - paragraph [ref=f142e280]:
+                    - link "Patinete Eléctrico Smartgyro Z-One 2 Gray" [ref=f142e281] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-z-one-2-gray/
+                - generic [ref=f142e283]:
+                  - deletion [ref=f142e284]:
+                    - generic [ref=f142e285]: €349,00
+                  - generic [ref=f142e287]: "El precio original era: €349,00."
+                  - insertion [ref=f142e288]:
+                    - generic [ref=f142e289]: €294,00
+                  - generic [ref=f142e291]: "El precio actual es: €294,00."
+          - generic [ref=f142e294]:
+            - generic [ref=f142e295]: OFERTÓN!
+            - generic [ref=f142e296]:
+              - generic [ref=f142e297]:
+                - generic:
+                  - link "SmartGyro Ryder 2":
+                    - /url: https://patinetestore.com/producto/smartgyro-ryder-2/
+                    - img "SmartGyro Ryder 2" [ref=f142e298] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f142e299]:
+                - generic [ref=f142e300]:
+                  - generic [ref=f142e301]: Envío en 24-48 horas
+                  - paragraph [ref=f142e304]:
+                    - link "Patinete Eléctrico Smartgyro Ryder 2" [ref=f142e305] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-ryder-2/
+                - generic [ref=f142e307]:
+                  - deletion [ref=f142e308]:
+                    - generic [ref=f142e309]: €1.099,00
+                  - generic [ref=f142e311]: "El precio original era: €1.099,00."
+                  - insertion [ref=f142e312]:
+                    - generic [ref=f142e313]: €794,00
+                  - generic [ref=f142e315]: "El precio actual es: €794,00."
+          - generic [ref=f142e318]:
+            - generic [ref=f142e319]: OFERTÓN!
+            - generic [ref=f142e320]:
+              - generic [ref=f142e321]:
+                - generic:
+                  - link "Smartgyro Rockway GT 2026":
+                    - /url: https://patinetestore.com/producto/smartgyro-rockway-gt-2026/
+                    - img "Smartgyro Rockway GT 2026" [ref=f142e322] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f142e323]:
+                - generic [ref=f142e324]:
+                  - generic [ref=f142e325]: Envío en 24-48 horas
+                  - paragraph [ref=f142e328]:
+                    - link "Patinete Eléctrico Smartgyro Rockway GT 2026" [ref=f142e329] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-rockway-gt-2026/
+                - generic [ref=f142e330]:
+                  - generic [ref=f142e331]: Compatible con Smartgyro Rockway GT
+                  - generic [ref=f142e332]:
+                    - deletion [ref=f142e333]:
+                      - generic [ref=f142e334]: €1.090,00
+                    - generic [ref=f142e336]: "El precio original era: €1.090,00."
+                    - insertion [ref=f142e337]:
+                      - generic [ref=f142e338]: €595,00
+                    - generic [ref=f142e340]: "El precio actual es: €595,00."
+          - generic [ref=f142e343]:
+            - generic [ref=f142e344]: OFERTÓN!
+            - generic [ref=f142e345]:
+              - generic [ref=f142e346]:
+                - generic:
+                  - link "Smartgyro Crossover Dual Max 2 LR EXCLUSIVO FRENOS HIDRÁULICOS":
+                    - /url: https://patinetestore.com/producto/smartgyro-dualmax-2-dgt/
+                    - img "Smartgyro Crossover Dual Max 2 LR EXCLUSIVO FRENOS HIDRÁULICOS" [ref=f142e347] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f142e348]:
+                - generic [ref=f142e349]:
+                  - generic [ref=f142e350]: Envío en 24-48 horas
+                  - paragraph [ref=f142e353]:
+                    - link "Patinete Eléctrico Smartgyro Crossover Dual Max 2" [ref=f142e354] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-dualmax-2-dgt/
+                - generic [ref=f142e356]:
+                  - deletion [ref=f142e357]:
+                    - generic [ref=f142e358]: €1.090,00
+                  - generic [ref=f142e360]: "El precio original era: €1.090,00."
+                  - insertion [ref=f142e361]:
+                    - generic [ref=f142e362]: €689,00
+                  - generic [ref=f142e364]: "El precio actual es: €689,00."
+          - generic [ref=f142e367]:
+            - generic [ref=f142e368]: OFERTÓN!
+            - generic [ref=f142e369]:
+              - generic [ref=f142e370]:
+                - generic:
+                  - link "Patinete Eléctrico Smartgyro K5 PRO LR":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-k5-pro-lr/
+                    - img "Patinete Eléctrico Smartgyro K5 PRO LR" [ref=f142e371] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f142e372]:
+                - generic [ref=f142e373]:
+                  - generic [ref=f142e374]: Envío en 24-48 horas
+                  - paragraph [ref=f142e377]:
+                    - link "Patinete Eléctrico Smartgyro K5 PRO LR" [ref=f142e378] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-k5-pro-lr/
+                - generic [ref=f142e380]:
+                  - deletion [ref=f142e381]:
+                    - generic [ref=f142e382]: €879,00
+                  - generic [ref=f142e384]: "El precio original era: €879,00."
+                  - insertion [ref=f142e385]:
+                    - generic [ref=f142e386]: €774,00
+                  - generic [ref=f142e388]: "El precio actual es: €774,00."
+          - generic [ref=f142e391]:
+            - generic [ref=f142e392]: OFERTÓN!
+            - generic [ref=f142e393]:
+              - generic [ref=f142e394]:
+                - generic:
+                  - link "Smartgyro Crossover Dual Max 2 LR EXCLUSIVO FRENOS HIDRÁULICOS":
+                    - /url: https://patinetestore.com/producto/smartgyro-crossover-dual-max-2-lr-2/
+                    - img "Smartgyro Crossover Dual Max 2 LR EXCLUSIVO FRENOS HIDRÁULICOS" [ref=f142e395] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f142e396]:
+                - generic [ref=f142e397]:
+                  - generic [ref=f142e398]: Envío en 24-48 horas
+                  - paragraph [ref=f142e401]:
+                    - link "Patinete Eléctrico Smartgyro Crossover Dual Max 2 LR" [ref=f142e402] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-crossover-dual-max-2-lr-2/
+                - generic [ref=f142e404]:
+                  - deletion [ref=f142e405]:
+                    - generic [ref=f142e406]: €1.090,00
+                  - generic [ref=f142e408]: "El precio original era: €1.090,00."
+                  - insertion [ref=f142e409]:
+                    - generic [ref=f142e410]: €794,00
+                  - generic [ref=f142e412]: "El precio actual es: €794,00."
+          - generic [ref=f142e415]:
+            - generic [ref=f142e416]: OFERTÓN!
+            - generic [ref=f142e417]:
+              - generic [ref=f142e418]:
+                - generic:
+                  - link "Patinete Eléctrico Smartgyro K1":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-k1/
+                    - img "Patinete Eléctrico Smartgyro K1" [ref=f142e419] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f142e420]:
+                - generic [ref=f142e421]:
+                  - generic [ref=f142e422]: Envío en 24-48 horas
+                  - paragraph [ref=f142e425]:
+                    - link "Patinete Eléctrico Smartgyro K1" [ref=f142e426] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-k1/
+                - generic [ref=f142e428]:
+                  - deletion [ref=f142e429]:
+                    - generic [ref=f142e430]: €459,00
+                  - generic [ref=f142e432]: "El precio original era: €459,00."
+                  - insertion [ref=f142e433]:
+                    - generic [ref=f142e434]: €439,99
+                  - generic [ref=f142e436]: "El precio actual es: €439,99."
+          - generic [ref=f142e439]:
+            - generic [ref=f142e440]: OFERTÓN!
+            - generic [ref=f142e441]:
+              - generic [ref=f142e442]:
+                - generic:
+                  - link "Smartgyro Raptor EVO DUAL LR":
+                    - /url: https://patinetestore.com/producto/smartgyro-raptor-evo-dual-lr/
+                    - img "Smartgyro Raptor EVO DUAL LR" [ref=f142e443] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f142e444]:
+                - generic [ref=f142e445]:
+                  - generic [ref=f142e446]: Envío en 24-48 horas
+                  - paragraph [ref=f142e449]:
+                    - link "Patinete Eléctrico Smartgyro Raptor EVO DUAL LR" [ref=f142e450] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-raptor-evo-dual-lr/
+                - generic [ref=f142e452]:
+                  - deletion [ref=f142e453]:
+                    - generic [ref=f142e454]: €1.198,64
+                  - generic [ref=f142e456]: "El precio original era: €1.198,64."
+                  - insertion [ref=f142e457]:
+                    - generic [ref=f142e458]: €1.079,00
+                  - generic [ref=f142e460]: "El precio actual es: €1.079,00."
+          - generic [ref=f142e463]:
+            - generic [ref=f142e464]: OFERTÓN!
+            - generic [ref=f142e465]:
+              - generic [ref=f142e466]:
+                - generic:
+                  - link "Smartgyro Rockway GTS 2026":
+                    - /url: https://patinetestore.com/producto/smartgyro-rockway-gts-2026/
+                    - img "Smartgyro Rockway GTS 2026" [ref=f142e467] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f142e468]:
+                - generic [ref=f142e469]:
+                  - generic [ref=f142e470]: Envío en 24-48 horas
+                  - paragraph [ref=f142e473]:
+                    - link "Patinete Eléctrico Smartgyro Rockway GTS 2026" [ref=f142e474] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-rockway-gts-2026/
+                - generic [ref=f142e476]:
+                  - deletion [ref=f142e477]:
+                    - generic [ref=f142e478]: €1.090,00
+                  - generic [ref=f142e480]: "El precio original era: €1.090,00."
+                  - insertion [ref=f142e481]:
+                    - generic [ref=f142e482]: €774,00
+                  - generic [ref=f142e484]: "El precio actual es: €774,00."
+          - generic [ref=f142e487]:
+            - generic [ref=f142e488]: OFERTÓN!
+            - generic [ref=f142e489]:
+              - generic [ref=f142e490]:
+                - generic:
+                  - link "Smartgyro Crossover Dual Max 2 LR EXCLUSIVO FRENOS HIDRÁULICOS":
+                    - /url: https://patinetestore.com/producto/smartgyro-crossover-dual-max-2-lr/
+                    - img "Smartgyro Crossover Dual Max 2 LR EXCLUSIVO FRENOS HIDRÁULICOS" [ref=f142e491] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f142e492]:
+                - generic [ref=f142e493]:
+                  - generic [ref=f142e494]: Envío en 24-48 horas
+                  - paragraph [ref=f142e497]:
+                    - link "Patinete Eléctrico Smartgyro Crossover Dual Max 2 LR Frenos Hidráulicos" [ref=f142e498] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-crossover-dual-max-2-lr/
+                - generic [ref=f142e500]:
+                  - deletion [ref=f142e501]:
+                    - generic [ref=f142e502]: €1.090,00
+                  - generic [ref=f142e504]: "El precio original era: €1.090,00."
+                  - insertion [ref=f142e505]:
+                    - generic [ref=f142e506]: €929,00
+                  - generic [ref=f142e508]: "El precio actual es: €929,00."
+          - generic [ref=f142e511]:
+            - generic [ref=f142e512]: OFERTÓN!
+            - generic [ref=f142e513]:
+              - generic [ref=f142e514]:
+                - generic:
+                  - link "Smartgyro Rockway EVO PRO":
+                    - /url: https://patinetestore.com/producto/smartgyro-rockway-evo-pro/
+                    - img "Smartgyro Rockway EVO PRO" [ref=f142e515] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f142e516]:
+                - generic [ref=f142e517]:
+                  - generic [ref=f142e518]: Envío en 24-48 horas
+                  - paragraph [ref=f142e521]:
+                    - link "Patinete Eléctrico Smartgyro Rockway EVO PRO" [ref=f142e522] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-rockway-evo-pro/
+                - generic [ref=f142e524]:
+                  - deletion [ref=f142e525]:
+                    - generic [ref=f142e526]: €1.090,00
+                  - generic [ref=f142e528]: "El precio original era: €1.090,00."
+                  - insertion [ref=f142e529]:
+                    - generic [ref=f142e530]: €794,00
+                  - generic [ref=f142e532]: "El precio actual es: €794,00."
+          - generic [ref=f142e536]:
+            - generic [ref=f142e537]:
+              - generic:
+                - link "Patinete Eléctrico Smartgyro XT Dual homologado DGT":
+                  - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-xt-dual/
+                  - img "Patinete Eléctrico Smartgyro XT Dual homologado DGT" [ref=f142e538] [cursor=pointer]
+              - generic:
+                - button "Vista Rápida"
+            - generic [ref=f142e539]:
+              - generic [ref=f142e540]:
+                - generic [ref=f142e541]: Envío en 24-48 horas
+                - paragraph [ref=f142e544]:
+                  - link "Patinete Eléctrico Smartgyro XT Dual" [ref=f142e545] [cursor=pointer]:
+                    - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-xt-dual/
+              - generic [ref=f142e546]: €899,00
+          - generic [ref=f142e552]:
+            - generic [ref=f142e553]: OFERTÓN!
+            - generic [ref=f142e554]:
+              - generic [ref=f142e555]:
+                - generic:
+                  - link "Patinete Eléctrico Smartgyro K5 PRO":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-k5-pro/
+                    - img "Patinete Eléctrico Smartgyro K5 PRO" [ref=f142e556] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f142e557]:
+                - generic [ref=f142e558]:
+                  - generic [ref=f142e559]: Envío en 24-48 horas
+                  - paragraph [ref=f142e562]:
+                    - link "Patinete Eléctrico Smartgyro K5 PRO" [ref=f142e563] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-smartgyro-k5-pro/
+                - generic [ref=f142e565]:
+                  - deletion [ref=f142e566]:
+                    - generic [ref=f142e567]: €779,00
+                  - generic [ref=f142e569]: "El precio original era: €779,00."
+                  - insertion [ref=f142e570]:
+                    - generic [ref=f142e571]: €674,00
+                  - generic [ref=f142e573]: "El precio actual es: €674,00."
+          - generic [ref=f142e576]:
+            - generic [ref=f142e577]: OFERTÓN!
+            - generic [ref=f142e578]:
+              - generic [ref=f142e579]:
+                - generic:
+                  - link "Smartgyro Raptor EVO DUAL":
+                    - /url: https://patinetestore.com/producto/smartgyro-raptor-evo-dual/
+                    - img "Smartgyro Raptor EVO DUAL" [ref=f142e580] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f142e581]:
+                - generic [ref=f142e582]:
+                  - generic [ref=f142e583]: Envío en 24-48 horas
+                  - paragraph [ref=f142e586]:
+                    - link "Patinete Eléctrico Smartgyro Raptor EVO DUAL" [ref=f142e587] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-raptor-evo-dual/
+                - generic [ref=f142e589]:
+                  - deletion [ref=f142e590]:
+                    - generic [ref=f142e591]: €999,00
+                  - generic [ref=f142e593]: "El precio original era: €999,00."
+                  - insertion [ref=f142e594]:
+                    - generic [ref=f142e595]: €944,00
+                  - generic [ref=f142e597]: "El precio actual es: €944,00."
+          - generic [ref=f142e600]:
+            - generic [ref=f142e601]: OFERTÓN!
+            - generic [ref=f142e602]:
+              - generic [ref=f142e603]:
+                - generic:
+                  - link "Smartgyro Raptor EVO":
+                    - /url: https://patinetestore.com/producto/smartgyro-raptor-evo/
+                    - img "Smartgyro Raptor EVO" [ref=f142e604] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f142e605]:
+                - generic [ref=f142e606]:
+                  - generic [ref=f142e607]: Envío en 24-48 horas
+                  - paragraph [ref=f142e610]:
+                    - link "Patinete Eléctrico Smartgyro Raptor EVO" [ref=f142e611] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/smartgyro-raptor-evo/
+                - generic [ref=f142e613]:
+                  - deletion [ref=f142e614]:
+                    - generic [ref=f142e615]: €999,00
+                  - generic [ref=f142e617]: "El precio original era: €999,00."
+                  - insertion [ref=f142e618]:
+                    - generic [ref=f142e619]: €694,00
+                  - generic [ref=f142e621]: "El precio actual es: €694,00."
+        - generic [ref=f142e624]:
+          - paragraph [ref=f142e625]: Smartgyro
+          - paragraph [ref=f142e626]: En Patinete Store reunimos smartgyro dentro de Patinetes eléctricos para que puedas encontrar piezas y accesorios compatibles sin perder tiempo comparando referencias equivocadas.
+          - paragraph [ref=f142e627]: Cada marca y modelo puede usar piezas distintas aunque parezcan similares. Esta categoría ayuda a localizar recambios y accesorios compatibles sin mezclar versiones.
+          - paragraph [ref=f142e628]: Cómo elegir bien
+          - paragraph [ref=f142e629]: – Comprueba el modelo exacto y la versión del patinete. – Revisa medidas, conectores, tornillos y forma de montaje. – Compara las fotos del producto con la pieza antigua cuando sea posible. – Si dudas, es mejor confirmar compatibilidad antes de comprar.
+          - paragraph [ref=f142e630]: Trabajamos esta categoría para que comprar smartgyro sea más sencillo, con referencias pensadas para taller, mantenimiento y uso diario.
+    - contentinfo [ref=f142e631]:
+      - region "Instagram feed" [ref=f142e636]:
+        - link "patinetestore_ on Instagram" [ref=f142e638] [cursor=pointer]:
+          - /url: https://www.instagram.com/patinetestore_/
+          - generic [ref=f142e644]:
+            - heading "patinetestore_" [level=3] [ref=f142e645]
+            - paragraph [ref=f142e646]:
+              - text: Tienda y Taller patinetes eléctricos
+              - img "🏁" [ref=f142e647]
+              - img "🥷🏽" [ref=f142e648]
+              - img "🛴" [ref=f142e649]
+              - text: Avenida del Cid, 4 Valencia
+        - list [ref=f142e650]:
+          - listitem [ref=f142e651]:
+            - 'link "asmr #patinete #escooter #asmr" [ref=f142e653] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeFNuD-IZ0m/
+          - listitem [ref=f142e657]:
+            - 'link "Como vinilar patinete eléctrico #patinete #vinilar" [ref=f142e659] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeB57zCo_Oz/
+          - listitem [ref=f142e663]:
+            - 'link "Always back to the line💯⚔️🛴#escooter #crash #dualt" [ref=f142e665] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeAN95qRJH-/
+              - generic:
+                - text: Always back to the line
+                - img "💯"
+                - img "⚔️"
+                - img "🛴"
+                - text: "#escooter #crash #dualt"
+          - listitem [ref=f142e669]:
+            - link "Si vas a hacer el canelo, hazlo cuando no hay nadi" [ref=f142e671] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/Dd_jt9NIDvP/
+          - listitem [ref=f142e675]:
+            - 'link "Como copiar llave NFC en patinete eléctrico #nfc #" [ref=f142e677] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/Dd8_W1_ITu9/
+          - listitem [ref=f142e681]:
+            - 'link "Hemos comprado los nuevos Ecoxtrem Armored PRO #pa" [ref=f142e683] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/Dd600xwo6-O/
+        - generic [ref=f142e687]:
+          - button "Cargar más" [ref=f142e688] [cursor=pointer]
+          - link "Seguir en Instagram" [ref=f142e691] [cursor=pointer]:
+            - /url: https://www.instagram.com/patinetestore_/
+      - generic [ref=f142e695]:
+        - link [ref=f142e697] [cursor=pointer]:
+          - /url: https://patinetestore.com/
+        - list [ref=f142e700]:
+          - listitem [ref=f142e701]:
+            - link "Aviso legal" [ref=f142e702] [cursor=pointer]:
+              - /url: https://patinetestore.com/aviso-legal/
+          - listitem [ref=f142e703]:
+            - link "Política de devolución y reembolsos" [ref=f142e704] [cursor=pointer]:
+              - /url: https://patinetestore.com/politica-de-devolucion-y-reembolsos/
+          - listitem [ref=f142e705]:
+            - link "Métodos de pago" [ref=f142e706] [cursor=pointer]:
+              - /url: https://patinetestore.com/metodos-de-pago/
+          - listitem [ref=f142e707]:
+            - link "Política de privacidad" [ref=f142e708] [cursor=pointer]:
+              - /url: https://patinetestore.com/privacy-policy/
+          - listitem [ref=f142e709]:
+            - link "Mapa del sitio" [ref=f142e710] [cursor=pointer]:
+              - /url: https://patinetestore.com/sitemap_index.xml
+          - listitem [ref=f142e711]:
+            - link "Blog" [ref=f142e712] [cursor=pointer]:
+              - /url: https://patinetestore.com/blog/
+          - listitem [ref=f142e713]:
+            - link "Acceso B2B" [ref=f142e714] [cursor=pointer]:
+              - /url: https://patinetestore.com/my-account/
+      - generic [ref=f142e716]:
+        - group "Payment icons" [ref=f142e718]:
+          - generic [ref=f142e719]: Visa
+          - generic [ref=f142e723]: Klarna
+          - generic [ref=f142e736]: Apple Pay
+          - generic [ref=f142e740]: Cash On Delivery
+          - generic [ref=f142e744]: Cash on Pickup
+          - generic [ref=f142e748]: Google Pay
+          - generic [ref=f142e752]: MasterCard
+          - generic [ref=f142e759]: PayPal
+          - generic [ref=f142e763]: Revolut
+        - generic [ref=f142e769]:
+          - text: Copyright 2026 ©
+          - strong [ref=f142e770]: Patinete Store
+  - text:          
+  - generic:
+    - button "¡Contacta con nosotros! Abrir chat" [ref=f142e771] [cursor=pointer]
+    - generic: "1"
+    - dialog "Patinete Store"
+  - status [ref=f142e773]

@@ -1,0 +1,332 @@
+- generic [ref=f255e1]:
+  - link [ref=f255e2] [cursor=pointer]:
+    - /url: https://web.whatsapp.com/send?l=es&phone=34688751888&text= https://www.imoveblue.es/buscar?texto=joyor
+  - main [ref=f255e4]:
+    - generic [ref=f255e5]:
+      - list [ref=f255e17]:
+        - listitem [ref=f255e18]:
+          - generic [ref=f255e19]: 
+          - text: ¡ENVÍO GRATIS A PENÍNSULA Y BALEARES!
+      - navigation [ref=f255e21]:
+        - generic [ref=f255e23]:
+          - list [ref=f255e26]:
+            - listitem [ref=f255e27]:
+              - link "¡LLÁMANOS! 688 751 888" [ref=f255e28] [cursor=pointer]:
+                - /url: tel:+34688751888
+          - list [ref=f255e32]:
+            - listitem [ref=f255e33]:
+              - link "OPINIONES DE CLIENTES" [ref=f255e34] [cursor=pointer]:
+                - /url: https://www.trustedshops.es/evaluacion/info_X7971BAC9A2BC178FCCBEA75B22E0AD86.html
+            - listitem [ref=f255e35]:
+              - link "CONTACTO" [ref=f255e36] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/contactenos
+      - text:      
+      - generic [ref=f255e37]:
+        - link [ref=f255e41] [cursor=pointer]:
+          - /url: https://www.imoveblue.es/
+          - img "imoveblue.es - UJ Solutions SC" [ref=f255e42]
+        - generic [ref=f255e46]:
+          - generic [ref=f255e47]:
+            - generic [ref=f255e48] [cursor=pointer]:
+              - generic [ref=f255e49]: 
+              - generic [ref=f255e50]: Menu
+            - list [ref=f255e52]:
+              - listitem [ref=f255e53]:
+                - link "Inicio" [ref=f255e54] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/
+              - listitem [ref=f255e55]:
+                - link "Contacto" [ref=f255e56] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/contactenos
+              - listitem [ref=f255e57]:
+                - generic [ref=f255e58] [cursor=pointer]:
+                  - generic [ref=f255e59]: 
+                  - text: 
+                - link "Patinetes eléctricos certificados DGT" [ref=f255e60] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+              - listitem [ref=f255e61]:
+                - link "MATRICULA TU VMP" [ref=f255e62] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1726-comprar-matricula-patinete-vmp-adhesivo.html
+              - listitem [ref=f255e63]:
+                - link "Seguro patinete eléctrico VMP" [ref=f255e64] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/content/15-seguro-patinete-electrico-vmp
+              - listitem [ref=f255e65]:
+                - generic [ref=f255e66] [cursor=pointer]:
+                  - generic [ref=f255e67]: 
+                  - text: 
+                - link "Movilidad infantil" [ref=f255e68] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/26-movilidad-infantil
+              - listitem [ref=f255e69]:
+                - link "Bicicletas eléctricas" [ref=f255e70] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/14-bicicletas-electricas
+              - listitem [ref=f255e71]:
+                - link "Motos eléctricas" [ref=f255e72] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/18-motos-electricas
+              - listitem [ref=f255e73]:
+                - link "Monociclos eléctricos" [ref=f255e74] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/30-monociclos-electricos
+              - listitem [ref=f255e75]:
+                - link "Bicicletas" [ref=f255e76] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/31-bicicletas
+              - listitem [ref=f255e77]:
+                - link "Componentes ciclismo" [ref=f255e78] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/38-componentes-ciclismo
+              - listitem [ref=f255e79]:
+                - link "Recambios" [ref=f255e80] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/20-recambios
+              - listitem [ref=f255e81]:
+                - link "Triciclos eléctricos y movilidad reducida" [ref=f255e82] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/32-triciclos-electricos-y-movilidad-reducida
+              - listitem [ref=f255e83]:
+                - link "Accesorios VMP y ciclismo" [ref=f255e84] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/28-accesorios-vmp-ciclismo
+              - listitem [ref=f255e85]:
+                - link "Patinetes eléctricos" [ref=f255e86] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/13-patinete-electrico
+              - listitem [ref=f255e87]:
+                - link "Condiciones de compra y envío" [ref=f255e88] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/content/3-terminos-y-condiciones-de-uso
+          - generic [ref=f255e90] [cursor=pointer]:
+            - generic [ref=f255e91]: 
+            - generic [ref=f255e92]: Buscar
+          - link "Iniciar sesión" [ref=f255e94] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/mi-cuenta
+            - generic [ref=f255e95]: 
+          - generic [ref=f255e99] [cursor=pointer]:
+            - generic [ref=f255e100]:
+              - text: 
+              - generic [ref=f255e101]: "0"
+            - generic [ref=f255e102]: Carrito
+    - generic [ref=f255e104]:
+      - complementary
+      - generic [ref=f255e106]:
+        - heading "La página que busca no se ha encontrado." [level=1] [ref=f255e108]
+        - generic [ref=f255e110]:
+          - heading "Lamentamos las molestias." [level=4] [ref=f255e111]
+          - paragraph [ref=f255e112]: Realice una nueva búsqueda sobre su interés
+          - generic [ref=f255e115]:
+            - textbox "Busca en nuestro catálogo" [ref=f255e116]
+            - button "" [ref=f255e117] [cursor=pointer]
+    - generic [ref=f255e119]:
+      - generic [ref=f255e122]:
+        - generic [ref=f255e123]:
+          - heading "Suscríbete y te regalamos 10€" [level=5] [ref=f255e124]
+          - generic [ref=f255e126]:
+            - generic [ref=f255e127]:
+              - textbox "Su dirección de correo electrónico" [ref=f255e128]
+              - button "Suscribirse" [disabled] [ref=f255e129]:
+                - generic [ref=f255e130]: 
+            - generic [ref=f255e133]:
+              - checkbox "Acepto los términos y condiciones y la política de privacidad. Lee los términos y condiciones de uso." [ref=f255e134] [cursor=pointer]
+              - generic [ref=f255e135] [cursor=pointer]: 
+              - generic [ref=f255e136]:
+                - text: Acepto los términos y condiciones y la política de privacidad.
+                - generic [ref=f255e137]:
+                  - link "Lee los términos y condiciones de uso" [ref=f255e138] [cursor=pointer]:
+                    - /url: https://www.imoveblue.es/content/2-aviso-legal
+                  - text: .
+        - list [ref=f255e140]:
+          - listitem [ref=f255e141]:
+            - link [ref=f255e142] [cursor=pointer]:
+              - /url: https://www.facebook.com/imoveblue/
+              - generic [ref=f255e143]: 
+          - listitem [ref=f255e144]:
+            - link [ref=f255e145] [cursor=pointer]:
+              - /url: https://twitter.com/imoveblue
+              - generic [ref=f255e146]: 
+          - listitem [ref=f255e147]:
+            - link [ref=f255e148] [cursor=pointer]:
+              - /url: https://www.instagram.com/imoveblue.es/
+              - generic [ref=f255e149]: 
+          - listitem [ref=f255e150]:
+            - link [ref=f255e151] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCFwHWdvgGT9VnTsA5MxFfWw
+              - generic [ref=f255e152]: 
+      - generic [ref=f255e155]:
+        - generic [ref=f255e156]:
+          - heading "Atención al cliente" [level=5] [ref=f255e157]
+          - generic [ref=f255e159]:
+            - generic [ref=f255e160]:
+              - strong [ref=f255e161]: "Imoveblue.es - NIF: ESJ01585108"
+              - generic [ref=f255e162]:
+                - generic [ref=f255e163]: 
+                - generic [ref=f255e165]: Apartado de Correos 5003 - 01015 Vitoria-Gasteiz, Euskadi
+              - separator [ref=f255e166]
+              - generic [ref=f255e167]:
+                - generic [ref=f255e168]: 
+                - link "+34 688 751 888" [ref=f255e171] [cursor=pointer]:
+                  - /url: tel:+34 688 751 888
+              - separator [ref=f255e172]
+              - generic [ref=f255e173]:
+                - generic [ref=f255e174]: 
+                - link "info@imoveblue.es" [ref=f255e177] [cursor=pointer]:
+                  - /url: mailto:info@imoveblue.es
+            - separator [ref=f255e178]
+            - generic [ref=f255e179]:
+              - paragraph [ref=f255e180]: Si necesitas asesoramiento o servicio postventa no dudes en contactar con nosotros. Nuestro equipo estará encantado de ayudarte.
+              - paragraph [ref=f255e181]: "Horario de atención al cliente verano: Lunes a Viernes de 10:00h a 15:00h"
+        - generic [ref=f255e182]:
+          - heading "Información" [level=5] [ref=f255e183]
+          - list [ref=f255e186]:
+            - listitem [ref=f255e187]:
+              - link " Contacto" [ref=f255e188] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/contactenos
+            - listitem [ref=f255e189]:
+              - link " Matricular patinete eléctrico VMP DGT" [ref=f255e190] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/14-matricular-patinete-electrico-vmp-dgt
+            - listitem [ref=f255e191]:
+              - link " Financiar patinete eléctrico" [ref=f255e192] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/12-financiar-patinete-electrico
+            - listitem [ref=f255e193]:
+              - link " Normativa VMP" [ref=f255e194] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/11-normativa-vmp
+            - listitem [ref=f255e195]:
+              - link " Postventa y Garantía" [ref=f255e196] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/13-postventa-y-garantia
+            - listitem [ref=f255e197]:
+              - link " Opiniones Trusted Shops" [ref=f255e198] [cursor=pointer]:
+                - /url: https://www.trustedshops.es/evaluacion/info_X7971BAC9A2BC178FCCBEA75B22E0AD86.html?utm_source=shop&utm_medium=link&utm_content=allRatings__full&utm_campaign=trustbadge_maximised
+            - listitem [ref=f255e199]:
+              - link " Opiniones Google" [ref=f255e200] [cursor=pointer]:
+                - /url: https://www.google.com/search?q=imovebblue+opiniones+google&oq=imovebblue+opiniones+google&aqs=chrome..69i57j33i160.3751j0j7&sourceid=chrome&ie=UTF-8#lrd=0xd4fc185e0cebe53:0x21a8560d6ea10371,1,,,,
+            - listitem [ref=f255e201]:
+              - link " Opiniones Trustpilot" [ref=f255e202] [cursor=pointer]:
+                - /url: https://es.trustpilot.com/review/www.imoveblue.es
+            - listitem [ref=f255e203]:
+              - link " Descuentos y promociones" [ref=f255e204] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/8-descuentos
+            - listitem [ref=f255e205]:
+              - link " Condiciones de compra y envío" [ref=f255e206] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/3-terminos-y-condiciones-de-uso
+            - listitem [ref=f255e207]:
+              - link " Pago seguro" [ref=f255e208] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/5-pago-seguro
+            - listitem [ref=f255e209]:
+              - link " Sobre nosotros" [ref=f255e210] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/4-sobre-nosotros
+            - listitem [ref=f255e211]:
+              - link " Talleres colaboradores" [ref=f255e212] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/10-talleres-colaboradores
+            - listitem [ref=f255e213]:
+              - link " Seguro para tu VMP" [ref=f255e214] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/15-seguro-patinete-electrico-vmp
+            - listitem [ref=f255e215]:
+              - link " Mapa del sitio" [ref=f255e216] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/mapa del sitio
+            - listitem [ref=f255e217]:
+              - link " Aviso legal y Protección de datos" [ref=f255e218] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/2-aviso-legal
+        - generic [ref=f255e219]:
+          - heading "Categorías de productos" [level=5] [ref=f255e220]
+          - list [ref=f255e223]:
+            - listitem [ref=f255e224]:
+              - link " Patinetes eléctricos" [ref=f255e225] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/13-patinete-electrico
+            - listitem [ref=f255e226]:
+              - link " Patinetes eléctricos certificados DGT" [ref=f255e227] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+            - listitem [ref=f255e228]:
+              - link " Motos eléctricas" [ref=f255e229] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/18-motos-electricas
+            - listitem [ref=f255e230]:
+              - link " Bicicletas eléctricas" [ref=f255e231] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/14-bicicletas-electricas
+            - listitem [ref=f255e232]:
+              - link " Monociclos eléctricos" [ref=f255e233] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/30-monociclos-electricos
+            - listitem [ref=f255e234]:
+              - link " Movilidad infantil" [ref=f255e235] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/26-movilidad-infantil
+            - listitem [ref=f255e236]:
+              - link " Estaciones de carga" [ref=f255e237] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/39-estaciones-de-carga
+            - listitem [ref=f255e238]:
+              - link " Accesorios VMP y ciclismo" [ref=f255e239] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/28-accesorios-vmp-ciclismo
+            - listitem [ref=f255e240]:
+              - link " Triciclos y movilidad reducida" [ref=f255e241] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/32-triciclos-electricos
+            - listitem [ref=f255e242]:
+              - link " Bicicletas" [ref=f255e243] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/31-bicicletas
+            - listitem [ref=f255e244]:
+              - link " Recambios" [ref=f255e245] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/20-recambios
+            - listitem [ref=f255e246]:
+              - link " Patinetes Dualtron DGT" [ref=f255e247] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/44-dualtron
+        - generic [ref=f255e248]:
+          - heading "Pago seguro garantizado 100%" [level=5] [ref=f255e249]
+          - generic [ref=f255e251]:
+            - paragraph [ref=f255e252]:
+              - img "Pago seguro garantizado - PLAZOX" [ref=f255e253]
+            - paragraph
+      - generic [ref=f255e257]:
+        - paragraph [ref=f255e258]:
+          - text: "Somos un tienda online especializada en movilidad sostenible:"
+          - link "Patinetes eléctricos" [ref=f255e259] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/13-patinetes-electricos
+          - text: ","
+          - link "motos eléctricas" [ref=f255e260] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/18-motos-electricas
+          - text: ","
+          - link "bicicletas eléctricas" [ref=f255e261] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/14-bicicletas-electricas
+          - text: ","
+          - link "remolques de bicicleta" [ref=f255e262] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/10-remolques-de-bicicleta
+          - text: ","
+          - link "quads eléctricos" [ref=f255e263] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/15-quads-electricos
+          - text: y mucho más.
+        - paragraph [ref=f255e264]:
+          - emphasis [ref=f255e265]:
+            - 'link "Diseño web ecommerce: Rp Imagen" [ref=f255e266] [cursor=pointer]':
+              - /url: https://www.rpimagen.com/
+  - generic [ref=f255e268]:
+    - paragraph [ref=f255e272]: Tu privacidad, tu consentimiento
+    - paragraph [ref=f255e273]:
+      - text: En UJ Solutions SC utilizamos cookies y tecnologías similares para mejorar su experiencia y medir sus interacciones con nuestro sitio web. También los usamos para servirle información más relevante en búsquedas y en anuncios en este y otros sitios.
+      - generic [ref=f255e274]:
+        - text: Lee más en nuestra
+        - link "Política de Cookies" [ref=f255e275] [cursor=pointer]:
+          - /url: https://www.imoveblue.es/content/2-aviso-legal
+    - generic [ref=f255e276]:
+      - generic [ref=f255e278] [cursor=pointer]:
+        - generic [ref=f255e279]: Ajusta tus preferencias de cookies
+        - img "Arrow" [ref=f255e280]
+      - generic:
+        - generic:
+          - generic [ref=f255e281]:
+            - generic [ref=f255e282]:
+              - generic [ref=f255e283]: Técnicas (obligatorias)
+              - generic [ref=f255e284]:
+                - generic [ref=f255e285]: i
+                - generic [ref=f255e288]:
+                  - img "lock"
+            - generic [ref=f255e289]:
+              - generic [ref=f255e290]: Preferencias
+              - generic [ref=f255e291]:
+                - generic [ref=f255e292]: i
+                - checkbox [ref=f255e296] [cursor=pointer]
+            - generic [ref=f255e297]:
+              - generic [ref=f255e298]: Estadísticas
+              - generic [ref=f255e299]:
+                - generic [ref=f255e300]: i
+                - checkbox [ref=f255e304] [cursor=pointer]
+            - generic [ref=f255e305]:
+              - generic [ref=f255e306]: Marketing
+              - generic [ref=f255e307]:
+                - generic [ref=f255e308]: i
+                - checkbox [ref=f255e312] [cursor=pointer]
+          - button "Guardar configuración personalizada de cookies" [ref=f255e313] [cursor=pointer]
+    - generic [ref=f255e314]:
+      - generic [ref=f255e316] [cursor=pointer]:
+        - button "RECHAZAR LAS NO NECESARIAS" [ref=f255e317]
+        - generic [ref=f255e318]: Rechazar las cookies que no son extrictamente necesarias para el correcto funcionamiento de la web.
+      - generic [ref=f255e320] [cursor=pointer]:
+        - button "ACEPTAR TODAS" [ref=f255e321]
+        - generic [ref=f255e322]: Habilitar todas las cookies y tecnologías disponibles para mejorar la experiencia.
+    - link "powered by Visible Privacy Logo" [ref=f255e323] [cursor=pointer]:
+      - /url: https://www.visibleprivacy.com/
+      - generic [ref=f255e324]: powered by
+      - img "Visible Privacy Logo" [ref=f255e325]

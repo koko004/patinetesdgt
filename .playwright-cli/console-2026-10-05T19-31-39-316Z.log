@@ -1,0 +1,24 @@
+[     395ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.pureelectric.com/es/:0
+[    1282ms] [LOG] No tests/personalizations found — if this is unexpected, check exclusion rules @ https://cdn.intelligems.io/esm/d93ae9db37be/bundle.js:1
+[    1301ms] [LOG] No tests/personalizations found — if this is unexpected, check exclusion rules @ https://cdn.intelligems.io/esm/d93ae9db37be/bundle.js:1
+[    1303ms] [LOG] No tests/personalizations found — if this is unexpected, check exclusion rules @ https://cdn.intelligems.io/esm/d93ae9db37be/bundle.js:1
+[    2293ms] [LOG] No tests/personalizations found — if this is unexpected, check exclusion rules @ https://cdn.intelligems.io/esm/d93ae9db37be/bundle.js:1
+[    3553ms] [INFO] Clear-Site-Data header on 'https://www.pureelectric.com/cart/update.js': Cleared data types: "prefetchCache", "prerenderCache". @ https://www.pureelectric.com/es/:0
+[    5601ms] [LOG] [klarna-osm] Current page type:  @ https://s3.eu-west-1.amazonaws.com/production-klarna-il-shopify-osm/d3bc5d6366701989e2db5a93793900883f2d31a6/purescooters.myshopify.com-1774993395329.js?shop=purescooters.myshopify.com:2
+[    5603ms] [LOG] [klarna-osm] Initializing Klarna On-Site Messaging @ https://s3.eu-west-1.amazonaws.com/production-klarna-il-shopify-osm/d3bc5d6366701989e2db5a93793900883f2d31a6/purescooters.myshopify.com-1774993395329.js?shop=purescooters.myshopify.com:2
+[    5604ms] [LOG] [klarna-osm] Selected currency: GBP @ https://s3.eu-west-1.amazonaws.com/production-klarna-il-shopify-osm/d3bc5d6366701989e2db5a93793900883f2d31a6/purescooters.myshopify.com-1774993395329.js?shop=purescooters.myshopify.com:2
+[    5604ms] [LOG] [klarna-osm] Shop currency: GBP @ https://s3.eu-west-1.amazonaws.com/production-klarna-il-shopify-osm/d3bc5d6366701989e2db5a93793900883f2d31a6/purescooters.myshopify.com-1774993395329.js?shop=purescooters.myshopify.com:2
+[    5605ms] [LOG] [klarna-osm] Page detected:  @ https://s3.eu-west-1.amazonaws.com/production-klarna-il-shopify-osm/d3bc5d6366701989e2db5a93793900883f2d31a6/purescooters.myshopify.com-1774993395329.js?shop=purescooters.myshopify.com:2
+[    5606ms] [LOG] [klarna-osm] Loaded: 0. Failed: 0 @ https://s3.eu-west-1.amazonaws.com/production-klarna-il-shopify-osm/d3bc5d6366701989e2db5a93793900883f2d31a6/purescooters.myshopify.com-1774993395329.js?shop=purescooters.myshopify.com:2
+[    5608ms] [LOG] [klarna-osm] Klarna OSM Script Tag has been added successfully @ https://s3.eu-west-1.amazonaws.com/production-klarna-il-shopify-osm/d3bc5d6366701989e2db5a93793900883f2d31a6/purescooters.myshopify.com-1774993395329.js?shop=purescooters.myshopify.com:2
+[    5745ms] [WARNING] 
+      Another Klarna Web SDK was already included into the page, 
+      please consider using data-client-instance-name attribute
+      on klarna.js script tag to avoid conflicts.
+     @ https://js.klarna.com/web-sdk/v1/klarna.js:0
+[   17104ms] [WARNING] The resource https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.pureelectric.com/es/:0
+[   17105ms] [WARNING] The resource https://static.intercomassets.com/stylesheets/inter-font.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.pureelectric.com/es/:0
+[   17105ms] [WARNING] The resource https://static.intercomassets.com/ember/embercom-f7363959523ad44a8f9ab9a9800dc655.css.gz was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.pureelectric.com/es/:0
+[   23006ms] [WARNING] The resource https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.pureelectric.com/es/:0
+[   23006ms] [WARNING] The resource https://static.intercomassets.com/stylesheets/inter-font.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.pureelectric.com/es/:0
+[   23006ms] [WARNING] The resource https://static.intercomassets.com/ember/embercom-f7363959523ad44a8f9ab9a9800dc655.css.gz was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.pureelectric.com/es/:0

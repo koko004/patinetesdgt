@@ -1,0 +1,13 @@
+[    1527ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://patinetestore.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:1
+[    3312ms] [WARNING] [21:31:15.572] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3313ms] [WARNING] [21:31:15.573] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3313ms] [WARNING] [21:31:15.573] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3313ms] [WARNING] [21:31:15.574] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3313ms] [WARNING] [21:31:15.574] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3314ms] [WARNING] [21:31:15.574] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3325ms] [WARNING] [21:31:15.585] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3326ms] [WARNING] [21:31:15.587] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    3328ms] [WARNING] [21:31:15.588] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[   26530ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://link.emovedistribution.com/wp-content/uploads/2025/04/emove-logo.jpg:0
+[  319277ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ :3338
+[  328580ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ :3338

@@ -1,0 +1,324 @@
+- generic [ref=f102e1]:
+  - alertdialog [ref=f102e2]:
+    - generic [ref=f102e3]:
+      - generic [ref=f102e4]:
+        - heading "Consentimiento para el uso de cookies" [level=2] [ref=f102e5]
+        - paragraph [ref=f102e6]:
+          - text: Nosotros y nuestros partners, incluido Shopify, utilizamos cookies y otras tecnologías para personalizar tu experiencia, mostrarte anuncios y realizar informes y estadísticas, y no utilizaremos cookies ni otras tecnologías para estos fines a menos que las aceptes. Obtén más información en nuestra
+          - link "Política de privacidad" [ref=f102e7] [cursor=pointer]:
+            - /url: http://electyum.com/policies/privacy-policy
+      - generic [ref=f102e8]:
+        - button "Administrar preferencias" [ref=f102e9]
+        - button "Aceptar" [ref=f102e10]
+        - button "Rechazar" [ref=f102e11]
+  - link "Ir directamente al contenido" [ref=f102e12] [cursor=pointer]:
+    - /url: "#MainContent"
+  - banner [ref=f102e14]:
+    - generic [ref=f102e17]:
+      - generic [ref=f102e18]:
+        - link [ref=f102e19] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=f102e23]:
+          - list [ref=f102e26]:
+            - generic:
+              - link "PATINETES" [ref=f102e27] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+              - link "PATINETES HOMOLOGADOS" [ref=f102e29] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - menuitem "Más" [ref=f102e32] [cursor=pointer]
+      - generic [ref=f102e34]:
+        - button "Abrir selector de región e idioma EUR" [ref=f102e36] [cursor=pointer]:
+          - generic [ref=f102e37]: Abrir selector de región e idioma
+          - generic [ref=f102e38]: EUR
+        - button "Abrir búsqueda" [ref=f102e40] [cursor=pointer]
+        - generic [ref=f102e41]:
+          - button "Abrir menú de cuenta" [ref=f102e43] [cursor=pointer]
+          - 'button "Abrir carrito Total de artículos en el carrito: 0" [ref=f102e49] [cursor=pointer]':
+            - generic [ref=f102e51]:
+              - status:
+                - generic [ref=f102e53]: "Total de artículos en el carrito: 0"
+  - main [ref=f102e54]:
+    - generic [ref=f102e57]:
+      - link "Ir directamente a la información del producto" [ref=f102e58] [cursor=pointer]:
+        - /url: "#ProductInformation-template--26141808394565__main"
+      - generic [ref=f102e59]:
+        - generic [ref=f102e62]:
+          - generic [ref=f102e63]:
+            - generic:
+              - button "Diapositiva anterior" [ref=f102e64] [cursor=pointer]
+              - button "Siguiente diapositiva" [ref=f102e65] [cursor=pointer]
+            - img "Dualtron Aminia Dual Motor" [ref=f102e70]
+          - generic [ref=f102e85]:
+            - button "Diapositiva 1 de 4" [ref=f102e86] [cursor=pointer]:
+              - img "Dualtron Aminia Dual Motor" [ref=f102e87]
+            - button "Diapositiva 2 de 4" [ref=f102e88] [cursor=pointer]:
+              - img "Dualtron Aminia Dual Motor" [ref=f102e89]
+            - button "Diapositiva 3 de 4" [ref=f102e90] [cursor=pointer]:
+              - img "Dualtron Aminia Dual Motor" [ref=f102e91]
+            - button "Diapositiva 4 de 4" [ref=f102e92] [cursor=pointer]:
+              - img "Dualtron Aminia Dual Motor" [ref=f102e93]
+        - generic [ref=f102e96]:
+          - heading "Patinete Eléctrico Dualtron Aminia Special" [level=1] [ref=f102e98]
+          - generic [ref=f102e99]:
+            - generic [ref=f102e100]:
+              - group [ref=f102e101]:
+                - generic [ref=f102e102]: Precio de oferta
+                - text: €849,00 EUR
+              - group [ref=f102e103]:
+                - generic [ref=f102e104]: Precio habitual
+                - text: €999,00 EUR
+            - generic [ref=f102e105]: Aranceles e impuestos incluidos. Envío calculado en el pago.
+          - iframe [ref=f102e111]:
+            - generic [ref=f107e6]:
+              - generic [ref=f107e7]:
+                - generic [ref=f107e9]:
+                  - strong [ref=f107e10]: 82,75 €
+                  - text: al mes
+                - generic [ref=f107e12]:
+                  - generic [ref=f107e13]: x12
+                  - generic [ref=f107e14] [cursor=pointer]: x6
+                  - generic [ref=f107e15] [cursor=pointer]: x3 sin coste
+                  - text: +info
+              - img "SeQura logo" [ref=f107e17] [cursor=pointer]
+          - paragraph [ref=f102e113]: Homologado por la DGT ✅
+          - generic [ref=f102e115]:
+            - paragraph [ref=f102e116]:
+              - text: El
+              - strong [ref=f102e117]: Dualtron Aminia Special
+              - text: es un patinete eléctrico premium de Dualtron, marca de referencia mundial en movilidad eléctrica de alta gama. Fabricación de precisión, baterías de alta capacidad y tecnología de suspensión avanzada para la experiencia de conducción más exigente.
+            - paragraph [ref=f102e118]: "🚀 Motor: Potencia nominal 450 W"
+            - paragraph [ref=f102e119]: "⚡ Velocidad máxima: Hasta 25 km/h (limitado de fábrica – homologado DGT)"
+            - paragraph [ref=f102e120]: "🔋 Batería: 52 V 13 Ah o 52 V 17 Ah"
+            - paragraph [ref=f102e121]: "🛞 Ruedas: Neumáticos tubeless de 9\""
+            - paragraph [ref=f102e122]: "🛴 Frenos: Freno de tambor delantero y trasero"
+            - paragraph [ref=f102e123]: "🔋 Autonomía: Hasta 60 km"
+            - paragraph [ref=f102e124]: "🛞 Suspensión: Sistema de absorción mediante neumáticos de 9\" para uso urbano"
+            - paragraph [ref=f102e125]: "⛰️ Pendiente máxima: Hasta 15°"
+            - paragraph [ref=f102e126]:
+              - strong [ref=f102e127]: "Ideal para:"
+            - list [ref=f102e128]:
+              - listitem [ref=f102e129]: ✅ Usuarios avanzados que buscan el máximo rendimiento y autonomía
+              - listitem [ref=f102e130]: ✅ Trayectos largos y exigentes donde la calidad de componentes marca la diferencia
+              - listitem [ref=f102e131]: ✅ Coleccionistas y entusiastas de los mejores patinetes eléctricos del mundo
+          - paragraph [ref=f102e133]:
+            - strong [ref=f102e134]: 🚚 Envíos
+            - strong [ref=f102e135]: de 3 a 5 días hábiles
+          - group "Batería" [ref=f102e138]:
+            - generic [ref=f102e140]:
+              - radio "52V 13Ah" [checked] [ref=f102e141] [cursor=pointer]
+              - generic [ref=f102e142]: 52V 13Ah
+            - generic [ref=f102e143]:
+              - radio "52V 17Ah" [ref=f102e144] [cursor=pointer]
+              - generic [ref=f102e145]: 52V 17Ah
+          - generic [ref=f102e148]:
+            - heading "Comprados juntos..." [level=4] [ref=f102e151]
+            - generic [ref=f102e152]:
+              - generic "Carga de recomendaciones de productos" [ref=f102e153]
+              - generic "Carga de recomendaciones de productos" [ref=f102e154]
+          - generic [ref=f102e156]:
+            - status [ref=f102e157]
+            - generic [ref=f102e159]:
+              - generic [ref=f102e160]:
+                - button "Disminuir cantidad" [ref=f102e161] [cursor=pointer]
+                - spinbutton "Cantidad" [ref=f102e163]: "1"
+                - button "Aumentar cantidad" [ref=f102e164] [cursor=pointer]
+              - button "Agregar al carrito" [ref=f102e168] [cursor=pointer]:
+                - generic [ref=f102e171]: Agregada
+              - generic [ref=f102e175]:
+                - generic [ref=f102e178]:
+                  - iframe [ref=f102e179]:
+                    - generic "Payment Button" [ref=f104e2]:
+                      - link "PayPal" [ref=f104e5] [cursor=pointer]
+                  - iframe [ref=f102e180]
+                - link "Más opciones de pago" [ref=f102e182] [cursor=pointer]:
+                  - /url: "#"
+    - generic [ref=f102e187]:
+      - heading "Patinete Eléctrico Dualtron Aminia Special" [level=2] [ref=f102e189]
+      - generic [ref=f102e191]:
+        - heading "Dualtron Aminia Special" [level=3] [ref=f102e192]
+        - paragraph [ref=f102e193]: "Patinete eléctrico homologado por la DGT. Motor que desarrolla una potencia nominal de 450W. Disponible en 2 versiones de batería: 52V 13Ah y 52V 17Ah. Con esto es capaz de lograr una autonomía de hasta 60 kilometros con una sola carga. Además de su sistema de frenado de tambor en su parte delantera y trasera y su pantalla multifunción EY3, donde podrás tener el control de tu patinete eléctrico"
+        - paragraph [ref=f102e194]: Batería:52V 13Ah o 17Ah
+        - paragraph [ref=f102e195]: Potencia:Nominal 450W
+        - paragraph [ref=f102e196]: Autonomía:Hasta 60 Km
+        - paragraph [ref=f102e197]: Peso:25,5 kg
+        - paragraph [ref=f102e198]: Carga máxima:120 Kilogramos
+        - paragraph [ref=f102e199]: "Patinete eléctrico homologado por la DGT. Motor que desarrolla una potencia nominal de 450W. Disponible en 2 versiones de batería: 52V 13Ah y 52V 17Ah. Con esto es capaz de lograr una autonomía de hasta 60 kilometros con una sola carga. Además de su sistema de frenado de tambor en su parte delantera y trasera y su pantalla multifunción EY3, donde podrás tener el control de tu patinete eléctrico"
+        - paragraph [ref=f102e200]:
+          - strong [ref=f102e201]: FICHA TÉCNICA
+        - paragraph [ref=f102e202]: Motor:Nominal 450W
+        - paragraph [ref=f102e203]: Batería:52V 13Ah | 52V 17Ah
+        - paragraph [ref=f102e204]: Autonomía:Hasta 60 Km
+        - paragraph [ref=f102e205]: Velocidad Máxima:25 Km/h (Limitado de fábrica)
+        - paragraph [ref=f102e206]: "Tiempo de carga: Ruedas 9″ Tubeless"
+        - paragraph [ref=f102e207]: Dimensiones:1160 x 620 x 1190 mm
+        - paragraph [ref=f102e208]: Frenado:Tambor Del/Tras
+        - paragraph [ref=f102e209]: Angulo máx. pendiente:15º
+        - paragraph [ref=f102e210]: Pantalla:EY3 Multifunción
+        - paragraph [ref=f102e211]: Peso:25,5Kg
+        - paragraph [ref=f102e212]: Carga máxima:120Kg
+    - generic [ref=f102e220]:
+      - paragraph [ref=f102e222]:
+        - strong [ref=f102e223]: Hasta 60Km
+        - text: de libertad 🔋
+      - paragraph [ref=f102e225]:
+        - text: Con su batería de
+        - strong [ref=f102e226]: 52V 13Ah y 52V 17Ah
+        - text: y motor de
+        - strong [ref=f102e227]: 450W
+        - text: ", tendrás garantizadas horas de autonomía para todos tus trayectos diarios. ¡Circula ahora sin preocupaciones!"
+    - generic [ref=f102e231]:
+      - heading "Related products" [level=3] [ref=f102e234]
+      - generic [ref=f102e235]:
+        - generic "Carga de recomendaciones de productos" [ref=f102e236]
+        - generic "Carga de recomendaciones de productos" [ref=f102e237]
+        - generic "Carga de recomendaciones de productos" [ref=f102e238]
+        - generic "Carga de recomendaciones de productos" [ref=f102e239]
+    - generic [ref=f102e249]:
+      - generic [ref=f102e251]:
+        - heading "Capacidad de motor ⚙️" [level=2] [ref=f102e253]
+        - paragraph [ref=f102e255]: 450 W nominal
+        - paragraph [ref=f102e257]:
+          - text: Pico máximo con
+          - strong [ref=f102e258]: 450W
+          - text: de potencia máxima para nunca dejarte tirado ;)
+      - generic [ref=f102e260]:
+        - heading "Batería y autonomía 🔋" [level=2] [ref=f102e262]
+        - generic [ref=f102e263]:
+          - paragraph [ref=f102e264]:
+            - text: Batería de
+            - strong [ref=f102e265]: 52V 13Ah y 52V 17Ah
+            - text: ", con la que podrás hacer"
+            - strong [ref=f102e266]: Hasta 60Km
+          - paragraph [ref=f102e267]:
+            - text: Disfruta de tu
+            - strong [ref=f102e268]: Patinete Eléctrico Dualtron Aminia Special
+            - text: sin preocuparte por la carga!
+      - generic [ref=f102e270]:
+        - heading "Suspensión y ruedas 🛞" [level=2] [ref=f102e272]
+        - generic [ref=f102e273]:
+          - paragraph [ref=f102e274]:
+            - text: Ruedas de
+            - strong [ref=f102e275]: neumáticos tubeless de 9''
+            - text: ", con agarre y seguridad en cada trayecto."
+          - paragraph [ref=f102e276]:
+            - text: Suspensión
+            - strong [ref=f102e277]: mecánica básica
+            - text: para una conducción cómoda y estable.
+    - generic [ref=f102e286]:
+      - heading "Related products" [level=3] [ref=f102e289]
+      - generic [ref=f102e290]:
+        - generic "Carga de recomendaciones de productos" [ref=f102e291]
+        - generic "Carga de recomendaciones de productos" [ref=f102e292]
+        - generic "Carga de recomendaciones de productos" [ref=f102e293]
+        - generic "Carga de recomendaciones de productos" [ref=f102e294]
+    - generic [ref=f102e303]:
+      - generic [ref=f102e304]:
+        - paragraph [ref=f102e307]: Homologado por la DGT ✅
+        - paragraph [ref=f102e310]: Homologado por la DGT ✅
+        - paragraph [ref=f102e313]: Homologado por la DGT ✅
+        - paragraph [ref=f102e316]: Homologado por la DGT ✅
+      - generic [ref=f102e317]:
+        - paragraph [ref=f102e320]: Homologado por la DGT ✅
+        - paragraph [ref=f102e323]: Homologado por la DGT ✅
+        - paragraph [ref=f102e326]: Homologado por la DGT ✅
+        - paragraph [ref=f102e329]: Homologado por la DGT ✅
+    - generic [ref=f102e339]:
+      - generic [ref=f102e341]:
+        - heading "Garantía de 2 años 🔓" [level=2] [ref=f102e343]
+        - paragraph [ref=f102e345]: Somos los distribuidores oficiales de la marca en España y Europa
+      - generic [ref=f102e347]:
+        - heading "Envios 🚚" [level=2] [ref=f102e349]
+        - paragraph [ref=f102e351]: Aquí va información sobre los envíos y lo rápido que somos o lo barato que son
+        - paragraph [ref=f102e353]: de 3 a 5 días hábiles
+      - generic [ref=f102e355]:
+        - heading "Atención al cliente 📞" [level=2] [ref=f102e357]
+        - paragraph [ref=f102e359]: de 3 a 5 días hábiles
+    - generic [ref=f102e374]:
+      - heading "Preguntas frecuentes" [level=3] [ref=f102e376]
+      - generic [ref=f102e377]:
+        - group [ref=f102e379]:
+          - generic "Cual es nuestra politica postventa?" [ref=f102e380] [cursor=pointer]
+        - group [ref=f102e382]:
+          - generic "Are any purchases final sale?" [ref=f102e383] [cursor=pointer]
+        - group [ref=f102e385]:
+          - generic "When will I get my order?" [ref=f102e386] [cursor=pointer]
+        - group [ref=f102e388]:
+          - generic "Where are your products manufactured?" [ref=f102e389] [cursor=pointer]
+        - group [ref=f102e391]:
+          - generic "How much does shipping cost?" [ref=f102e392] [cursor=pointer]
+  - generic [ref=f102e397]:
+    - generic [ref=f102e399]:
+      - generic [ref=f102e401]:
+        - group [ref=f102e403]:
+          - generic "Tienda" [ref=f102e404]
+          - list [ref=f102e406]:
+            - listitem [ref=f102e407]:
+              - link "PATINETES" [ref=f102e408] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+            - listitem [ref=f102e409]:
+              - link "PATINETES HOMOLOGADOS" [ref=f102e410] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - listitem [ref=f102e411]:
+              - link "MOTOS ELÉCTRICAS" [ref=f102e412] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f102e413]:
+              - link "BICIS ELÉCTRICAS" [ref=f102e414] [cursor=pointer]:
+                - /url: /collections/bicicletas-electricas
+            - listitem [ref=f102e415]:
+              - link "MOVILIDAD INFANTIL" [ref=f102e416] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-ninos
+            - listitem [ref=f102e417]:
+              - link "MOVILIDAD REDUCIDA" [ref=f102e418] [cursor=pointer]:
+                - /url: /collections/scooters-movilidad-reducida
+            - listitem [ref=f102e419]:
+              - link "KARTS ELÉCTRICOS" [ref=f102e420] [cursor=pointer]:
+                - /url: /collections/karts-electricos
+            - listitem [ref=f102e421]:
+              - link "COCHES ELÉCTRICOS" [ref=f102e422] [cursor=pointer]:
+                - /url: /collections/coches-electricos
+            - listitem [ref=f102e423]:
+              - link "MOTOS de GASOLINA" [ref=f102e424] [cursor=pointer]:
+                - /url: /collections/motos-gasolina
+            - listitem [ref=f102e425]:
+              - link "Contacto" [ref=f102e426] [cursor=pointer]:
+                - /url: /pages/contact
+        - group [ref=f102e428]:
+          - generic "Información" [ref=f102e429]
+          - list [ref=f102e431]:
+            - listitem [ref=f102e432]:
+              - link "Financiar patinete eléctrico" [ref=f102e433] [cursor=pointer]:
+                - /url: /pages/como-financiar-un-patinete-electrico
+            - listitem [ref=f102e434]:
+              - link "Términos y condiciones" [ref=f102e435] [cursor=pointer]:
+                - /url: /policies/terms-of-service
+            - listitem [ref=f102e436]:
+              - link "Política de envíos" [ref=f102e437] [cursor=pointer]:
+                - /url: /policies/shipping-policy
+            - listitem [ref=f102e438]:
+              - link "Devoluciones y garantías" [ref=f102e439] [cursor=pointer]:
+                - /url: /policies/refund-policy
+            - listitem [ref=f102e440]:
+              - link "(+34) 689313556" [ref=f102e441] [cursor=pointer]:
+                - /url: https://wa.me/34689313556
+            - listitem [ref=f102e442]:
+              - link "sat@electyum.com" [ref=f102e443] [cursor=pointer]:
+                - /url: mailto:sat@electyum.com
+      - generic [ref=f102e444]:
+        - generic [ref=f102e445]: suscríbete para descuentitos!
+        - generic [ref=f102e447]:
+          - generic [ref=f102e448]: Correo electrónico
+          - textbox "Correo electrónico" [ref=f102e449]:
+            - /placeholder: Dirección de correo electrónico
+          - button "Registrarse" [ref=f102e450]
+    - generic [ref=f102e453]:
+      - generic [ref=f102e454]:
+        - generic [ref=f102e456]:
+          - text: © 2026
+          - link "Electyum" [ref=f102e457] [cursor=pointer]:
+            - /url: /
+        - button "Términos y políticas" [ref=f102e459] [cursor=pointer]
+      - generic [ref=f102e461]:
+        - link "Instagram" [ref=f102e463] [cursor=pointer]:
+          - /url: https://instagram.com/electyum
+        - link "Youtube" [ref=f102e467] [cursor=pointer]:
+          - /url: https://www.youtube.com/@electyummovilidadinteligen6279

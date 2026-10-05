@@ -1,0 +1,448 @@
+- generic [ref=f40e1]:
+  - alertdialog [ref=f40e2]:
+    - generic [ref=f40e3]:
+      - generic [ref=f40e4]:
+        - heading "Consentimiento para el uso de cookies" [level=2] [ref=f40e5]
+        - paragraph [ref=f40e6]:
+          - text: Nosotros y nuestros partners, incluido Shopify, utilizamos cookies y otras tecnologías para personalizar tu experiencia, mostrarte anuncios y realizar informes y estadísticas, y no utilizaremos cookies ni otras tecnologías para estos fines a menos que las aceptes. Obtén más información en nuestra
+          - link "Política de privacidad" [ref=f40e7] [cursor=pointer]:
+            - /url: http://electyum.com/policies/privacy-policy
+      - generic [ref=f40e8]:
+        - button "Administrar preferencias" [ref=f40e9]
+        - button "Aceptar" [ref=f40e10]
+        - button "Rechazar" [ref=f40e11]
+  - link "Ir directamente al contenido" [ref=f40e12] [cursor=pointer]:
+    - /url: "#MainContent"
+  - banner [ref=f40e14]:
+    - generic [ref=f40e17]:
+      - generic [ref=f40e18]:
+        - link [ref=f40e19] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=f40e23]:
+          - list [ref=f40e26]:
+            - generic:
+              - link "PATINETES" [ref=f40e27] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+              - link "PATINETES HOMOLOGADOS" [ref=f40e29] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - menuitem "Más" [ref=f40e32] [cursor=pointer]
+      - generic [ref=f40e34]:
+        - button "Abrir selector de región e idioma EUR" [ref=f40e36] [cursor=pointer]:
+          - generic [ref=f40e37]: Abrir selector de región e idioma
+          - generic [ref=f40e38]: EUR
+        - button "Abrir búsqueda" [ref=f40e40] [cursor=pointer]
+        - generic [ref=f40e41]:
+          - button "Abrir menú de cuenta" [ref=f40e43] [cursor=pointer]
+          - 'button "Abrir carrito Total de artículos en el carrito: 0" [ref=f40e49] [cursor=pointer]':
+            - generic [ref=f40e51]:
+              - status:
+                - generic [ref=f40e53]: "Total de artículos en el carrito: 0"
+  - main [ref=f40e54]:
+    - generic [ref=f40e57]:
+      - link "Ir directamente a la información del producto" [ref=f40e58] [cursor=pointer]:
+        - /url: "#ProductInformation-template--26141808394565__main"
+      - generic [ref=f40e59]:
+        - generic [ref=f40e62]:
+          - generic [ref=f40e63]:
+            - generic:
+              - button "Diapositiva anterior" [ref=f40e64] [cursor=pointer]
+              - button "Siguiente diapositiva" [ref=f40e65] [cursor=pointer]
+            - img "Odyssr Rodeo Dual 52V 18Ah (Homologado DGT)" [ref=f40e70]
+          - generic [ref=f40e97]:
+            - button "Diapositiva 1 de 7" [ref=f40e98] [cursor=pointer]:
+              - img "Odyssr Rodeo Dual 52V 18Ah (Homologado DGT)" [ref=f40e99]
+            - button "Diapositiva 2 de 7" [ref=f40e100] [cursor=pointer]:
+              - img "Odyssr Rodeo Dual 52V 18Ah (Homologado DGT)" [ref=f40e101]
+            - button "Diapositiva 3 de 7" [ref=f40e102] [cursor=pointer]:
+              - img "Odyssr Rodeo Dual 52V 18Ah (Homologado DGT)" [ref=f40e103]
+            - button "Diapositiva 4 de 7" [ref=f40e104] [cursor=pointer]:
+              - img "Odyssr Rodeo Dual 52V 18Ah (Homologado DGT)" [ref=f40e105]
+            - button "Diapositiva 5 de 7" [ref=f40e106] [cursor=pointer]:
+              - img "Odyssr Rodeo Dual 52V 18Ah (Homologado DGT)" [ref=f40e107]
+            - button "Diapositiva 6 de 7" [ref=f40e108] [cursor=pointer]:
+              - img "Odyssr Rodeo Dual 52V 18Ah (Homologado DGT)" [ref=f40e109]
+            - button "Diapositiva 7 de 7" [ref=f40e110] [cursor=pointer]:
+              - img "Odyssr Rodeo Dual 52V 18Ah (Homologado DGT)" [ref=f40e111]
+        - generic [ref=f40e114]:
+          - heading "Odyssr Rodeo Dual" [level=1] [ref=f40e116]
+          - generic [ref=f40e117]:
+            - generic [ref=f40e118]:
+              - group [ref=f40e119]:
+                - generic [ref=f40e120]: Precio de oferta
+                - text: €995,00 EUR
+              - group [ref=f40e121]:
+                - generic [ref=f40e122]: Precio habitual
+                - text: €1.999,00 EUR
+            - generic [ref=f40e123]: Aranceles e impuestos incluidos. Envío calculado en el pago.
+          - iframe [ref=f40e129]:
+            - generic [ref=f45e6]:
+              - generic [ref=f45e7]:
+                - generic [ref=f45e9]:
+                  - strong [ref=f45e10]: 94,91 €
+                  - text: al mes
+                - generic [ref=f45e12]:
+                  - generic [ref=f45e13]: x12
+                  - generic [ref=f45e14] [cursor=pointer]: x6
+                  - generic [ref=f45e15] [cursor=pointer]: x3 sin coste
+                  - text: +info
+              - img "SeQura logo" [ref=f45e17] [cursor=pointer]
+          - paragraph [ref=f40e131]: Homologado por la DGT ✅
+          - list [ref=f40e137]:
+            - listitem [ref=f40e138]:
+              - strong [ref=f40e139]: 🚀 Motor Dual
+              - text: ": 2x 800W"
+            - listitem [ref=f40e140]:
+              - strong [ref=f40e141]: "🔋 Autonomía:"
+              - text: Hasta 60 Km
+            - listitem [ref=f40e142]:
+              - strong [ref=f40e143]: "🔋 Batería:"
+              - text: 52V 18Ah
+            - listitem [ref=f40e144]:
+              - strong [ref=f40e145]: "⚡ Velocidad Limitada:"
+              - text: Hasta 25 Km/h (Limitado de fábrica)
+            - listitem [ref=f40e146]:
+              - strong [ref=f40e147]: "🛑Frenos:"
+              - text: Frenos de disco hidráulico
+            - listitem [ref=f40e148]:
+              - strong [ref=f40e149]: "🛞 Ruedas:"
+              - text: 10" Tubeless
+            - listitem [ref=f40e150]:
+              - strong [ref=f40e151]: 📱 APP móvil - Pantalla LCD
+            - listitem [ref=f40e152]: ✅ Circular legalmente por vías públicas con homologación DGT
+            - listitem [ref=f40e153]: ✅ Desplazamientos urbanos diarios sustituyendo al coche o transporte público
+          - paragraph [ref=f40e155]:
+            - strong [ref=f40e156]: 🚚 Envíos
+            - strong [ref=f40e157]: de 3 a 5 días hábiles
+          - generic [ref=f40e160]:
+            - heading "Comprados juntos..." [level=4] [ref=f40e163]
+            - generic [ref=f40e167]:
+              - button "Siguiente diapositiva" [ref=f40e168] [cursor=pointer]
+              - generic [ref=f40e169]:
+                - generic [ref=f40e173]:
+                  - link "Patinete Eléctrico SmartGyro Raptor Dual Evo LR" [ref=f40e174] [cursor=pointer]:
+                    - /url: /products/patinete-electrico-smartgyro-raptor-dual-evo-lr?variant=57077217362245
+                  - generic [ref=f40e176] [cursor=pointer]:
+                    - generic [ref=f40e177]:
+                      - link "Patinete Eléctrico SmartGyro Raptor Dual Evo LR" [ref=f40e178]:
+                        - /url: "\n/products/patinete-electrico-smartgyro-raptor-dual-evo-lr?variant=57077217362245"
+                        - img "Patinete Eléctrico SmartGyro Raptor Dual Evo LR" [ref=f40e184]
+                      - generic [ref=f40e191]: Oferta
+                      - generic:
+                        - generic:
+                          - status
+                    - link [ref=f40e193]:
+                      - /url: "\n/products/patinete-electrico-smartgyro-raptor-dual-evo-lr?variant=57077217362245"
+                      - paragraph [ref=f40e195]: Patinete Eléctrico SmartGyro Raptor Dual Evo LR
+                    - generic [ref=f40e197]:
+                      - group [ref=f40e198]:
+                        - generic [ref=f40e199]: Precio de oferta
+                        - text: €1.075,00 EUR
+                      - group [ref=f40e200]:
+                        - generic [ref=f40e201]: Precio habitual
+                        - text: €1.490,00 EUR
+                - generic [ref=f40e205]:
+                  - link [ref=f40e206] [cursor=pointer]:
+                    - /url: /products/patinete-electrico-odyssr-drift-dual-homologado-dgt?variant=58309185044805
+                    - generic [ref=f40e207]: Odyssr Drift Dual
+                  - generic [ref=f40e208] [cursor=pointer]:
+                    - generic [ref=f40e209]:
+                      - link [ref=f40e210]:
+                        - /url: "\n/products/patinete-electrico-odyssr-drift-dual-homologado-dgt?variant=58309185044805"
+                      - generic [ref=f40e223]: Oferta
+                      - generic:
+                        - generic:
+                          - status
+                    - link [ref=f40e225]:
+                      - /url: "\n/products/patinete-electrico-odyssr-drift-dual-homologado-dgt?variant=58309185044805"
+                      - paragraph [ref=f40e227]: Odyssr Drift Dual
+                    - generic [ref=f40e229]:
+                      - group [ref=f40e230]:
+                        - generic [ref=f40e231]: Precio de oferta
+                        - text: €1.289,00 EUR
+                      - group [ref=f40e232]:
+                        - generic [ref=f40e233]: Precio habitual
+                        - text: €2.249,00 EUR
+          - generic [ref=f40e235]:
+            - status [ref=f40e236]
+            - generic [ref=f40e238]:
+              - generic [ref=f40e239]:
+                - button "Disminuir cantidad" [ref=f40e240] [cursor=pointer]
+                - spinbutton "Cantidad" [ref=f40e242]: "1"
+                - button "Aumentar cantidad" [ref=f40e243] [cursor=pointer]
+              - button "Agregar al carrito" [ref=f40e247] [cursor=pointer]:
+                - generic [ref=f40e250]: Agregada
+              - generic [ref=f40e254]:
+                - generic [ref=f40e257]:
+                  - iframe [ref=f40e258]:
+                    - generic "Payment Button" [ref=f42e2]:
+                      - link "PayPal" [ref=f42e5] [cursor=pointer]
+                  - iframe [ref=f40e259]
+                - link "Más opciones de pago" [ref=f40e261] [cursor=pointer]:
+                  - /url: "#"
+    - generic [ref=f40e266]:
+      - heading "Odyssr Rodeo Dual" [level=2] [ref=f40e268]
+      - generic [ref=f40e270]:
+        - 'heading "Patinete Eléctrico Odyssey Rodeo Dual: Potencia y Doble Motor con Certificado DGT" [level=3] [ref=f40e271]'
+        - paragraph [ref=f40e272]:
+          - text: El
+          - strong [ref=f40e273]: Odyssey Rodeo Dual
+          - text: representa la cumbre de la evolución en la movilidad urbana de alto rendimiento. Diseñado y fabricado bajo las estrictas directrices de ingeniería de
+          - strong [ref=f40e274]: Teverun
+          - text: ", este modelo hereda la robustez y la fiabilidad estructural de la aclamada plataforma"
+          - emphasis [ref=f40e275]: Space
+          - text: ", evolucionando hacia un concepto estético marcadamente deportivo ("
+          - emphasis [ref=f40e276]: Sport Design
+          - text: ).
+        - paragraph [ref=f40e277]: "Este vehículo ha sido concebido para los usuarios más exigentes que no solo buscan un medio de transporte eficiente, sino una máquina capaz de transformar sus desplazamientos diarios en una experiencia de conducción superior. Al integrar tracción total inteligente (doble motor) y un sistema de almacenamiento de energía de alta tensión, el Rodeo Dual elimina de raíz los dos grandes problemas del sector: las pendientes pronunciadas y la necesidad de cargas diarias."
+        - heading "CARACTERÍSTICAS PRINCIPALES" [level=3] [ref=f40e278]
+        - list [ref=f40e279]:
+          - listitem [ref=f40e280]:
+            - strong [ref=f40e281]: "Potencia sin Límites (Sistema de Motor Dual 800W):"
+            - text: Al contar con un motor síncrono en cada eje, el patinete distribuye de forma inteligente el par motor entre la rueda delantera y la trasera. Esto se traduce en una tracción integral y una aceleración lineal excepcionales, ideales para incorporarse con rapidez al flujo del tráfico urbano o para traccionar sobre superficies mojadas con total seguridad.
+          - listitem [ref=f40e282]:
+            - strong [ref=f40e283]: "Olvídese de las Cuestas (Potencia Pico de 2900W):"
+            - text: Aunque la potencia nominal combinada es de 800W, la electrónica avanzada de Teverun permite liberar una potencia pico máxima de
+            - strong [ref=f40e284]: 2900W
+            - text: . Esta reserva de fuerza bruta le permite escalar pendientes con un ángulo de inclinación de hasta
+            - strong [ref=f40e285]: 35º
+            - text: sin perder velocidad ni sobrecalentar los componentes internos.
+          - listitem [ref=f40e286]:
+            - strong [ref=f40e287]: "Autonomía para Toda la Jornada (Hasta 60 km reales):"
+            - text: Equipado con un acumulador de iones de litio de alta densidad energética (
+            - strong [ref=f40e288]: 52V y 18Ah
+            - text: ), ofrece un rango operativo que oscila entre los 40 y los 60 kilómetros con una sola carga. Podrá ir al trabajo, acudir al gimnasio, realizar gestiones y volver a casa sin experimentar la "ansiedad de rango" ni vigilar constantemente el panel de instrumentos.
+          - listitem [ref=f40e289]:
+            - strong [ref=f40e290]: "Conducción Premium y Protección Antipinchazos:"
+            - text: El patinete incorpora neumáticos de
+            - strong [ref=f40e291]: 10 pulgadas con tecnología
+            - emphasis [ref=f40e292]:
+              - strong [ref=f40e293]: Tubeless
+            - strong [ref=f40e294]: (sin cámara de aire)
+            - text: . Al eliminar la cámara interna, se reduce en un 90% el riesgo de pinchazos por pellizco. Además, su generoso balón de aire actúa como suspensión natural, absorbiendo baches, juntas de dilatación y adoquines.
+          - listitem [ref=f40e295]:
+            - strong [ref=f40e296]: "Frenada Hidráulica de Precisión:"
+            - text: A diferencia de los frenos mecánicos de cable tradicionales, el Odyssey Rodeo Dual monta un
+            - strong [ref=f40e297]: sistema de frenos de disco hidráulicos (delantero y trasero)
+            - text: . El fluido hidráulico garantiza una frenada sólida, milimétrica y con un esfuerzo mínimo en las manetas, reduciendo drásticamente la distancia de parada en situaciones de emergencia.
+          - listitem [ref=f40e298]:
+            - strong [ref=f40e299]: "Legalidad Total (100% Homologado por la DGT):"
+            - text: Circule con absoluta tranquilidad jurídica. El vehículo cuenta con el certificado oficial de la Dirección General de Tráfico (DGT), cumpliendo estrictamente con la normativa de Vehículos de Movilidad Personal (VMP) en España. Incluye su correspondiente placa y marcaje técnico de fábrica.
+        - heading "ESPECIFICACIONES TÉCNICAS" [level=3] [ref=f40e300]
+        - paragraph [ref=f40e301]: Especificación Técnica Oficial Marca y Modelo Odyssey Rodeo Dual (Sport Edition) Ingeniería / FabricanteTeverun (Basado en el chasis del modelo Space) Certificación Legal Homologado por la DGT (Normativa VMP España) Configuración del Motor Motor Dual (Tracción integral en ambos ejes) Potencia Nominal 800W Potencia de Pico Máxima 2900W Voltaje y Capacidad 52V / 18Ah (Batería de Iones de Litio de alta eficiencia) Autonomía Máxima Entre 40 y 60 Kilómetros (dependiendo del modo y peso del piloto)Velocidad Máxima 25 km/h (Limitado electrónicamente de fábrica por ley) Ángulo Máximo de Pendiente 35º de inclinación operativa Sistema de Frenos Discos Hidráulicos de alta presión (Eje delantero y trasero) Medida y Tipo de Rueda 10" Pulgadas - Neumáticos Tubeless (Sin cámara) Panel de Instrumentos Pantalla Display LCD Multifunción de alta visibilidad Estructura y Chasis Aleación de aluminio aeroespacial reforzado (Diseño Sport)Peso Neto del Vehículo 29 - 30 kg (Garantiza estabilidad y aplomo a velocidad máxima) Carga Máxima Admitida Hasta 120 kg de peso útil
+        - heading "PANEL DE CONTROL E INTERFAZ DE USUARI" [level=3] [ref=f40e302]
+        - paragraph [ref=f40e303]:
+          - text: La experiencia de usuario se centraliza en el manillar a través de su
+          - strong [ref=f40e304]: pantalla multifunción LCD
+          - text: ". De un solo vistazo y sin perder la atención en la calzada, el conductor puede monitorizar:"
+        - list [ref=f40e305]:
+          - listitem [ref=f40e306]:
+            - strong [ref=f40e307]: "Velocímetro digital:"
+            - text: Velocidad lineal en tiempo real (km/h).
+          - listitem [ref=f40e308]:
+            - strong [ref=f40e309]: "Indicador de batería:"
+            - text: Gráfico segmentado de alta precisión para medir la energía restante en voltios y porcentaje.
+          - listitem [ref=f40e310]:
+            - strong [ref=f40e311]: "Odómetro:"
+            - text: Kilómetros totales recorridos y kilómetros parciales del viaje (
+            - emphasis [ref=f40e312]: Trip
+            - text: ).
+          - listitem [ref=f40e313]:
+            - strong [ref=f40e314]: "Gestión de Modos:"
+            - text: Selección de mapas de potencia (Modos Eco, Confort o Sport para activar el doble motor en zonas complejas).
+        - 'heading "Características del Odyssey Rodeo Dual: El patinete con motor dual de Teverun para dominar la ciudad" [level=3] [ref=f40e315]'
+        - paragraph [ref=f40e316]:
+          - text: Si buscas el
+          - strong [ref=f40e317]: mejor patinete eléctrico de doble motor
+          - text: para tus trayectos diarios, el nuevo
+          - strong [ref=f40e318]: Odyssey Rodeo Dual
+          - text: es la solución definitiva. Diseñado por la prestigiosa marca
+          - strong [ref=f40e319]: Teverun
+          - text: ", este modelo de corte deportivo destaca en el mercado de la"
+          - strong [ref=f40e320]: movilidad urbana
+          - text: gracias a su impresionante
+          - strong [ref=f40e321]: motor dual de 800W
+          - text: (con una potencia pico de 2900W) y una robusta
+          - strong [ref=f40e322]: batería de 52V 18Ah
+          - text: . Esta combinación técnica te garantiza una
+          - strong [ref=f40e323]: autonomía de hasta 60 km
+          - text: con una sola carga, permitiéndote olvidarte por completo de los enchufes a diario y superar fácilmente pendientes de hasta 35º de inclinación sin que el rendimiento disminuya.
+        - paragraph [ref=f40e324]:
+          - text: Además de su potencia bruta, este
+          - strong [ref=f40e325]: patinete eléctrico potente
+          - text: prioriza tu integridad en el asfalto. Cuenta con un avanzado sistema de
+          - strong [ref=f40e326]: frenos de disco hidráulicos
+          - text: "y"
+          - strong [ref=f40e327]: ruedas tubeless de 10 pulgadas
+          - text: que minimizan el riesgo de pinchazos, asegurando una conducción suave y una frenada precisa en cualquier superficie. Lo mejor de todo es que el
+          - strong [ref=f40e328]: Odyssey Rodeo Dual está homologado por la DGT
+          - text: ", lo que significa que cumple estrictamente con toda la normativa vigente para"
+          - strong [ref=f40e329]: Vehículos de Movilidad Personal (VMP) en España
+          - text: . Podrás desplazarte con total seguridad y legalidad, disfrutando de un vehículo deportivo premium a un precio imbatible.
+    - generic [ref=f40e334]:
+      - img "Odyssr Rodeo Dual 52V 18Ah (Homologado DGT)" [ref=f40e336]
+      - generic [ref=f40e338]:
+        - paragraph [ref=f40e340]:
+          - strong [ref=f40e341]: Hasta 60Km
+          - text: de libertad 🔋
+        - paragraph [ref=f40e343]:
+          - text: Con su batería de
+          - strong [ref=f40e344]: 52V 18Ah
+          - text: y motor de
+          - strong [ref=f40e345]: 1600W
+          - text: ", tendrás garantizadas horas de autonomía para todos tus trayectos diarios. ¡Circula ahora sin preocupaciones!"
+    - generic [ref=f40e349]:
+      - heading "Related products" [level=3] [ref=f40e352]
+      - generic [ref=f40e353]:
+        - generic "Carga de recomendaciones de productos" [ref=f40e354]
+        - generic "Carga de recomendaciones de productos" [ref=f40e355]
+        - generic "Carga de recomendaciones de productos" [ref=f40e356]
+        - generic "Carga de recomendaciones de productos" [ref=f40e357]
+    - generic [ref=f40e367]:
+      - generic [ref=f40e369]:
+        - heading "Capacidad de motor ⚙️" [level=2] [ref=f40e371]
+        - paragraph [ref=f40e373]: Potencia 2x 800W Potencia máxima 1600W
+        - paragraph [ref=f40e375]:
+          - text: Pico máximo con
+          - strong [ref=f40e376]: 1600W
+          - text: de potencia máxima para nunca dejarte tirado ;)
+      - generic [ref=f40e378]:
+        - heading "Batería y autonomía 🔋" [level=2] [ref=f40e380]
+        - generic [ref=f40e381]:
+          - paragraph [ref=f40e382]:
+            - text: Batería de
+            - strong [ref=f40e383]: 52V 18Ah
+            - text: ", con la que podrás hacer"
+            - strong [ref=f40e384]: Hasta 60Km
+          - paragraph [ref=f40e385]:
+            - text: Disfruta de tu
+            - strong [ref=f40e386]: Odyssr Rodeo Dual
+            - text: sin preocuparte por la carga!
+      - generic [ref=f40e388]:
+        - heading "Suspensión y ruedas 🛞" [level=2] [ref=f40e390]
+        - generic [ref=f40e391]:
+          - paragraph [ref=f40e392]:
+            - text: Ruedas de
+            - strong [ref=f40e393]: 10" Todoterreno
+            - text: ", con agarre y seguridad en cada trayecto."
+          - paragraph [ref=f40e394]:
+            - text: Suspensión
+            - strong [ref=f40e395]: Suspensión de muelle delantera y trasera
+            - text: para una conducción cómoda y estable.
+    - generic [ref=f40e404]:
+      - heading "Related products" [level=3] [ref=f40e407]
+      - generic [ref=f40e408]:
+        - generic "Carga de recomendaciones de productos" [ref=f40e409]
+        - generic "Carga de recomendaciones de productos" [ref=f40e410]
+        - generic "Carga de recomendaciones de productos" [ref=f40e411]
+        - generic "Carga de recomendaciones de productos" [ref=f40e412]
+    - generic [ref=f40e421]:
+      - generic [ref=f40e422]:
+        - paragraph [ref=f40e425]: Homologado por la DGT ✅
+        - paragraph [ref=f40e428]: Homologado por la DGT ✅
+        - paragraph [ref=f40e431]: Homologado por la DGT ✅
+        - paragraph [ref=f40e434]: Homologado por la DGT ✅
+      - generic [ref=f40e435]:
+        - paragraph [ref=f40e438]: Homologado por la DGT ✅
+        - paragraph [ref=f40e441]: Homologado por la DGT ✅
+        - paragraph [ref=f40e444]: Homologado por la DGT ✅
+        - paragraph [ref=f40e447]: Homologado por la DGT ✅
+    - generic [ref=f40e457]:
+      - generic [ref=f40e459]:
+        - heading "Garantía de 2 años 🔓" [level=2] [ref=f40e461]
+        - paragraph [ref=f40e463]: Somos los distribuidores oficiales de la marca en España y Europa
+      - generic [ref=f40e465]:
+        - heading "Envios 🚚" [level=2] [ref=f40e467]
+        - paragraph [ref=f40e469]: Aquí va información sobre los envíos y lo rápido que somos o lo barato que son
+        - paragraph [ref=f40e471]: de 3 a 5 días hábiles
+      - generic [ref=f40e473]:
+        - heading "Atención al cliente 📞" [level=2] [ref=f40e475]
+        - paragraph [ref=f40e477]: de 3 a 5 días hábiles
+    - generic [ref=f40e492]:
+      - heading "Preguntas frecuentes" [level=3] [ref=f40e494]
+      - generic [ref=f40e495]:
+        - group [ref=f40e497]:
+          - generic "Cual es nuestra politica postventa?" [ref=f40e498] [cursor=pointer]
+        - group [ref=f40e500]:
+          - generic "Are any purchases final sale?" [ref=f40e501] [cursor=pointer]
+        - group [ref=f40e503]:
+          - generic "When will I get my order?" [ref=f40e504] [cursor=pointer]
+        - group [ref=f40e506]:
+          - generic "Where are your products manufactured?" [ref=f40e507] [cursor=pointer]
+        - group [ref=f40e509]:
+          - generic "How much does shipping cost?" [ref=f40e510] [cursor=pointer]
+  - generic [ref=f40e515]:
+    - generic [ref=f40e517]:
+      - generic [ref=f40e519]:
+        - group [ref=f40e521]:
+          - generic "Tienda" [ref=f40e522]
+          - list [ref=f40e524]:
+            - listitem [ref=f40e525]:
+              - link "PATINETES" [ref=f40e526] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+            - listitem [ref=f40e527]:
+              - link "PATINETES HOMOLOGADOS" [ref=f40e528] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - listitem [ref=f40e529]:
+              - link "MOTOS ELÉCTRICAS" [ref=f40e530] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f40e531]:
+              - link "BICIS ELÉCTRICAS" [ref=f40e532] [cursor=pointer]:
+                - /url: /collections/bicicletas-electricas
+            - listitem [ref=f40e533]:
+              - link "MOVILIDAD INFANTIL" [ref=f40e534] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-ninos
+            - listitem [ref=f40e535]:
+              - link "MOVILIDAD REDUCIDA" [ref=f40e536] [cursor=pointer]:
+                - /url: /collections/scooters-movilidad-reducida
+            - listitem [ref=f40e537]:
+              - link "KARTS ELÉCTRICOS" [ref=f40e538] [cursor=pointer]:
+                - /url: /collections/karts-electricos
+            - listitem [ref=f40e539]:
+              - link "COCHES ELÉCTRICOS" [ref=f40e540] [cursor=pointer]:
+                - /url: /collections/coches-electricos
+            - listitem [ref=f40e541]:
+              - link "MOTOS de GASOLINA" [ref=f40e542] [cursor=pointer]:
+                - /url: /collections/motos-gasolina
+            - listitem [ref=f40e543]:
+              - link "Contacto" [ref=f40e544] [cursor=pointer]:
+                - /url: /pages/contact
+        - group [ref=f40e546]:
+          - generic "Información" [ref=f40e547]
+          - list [ref=f40e549]:
+            - listitem [ref=f40e550]:
+              - link "Financiar patinete eléctrico" [ref=f40e551] [cursor=pointer]:
+                - /url: /pages/como-financiar-un-patinete-electrico
+            - listitem [ref=f40e552]:
+              - link "Términos y condiciones" [ref=f40e553] [cursor=pointer]:
+                - /url: /policies/terms-of-service
+            - listitem [ref=f40e554]:
+              - link "Política de envíos" [ref=f40e555] [cursor=pointer]:
+                - /url: /policies/shipping-policy
+            - listitem [ref=f40e556]:
+              - link "Devoluciones y garantías" [ref=f40e557] [cursor=pointer]:
+                - /url: /policies/refund-policy
+            - listitem [ref=f40e558]:
+              - link "(+34) 689313556" [ref=f40e559] [cursor=pointer]:
+                - /url: https://wa.me/34689313556
+            - listitem [ref=f40e560]:
+              - link "sat@electyum.com" [ref=f40e561] [cursor=pointer]:
+                - /url: mailto:sat@electyum.com
+      - generic [ref=f40e562]:
+        - generic [ref=f40e563]: suscríbete para descuentitos!
+        - generic [ref=f40e565]:
+          - generic [ref=f40e566]: Correo electrónico
+          - textbox "Correo electrónico" [ref=f40e567]:
+            - /placeholder: Dirección de correo electrónico
+          - button "Registrarse" [ref=f40e568]
+    - generic [ref=f40e571]:
+      - generic [ref=f40e572]:
+        - generic [ref=f40e574]:
+          - text: © 2026
+          - link "Electyum" [ref=f40e575] [cursor=pointer]:
+            - /url: /
+        - button "Términos y políticas" [ref=f40e577] [cursor=pointer]
+      - generic [ref=f40e579]:
+        - link "Instagram" [ref=f40e581] [cursor=pointer]:
+          - /url: https://instagram.com/electyum
+        - link "Youtube" [ref=f40e585] [cursor=pointer]:
+          - /url: https://www.youtube.com/@electyummovilidadinteligen6279

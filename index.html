@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Patinetes Homologados DGT 2026 · Comparador España</title>
+<meta name="description" content="Listado completo de patinetes eléctricos homologados por la DGT en España. Precios, autonomía, potencia, batería, velocidad máxima y enlaces de compra.">
+<link rel="stylesheet" href="styles.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap topbar-inner">
+    <div class="logo">🛴 <span>Patinetes<b>DGT</b></span></div>
+    <nav>
+      <a href="#comparador">Comparador</a>
+      <a href="#listado">Listado DGT</a>
+      <a href="#normativa">Normativa</a>
+    </nav>
+    <div class="badge-dgt">Listado oficial 22/09/2026</div>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <p class="kicker">España · Vehículos de Movilidad Personal (VMP)</p>
+      <h1>Todos los patinetes <span>homologados por la DGT</span></h1>
+      <p class="sub">Hemos volcado el <b>listado oficial de la DGT</b> (marcas, modelos y nº de certificado VMP) y hemos completado los modelos más vendidos con <b>precio, potencia, batería, autonomía, velocidad, peso y enlace de compra</b>.</p>
+      <div class="stats" id="stats"></div>
+      <div class="hero-cta">
+        <a class="btn primary" href="#comparador">🔍 Buscar patinete</a>
+        <a class="btn ghost" href="https://www.dgt.es/nuestros-servicios/tu-vehiculo/vehiculos-de-movilidad-personal-vmp/" target="_blank" rel="noopener">Fuente: DGT ↗</a>
+      </div>
+      <p class="disclaimer">⚠️ Precios orientativos octubre 2026. Verifícalos en la tienda antes de comprar. Solo se comercializan legalmente los VMP con certificado vigente (obligatorio desde el 22/01/2027 para circular).</p>
+    </div>
+    <div class="hero-card">
+      <h3>¿Qué significa homologado?</h3>
+      <ul>
+        <li>✅ Certificado VMP (nº tipo <code>B1234 / C1234</code>)</li>
+        <li>✅ Velocidad máx. <b>25 km/h</b> limitada de fábrica</li>
+        <li>✅ Frenos, luces, reflectantes y timbre</li>
+        <li>✅ Nº de bastidor + placa / certificado de titularidad</li>
+      </ul>
+      <div class="mini-note">A partir del <b>22 de enero de 2027</b> solo podrán circular VMP certificados. Sin certificado, multa e inmovilización.</div>
+    </div>
+  </div>
+</section>
+
+<main class="wrap" id="comparador">
+  <section class="toolbar">
+    <input id="q" type="search" placeholder="🔍 Busca por marca o modelo… ej. Xiaomi, Bongo, MAX G3, G2 Pro…" autocomplete="off">
+    <div class="filters">
+      <select id="f-marca"><option value="">Todas las marcas</option></select>
+      <div class="range">
+        <div class="range-head"><label>Precio</label><span id="r-precio-val">Todo</span></div>
+        <div class="range-track"><div class="range-fill" id="r-precio-fill"></div>
+          <input type="range" id="r-precio-lo" min="0" max="4000" step="50" value="0" aria-label="Precio mínimo">
+          <input type="range" id="r-precio-hi" min="0" max="4000" step="50" value="4000" aria-label="Precio máximo">
+        </div>
+      </div>
+      <div class="range">
+        <div class="range-head"><label>Autonomía</label><span id="r-aut-val">Todo</span></div>
+        <div class="range-track"><div class="range-fill" id="r-aut-fill"></div>
+          <input type="range" id="r-aut-lo" min="0" max="150" step="5" value="0" aria-label="Autonomía mínima">
+          <input type="range" id="r-aut-hi" min="0" max="150" step="5" value="150" aria-label="Autonomía máxima">
+        </div>
+      </div>
+      <div class="range">
+        <div class="range-head"><label>Velocidad real</label><span id="r-vel-val">Todo</span></div>
+        <div class="range-track"><div class="range-fill" id="r-vel-fill"></div>
+          <input type="range" id="r-vel-lo" min="0" max="120" step="5" value="0" aria-label="Velocidad real mínima">
+          <input type="range" id="r-vel-hi" min="0" max="120" step="5" value="120" aria-label="Velocidad real máxima">
+        </div>
+      </div>
+      <select id="f-pot">
+        <option value="">Toda potencia</option>
+        <option value="0-1000">Hasta 1000 W</option>
+        <option value="1000-2000">1000 – 2000 W</option>
+        <option value="2000-4000">2000 – 4000 W</option>
+        <option value="4000-999999">Más de 4000 W</option>
+      </select>
+      <select id="f-orden">
+        <option value="relevancia">Orden: relevancia</option>
+        <option value="precio-asc">Precio: menor a mayor</option>
+        <option value="precio-desc">Precio: mayor a menor</option>
+        <option value="autonomia-desc">Autonomía: mayor a menor</option>
+        <option value="potencia-desc">Potencia máx: mayor a menor</option>
+        <option value="velreal-desc">Vel. real: mayor a menor</option>
+      </select>
+      <label class="check"><input type="checkbox" id="f-ficha" checked> Solo con ficha completa</label>
+    </div>
+    <div class="chips" id="chips">
+      <span class="chips-label">Características:</span>
+      <button data-feat="nutt">Frenos NUTT</button>
+      <button data-feat="zoom">Frenos Zoom</button>
+      <button data-feat="hidr">Frenos hidráulicos</button>
+      <button data-feat="r10">Ruedas 10"</button>
+      <button data-feat="r11">Ruedas 11"</button>
+      <button data-feat="ipx5">IPX5 o superior</button>
+      <button data-feat="ipx6">IPX6 o superior</button>
+      <button data-feat="doble">Suspensión doble</button>
+    </div>
+  </section>
+
+  <p class="count" id="count"></p>
+  <div class="grid" id="grid"></div>
+
+  <section id="listado" class="dgt-list">
+    <h2>📋 Listado DGT completo <span id="total-dgt"></span></h2>
+    <p>Marcas, modelos y nº de certificado VMP tal como aparecen en la web de la DGT (actualización 22/09/2026). Usa el buscador para filtrar. Los modelos con <span class="pill">ficha</span> tienen datos ampliados arriba.</p>
+    <input id="q2" type="search" placeholder="Filtrar listado DGT…">
+    <div class="table-wrap"><table>
+      <thead><tr><th>Marca</th><th>Modelo</th><th>Certificado VMP</th><th></th></tr></thead>
+      <tbody id="dgt-body"></tbody>
+    </table></div>
+  </section>
+
+  <section id="normativa" class="normativa">
+    <h2>⚖️ Normativa básica VMP (DGT)</h2>
+    <div class="norm-grid">
+      <div><b>25 km/h</b><span>Velocidad máxima permitida. Sin asiento (salvo PMR), sin auriculares, sin móvil.</span></div>
+      <div><b>0,0 / 0,5</b><span>Tasa de alcohol: 0,0 menores y noveles, 0,5 resto (mg/l en aire). Drogas: 0.</span></div>
+      <div><b>Casco*</b><span>Obligatorio si lo exige la ordenanza municipal. Siempre recomendado.</span></div>
+      <div><b>Luces + timbre</b><span>Obligatorios de noche / túneles. Reflectantes y frenos en buen estado.</span></div>
+      <div><b>Prohibido aceras</b><span>Solo calzada urbana, carril bici y vías autorizadas. Nunca interurbanas ni travesías.</span></div>
+      <div><b>Seguro**</b><span>Aún no obligatorio general, pero muy recomendable + registro / placa VMP.</span></div>
+    </div>
+    <p class="small">* Consulta tu ayuntamiento. ** El futuro reglamento prevé seguro obligatorio. Inscribe tu VMP en la sede electrónica de la DGT para obtener placa y certificado de titularidad.</p>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap foot">
+    <div>🛴 <b>PatinetesDGT</b> · web informativa sin afiliación con la DGT ni con las marcas. Datos DGT 22/09/2026 + fichas elaboradas con especificaciones oficiales de fabricantes y PVP públicos.</div>
+    <div class="links">
+      <a href="https://www.dgt.es/nuestros-servicios/tu-vehiculo/vehiculos-de-movilidad-personal-vmp/" target="_blank" rel="noopener">DGT – VMP ↗</a>
+      <a href="https://sede.dgt.gob.es/" target="_blank" rel="noopener">Sede electrónica DGT ↗</a>
+    </div>
+  </div>
+</footer>
+
+<div class="modal-bg" id="modal-bg"><div class="modal" id="modal"></div></div>
+<div class="cmp-bar" id="cmp-bar"><span id="cmp-count"></span><button id="cmp-open">📊 Comparar</button><button id="cmp-clear">Limpiar</button></div>
+<div class="modal-bg" id="cmp-bg"><div class="modal wide" id="cmp-modal"></div></div>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

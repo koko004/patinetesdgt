@@ -1,0 +1,956 @@
+- generic [ref=f39e1]:
+  - link [ref=f39e2] [cursor=pointer]:
+    - /url: https://web.whatsapp.com/send?l=es&phone=34688751888&text= https://www.imoveblue.es/49-segway-ninebot
+  - main [ref=f39e4]:
+    - generic [ref=f39e5]:
+      - list [ref=f39e17]:
+        - listitem [ref=f39e18]:
+          - generic [ref=f39e19]: 
+          - text: ¡ENVÍO GRATIS A PENÍNSULA Y BALEARES!
+      - navigation [ref=f39e21]:
+        - generic [ref=f39e23]:
+          - list [ref=f39e26]:
+            - listitem [ref=f39e27]:
+              - link "¡LLÁMANOS! 688 751 888" [ref=f39e28] [cursor=pointer]:
+                - /url: tel:+34688751888
+          - list [ref=f39e32]:
+            - listitem [ref=f39e33]:
+              - link "OPINIONES DE CLIENTES" [ref=f39e34] [cursor=pointer]:
+                - /url: https://www.trustedshops.es/evaluacion/info_X7971BAC9A2BC178FCCBEA75B22E0AD86.html
+            - listitem [ref=f39e35]:
+              - link "CONTACTO" [ref=f39e36] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/contactenos
+      - text:      
+      - generic [ref=f39e37]:
+        - link [ref=f39e41] [cursor=pointer]:
+          - /url: https://www.imoveblue.es/
+          - img "imoveblue.es - UJ Solutions SC" [ref=f39e42]
+        - generic [ref=f39e46]:
+          - generic [ref=f39e47]:
+            - generic [ref=f39e48] [cursor=pointer]:
+              - generic [ref=f39e49]: 
+              - generic [ref=f39e50]: Menu
+            - list [ref=f39e52]:
+              - listitem [ref=f39e53]:
+                - link "Inicio" [ref=f39e54] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/
+              - listitem [ref=f39e55]:
+                - link "Contacto" [ref=f39e56] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/contactenos
+              - listitem [ref=f39e57]:
+                - generic [ref=f39e58] [cursor=pointer]:
+                  - generic [ref=f39e59]: 
+                  - text: 
+                - link "Patinetes eléctricos certificados DGT" [ref=f39e60] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+              - listitem [ref=f39e61]:
+                - link "MATRICULA TU VMP" [ref=f39e62] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1726-comprar-matricula-patinete-vmp-adhesivo.html
+              - listitem [ref=f39e63]:
+                - link "Seguro patinete eléctrico VMP" [ref=f39e64] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/content/15-seguro-patinete-electrico-vmp
+              - listitem [ref=f39e65]:
+                - generic [ref=f39e66] [cursor=pointer]:
+                  - generic [ref=f39e67]: 
+                  - text: 
+                - link "Movilidad infantil" [ref=f39e68] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/26-movilidad-infantil
+              - listitem [ref=f39e69]:
+                - link "Bicicletas eléctricas" [ref=f39e70] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/14-bicicletas-electricas
+              - listitem [ref=f39e71]:
+                - link "Motos eléctricas" [ref=f39e72] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/18-motos-electricas
+              - listitem [ref=f39e73]:
+                - link "Monociclos eléctricos" [ref=f39e74] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/30-monociclos-electricos
+              - listitem [ref=f39e75]:
+                - link "Bicicletas" [ref=f39e76] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/31-bicicletas
+              - listitem [ref=f39e77]:
+                - link "Componentes ciclismo" [ref=f39e78] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/38-componentes-ciclismo
+              - listitem [ref=f39e79]:
+                - link "Recambios" [ref=f39e80] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/20-recambios
+              - listitem [ref=f39e81]:
+                - link "Triciclos eléctricos y movilidad reducida" [ref=f39e82] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/32-triciclos-electricos-y-movilidad-reducida
+              - listitem [ref=f39e83]:
+                - link "Accesorios VMP y ciclismo" [ref=f39e84] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/28-accesorios-vmp-ciclismo
+              - listitem [ref=f39e85]:
+                - link "Patinetes eléctricos" [ref=f39e86] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/13-patinete-electrico
+              - listitem [ref=f39e87]:
+                - link "Condiciones de compra y envío" [ref=f39e88] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/content/3-terminos-y-condiciones-de-uso
+          - generic [ref=f39e90] [cursor=pointer]:
+            - generic [ref=f39e91]: 
+            - generic [ref=f39e92]: Buscar
+          - link "Iniciar sesión" [ref=f39e94] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/mi-cuenta
+            - generic [ref=f39e95]: 
+          - generic [ref=f39e99] [cursor=pointer]:
+            - generic [ref=f39e100]:
+              - text: 
+              - generic [ref=f39e101]: "0"
+            - generic [ref=f39e102]: Carrito
+    - generic [ref=f39e103]:
+      - navigation [ref=f39e104]:
+        - list [ref=f39e108]:
+          - listitem [ref=f39e109]:
+            - link "Inicio" [ref=f39e110] [cursor=pointer]:
+              - /url: https://www.imoveblue.es/
+            - text: /
+          - listitem [ref=f39e111]:
+            - link "Patinetes eléctricos certificados DGT" [ref=f39e112] [cursor=pointer]:
+              - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+            - text: /
+          - listitem [ref=f39e113]:
+            - generic [ref=f39e114]: Segway Ninebot
+      - generic [ref=f39e115]:
+        - complementary
+        - generic [ref=f39e116]:
+          - generic [ref=f39e118]:
+            - heading "Segway Ninebot" [level=1] [ref=f39e120]
+            - generic [ref=f39e122]:
+              - paragraph [ref=f39e123]:
+                - strong [ref=f39e124]: Segway-Ninebot
+                - text: una marca reconocida a nivel internacional en vehículos de movilidad sostenible y patinetes eléctricos de alta tecnología y calidad. Posiblemente sea la marca con más innovación dentro del sector de los patinetes eléctricos. Imoveblue somos Distribuidor Oficial Ninebot-Segway.
+              - paragraph [ref=f39e125]:
+                - img "Segway Ninebot" [ref=f39e126]
+            - generic [ref=f39e127]:
+              - generic [ref=f39e130]:
+                - text: 
+                - generic [ref=f39e131]:
+                  - link [ref=f39e132] [cursor=pointer]:
+                    - /url: https://www.imoveblue.es/49-segway-ninebot?order=product.position.asc&productListView=grid
+                    - generic [ref=f39e133]: 
+                  - link [ref=f39e134] [cursor=pointer]:
+                    - /url: https://www.imoveblue.es/49-segway-ninebot?order=product.position.asc&productListView=list
+                    - generic [ref=f39e135]: 
+                - generic [ref=f39e136]:
+                  - generic [ref=f39e138] [cursor=pointer]:
+                    - generic [ref=f39e139]: Relevancia
+                    - generic [ref=f39e140]: 
+                  - generic [ref=f39e142] [cursor=pointer]:
+                    - text: "16"
+                    - generic [ref=f39e143]: 
+                - generic:
+                  - navigation
+              - generic [ref=f39e144]:
+                - text: 
+                - generic [ref=f39e145]:
+                  - generic [ref=f39e146]:
+                    - article [ref=f39e148]:
+                      - generic [ref=f39e149]:
+                        - link [ref=f39e151] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1351-segway-zt3-pro-e.html
+                          - img "Segway ZT3 Pro E Certificado" [ref=f39e152]
+                          - img "Segway ZT3 Pro E Certificado 2" [ref=f39e153]
+                        - list [ref=f39e154]:
+                          - listitem [ref=f39e155]: "-120,00 €"
+                        - link [ref=f39e158] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f39e159]: 
+                        - generic: 
+                      - generic [ref=f39e160]:
+                        - heading [level=3] [ref=f39e161]:
+                          - link "Segway ZT3 Pro E Certificado" [ref=f39e162] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1351-segway-zt3-pro-e.html
+                        - generic [ref=f39e164]:
+                          - link "679,00 €" [ref=f39e165] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1351-segway-zt3-pro-e.html
+                          - text: 799,00 €
+                        - text:    
+                    - article [ref=f39e167]:
+                      - generic [ref=f39e168]:
+                        - link [ref=f39e170] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1472-ninebot-max-g3.html
+                          - img "Segway Ninebot Max G3" [ref=f39e171]
+                          - img "Segway Ninebot Max G3 2" [ref=f39e172]
+                        - list [ref=f39e173]:
+                          - listitem [ref=f39e174]: "-100,00 €"
+                        - link [ref=f39e177] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f39e178]: 
+                        - generic: 
+                      - generic [ref=f39e179]:
+                        - heading [level=3] [ref=f39e180]:
+                          - link "Segway Ninebot Max G3 Certificado" [ref=f39e181] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1472-ninebot-max-g3.html
+                        - generic [ref=f39e183]:
+                          - link "799,00 €" [ref=f39e184] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1472-ninebot-max-g3.html
+                          - text: 899,00 €
+                        - text:    
+                    - article [ref=f39e186]:
+                      - generic [ref=f39e187]:
+                        - link [ref=f39e189] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1481-segway-gt3.html
+                          - img "Segway GT3 E" [ref=f39e190]
+                          - img "Segway GT3 E 2" [ref=f39e191]
+                        - list
+                        - link [ref=f39e194] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f39e195]: 
+                        - generic: 
+                      - generic [ref=f39e196]:
+                        - heading [level=3] [ref=f39e197]:
+                          - link "Segway GT3 E Certificado" [ref=f39e198] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1481-segway-gt3.html
+                        - link "1.490,00 €" [ref=f39e201] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1481-segway-gt3.html
+                        - text:    
+                    - article [ref=f39e203]:
+                      - generic [ref=f39e204]:
+                        - link [ref=f39e206] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1482-ninebot-f3-e.html
+                          - img "Ninebot F3 E" [ref=f39e207]
+                          - img "Ninebot F3 E 2" [ref=f39e208]
+                        - list [ref=f39e209]:
+                          - listitem [ref=f39e210]: "-50,00 €"
+                        - link [ref=f39e213] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f39e214]: 
+                        - generic: 
+                      - generic [ref=f39e215]:
+                        - heading [level=3] [ref=f39e216]:
+                          - link "Segway Ninebot F3 E" [ref=f39e217] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1482-ninebot-f3-e.html
+                        - generic [ref=f39e219]:
+                          - link "549,00 €" [ref=f39e220] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1482-ninebot-f3-e.html
+                          - text: 599,00 €
+                        - text:    
+                    - article [ref=f39e222]:
+                      - generic [ref=f39e223]:
+                        - link [ref=f39e225] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1545-ninebot-f3-pro-e.html
+                          - img "Segway Ninebot F3 Pro E" [ref=f39e226]
+                          - img "Segway Ninebot F3 Pro E 2" [ref=f39e227]
+                        - list
+                        - link [ref=f39e230] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f39e231]: 
+                        - generic: 
+                      - generic [ref=f39e232]:
+                        - heading [level=3] [ref=f39e233]:
+                          - link "Segway Ninebot F3 Pro E" [ref=f39e234] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1545-ninebot-f3-pro-e.html
+                        - link "649,00 €" [ref=f39e237] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1545-ninebot-f3-pro-e.html
+                        - text:    
+                    - article [ref=f39e239]:
+                      - generic [ref=f39e240]:
+                        - link [ref=f39e242] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1679-ninebot-f2-pro-ii-e-certificado.html
+                          - img "Ninebot F2 Pro II E certificado" [ref=f39e243]
+                          - img "Ninebot F2 Pro II E certificado 2" [ref=f39e244]
+                        - list
+                        - link [ref=f39e247] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f39e248]: 
+                        - generic: 
+                      - generic [ref=f39e249]:
+                        - heading [level=3] [ref=f39e250]:
+                          - link "Ninebot F2 Pro II E certificado" [ref=f39e251] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1679-ninebot-f2-pro-ii-e-certificado.html
+                        - link "529,00 €" [ref=f39e254] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1679-ninebot-f2-pro-ii-e-certificado.html
+                        - text:    
+                    - article [ref=f39e256]:
+                      - generic [ref=f39e257]:
+                        - link [ref=f39e259] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1494-ninebot-e3-e.html
+                          - img "Segway Ninebot E3 E certificado" [ref=f39e260]
+                          - img "Segway Ninebot E3 E certificado 2" [ref=f39e261]
+                        - list [ref=f39e262]:
+                          - listitem [ref=f39e263]: "-100,00 €"
+                        - link [ref=f39e266] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f39e267]: 
+                        - generic: 
+                      - generic [ref=f39e268]:
+                        - heading [level=3] [ref=f39e269]:
+                          - link "Segway Ninebot E3 E certificado" [ref=f39e270] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1494-ninebot-e3-e.html
+                        - generic [ref=f39e272]:
+                          - link "399,00 €" [ref=f39e273] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1494-ninebot-e3-e.html
+                          - text: 499,00 €
+                        - text:    
+                    - article [ref=f39e275]:
+                      - generic [ref=f39e276]:
+                        - link [ref=f39e278] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1113--ninebot-kickscooter-f2-plus-e-certificado.html
+                          - img "Ninebot KickScooter F2 Plus E certificado" [ref=f39e279]
+                          - img "Ninebot KickScooter F2 Plus E certificado 2" [ref=f39e280]
+                        - list
+                        - link [ref=f39e283] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f39e284]: 
+                        - generic: 
+                      - generic [ref=f39e285]:
+                        - heading [level=3] [ref=f39e286]:
+                          - link "Ninebot KickScooter F2 Plus E certificado" [ref=f39e287] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1113--ninebot-kickscooter-f2-plus-e-certificado.html
+                        - link "549,00 €" [ref=f39e290] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1113--ninebot-kickscooter-f2-plus-e-certificado.html
+                        - text:    
+                    - article [ref=f39e292]:
+                      - generic [ref=f39e293]:
+                        - link [ref=f39e295] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1129-ninebot-kickscooter-e2-plus-2-e-certificado.html
+                          - img "Ninebot KickScooter E2 Plus 2 E certificado" [ref=f39e296]
+                          - img "Ninebot KickScooter E2 Plus 2 E certificado 2" [ref=f39e297]
+                        - list
+                        - link [ref=f39e300] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f39e301]: 
+                        - generic: 
+                      - generic [ref=f39e302]:
+                        - heading [level=3] [ref=f39e303]:
+                          - link "Ninebot KickScooter E2 Plus 2 E certificado" [ref=f39e304] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1129-ninebot-kickscooter-e2-plus-2-e-certificado.html
+                        - link "319,00 €" [ref=f39e307] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1129-ninebot-kickscooter-e2-plus-2-e-certificado.html
+                        - text:    
+                    - article [ref=f39e309]:
+                      - generic [ref=f39e310]:
+                        - link [ref=f39e312] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1243-ninebot-kickscooter-e2-pro-e-certificado.html
+                          - img "Ninebot KickScooter E2 PRO E Certificado" [ref=f39e313]
+                          - img "Ninebot KickScooter E2 PRO E Certificado 2" [ref=f39e314]
+                        - list
+                        - link [ref=f39e317] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f39e318]: 
+                        - generic: 
+                      - generic [ref=f39e319]:
+                        - heading [level=3] [ref=f39e320]:
+                          - link "Ninebot KickScooter E2 PRO E Certificado" [ref=f39e321] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1243-ninebot-kickscooter-e2-pro-e-certificado.html
+                        - link "399,00 €" [ref=f39e324] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1243-ninebot-kickscooter-e2-pro-e-certificado.html
+                        - text:    
+                    - article [ref=f39e326]:
+                      - generic [ref=f39e327]:
+                        - link [ref=f39e329] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1591-segway-ninebot-e3-pro-e.html
+                          - img "Segway Ninebot E3 Pro E" [ref=f39e330]
+                          - img "Segway Ninebot E3 Pro E 2" [ref=f39e331]
+                        - list [ref=f39e332]:
+                          - listitem [ref=f39e333]: "-100,00 €"
+                        - link [ref=f39e336] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f39e337]: 
+                        - generic: 
+                      - generic [ref=f39e338]:
+                        - heading [level=3] [ref=f39e339]:
+                          - link "Segway Ninebot E3 Pro E certificado" [ref=f39e340] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1591-segway-ninebot-e3-pro-e.html
+                        - generic [ref=f39e342]:
+                          - link "449,00 €" [ref=f39e343] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1591-segway-ninebot-e3-pro-e.html
+                          - text: 549,00 €
+                        - text:    
+                    - article [ref=f39e345]:
+                      - generic [ref=f39e346]:
+                        - link [ref=f39e348] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1680-ninebot-f2-e-ii-certificado.html
+                          - img "Ninebot F2 E II certificado" [ref=f39e349]
+                          - img "Ninebot F2 E II certificado 2" [ref=f39e350]
+                        - list
+                        - link [ref=f39e353] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f39e354]: 
+                        - generic: 
+                      - generic [ref=f39e355]:
+                        - heading [level=3] [ref=f39e356]:
+                          - link "Ninebot F2 E II certificado" [ref=f39e357] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1680-ninebot-f2-e-ii-certificado.html
+                        - link "429,00 €" [ref=f39e360] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1680-ninebot-f2-e-ii-certificado.html
+                        - text:    
+                    - article [ref=f39e362]:
+                      - generic [ref=f39e363]:
+                        - link [ref=f39e365] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1725-ninebot-e2-e-ii-.html
+                          - img "Ninebot E2 E II" [ref=f39e366]
+                          - img "Ninebot E2 E II 2" [ref=f39e367]
+                        - list
+                        - link [ref=f39e370] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f39e371]: 
+                        - generic: 
+                      - generic [ref=f39e372]:
+                        - heading [level=3] [ref=f39e373]:
+                          - link "Ninebot E2 E II certificado" [ref=f39e374] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1725-ninebot-e2-e-ii-.html
+                        - link "309,00 €" [ref=f39e377] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1725-ninebot-e2-e-ii-.html
+                        - text:    
+                    - article [ref=f39e379]:
+                      - generic [ref=f39e380]:
+                        - link [ref=f39e382] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1105-ninebot-kickscooter-max-g2-e.html
+                          - img "Ninebot KickScooter MAX G2 E" [ref=f39e383]
+                          - img "Ninebot KickScooter MAX G2 E 2" [ref=f39e384]
+                        - list [ref=f39e385]:
+                          - listitem [ref=f39e386]: "-100,00 €"
+                        - link [ref=f39e389] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f39e390]: 
+                        - generic [ref=f39e392]:
+                          - generic [ref=f39e393]: 
+                          - text: Fuera de stock. Consultar.
+                      - generic [ref=f39e394]:
+                        - heading [level=3] [ref=f39e395]:
+                          - link "Ninebot KickScooter MAX G2 E certificado" [ref=f39e396] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1105-ninebot-kickscooter-max-g2-e.html
+                        - generic [ref=f39e398]:
+                          - link "699,00 €" [ref=f39e399] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1105-ninebot-kickscooter-max-g2-e.html
+                          - text: 799,00 €
+                    - article [ref=f39e401]:
+                      - generic [ref=f39e402]:
+                        - link [ref=f39e404] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1726-comprar-matricula-patinete-vmp-adhesivo.html
+                          - img "Matrícula patinete eléctrico VMP adhesivo" [ref=f39e405]
+                          - img "Matrícula patinete eléctrico VMP adhesivo 2" [ref=f39e406]
+                        - list [ref=f39e407]:
+                          - listitem [ref=f39e408]: "-5,00 €"
+                        - link [ref=f39e411] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f39e412]: 
+                        - generic: 
+                      - generic [ref=f39e413]:
+                        - heading [level=3] [ref=f39e414]:
+                          - link "Matrícula patinete eléctrico VMP" [ref=f39e415] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1726-comprar-matricula-patinete-vmp-adhesivo.html
+                        - generic [ref=f39e417]:
+                          - link "19,90 €" [ref=f39e418] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1726-comprar-matricula-patinete-vmp-adhesivo.html
+                          - text: 24,90 €
+                    - article [ref=f39e420]:
+                      - generic [ref=f39e421]:
+                        - link [ref=f39e423] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1940-8488-matricula-gratis-patinete-electrico-vmp.html#/439-elige_regalo-matricula_vmp
+                          - img "Matrícula patinete eléctrico VMP adhesivo" [ref=f39e424]
+                          - img "Matrícula patinete eléctrico VMP adhesivo 2" [ref=f39e425]
+                        - list [ref=f39e426]:
+                          - listitem [ref=f39e427]: "-5,00 €"
+                          - listitem [ref=f39e428]: Nuevo
+                        - link [ref=f39e431] [cursor=pointer]:
+                          - /url: "#"
+                          - generic [ref=f39e432]: 
+                        - generic: 
+                      - generic [ref=f39e433]:
+                        - heading [level=3] [ref=f39e434]:
+                          - link "REGALO MATRÍCULA VMP, CASCO O CHALECO REFLECTANTE" [ref=f39e435] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1940-matricula-gratis-patinete-electrico-vmp.html
+                        - generic [ref=f39e437]:
+                          - link "0,00 €" [ref=f39e438] [cursor=pointer]:
+                            - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1940-8488-matricula-gratis-patinete-electrico-vmp.html#/439-elige_regalo-matricula_vmp
+                          - text: 0,00 €
+                        - text:    
+                  - generic [ref=f39e440]:
+                    - generic [ref=f39e441]: Mostrando 1-16 de 16 artículo(s)
+                    - generic:
+                      - navigation
+              - text: 
+          - generic [ref=f39e442]:
+            - generic [ref=f39e444]:
+              - text:  
+              - generic [ref=f39e446]:
+                - complementary [ref=f39e447]:
+                  - heading "Marca" [level=4] [ref=f39e448]
+                  - list [ref=f39e449]:
+                    - listitem [ref=f39e450]:
+                      - generic [ref=f39e451]:
+                        - generic [ref=f39e452]:
+                          - checkbox "Segway Ninebot (14)" [ref=f39e453] [cursor=pointer]
+                          - generic [ref=f39e454] [cursor=pointer]: 
+                        - link "Segway Ninebot (14)" [ref=f39e455] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Marca-Segway+Ninebot
+                - complementary [ref=f39e456]:
+                  - heading "Precio" [level=4] [ref=f39e457]
+                  - list [ref=f39e458]:
+                    - listitem [ref=f39e459]:
+                      - paragraph [ref=f39e460]: 0,00 € - 1.490,00 €
+                      - generic [ref=f39e462]:
+                        - slider [ref=f39e465] [cursor=pointer]
+                        - slider [ref=f39e467] [cursor=pointer]
+                - complementary [ref=f39e469]:
+                  - heading "Potencia nominal" [level=4] [ref=f39e470]
+                  - list [ref=f39e471]:
+                    - listitem [ref=f39e472]:
+                      - generic [ref=f39e473]:
+                        - generic [ref=f39e474]:
+                          - checkbox "250W (1)" [ref=f39e475] [cursor=pointer]
+                          - generic [ref=f39e476] [cursor=pointer]: 
+                        - link "250W (1)" [ref=f39e477] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Potencia+nominal-250W
+                    - listitem [ref=f39e478]:
+                      - generic [ref=f39e479]:
+                        - generic [ref=f39e480]:
+                          - checkbox "300W (1)" [ref=f39e481] [cursor=pointer]
+                          - generic [ref=f39e482] [cursor=pointer]: 
+                        - link "300W (1)" [ref=f39e483] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Potencia+nominal-300W
+                    - listitem [ref=f39e484]:
+                      - generic [ref=f39e485]:
+                        - generic [ref=f39e486]:
+                          - checkbox "350W (1)" [ref=f39e487] [cursor=pointer]
+                          - generic [ref=f39e488] [cursor=pointer]: 
+                        - link "350W (1)" [ref=f39e489] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Potencia+nominal-350W
+                    - listitem [ref=f39e490]:
+                      - generic [ref=f39e491]:
+                        - generic [ref=f39e492]:
+                          - checkbox "400W (4)" [ref=f39e493] [cursor=pointer]
+                          - generic [ref=f39e494] [cursor=pointer]: 
+                        - link "400W (4)" [ref=f39e495] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Potencia+nominal-400W
+                    - listitem [ref=f39e496]:
+                      - generic [ref=f39e497]:
+                        - generic [ref=f39e498]:
+                          - checkbox "450W (4)" [ref=f39e499] [cursor=pointer]
+                          - generic [ref=f39e500] [cursor=pointer]: 
+                        - link "450W (4)" [ref=f39e501] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Potencia+nominal-450W
+                    - listitem [ref=f39e502]:
+                      - generic [ref=f39e503]:
+                        - generic [ref=f39e504]:
+                          - checkbox "600W (1)" [ref=f39e505] [cursor=pointer]
+                          - generic [ref=f39e506] [cursor=pointer]: 
+                        - link "600W (1)" [ref=f39e507] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Potencia+nominal-600W
+                    - listitem [ref=f39e508]:
+                      - generic [ref=f39e509]:
+                        - generic [ref=f39e510]:
+                          - checkbox "700W (2)" [ref=f39e511] [cursor=pointer]
+                          - generic [ref=f39e512] [cursor=pointer]: 
+                        - link "700W (2)" [ref=f39e513] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Potencia+nominal-700W
+                - complementary [ref=f39e514]:
+                  - heading "Motor tipo" [level=4] [ref=f39e515]
+                  - list [ref=f39e516]:
+                    - listitem [ref=f39e517]:
+                      - generic [ref=f39e518]:
+                        - generic [ref=f39e519]:
+                          - checkbox "Single (14)" [ref=f39e520] [cursor=pointer]
+                          - generic [ref=f39e521] [cursor=pointer]: 
+                        - link "Single (14)" [ref=f39e522] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Motor+tipo-Single
+                - complementary [ref=f39e523]:
+                  - heading "Batería capacidad" [level=4] [ref=f39e524]
+                  - list [ref=f39e525]:
+                    - listitem [ref=f39e526]:
+                      - generic [ref=f39e527]:
+                        - generic [ref=f39e528]:
+                          - checkbox "6Ah (1)" [ref=f39e529] [cursor=pointer]
+                          - generic [ref=f39e530] [cursor=pointer]: 
+                        - link "6Ah (1)" [ref=f39e531] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Bater%C3%ADa+capacidad-6Ah
+                    - listitem [ref=f39e532]:
+                      - generic [ref=f39e533]:
+                        - generic [ref=f39e534]:
+                          - checkbox "8Ah (1)" [ref=f39e535] [cursor=pointer]
+                          - generic [ref=f39e536] [cursor=pointer]: 
+                        - link "8Ah (1)" [ref=f39e537] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Bater%C3%ADa+capacidad-8Ah
+                    - listitem [ref=f39e538]:
+                      - generic [ref=f39e539]:
+                        - generic [ref=f39e540]:
+                          - checkbox "9Ah (1)" [ref=f39e541] [cursor=pointer]
+                          - generic [ref=f39e542] [cursor=pointer]: 
+                        - link "9Ah (1)" [ref=f39e543] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Bater%C3%ADa+capacidad-9Ah
+                    - listitem [ref=f39e544]:
+                      - generic [ref=f39e545]:
+                        - generic [ref=f39e546]:
+                          - checkbox "10Ah (3)" [ref=f39e547] [cursor=pointer]
+                          - generic [ref=f39e548] [cursor=pointer]: 
+                        - link "10Ah (3)" [ref=f39e549] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Bater%C3%ADa+capacidad-10Ah
+                    - listitem [ref=f39e550]:
+                      - generic [ref=f39e551]:
+                        - generic [ref=f39e552]:
+                          - checkbox "12,8Ah (1)" [ref=f39e553] [cursor=pointer]
+                          - generic [ref=f39e554] [cursor=pointer]: 
+                        - link "12,8Ah (1)" [ref=f39e555] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Bater%C3%ADa+capacidad-12%2C8Ah
+                    - listitem [ref=f39e556]:
+                      - generic [ref=f39e557]:
+                        - generic [ref=f39e558]:
+                          - checkbox "12Ah (2)" [ref=f39e559] [cursor=pointer]
+                          - generic [ref=f39e560] [cursor=pointer]: 
+                        - link "12Ah (2)" [ref=f39e561] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Bater%C3%ADa+capacidad-12Ah
+                    - listitem [ref=f39e562]:
+                      - generic [ref=f39e563]:
+                        - generic [ref=f39e564]:
+                          - checkbox "13Ah (3)" [ref=f39e565] [cursor=pointer]
+                          - generic [ref=f39e566] [cursor=pointer]: 
+                        - link "13Ah (3)" [ref=f39e567] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Bater%C3%ADa+capacidad-13Ah
+                    - listitem [ref=f39e568]:
+                      - generic [ref=f39e569]:
+                        - generic [ref=f39e570]:
+                          - checkbox "15Ah (1)" [ref=f39e571] [cursor=pointer]
+                          - generic [ref=f39e572] [cursor=pointer]: 
+                        - link "15Ah (1)" [ref=f39e573] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Bater%C3%ADa+capacidad-15Ah
+                    - listitem [ref=f39e574]:
+                      - generic [ref=f39e575]:
+                        - generic [ref=f39e576]:
+                          - checkbox "18,2Ah (1)" [ref=f39e577] [cursor=pointer]
+                          - generic [ref=f39e578] [cursor=pointer]: 
+                        - link "18,2Ah (1)" [ref=f39e579] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Bater%C3%ADa+capacidad-18%2C2Ah
+                - complementary [ref=f39e580]:
+                  - heading "Tamaño de rueda" [level=4] [ref=f39e581]
+                  - list [ref=f39e582]:
+                    - listitem [ref=f39e583]:
+                      - generic [ref=f39e584]:
+                        - generic [ref=f39e585]:
+                          - checkbox "8\" (2)" [ref=f39e586] [cursor=pointer]
+                          - generic [ref=f39e587] [cursor=pointer]: 
+                        - link "8\" (2)" [ref=f39e588] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Tama%C3%B1o+de+rueda-8%22
+                    - listitem [ref=f39e589]:
+                      - generic [ref=f39e590]:
+                        - generic [ref=f39e591]:
+                          - checkbox "10\" (9)" [ref=f39e592] [cursor=pointer]
+                          - generic [ref=f39e593] [cursor=pointer]: 
+                        - link "10\" (9)" [ref=f39e594] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Tama%C3%B1o+de+rueda-10%22
+                    - listitem [ref=f39e595]:
+                      - generic [ref=f39e596]:
+                        - generic [ref=f39e597]:
+                          - checkbox "11\" (3)" [ref=f39e598] [cursor=pointer]
+                          - generic [ref=f39e599] [cursor=pointer]: 
+                        - link "11\" (3)" [ref=f39e600] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Tama%C3%B1o+de+rueda-11%22
+                - complementary [ref=f39e601]:
+                  - heading "Peso" [level=4] [ref=f39e602]
+                  - list [ref=f39e603]:
+                    - listitem [ref=f39e604]:
+                      - generic [ref=f39e605]:
+                        - generic [ref=f39e606]:
+                          - checkbox "14 (2)" [ref=f39e607] [cursor=pointer]
+                          - generic [ref=f39e608] [cursor=pointer]: 
+                        - link "14 (2)" [ref=f39e609] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=peso-14
+                    - listitem [ref=f39e610]:
+                      - generic [ref=f39e611]:
+                        - generic [ref=f39e612]:
+                          - checkbox "17 (4)" [ref=f39e613] [cursor=pointer]
+                          - generic [ref=f39e614] [cursor=pointer]: 
+                        - link "17 (4)" [ref=f39e615] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=peso-17
+                    - listitem [ref=f39e616]:
+                      - generic [ref=f39e617]:
+                        - generic [ref=f39e618]:
+                          - checkbox "18 (4)" [ref=f39e619] [cursor=pointer]
+                          - generic [ref=f39e620] [cursor=pointer]: 
+                        - link "18 (4)" [ref=f39e621] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=peso-18
+                    - listitem [ref=f39e622]:
+                      - generic [ref=f39e623]:
+                        - generic [ref=f39e624]:
+                          - checkbox "24 (2)" [ref=f39e625] [cursor=pointer]
+                          - generic [ref=f39e626] [cursor=pointer]: 
+                        - link "24 (2)" [ref=f39e627] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=peso-24
+                    - listitem [ref=f39e628]:
+                      - generic [ref=f39e629]:
+                        - generic [ref=f39e630]:
+                          - checkbox "29 (1)" [ref=f39e631] [cursor=pointer]
+                          - generic [ref=f39e632] [cursor=pointer]: 
+                        - link "29 (1)" [ref=f39e633] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=peso-29
+                    - listitem [ref=f39e634]:
+                      - generic [ref=f39e635]:
+                        - generic [ref=f39e636]:
+                          - checkbox "39 (1)" [ref=f39e637] [cursor=pointer]
+                          - generic [ref=f39e638] [cursor=pointer]: 
+                        - link "39 (1)" [ref=f39e639] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=peso-39
+                - complementary [ref=f39e640]:
+                  - heading "Batería voltaje" [level=4] [ref=f39e641]
+                  - list [ref=f39e642]:
+                    - listitem [ref=f39e643]:
+                      - generic [ref=f39e644]:
+                        - generic [ref=f39e645]:
+                          - checkbox "24V (1)" [ref=f39e646] [cursor=pointer]
+                          - generic [ref=f39e647] [cursor=pointer]: 
+                        - link "24V (1)" [ref=f39e648] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Bater%C3%ADa+voltaje+-24V
+                    - listitem [ref=f39e649]:
+                      - generic [ref=f39e650]:
+                        - generic [ref=f39e651]:
+                          - checkbox "36V (10)" [ref=f39e652] [cursor=pointer]
+                          - generic [ref=f39e653] [cursor=pointer]: 
+                        - link "36V (10)" [ref=f39e654] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Bater%C3%ADa+voltaje+-36V
+                    - listitem [ref=f39e655]:
+                      - generic [ref=f39e656]:
+                        - generic [ref=f39e657]:
+                          - checkbox "48V (3)" [ref=f39e658] [cursor=pointer]
+                          - generic [ref=f39e659] [cursor=pointer]: 
+                        - link "48V (3)" [ref=f39e660] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/49-segway-ninebot?q=Bater%C3%ADa+voltaje+-48V
+            - 'link "Opiniones de productos      (4,9/5) Categoría : Segway Ninebot Basados en 20 calificación(es) y 19 opiniones del usuario Todas las opiniones >" [ref=f39e664] [cursor=pointer]':
+              - /url: https://www.imoveblue.es/module/gsnippetsreviews/reviews?list=1
+              - strong [ref=f39e665]: Opiniones de productos
+              - generic [ref=f39e666]:
+                - generic [ref=f39e668]:
+                  - generic "1" [ref=f39e669]: 
+                  - generic "2" [ref=f39e670]: 
+                  - generic "3" [ref=f39e671]: 
+                  - generic "4" [ref=f39e672]: 
+                  - generic "5" [ref=f39e673]: 
+                - text: (4,9/5)
+                - strong [ref=f39e674]: "Categoría :"
+                - text: Segway Ninebot Basados en 20 calificación(es) y 19 opiniones del usuario
+              - text: Todas las opiniones >
+    - generic [ref=f39e675]:
+      - generic [ref=f39e678]:
+        - generic [ref=f39e679]:
+          - heading "Suscríbete y te regalamos 10€" [level=5] [ref=f39e680]
+          - generic [ref=f39e682]:
+            - generic [ref=f39e683]:
+              - textbox "Su dirección de correo electrónico" [ref=f39e684]
+              - button "Suscribirse" [disabled] [ref=f39e685]:
+                - generic [ref=f39e686]: 
+            - generic [ref=f39e689]:
+              - checkbox "Acepto los términos y condiciones y la política de privacidad. Lee los términos y condiciones de uso." [ref=f39e690] [cursor=pointer]
+              - generic [ref=f39e691] [cursor=pointer]: 
+              - generic [ref=f39e692]:
+                - text: Acepto los términos y condiciones y la política de privacidad.
+                - generic [ref=f39e693]:
+                  - link "Lee los términos y condiciones de uso" [ref=f39e694] [cursor=pointer]:
+                    - /url: https://www.imoveblue.es/content/2-aviso-legal
+                  - text: .
+        - list [ref=f39e696]:
+          - listitem [ref=f39e697]:
+            - link [ref=f39e698] [cursor=pointer]:
+              - /url: https://www.facebook.com/imoveblue/
+              - generic [ref=f39e699]: 
+          - listitem [ref=f39e700]:
+            - link [ref=f39e701] [cursor=pointer]:
+              - /url: https://twitter.com/imoveblue
+              - generic [ref=f39e702]: 
+          - listitem [ref=f39e703]:
+            - link [ref=f39e704] [cursor=pointer]:
+              - /url: https://www.instagram.com/imoveblue.es/
+              - generic [ref=f39e705]: 
+          - listitem [ref=f39e706]:
+            - link [ref=f39e707] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCFwHWdvgGT9VnTsA5MxFfWw
+              - generic [ref=f39e708]: 
+      - generic [ref=f39e711]:
+        - generic [ref=f39e712]:
+          - heading "Atención al cliente" [level=5] [ref=f39e713]
+          - generic [ref=f39e715]:
+            - generic [ref=f39e716]:
+              - strong [ref=f39e717]: "Imoveblue.es - NIF: ESJ01585108"
+              - generic [ref=f39e718]:
+                - generic [ref=f39e719]: 
+                - generic [ref=f39e721]: Apartado de Correos 5003 - 01015 Vitoria-Gasteiz, Euskadi
+              - separator [ref=f39e722]
+              - generic [ref=f39e723]:
+                - generic [ref=f39e724]: 
+                - link "+34 688 751 888" [ref=f39e727] [cursor=pointer]:
+                  - /url: tel:+34 688 751 888
+              - separator [ref=f39e728]
+              - generic [ref=f39e729]:
+                - generic [ref=f39e730]: 
+                - link "info@imoveblue.es" [ref=f39e733] [cursor=pointer]:
+                  - /url: mailto:info@imoveblue.es
+            - separator [ref=f39e734]
+            - generic [ref=f39e735]:
+              - paragraph [ref=f39e736]: Si necesitas asesoramiento o servicio postventa no dudes en contactar con nosotros. Nuestro equipo estará encantado de ayudarte.
+              - paragraph [ref=f39e737]: "Horario de atención al cliente verano: Lunes a Viernes de 10:00h a 15:00h"
+        - generic [ref=f39e738]:
+          - heading "Información" [level=5] [ref=f39e739]
+          - list [ref=f39e742]:
+            - listitem [ref=f39e743]:
+              - link " Contacto" [ref=f39e744] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/contactenos
+            - listitem [ref=f39e745]:
+              - link " Matricular patinete eléctrico VMP DGT" [ref=f39e746] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/14-matricular-patinete-electrico-vmp-dgt
+            - listitem [ref=f39e747]:
+              - link " Financiar patinete eléctrico" [ref=f39e748] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/12-financiar-patinete-electrico
+            - listitem [ref=f39e749]:
+              - link " Normativa VMP" [ref=f39e750] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/11-normativa-vmp
+            - listitem [ref=f39e751]:
+              - link " Postventa y Garantía" [ref=f39e752] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/13-postventa-y-garantia
+            - listitem [ref=f39e753]:
+              - link " Opiniones Trusted Shops" [ref=f39e754] [cursor=pointer]:
+                - /url: https://www.trustedshops.es/evaluacion/info_X7971BAC9A2BC178FCCBEA75B22E0AD86.html?utm_source=shop&utm_medium=link&utm_content=allRatings__full&utm_campaign=trustbadge_maximised
+            - listitem [ref=f39e755]:
+              - link " Opiniones Google" [ref=f39e756] [cursor=pointer]:
+                - /url: https://www.google.com/search?q=imovebblue+opiniones+google&oq=imovebblue+opiniones+google&aqs=chrome..69i57j33i160.3751j0j7&sourceid=chrome&ie=UTF-8#lrd=0xd4fc185e0cebe53:0x21a8560d6ea10371,1,,,,
+            - listitem [ref=f39e757]:
+              - link " Opiniones Trustpilot" [ref=f39e758] [cursor=pointer]:
+                - /url: https://es.trustpilot.com/review/www.imoveblue.es
+            - listitem [ref=f39e759]:
+              - link " Descuentos y promociones" [ref=f39e760] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/8-descuentos
+            - listitem [ref=f39e761]:
+              - link " Condiciones de compra y envío" [ref=f39e762] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/3-terminos-y-condiciones-de-uso
+            - listitem [ref=f39e763]:
+              - link " Pago seguro" [ref=f39e764] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/5-pago-seguro
+            - listitem [ref=f39e765]:
+              - link " Sobre nosotros" [ref=f39e766] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/4-sobre-nosotros
+            - listitem [ref=f39e767]:
+              - link " Talleres colaboradores" [ref=f39e768] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/10-talleres-colaboradores
+            - listitem [ref=f39e769]:
+              - link " Seguro para tu VMP" [ref=f39e770] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/15-seguro-patinete-electrico-vmp
+            - listitem [ref=f39e771]:
+              - link " Mapa del sitio" [ref=f39e772] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/mapa del sitio
+            - listitem [ref=f39e773]:
+              - link " Aviso legal y Protección de datos" [ref=f39e774] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/2-aviso-legal
+        - generic [ref=f39e775]:
+          - heading "Categorías de productos" [level=5] [ref=f39e776]
+          - list [ref=f39e779]:
+            - listitem [ref=f39e780]:
+              - link " Patinetes eléctricos" [ref=f39e781] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/13-patinete-electrico
+            - listitem [ref=f39e782]:
+              - link " Patinetes eléctricos certificados DGT" [ref=f39e783] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+            - listitem [ref=f39e784]:
+              - link " Motos eléctricas" [ref=f39e785] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/18-motos-electricas
+            - listitem [ref=f39e786]:
+              - link " Bicicletas eléctricas" [ref=f39e787] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/14-bicicletas-electricas
+            - listitem [ref=f39e788]:
+              - link " Monociclos eléctricos" [ref=f39e789] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/30-monociclos-electricos
+            - listitem [ref=f39e790]:
+              - link " Movilidad infantil" [ref=f39e791] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/26-movilidad-infantil
+            - listitem [ref=f39e792]:
+              - link " Estaciones de carga" [ref=f39e793] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/39-estaciones-de-carga
+            - listitem [ref=f39e794]:
+              - link " Accesorios VMP y ciclismo" [ref=f39e795] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/28-accesorios-vmp-ciclismo
+            - listitem [ref=f39e796]:
+              - link " Triciclos y movilidad reducida" [ref=f39e797] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/32-triciclos-electricos
+            - listitem [ref=f39e798]:
+              - link " Bicicletas" [ref=f39e799] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/31-bicicletas
+            - listitem [ref=f39e800]:
+              - link " Recambios" [ref=f39e801] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/20-recambios
+            - listitem [ref=f39e802]:
+              - link " Patinetes Dualtron DGT" [ref=f39e803] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/44-dualtron
+        - generic [ref=f39e804]:
+          - heading "Pago seguro garantizado 100%" [level=5] [ref=f39e805]
+          - generic [ref=f39e807]:
+            - paragraph [ref=f39e808]:
+              - img "Pago seguro garantizado - PLAZOX" [ref=f39e809]
+            - paragraph
+      - generic [ref=f39e813]:
+        - paragraph [ref=f39e814]:
+          - text: "Somos un tienda online especializada en movilidad sostenible:"
+          - link "Patinetes eléctricos" [ref=f39e815] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/13-patinetes-electricos
+          - text: ","
+          - link "motos eléctricas" [ref=f39e816] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/18-motos-electricas
+          - text: ","
+          - link "bicicletas eléctricas" [ref=f39e817] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/14-bicicletas-electricas
+          - text: ","
+          - link "remolques de bicicleta" [ref=f39e818] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/10-remolques-de-bicicleta
+          - text: ","
+          - link "quads eléctricos" [ref=f39e819] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/15-quads-electricos
+          - text: y mucho más.
+        - paragraph [ref=f39e820]:
+          - emphasis [ref=f39e821]:
+            - 'link "Diseño web ecommerce: Rp Imagen" [ref=f39e822] [cursor=pointer]':
+              - /url: https://www.rpimagen.com/
+  - generic [ref=f39e824]:
+    - paragraph [ref=f39e828]: Tu privacidad, tu consentimiento
+    - paragraph [ref=f39e829]:
+      - text: En UJ Solutions SC utilizamos cookies y tecnologías similares para mejorar su experiencia y medir sus interacciones con nuestro sitio web. También los usamos para servirle información más relevante en búsquedas y en anuncios en este y otros sitios.
+      - generic [ref=f39e830]:
+        - text: Lee más en nuestra
+        - link "Política de Cookies" [ref=f39e831] [cursor=pointer]:
+          - /url: https://www.imoveblue.es/content/2-aviso-legal
+    - generic [ref=f39e832]:
+      - generic [ref=f39e834] [cursor=pointer]:
+        - generic [ref=f39e835]: Ajusta tus preferencias de cookies
+        - img "Arrow" [ref=f39e836]
+      - generic:
+        - generic:
+          - generic [ref=f39e837]:
+            - generic [ref=f39e838]:
+              - generic [ref=f39e839]: Técnicas (obligatorias)
+              - generic [ref=f39e840]:
+                - generic [ref=f39e841]: i
+                - generic [ref=f39e844]:
+                  - img "lock"
+            - generic [ref=f39e845]:
+              - generic [ref=f39e846]: Preferencias
+              - generic [ref=f39e847]:
+                - generic [ref=f39e848]: i
+                - checkbox [ref=f39e852] [cursor=pointer]
+            - generic [ref=f39e853]:
+              - generic [ref=f39e854]: Estadísticas
+              - generic [ref=f39e855]:
+                - generic [ref=f39e856]: i
+                - checkbox [ref=f39e860] [cursor=pointer]
+            - generic [ref=f39e861]:
+              - generic [ref=f39e862]: Marketing
+              - generic [ref=f39e863]:
+                - generic [ref=f39e864]: i
+                - checkbox [ref=f39e868] [cursor=pointer]
+          - button "Guardar configuración personalizada de cookies" [ref=f39e869] [cursor=pointer]
+    - generic [ref=f39e870]:
+      - generic [ref=f39e872] [cursor=pointer]:
+        - button "RECHAZAR LAS NO NECESARIAS" [ref=f39e873]
+        - generic [ref=f39e874]: Rechazar las cookies que no son extrictamente necesarias para el correcto funcionamiento de la web.
+      - generic [ref=f39e876] [cursor=pointer]:
+        - button "ACEPTAR TODAS" [ref=f39e877]
+        - generic [ref=f39e878]: Habilitar todas las cookies y tecnologías disponibles para mejorar la experiencia.
+    - link "powered by Visible Privacy Logo" [ref=f39e879] [cursor=pointer]:
+      - /url: https://www.visibleprivacy.com/
+      - generic [ref=f39e880]: powered by
+      - img "Visible Privacy Logo" [ref=f39e881]
+  - generic [ref=f39e882]:
+    - button "Sello de Calidad de Trusted Shops Protección al Comprador 4,32 (682) Bueno Trstd Login" [ref=f39e883] [cursor=pointer]:
+      - generic [ref=f39e884]:
+        - img "Sello de Calidad de Trusted Shops" [ref=f39e885]
+        - generic [ref=f39e886]: Protección al Comprador
+      - generic [ref=f39e888]:
+        - generic [ref=f39e889]:
+          - generic [ref=f39e890]: 4,32
+          - generic [ref=f39e892]: (682)
+        - generic [ref=f39e893]: Bueno
+      - switch "Trstd Login" [ref=f39e895]
+    - button "Menú" [ref=f39e897] [cursor=pointer]

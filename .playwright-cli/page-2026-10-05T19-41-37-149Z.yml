@@ -1,0 +1,474 @@
+- generic [ref=f199e1]:
+  - dialog "Gestionar consentimiento" [ref=f199e2]:
+    - generic [ref=f199e3]:
+      - generic [ref=f199e4]: Gestionar consentimiento
+      - button "Cerrar ventana" [ref=f199e5] [cursor=pointer]:
+        - img [ref=f199e6]: 
+    - generic [ref=f199e8]: Para ofrecer las mejores experiencias, utilizamos tecnologías como las cookies para almacenar y/o acceder a la información del dispositivo. El consentimiento de estas tecnologías nos permitirá procesar datos como el comportamiento de navegación o las identificaciones únicas en este sitio. No consentir o retirar el consentimiento, puede afectar negativamente a ciertas características y funciones.
+    - generic [ref=f199e10]:
+      - button "Aceptar" [ref=f199e11] [cursor=pointer]
+      - button "Denegar" [ref=f199e12] [cursor=pointer]
+      - button "Ver preferencias" [ref=f199e13] [cursor=pointer]
+    - list [ref=f199e15]:
+      - listitem [ref=f199e16]:
+        - link "Política de cookies" [ref=f199e17] [cursor=pointer]:
+          - /url: https://tallerdelpatinete.es/politica-de-cookies/
+      - listitem [ref=f199e18]:
+        - link "Política de privacidad" [ref=f199e19] [cursor=pointer]:
+          - /url: https://tallerdelpatinete.es/politica-de-privacidad/
+      - listitem [ref=f199e20]:
+        - link "Aviso Legal" [ref=f199e21] [cursor=pointer]:
+          - /url: https://tallerdelpatinete.es/aviso-legal/
+  - generic [ref=f199e23]:
+    - generic [ref=f199e24]:
+      - banner [ref=f199e25]:
+        - text: • • • • • • • • •
+        - generic [ref=f199e26]:
+          - paragraph [ref=f199e33]:
+            - strong [ref=f199e35]: "TIENDA ONLINE #1 DE EUROPA"
+          - generic [ref=f199e39]:
+            - link [ref=f199e49] [cursor=pointer]:
+              - /url: https://tallerdelpatinete.es
+            - generic [ref=f199e52]:
+              - generic [ref=f199e53]:
+                - link [ref=f199e54] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/my-account/
+                - text: "* *"
+              - link "0" [ref=f199e58] [cursor=pointer]:
+                - /url: https://tallerdelpatinete.es/cart/
+          - search "Buscador inteligente TDP" [ref=f199e70]:
+            - combobox "Buscar" [ref=f199e75]
+            - button "Limpiar" [ref=f199e76] [cursor=pointer]
+            - button "Buscar por voz" [ref=f199e80] [cursor=pointer]
+            - button "Buscar" [ref=f199e84] [cursor=pointer]
+      - navigation "Breadcrumb" [ref=f199e92]:
+        - link "Inicio" [ref=f199e93] [cursor=pointer]:
+          - /url: https://tallerdelpatinete.es
+        - generic [ref=f199e94]: 
+        - link "Comercio" [ref=f199e96] [cursor=pointer]:
+          - /url: https://tallerdelpatinete.es/tienda/
+        - generic [ref=f199e97]: 
+        - link "Patinete Eléctrico" [ref=f199e99] [cursor=pointer]:
+          - /url: https://tallerdelpatinete.es/categoria-producto/patinete-electrico/
+        - generic [ref=f199e100]: 
+        - heading "Patinetes Eléctricos Homologados Dualtron" [level=1] [ref=f199e102]
+      - generic [ref=f199e106]:
+        - generic [ref=f199e108]:
+          - generic [ref=f199e109]:
+            - button "Ordenar" [ref=f199e111] [cursor=pointer]
+            - button "Precio" [ref=f199e115] [cursor=pointer]
+            - button "Motor" [ref=f199e119] [cursor=pointer]
+            - button "Velocidad" [ref=f199e123] [cursor=pointer]
+            - button "Batería" [ref=f199e127] [cursor=pointer]
+            - button "Autonomía" [ref=f199e131] [cursor=pointer]
+            - button "Frenos" [ref=f199e135] [cursor=pointer]
+            - button "Ruedas" [ref=f199e139] [cursor=pointer]
+            - button "Peso" [ref=f199e143] [cursor=pointer]
+            - button "Carga máx" [ref=f199e147] [cursor=pointer]
+            - button "CERTIFICADO VMP" [ref=f199e151] [cursor=pointer]
+          - generic [ref=f199e154]:
+            - generic [ref=f199e155]:
+              - link " Cuadrícula":
+                - /url: https://tallerdelpatinete.es/categoria-producto/patinete-electrico/patinetes-electricos-homologados-dualtron/?view_mode=grid
+            - generic [ref=f199e156]:
+              - link " Lista":
+                - /url: https://tallerdelpatinete.es/categoria-producto/patinete-electrico/patinetes-electricos-homologados-dualtron/?view_mode=list
+          - generic [ref=f199e158]:
+            - generic [ref=f199e159]: Productos por pagina
+            - combobox "Productos por pagina" [ref=f199e160] [cursor=pointer]:
+              - option "12" [selected]
+              - option "24"
+              - option "36"
+              - option "Todo"
+        - generic [ref=f199e161]:
+          - generic [ref=f199e163]:
+            - generic: OFERTA
+            - generic [ref=f199e165]:
+              - link "Patinete Eléctrico Dualtron Forever Limited / LTD Homologado DGT" [ref=f199e166] [cursor=pointer]:
+                - /url: https://tallerdelpatinete.es/producto/patinete-electrico-dualtron-forever-limited-ltd-homologado-dgt/
+                - img "Patinete Eléctrico Dualtron Forever Limited / LTD Homologado DGT" [ref=f199e168]
+              - contentinfo [ref=f199e169]:
+                - link "" [ref=f199e170] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=111018
+                - link "Elige las opciones para “Patinete Eléctrico Dualtron Forever Limited / LTD Homologado DGT”" [ref=f199e172] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/patinete-electrico-dualtron-forever-limited-ltd-homologado-dgt/
+                  - text:  Seleccionar opciones
+                - generic [ref=f199e173]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                - generic [ref=f199e174] [cursor=pointer]:  Vista Rápida
+            - generic [ref=f199e175]:
+              - heading [level=2] [ref=f199e176]:
+                - link "Patinete Eléctrico Dualtron Forever Limited / LTD Homologado ..." [ref=f199e177] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/patinete-electrico-dualtron-forever-limited-ltd-homologado-dgt/
+              - generic [ref=f199e178]:
+                - generic [ref=f199e179]: 1.185 €
+                - text: "-"
+                - generic [ref=f199e181]: 1.494 €
+                - generic [ref=f199e183]: "Rango de precios: desde 1.185 € hasta 1.494 €"
+          - generic [ref=f199e185]:
+            - generic: OFERTA
+            - generic [ref=f199e187]:
+              - link "Patinete Eléctrico Dualtron Victor Limited / LTD Homologado DGT" [ref=f199e188] [cursor=pointer]:
+                - /url: https://tallerdelpatinete.es/producto/dualtron-victor-limited-ltd-homologado/
+                - img "Patinete Eléctrico Dualtron Victor Limited / LTD Homologado DGT" [ref=f199e190]
+              - contentinfo [ref=f199e191]:
+                - link "" [ref=f199e192] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=113428
+                - link "Elige las opciones para “Patinete Eléctrico Dualtron Victor Limited / LTD Homologado DGT”" [ref=f199e194] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/dualtron-victor-limited-ltd-homologado/
+                  - text:  Seleccionar opciones
+                - generic [ref=f199e195]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                - generic [ref=f199e196] [cursor=pointer]:  Vista Rápida
+            - generic [ref=f199e197]:
+              - heading [level=2] [ref=f199e198]:
+                - link "Patinete Eléctrico Dualtron Victor Limited / LTD Homologado D..." [ref=f199e199] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/dualtron-victor-limited-ltd-homologado/
+              - generic [ref=f199e200]:
+                - deletion [ref=f199e201]:
+                  - generic [ref=f199e202]: 1.999 €
+                - generic [ref=f199e204]: "El precio original era: 1.999 €."
+                - insertion [ref=f199e205]:
+                  - generic [ref=f199e206]: 1.899 €
+                - generic [ref=f199e208]: "El precio actual es: 1.899 €."
+          - generic [ref=f199e210]:
+            - generic: OFERTA
+            - generic [ref=f199e212]:
+              - link "Patinete Eléctrico Dualtron Thunder 3 / lll 72V 40Ah Homologado DGT" [ref=f199e213] [cursor=pointer]:
+                - /url: https://tallerdelpatinete.es/producto/patinete-dualtron-thunder-lll-72v-40ah-homologado/
+                - img "Patinete Eléctrico Dualtron Thunder 3 / lll 72V 40Ah Homologado DGT" [ref=f199e215]
+              - contentinfo [ref=f199e216]:
+                - link "" [ref=f199e217] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=111066
+                - 'button "Añadir al carrito: “Patinete Eléctrico Dualtron Thunder 3 / lll 72V 40Ah Homologado DGT”" [ref=f199e219] [cursor=pointer]':  Añadir al carrito
+                - generic [ref=f199e221] [cursor=pointer]:  Vista Rápida
+            - generic [ref=f199e222]:
+              - heading [level=2] [ref=f199e223]:
+                - link "Patinete Eléctrico Dualtron Thunder 3 / lll 72V 40Ah Homologa..." [ref=f199e224] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/patinete-dualtron-thunder-lll-72v-40ah-homologado/
+              - generic [ref=f199e225]:
+                - deletion [ref=f199e226]:
+                  - generic [ref=f199e227]: 3.599 €
+                - generic [ref=f199e229]: "El precio original era: 3.599 €."
+                - insertion [ref=f199e230]:
+                  - generic [ref=f199e231]: 3.485 €
+                - generic [ref=f199e233]: "El precio actual es: 3.485 €."
+          - generic [ref=f199e235]:
+            - generic: OFERTA
+            - generic [ref=f199e237]:
+              - link "Patinete Eléctrico Dualtron Forever Limited MAX Homologado DGT" [ref=f199e238] [cursor=pointer]:
+                - /url: https://tallerdelpatinete.es/producto/patinete-electrico-dualtron-forever-limited-max/
+                - img "Patinete Eléctrico Dualtron Forever Limited MAX Homologado DGT" [ref=f199e240]
+              - contentinfo [ref=f199e241]:
+                - link "" [ref=f199e242] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=113950
+                - 'button "Añadir al carrito: “Patinete Eléctrico Dualtron Forever Limited MAX Homologado DGT”" [ref=f199e244] [cursor=pointer]':  Añadir al carrito
+                - generic [ref=f199e246] [cursor=pointer]:  Vista Rápida
+            - generic [ref=f199e247]:
+              - heading [level=2] [ref=f199e248]:
+                - link "Patinete Eléctrico Dualtron Forever Limited MAX Homologado DG..." [ref=f199e249] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/patinete-electrico-dualtron-forever-limited-max/
+              - generic [ref=f199e250]:
+                - deletion [ref=f199e251]:
+                  - generic [ref=f199e252]: 1.899 €
+                - generic [ref=f199e254]: "El precio original era: 1.899 €."
+                - insertion [ref=f199e255]:
+                  - generic [ref=f199e256]: 1.494 €
+                - generic [ref=f199e258]: "El precio actual es: 1.494 €."
+          - generic [ref=f199e260]:
+            - generic [ref=f199e261]:
+              - link [ref=f199e262] [cursor=pointer]:
+                - /url: https://tallerdelpatinete.es/producto/dualtron-achilleus-limited-homologado-dgt/
+                - img "Patinete Eléctrico Dualtron Achilleus LTD / Limited Homologado DGT" [ref=f199e265]
+              - contentinfo [ref=f199e266]:
+                - link "" [ref=f199e267] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=113478
+                - link "Elige las opciones para “Patinete Eléctrico Dualtron Achilleus LTD / Limited Homologado DGT”" [ref=f199e269] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/dualtron-achilleus-limited-homologado-dgt/
+                  - text:  Seleccionar opciones
+                - generic [ref=f199e270]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                - generic [ref=f199e271] [cursor=pointer]:  Vista Rápida
+            - generic [ref=f199e272]:
+              - heading [level=2] [ref=f199e273]:
+                - link "Patinete Eléctrico Dualtron Achilleus LTD / Limited Homologad..." [ref=f199e274] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/dualtron-achilleus-limited-homologado-dgt/
+              - generic [ref=f199e275]:
+                - generic [ref=f199e276]: 1.790 €
+                - text: "-"
+                - generic [ref=f199e278]: 2.590 €
+                - generic [ref=f199e280]: "Rango de precios: desde 1.790 € hasta 2.590 €"
+          - generic [ref=f199e282]:
+            - generic: OFERTA
+            - generic [ref=f199e284]:
+              - link [ref=f199e285] [cursor=pointer]:
+                - /url: https://tallerdelpatinete.es/producto/dualtron-thunder-3-dgt-con-vesc-taller-del-patinete/
+                - img "Patinete Eléctrico Dualtron Thunder 3 con VESC Homologado DGT" [ref=f199e286]
+              - contentinfo [ref=f199e287]:
+                - link "" [ref=f199e288] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=115021
+                - 'button "Añadir al carrito: “Patinete Eléctrico Dualtron Thunder 3 con VESC Homologado DGT”" [ref=f199e290] [cursor=pointer]':  Añadir al carrito
+                - generic [ref=f199e292] [cursor=pointer]:  Vista Rápida
+            - generic [ref=f199e293]:
+              - heading [level=2] [ref=f199e294]:
+                - link "Patinete Eléctrico Dualtron Thunder 3 con VESC Homologado DGT..." [ref=f199e295] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/dualtron-thunder-3-dgt-con-vesc-taller-del-patinete/
+              - generic [ref=f199e296]:
+                - deletion [ref=f199e297]:
+                  - generic [ref=f199e298]: 4.790 €
+                - generic [ref=f199e300]: "El precio original era: 4.790 €."
+                - insertion [ref=f199e301]:
+                  - generic [ref=f199e302]: 4.690 €
+                - generic [ref=f199e304]: "El precio actual es: 4.690 €."
+          - generic [ref=f199e306]:
+            - generic [ref=f199e307]:
+              - link "Patinete Eléctrico Dualtron Thunder 4 72V 40Ah (Lanzamiento oficial en 2027)" [ref=f199e308] [cursor=pointer]:
+                - /url: https://tallerdelpatinete.es/producto/dualtron-thunder-4-72v-40ah-2026/
+                - img "Patinete Eléctrico Dualtron Thunder 4 72V 40Ah (Lanzamiento oficial en 2027)" [ref=f199e310]
+              - contentinfo [ref=f199e311]:
+                - link "" [ref=f199e312] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=114450
+                - 'button "Añadir al carrito: “Patinete Eléctrico Dualtron Thunder 4 72V 40Ah (Lanzamiento oficial en 2027)”" [ref=f199e314] [cursor=pointer]':  Añadir al carrito
+                - generic [ref=f199e316] [cursor=pointer]:  Vista Rápida
+            - generic [ref=f199e317]:
+              - heading [level=2] [ref=f199e318]:
+                - link "Patinete Eléctrico Dualtron Thunder 4 72V 40Ah (Lanzamiento o..." [ref=f199e319] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/dualtron-thunder-4-72v-40ah-2026/
+              - generic [ref=f199e320]: 4.299 €
+          - generic [ref=f199e324]:
+            - generic: OFERTA
+            - generic [ref=f199e326]:
+              - link "Patinete Eléctrico Dualtron Mini Special Dual Motor Long Body Homologado DGT" [ref=f199e327] [cursor=pointer]:
+                - /url: https://tallerdelpatinete.es/producto/patinete-electrico-dualtron-mini-special-52v-21ah-dual-motor-long-body/
+                - img "Patinete Eléctrico Dualtron Mini Special Dual Motor Long Body Homologado DGT" [ref=f199e329]
+              - contentinfo [ref=f199e330]:
+                - link "" [ref=f199e331] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=114437
+                - 'button "Añadir al carrito: “Patinete Eléctrico Dualtron Mini Special Dual Motor Long Body Homologado DGT”" [ref=f199e333] [cursor=pointer]':  Añadir al carrito
+                - generic [ref=f199e335] [cursor=pointer]:  Vista Rápida
+            - generic [ref=f199e336]:
+              - heading [level=2] [ref=f199e337]:
+                - link "Patinete Eléctrico Dualtron Mini Special Dual Motor Long Body..." [ref=f199e338] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/patinete-electrico-dualtron-mini-special-52v-21ah-dual-motor-long-body/
+              - generic [ref=f199e339]:
+                - deletion [ref=f199e340]:
+                  - generic [ref=f199e341]: 1.599 €
+                - generic [ref=f199e343]: "El precio original era: 1.599 €."
+                - insertion [ref=f199e344]:
+                  - generic [ref=f199e345]: 1.359 €
+                - generic [ref=f199e347]: "El precio actual es: 1.359 €."
+          - generic [ref=f199e349]:
+            - generic [ref=f199e350]:
+              - link [ref=f199e351] [cursor=pointer]:
+                - /url: https://tallerdelpatinete.es/producto/dualtron-forever-60v-ey3/
+                - img "Patinete Eléctrico Dualtron Forever 60v ey3 Homologado DGT" [ref=f199e352]
+              - contentinfo [ref=f199e353]:
+                - link "" [ref=f199e354] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=114100
+                - 'button "Añadir al carrito: “Patinete Eléctrico Dualtron Forever 60v ey3 Homologado DGT”" [ref=f199e356] [cursor=pointer]':  Añadir al carrito
+                - generic [ref=f199e358] [cursor=pointer]:  Vista Rápida
+            - generic [ref=f199e359]:
+              - heading [level=2] [ref=f199e360]:
+                - link "Patinete Eléctrico Dualtron Forever 60v ey3 Homologado DGT" [ref=f199e361] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/dualtron-forever-60v-ey3/
+              - generic [ref=f199e362]: 1.100 €
+          - generic [ref=f199e366]:
+            - generic: OFERTA
+            - generic [ref=f199e368]:
+              - link "Patinete Eléctrico Dualtron Sonic Alien 72V 40Ah Homologado DGT" [ref=f199e369] [cursor=pointer]:
+                - /url: https://tallerdelpatinete.es/producto/patinete-electrico-dualtron-sonic-alien-72v/
+                - img "Patinete Eléctrico Dualtron Sonic Alien 72V 40Ah Homologado DGT" [ref=f199e371]
+              - contentinfo [ref=f199e372]:
+                - link "" [ref=f199e373] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=113906
+                - link "Elige las opciones para “Patinete Eléctrico Dualtron Sonic Alien 72V 40Ah Homologado DGT”" [ref=f199e375] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/patinete-electrico-dualtron-sonic-alien-72v/
+                  - text:  Seleccionar opciones
+                - generic [ref=f199e376]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                - generic [ref=f199e377] [cursor=pointer]:  Vista Rápida
+            - generic [ref=f199e378]:
+              - heading [level=2] [ref=f199e379]:
+                - link "Patinete Eléctrico Dualtron Sonic Alien 72V 40Ah Homologado D..." [ref=f199e380] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/patinete-electrico-dualtron-sonic-alien-72v/
+              - generic [ref=f199e381]:
+                - deletion [ref=f199e382]:
+                  - generic [ref=f199e383]: 4.199 €
+                - generic [ref=f199e385]: "El precio original era: 4.199 €."
+                - insertion [ref=f199e386]:
+                  - generic [ref=f199e387]: 3.785 €
+                - generic [ref=f199e389]: "El precio actual es: 3.785 €."
+          - generic [ref=f199e391]:
+            - generic: OFERTA
+            - generic [ref=f199e393]:
+              - link [ref=f199e394] [cursor=pointer]:
+                - /url: https://tallerdelpatinete.es/producto/dualtron-thunder-3-iberia-edition-homologado-dgt/
+                - img "Patinete Eléctrico Dualtron Thunder 3 Iberia Edition 2025 Homologado DGT" [ref=f199e395]
+              - contentinfo [ref=f199e396]:
+                - link "" [ref=f199e397] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=113706
+                - 'button "Añadir al carrito: “Patinete Eléctrico Dualtron Thunder 3 Iberia Edition 2025 Homologado DGT”" [ref=f199e399] [cursor=pointer]':  Añadir al carrito
+                - generic [ref=f199e401] [cursor=pointer]:  Vista Rápida
+            - generic [ref=f199e402]:
+              - heading [level=2] [ref=f199e403]:
+                - link "Patinete Eléctrico Dualtron Thunder 3 Iberia Edition 2025 Hom..." [ref=f199e404] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/dualtron-thunder-3-iberia-edition-homologado-dgt/
+              - generic [ref=f199e405]:
+                - deletion [ref=f199e406]:
+                  - generic [ref=f199e407]: 3.790 €
+                - generic [ref=f199e409]: "El precio original era: 3.790 €."
+                - insertion [ref=f199e410]:
+                  - generic [ref=f199e411]: 3.590 €
+                - generic [ref=f199e413]: "El precio actual es: 3.590 €."
+          - generic [ref=f199e415]:
+            - generic: OFERTA
+            - generic [ref=f199e417]:
+              - link "Patinete Eléctrico Dualtron Victor Homologado DGT" [ref=f199e418] [cursor=pointer]:
+                - /url: https://tallerdelpatinete.es/producto/patinete-electrico-dualtron-victor-homologado-dgt-2/
+                - img "Patinete Eléctrico Dualtron Victor Homologado DGT" [ref=f199e420]
+              - contentinfo [ref=f199e421]:
+                - link "" [ref=f199e422] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/my-account/?et-wishlist-page&add_to_wishlist=113433
+                - link "Elige las opciones para “Patinete Eléctrico Dualtron Victor Homologado DGT”" [ref=f199e424] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/patinete-electrico-dualtron-victor-homologado-dgt-2/
+                  - text:  Seleccionar opciones
+                - generic [ref=f199e425]: Este producto tiene múltiples variantes. Las opciones se pueden elegir en la página de producto
+                - generic [ref=f199e426] [cursor=pointer]:  Vista Rápida
+            - generic [ref=f199e427]:
+              - heading [level=2] [ref=f199e428]:
+                - link "Patinete Eléctrico Dualtron Victor Homologado DGT" [ref=f199e429] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/producto/patinete-electrico-dualtron-victor-homologado-dgt-2/
+              - generic [ref=f199e430]:
+                - generic [ref=f199e431]: 1.690 €
+                - text: "-"
+                - generic [ref=f199e433]: 1.990 €
+                - generic [ref=f199e435]: "Rango de precios: desde 1.690 € hasta 1.990 €"
+        - generic [ref=f199e436]:
+          - generic [ref=f199e437]:
+            - paragraph [ref=f199e438]: Mostrando 12 de 18 productos
+            - button "Cargar más productos (6 restantes)" [ref=f199e439] [cursor=pointer]
+            - progressbar [ref=f199e440]
+          - navigation "Paginación de producto" [ref=f199e442]:
+            - list [ref=f199e443]:
+              - listitem [ref=f199e444]:
+                - generic "Página 1" [ref=f199e445]: "1"
+              - listitem [ref=f199e446]:
+                - link "Página 2" [ref=f199e447] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/patinete-electrico/patinetes-electricos-homologados-dualtron/page/2/
+                  - text: "2"
+              - listitem [ref=f199e448]:
+                - link "" [ref=f199e449] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/categoria-producto/patinete-electrico/patinetes-electricos-homologados-dualtron/page/2/
+      - contentinfo
+    - generic [ref=f199e451]:
+      - contentinfo [ref=f199e452]:
+        - generic [ref=f199e456]:
+          - generic [ref=f199e457]:
+            - generic [ref=f199e460]:
+              - figure [ref=f199e462]:
+                - link [ref=f199e463] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/
+                  - img "Logo TDP 394@3x" [ref=f199e464]
+              - generic [ref=f199e466]:
+                - paragraph [ref=f199e467]: Tu mejor opción para patinetes eléctricos en España
+                - paragraph [ref=f199e468]: MÉTODOS DE PAGO
+                - generic "Métodos de pago aceptados" [ref=f199e469]:
+                  - generic [ref=f199e470]:
+                    - generic [ref=f199e471]:
+                      - img "Visa"
+                    - generic [ref=f199e472]:
+                      - img "Mastercard"
+                    - generic [ref=f199e473]:
+                      - img "American Express"
+                    - generic [ref=f199e474]:
+                      - img "PayPal"
+                    - generic [ref=f199e475]:
+                      - img "Bizum"
+                  - generic [ref=f199e476]:
+                    - generic [ref=f199e477]:
+                      - img "Apple Pay"
+                    - generic [ref=f199e478]:
+                      - img "Google Pay"
+                    - generic [ref=f199e479]:
+                      - img "Klarna"
+                    - generic [ref=f199e480]:
+                      - img "Viabill"
+            - generic [ref=f199e483]:
+              - heading [level=2] [ref=f199e484]:
+                - strong [ref=f199e485]: ENLACES DE INTERÉS
+              - generic [ref=f199e487]:
+                - paragraph [ref=f199e488]:
+                  - link "Noticias" [ref=f199e490] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/noticias/
+                  - link "Contacto" [ref=f199e492] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/contacto/
+                  - link "Aviso Legal" [ref=f199e494] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/aviso-legal/
+                  - link "Política de envío" [ref=f199e496] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/politica-de-envio/
+                  - link "Política de cookies" [ref=f199e498] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/politica-de-cookies/
+                  - link "Política de privacidad" [ref=f199e500] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/politica-de-privacidad/
+                  - link "Política de Reembolso" [ref=f199e502] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/politica-de-devolucion-y-reembolso/
+                  - link "Términos y Condiciones" [ref=f199e504] [cursor=pointer]:
+                    - /url: https://tallerdelpatinete.es/terminos-y-condiciones-de-contratacion/
+                - link [ref=f199e505] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/trabaja-con-nosotros/
+                  - img "💼" [ref=f199e506]
+                  - text: Trabaja con nosotros
+            - generic [ref=f199e509]:
+              - heading [level=2] [ref=f199e510]:
+                - strong [ref=f199e511]: TALLERES OFICIALES
+              - paragraph [ref=f199e514]:
+                - link "Tarragona" [ref=f199e516] [cursor=pointer]:
+                  - /url: ../taller-reparacion-patinetes-electricos-tarragona/
+                - link "Reus" [ref=f199e518] [cursor=pointer]:
+                  - /url: ../reparacion-patinetes-electricos-reus/
+                - link "Valencia" [ref=f199e520] [cursor=pointer]:
+                  - /url: ../reparar-patinete-valencia/
+                - link "Barcelona" [ref=f199e522] [cursor=pointer]:
+                  - /url: ../taller-reparacion-patinetes-electricos-barcelona/
+                - link "Sant Cugat del Vallès" [ref=f199e524] [cursor=pointer]:
+                  - /url: ../taller-de-reparacion-de-patinetes-electricos-en-sant-cugat-del-valles/
+                - link "Sant Feliu de Llobregat" [ref=f199e526] [cursor=pointer]:
+                  - /url: ../taller-de-reparacion-de-patinetes-electricos-en-sant-feliu-de-llobregat/
+                - link "Sabadell" [ref=f199e528] [cursor=pointer]:
+                  - /url: ../taller-reparacion-patinetes-electricos-sabadell/
+                - link "Terrassa" [ref=f199e530] [cursor=pointer]:
+                  - /url: ../taller-reparacion-patinetes-electricos-terrassa/
+                - link "Zaragoza" [ref=f199e532] [cursor=pointer]:
+                  - /url: ../taller-reparacion-patinetes-electricos-zaragoza/
+            - generic [ref=f199e535]:
+              - heading [level=2] [ref=f199e536]:
+                - strong [ref=f199e537]: TALLERES AFILIADOS
+              - paragraph [ref=f199e540]:
+                - link "Cornellà" [ref=f199e542] [cursor=pointer]:
+                  - /url: ../taller-de-reparacion-de-patinetes-electricos-cornella-de-llobregat/
+                - link "El Prat de Llobregat" [ref=f199e544] [cursor=pointer]:
+                  - /url: ../reparar-patiente-prat-llobregat/
+                - link "Fuenlabrada" [ref=f199e546] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/taller-reparacion-patinetes-electricos-fuenlabrada/
+                - text: Madrid
+            - generic [ref=f199e549]:
+              - heading [level=2] [ref=f199e550]:
+                - strong [ref=f199e551]: CONTACTO
+              - generic [ref=f199e553]:
+                - paragraph [ref=f199e554]:
+                  - generic [ref=f199e555]: 
+                  - text: Canal de atención exclusivo vía WhatsApp
+                  - link [ref=f199e556] [cursor=pointer]:
+                    - /url: https://wa.link/nyzpve
+                    - img "✅" [ref=f199e557]
+                    - text: "WhatsApp: +34 642 52 80 38"
+                  - img "✋" [ref=f199e558]
+                  - text: Llamadas no operativas.
+                  - link "clientes@tallerdelpatinete.es" [ref=f199e559] [cursor=pointer]:
+                    - /url: mailto:clientes@tallerdelpatinete.es
+                    - generic [ref=f199e560]: 
+                    - text: clientes@tallerdelpatinete.es
+                - link "SEGUIMIENTO PEDIDO TDP" [ref=f199e561] [cursor=pointer]:
+                  - /url: https://tallerdelpatinete.es/sigue-tu-pedido/
+          - paragraph [ref=f199e571]: © 2026 Taller del Patinete. Todos los derechos reservados.
+      - text: 
+  - status [ref=f199e572]
+  - link "Whatsapp" [ref=f199e581] [cursor=pointer]:
+    - /url: https://web.whatsapp.com/send?phone=34642528038&text=
+    - generic [ref=f199e582]: "1"

@@ -1,0 +1,13 @@
+[    1274ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://patinetestore.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:1
+[    1817ms] [LOG] Can't find any placeholders for pricetags. @ https://pricetag.viabill.com/script/hCrcikLDKxk%3D:0
+[    1990ms] [WARNING] [21:28:58.380] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    1990ms] [WARNING] [21:28:58.381] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    1991ms] [WARNING] [21:28:58.381] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    1991ms] [WARNING] [21:28:58.382] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    1992ms] [WARNING] [21:28:58.382] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    1992ms] [WARNING] [21:28:58.382] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    2001ms] [WARNING] [21:28:58.391] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    2004ms] [WARNING] [21:28:58.394] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    2009ms] [WARNING] [21:28:58.399] [WonderPush] [website] [sdk         ] userId requested before being initialized @ https://cdn.by.wonderpush.com/sdk/1.1.45.0/wonderpush.min.js:0
+[    2547ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ :3338
+[    5041ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ :3338

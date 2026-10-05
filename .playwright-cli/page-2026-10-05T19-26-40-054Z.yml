@@ -1,0 +1,395 @@
+- main [ref=f19e2]:
+  - generic [ref=f19e3]:
+    - navigation [ref=f19e6]:
+      - button "Abrir menú" [ref=f19e8] [cursor=pointer]
+      - link [ref=f19e11] [cursor=pointer]:
+        - /url: /es
+        - img "Logo de MyUrbanScoot" [ref=f19e12]
+      - generic [ref=f19e14]:
+        - button "España es" [ref=f19e17] [cursor=pointer]:
+          - generic [ref=f19e18]:
+            - img "España" [ref=f19e19]
+            - generic [ref=f19e20]: es
+        - button [ref=f19e23] [cursor=pointer]
+    - generic [ref=f19e30]:
+      - navigation "breadcrumb" [ref=f19e31]:
+        - list [ref=f19e32]:
+          - listitem [ref=f19e33]:
+            - link "Inicio" [ref=f19e34] [cursor=pointer]:
+              - /url: /es
+          - listitem [ref=f19e35]
+          - listitem [ref=f19e38]:
+            - link "Patinetes Eléctricos" [disabled] [ref=f19e39]
+      - heading "Patinetes Eléctricos" [level=1] [ref=f19e42]
+      - region [ref=f19e44]:
+        - generic [ref=f19e46]:
+          - group [ref=f19e47]:
+            - link [ref=f19e48] [cursor=pointer]:
+              - /url: /es/categories/scoots-teverun
+              - img "Teverun" [ref=f19e50]
+          - group [ref=f19e52]:
+            - link [ref=f19e53] [cursor=pointer]:
+              - /url: /es/categories/xtreme
+              - img "Xtreme" [ref=f19e55]
+          - group [ref=f19e57]:
+            - link [ref=f19e58] [cursor=pointer]:
+              - /url: /es/categories/scoots-ecoxtrem
+              - img "Ecoxtrem" [ref=f19e60]
+          - group [ref=f19e62]:
+            - link [ref=f19e63] [cursor=pointer]:
+              - /url: /es/categories/rovoron
+              - img "Rovoron" [ref=f19e65]
+          - group [ref=f19e67]:
+            - link [ref=f19e68] [cursor=pointer]:
+              - /url: /es/categories/scoots-kukirin
+              - img "Kukirin" [ref=f19e70]
+          - group [ref=f19e72]:
+            - link [ref=f19e73] [cursor=pointer]:
+              - /url: /es/categories/kamikaze
+              - img "Kamikaze" [ref=f19e75]
+          - group [ref=f19e77]:
+            - link [ref=f19e78] [cursor=pointer]:
+              - /url: /es/categories/scoots-dualtron
+              - img "Dualtron" [ref=f19e80]
+          - group [ref=f19e82]:
+            - link [ref=f19e83] [cursor=pointer]:
+              - /url: /es/categories/scoots-smartgyro
+              - img "Smartgyro" [ref=f19e85]
+          - group [ref=f19e87]:
+            - link [ref=f19e88] [cursor=pointer]:
+              - /url: /es/categories/scoots-kaabo
+              - img "Kaabo" [ref=f19e90]
+          - group [ref=f19e92]:
+            - link [ref=f19e93] [cursor=pointer]:
+              - /url: /es/categories/scoots-inmotion
+              - img "Inmotion" [ref=f19e95]
+          - group [ref=f19e97]:
+            - link [ref=f19e98] [cursor=pointer]:
+              - /url: /es/categories/roan
+              - img "Bicicletas Eléctricas" [ref=f19e100]
+      - generic [ref=f19e102]:
+        - generic [ref=f19e106]:
+          - button "Ordenar" [ref=f19e107] [cursor=pointer]
+          - button "Precio" [ref=f19e111] [cursor=pointer]
+          - button "Homologación" [ref=f19e115] [cursor=pointer]
+          - button "Motor" [ref=f19e119] [cursor=pointer]
+          - button "Frenos Hidráulicos" [ref=f19e123] [cursor=pointer]
+          - button "Ruedas" [ref=f19e127] [cursor=pointer]
+          - button "Rendimiento" [ref=f19e131] [cursor=pointer]
+          - button "Tipo de Patinetes Eléctricos" [ref=f19e135] [cursor=pointer]
+        - generic [ref=f19e140]:
+          - list [ref=f19e141]:
+            - listitem [ref=f19e142]:
+              - link [ref=f19e143] [cursor=pointer]:
+                - /url: /es/producto/bicicleta-electrica-sin-pedales-1000w-48v-rfn-zip-pro-24
+                - generic [ref=f19e145]:
+                  - img "Product thumbnail" [ref=f19e147]
+                  - generic [ref=f19e148]:
+                    - paragraph [ref=f19e150]: Bicicleta eléctrica sin pedales 1000W 48V RFN ZIP PRO 24"
+                    - generic [ref=f19e151]:
+                      - paragraph [ref=f19e154]: 1749,00 €
+                      - button "Ver producto" [ref=f19e155]
+            - listitem [ref=f19e158]:
+              - link [ref=f19e159] [cursor=pointer]:
+                - /url: /es/producto/smartgyro-crossover-dual-xt-dgt
+                - generic [ref=f19e161]:
+                  - img "Product thumbnail" [ref=f19e163]
+                  - generic [ref=f19e164]:
+                    - paragraph [ref=f19e166]: SmartGyro Crossover Dual XT DGT
+                    - generic [ref=f19e167]:
+                      - paragraph [ref=f19e170]: 899,00 €
+                      - button "Ver producto" [ref=f19e171]
+            - listitem [ref=f19e174]:
+              - link [ref=f19e175] [cursor=pointer]:
+                - /url: /es/producto/kaabo-wolf-x-max-dgt
+                - generic [ref=f19e177]:
+                  - img "Product thumbnail" [ref=f19e179]
+                  - generic [ref=f19e180]:
+                    - paragraph [ref=f19e182]: KAABO Wolf X Max DGT
+                    - generic [ref=f19e183]:
+                      - paragraph [ref=f19e186]: 2175,00 €
+                      - button "Ver producto" [ref=f19e187]
+            - listitem [ref=f19e190]:
+              - link [ref=f19e191] [cursor=pointer]:
+                - /url: /es/producto/kaabo-mantis-x-plus-dgt
+                - generic [ref=f19e193]:
+                  - img "Product thumbnail" [ref=f19e195]
+                  - generic [ref=f19e196]:
+                    - paragraph [ref=f19e198]: KAABO Mantis X Plus DGT
+                    - generic [ref=f19e199]:
+                      - paragraph [ref=f19e202]: 1349,00 €
+                      - button "Ver producto" [ref=f19e203]
+            - listitem [ref=f19e206]:
+              - link [ref=f19e207] [cursor=pointer]:
+                - /url: /es/producto/kaabo-urban-dgt
+                - generic [ref=f19e209]:
+                  - img "Product thumbnail" [ref=f19e211]
+                  - generic [ref=f19e212]:
+                    - paragraph [ref=f19e214]: KAABO Urban DGT
+                    - generic [ref=f19e215]:
+                      - paragraph [ref=f19e218]: 869,00 €
+                      - button "Ver producto" [ref=f19e219]
+            - listitem [ref=f19e222]:
+              - link "Product thumbnail -11% Xtreme F1 Max DGT 899,00 € 799,00 €" [ref=f19e223] [cursor=pointer]:
+                - /url: /es/producto/xtreme-f1-max-dgt
+                - generic [ref=f19e225]:
+                  - img "Product thumbnail" [ref=f19e227]
+                  - generic [ref=f19e228]: "-11%"
+                  - generic [ref=f19e229]:
+                    - paragraph [ref=f19e231]: Xtreme F1 Max DGT
+                    - generic [ref=f19e232]:
+                      - generic [ref=f19e234]:
+                        - paragraph [ref=f19e235]: 899,00 €
+                        - paragraph [ref=f19e236]: 799,00 €
+                      - button "Ver producto" [ref=f19e237]
+            - listitem [ref=f19e240]:
+              - link [ref=f19e241] [cursor=pointer]:
+                - /url: /es/producto/kamikaze-k1-max-dgt
+                - generic [ref=f19e243]:
+                  - img "Product thumbnail" [ref=f19e245]
+                  - generic [ref=f19e246]:
+                    - paragraph [ref=f19e248]: Kamikaze K1 Max DGT
+                    - generic [ref=f19e249]:
+                      - paragraph [ref=f19e252]: 859,00 €
+                      - button "Ver producto" [ref=f19e253]
+            - listitem [ref=f19e256]:
+              - link [ref=f19e257] [cursor=pointer]:
+                - /url: /es/producto/rovoron-r5-pro-dgt
+                - generic [ref=f19e259]:
+                  - img "Product thumbnail" [ref=f19e261]
+                  - generic [ref=f19e262]:
+                    - paragraph [ref=f19e264]: Rovoron R5 PRO DGT
+                    - generic [ref=f19e265]:
+                      - paragraph [ref=f19e268]: 1399,00 €
+                      - button "Ver producto" [ref=f19e269]
+            - listitem [ref=f19e272]:
+              - link [ref=f19e273] [cursor=pointer]:
+                - /url: /es/producto/rovoron-r5-dgt
+                - generic [ref=f19e275]:
+                  - img "Product thumbnail" [ref=f19e277]
+                  - generic [ref=f19e278]:
+                    - paragraph [ref=f19e280]: Rovoron R5 DGT
+                    - generic [ref=f19e281]:
+                      - paragraph [ref=f19e284]: 999,00 €
+                      - button "Ver producto" [ref=f19e285]
+            - listitem [ref=f19e288]:
+              - link [ref=f19e289] [cursor=pointer]:
+                - /url: /es/producto/ecoxtrem-m41-armored-one-pro-dgt
+                - generic [ref=f19e291]:
+                  - img "Product thumbnail" [ref=f19e293]
+                  - generic [ref=f19e294]:
+                    - paragraph [ref=f19e296]: Ecoxtrem M41 Armored One Pro DGT
+                    - generic [ref=f19e297]:
+                      - paragraph [ref=f19e300]: 699,00 €
+                      - button "Ver producto" [ref=f19e301]
+            - listitem [ref=f19e304]:
+              - link [ref=f19e305] [cursor=pointer]:
+                - /url: /es/producto/patinete-electrico-ecoxtrem-deimos-dgt-dual-motor
+                - generic [ref=f19e307]:
+                  - img "Product thumbnail" [ref=f19e309]
+                  - generic [ref=f19e310]:
+                    - paragraph [ref=f19e312]: Patinete Eléctrico Ecoxtrem Deimos DGT Dual Motor V2
+                    - generic [ref=f19e313]:
+                      - paragraph [ref=f19e316]: 649,00 €
+                      - button "Ver producto" [ref=f19e317]
+            - listitem [ref=f19e320]:
+              - link [ref=f19e321] [cursor=pointer]:
+                - /url: /es/producto/patinete-electrico-ecoxtrem-deimos-dgt-single-motor
+                - generic [ref=f19e323]:
+                  - img "Product thumbnail" [ref=f19e325]
+                  - generic [ref=f19e326]:
+                    - paragraph [ref=f19e328]: Patinete Eléctrico Ecoxtrem Deimos DGT Single Motor V2
+                    - generic [ref=f19e329]:
+                      - paragraph [ref=f19e332]: 499,00 €
+                      - button "Ver producto" [ref=f19e333]
+            - listitem [ref=f19e336]:
+              - link [ref=f19e337] [cursor=pointer]:
+                - /url: /es/producto/dualtron-aminia-special-homologado-dgt
+                - generic [ref=f19e339]:
+                  - img "Product thumbnail" [ref=f19e341]
+                  - generic [ref=f19e342]:
+                    - paragraph [ref=f19e344]: Dualtron Aminia Special Homologado DGT
+                    - generic [ref=f19e345]:
+                      - paragraph [ref=f19e348]: 849,00 €
+                      - button "Ver producto" [ref=f19e349]
+            - listitem [ref=f19e352]:
+              - link [ref=f19e353] [cursor=pointer]:
+                - /url: /es/producto/dualtron-aminia-dual-motor-homologado-dgt
+                - generic [ref=f19e355]:
+                  - img "Product thumbnail" [ref=f19e357]
+                  - generic [ref=f19e358]:
+                    - paragraph [ref=f19e360]: Dualtron Aminia Dual Motor Homologado DGT
+                    - generic [ref=f19e361]:
+                      - paragraph [ref=f19e364]: 949,00 €
+                      - button "Ver producto" [ref=f19e365]
+            - listitem [ref=f19e368]:
+              - link [ref=f19e369] [cursor=pointer]:
+                - /url: /es/producto/ecoxtrem-m41-armored-lr-dgt
+                - generic [ref=f19e371]:
+                  - img "Product thumbnail" [ref=f19e373]
+                  - generic [ref=f19e374]:
+                    - paragraph [ref=f19e376]: Ecoxtrem Armored PRO Dual Homologado DGT
+                    - generic [ref=f19e377]:
+                      - paragraph [ref=f19e380]: 895,00 €
+                      - button "Ver producto" [ref=f19e381]
+            - listitem [ref=f19e384]:
+              - link [ref=f19e385] [cursor=pointer]:
+                - /url: /es/producto/kukirin-g2-dgt
+                - generic [ref=f19e387]:
+                  - img "Product thumbnail" [ref=f19e389]
+                  - generic [ref=f19e390]:
+                    - paragraph [ref=f19e392]: Kukirin G2 DGT
+                    - generic [ref=f19e393]:
+                      - paragraph [ref=f19e396]: 539,00 €
+                      - button "Ver producto" [ref=f19e397]
+            - listitem [ref=f19e400]:
+              - link [ref=f19e401] [cursor=pointer]:
+                - /url: /es/producto/dualtron-sonic-alien-dgt
+                - generic [ref=f19e403]:
+                  - img "Product thumbnail" [ref=f19e405]
+                  - generic [ref=f19e406]:
+                    - paragraph [ref=f19e408]: Dualtron Sonic Alien DGT
+                    - generic [ref=f19e409]:
+                      - paragraph [ref=f19e412]: 3889,00 €
+                      - button "Ver producto" [ref=f19e413]
+            - listitem [ref=f19e416]:
+              - link "Product thumbnail -4% G2 Xtreme F1 DGT 549,00 € 529,00 €" [ref=f19e417] [cursor=pointer]:
+                - /url: /es/producto/g2-xtreme-f1-dgt
+                - generic [ref=f19e419]:
+                  - img "Product thumbnail" [ref=f19e421]
+                  - generic [ref=f19e422]: "-4%"
+                  - generic [ref=f19e423]:
+                    - paragraph [ref=f19e425]: G2 Xtreme F1 DGT
+                    - generic [ref=f19e426]:
+                      - generic [ref=f19e428]:
+                        - paragraph [ref=f19e429]: 549,00 €
+                        - paragraph [ref=f19e430]: 529,00 €
+                      - button "Ver producto" [ref=f19e431]
+            - listitem [ref=f19e434]:
+              - link [ref=f19e435] [cursor=pointer]:
+                - /url: /es/producto/smartgyro-k5-pro-lr-dgt
+                - generic [ref=f19e437]:
+                  - img "Product thumbnail" [ref=f19e439]
+                  - generic [ref=f19e440]:
+                    - paragraph [ref=f19e442]: Smartgyro K5 PRO LR DGT
+                    - generic [ref=f19e443]:
+                      - paragraph [ref=f19e446]: 779,00 €
+                      - button "Ver producto" [ref=f19e447]
+            - listitem [ref=f19e450]:
+              - link [ref=f19e451] [cursor=pointer]:
+                - /url: /es/producto/smartgyro-k5-pro-dgt
+                - generic [ref=f19e453]:
+                  - img "Product thumbnail" [ref=f19e455]
+                  - generic [ref=f19e456]:
+                    - paragraph [ref=f19e458]: Smartgyro K5 PRO DGT
+                    - generic [ref=f19e459]:
+                      - paragraph [ref=f19e462]: 699,00 €
+                      - button "Ver producto" [ref=f19e463]
+            - listitem [ref=f19e466]:
+              - link [ref=f19e467] [cursor=pointer]:
+                - /url: /es/producto/smartgyro-k1-dgt
+                - generic [ref=f19e469]:
+                  - img "Product thumbnail" [ref=f19e471]
+                  - generic [ref=f19e472]:
+                    - paragraph [ref=f19e474]: Smartgyro K1 DGT
+                    - generic [ref=f19e475]:
+                      - paragraph [ref=f19e478]: 449,00 €
+                      - button "Ver producto" [ref=f19e479]
+            - listitem [ref=f19e482]:
+              - link [ref=f19e483] [cursor=pointer]:
+                - /url: /es/producto/smartgyro-rockway-gl-dgt
+                - generic [ref=f19e485]:
+                  - img "Product thumbnail" [ref=f19e487]
+                  - generic [ref=f19e488]:
+                    - paragraph [ref=f19e490]: Smartgyro Rockway GL DGT
+                    - generic [ref=f19e491]:
+                      - paragraph [ref=f19e494]: 599,00 €
+                      - button "Ver producto" [ref=f19e495]
+            - listitem [ref=f19e498]:
+              - link [ref=f19e499] [cursor=pointer]:
+                - /url: /es/producto/smartgyro-rockway-gts-dgt
+                - generic [ref=f19e501]:
+                  - img "Product thumbnail" [ref=f19e503]
+                  - generic [ref=f19e504]:
+                    - paragraph [ref=f19e506]: Smartgyro Rockway GTS DGT
+                    - generic [ref=f19e507]:
+                      - paragraph [ref=f19e510]: 779,00 €
+                      - button "Ver producto" [ref=f19e511]
+            - listitem [ref=f19e514]:
+              - link [ref=f19e515] [cursor=pointer]:
+                - /url: /es/producto/smartgyro-rockway-gt-dgt
+                - generic [ref=f19e517]:
+                  - img "Product thumbnail" [ref=f19e519]
+                  - generic [ref=f19e520]:
+                    - paragraph [ref=f19e522]: Smartgyro Rockway GT DGT
+                    - generic [ref=f19e523]:
+                      - paragraph [ref=f19e526]: 699,00 €
+                      - button "Ver producto" [ref=f19e527]
+          - generic [ref=f19e530]:
+            - paragraph [ref=f19e531]: Mostrando 24 de 94 productos
+            - button "Cargar más productos (70 restantes)" [ref=f19e532] [cursor=pointer]
+    - generic [ref=f19e537]:
+      - generic [ref=f19e538]:
+        - generic [ref=f19e539]:
+          - link "Google" [ref=f19e540] [cursor=pointer]:
+            - /url: https://www.google.com/search?tbm=lcl&q=MyUrbanScoot+2.0+/+Taller+Patinete+El%C3%A9ctrico+Valencia.+Vinilos,+Accesorios,+Alquiler...&rflfq=1&num=20&stick=H4sIAAAAAAAAACVQPY7UYAzVFCD6oZoC5QBo8L8_lxSUCCRgtW0mShEpJJDJFlyHbjvusLfhFLxZJBeW_fx-_Orl6cgcVqVhFiyhJq2djiWeTCFVQdFCozA0Cmfl1qxJmlSEnF6zu2FRSs4s1TypYRpszQVLJQ4t4WcCg0xaUSWpepYRoCrAFDEgoUpUnJgaoyFtbMQgFTPGFGRCGlmwAQZjISQoDyUREwTBPdF_LWnCzSSaIEcGn46qlciplqLCIC-cayYhDAgD4GrFBiUOEmfP5srYI-7NqxCekmzCOIfx5nU6CkM32RtyOBKn3j4AkZuZzMD7yMJvBkJdvQFGDSUcmfCfrni0gxp7Uuf6czj8Pbz5tG_9tfsxbtd1QbP33y_T0-PSXR6uQ7_8fnH_8de37dIvX4Z13Ts5U_eu-9rP87h1n_t9WsZ97D7MT4_Dvk3D2t3187gMU3_u7qZlmtfr2-79MIzXdZue-_nnw4Tb8_n8DxEx8BoYAgAA&ved=2ahUKEwi-gcOribqAAxXVV6QEHSVEA-kQjHJ6BAhOEAU&rldimm=1164993644612634288
+          - link "YouTube" [ref=f19e543] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCnyFLA3Es4qoBsTuuKlC_Aw
+          - link "Instagram" [ref=f19e546] [cursor=pointer]:
+            - /url: https://www.instagram.com/myurbanscoot/
+          - link "Facebook" [ref=f19e549] [cursor=pointer]:
+            - /url: https://www.facebook.com/myurbanscootcom
+          - link "TikTok" [ref=f19e552] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@myurbanscoot.com
+        - generic [ref=f19e555]:
+          - generic [ref=f19e556]:
+            - heading "Ayuda" [level=4] [ref=f19e557]
+            - list [ref=f19e558]:
+              - listitem [ref=f19e559]:
+                - link "Contacto" [ref=f19e560] [cursor=pointer]:
+                  - /url: /es/contact
+              - listitem [ref=f19e561]:
+                - link "Centro de ayuda" [ref=f19e562] [cursor=pointer]:
+                  - /url: /es/help-center
+              - listitem [ref=f19e563]:
+                - link "Entrega" [ref=f19e564] [cursor=pointer]:
+                  - /url: /es/shipping-policy
+              - listitem [ref=f19e565]:
+                - link "Devoluciones y reembolsos" [ref=f19e566] [cursor=pointer]:
+                  - /url: /es/returns-policy
+          - generic [ref=f19e567]:
+            - heading "Productos" [level=4] [ref=f19e568]
+            - list [ref=f19e569]:
+              - listitem [ref=f19e570]:
+                - link "Vinilos" [ref=f19e571] [cursor=pointer]:
+                  - /url: /es/categories/vinilos
+              - listitem [ref=f19e572]:
+                - link "Recambios" [ref=f19e573] [cursor=pointer]:
+                  - /url: /es/spare-parts
+              - listitem [ref=f19e574]:
+                - link "Patinetes eléctricos" [ref=f19e575] [cursor=pointer]:
+                  - /url: /es/categories/patinetes-electricos
+              - listitem [ref=f19e576]:
+                - link "Zona circuito" [ref=f19e577] [cursor=pointer]:
+                  - /url: /es/categories/zona-circuito
+          - generic [ref=f19e578]:
+            - heading "Términos y política" [level=4] [ref=f19e579]
+            - list [ref=f19e580]:
+              - listitem [ref=f19e581]:
+                - link "Términos y condiciones" [ref=f19e582] [cursor=pointer]:
+                  - /url: /es/terms
+              - listitem [ref=f19e583]:
+                - link "Política de privacidad" [ref=f19e584] [cursor=pointer]:
+                  - /url: /es/privacy
+          - generic [ref=f19e585]:
+            - heading "Noticias" [level=4] [ref=f19e586]
+            - list [ref=f19e587]:
+              - listitem [ref=f19e588]:
+                - link "Blog" [ref=f19e589] [cursor=pointer]:
+                  - /url: /blog
+              - listitem [ref=f19e590]:
+                - link "Formaciones" [ref=f19e591] [cursor=pointer]:
+                  - /url: https://dev.myurbanscoot.com/webhook/control/formacion.php
+      - paragraph [ref=f19e593]: © 2026 MyUrbanScoot
+  - link "Contactar por WhatsApp" [ref=f19e594] [cursor=pointer]:
+    - /url: https://wa.me/13252406218

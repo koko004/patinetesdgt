@@ -1,0 +1,1390 @@
+- generic [ref=f81e1]:
+  - link [ref=f81e2] [cursor=pointer]:
+    - /url: https://web.whatsapp.com/send?l=es&phone=34688751888&text= https://www.imoveblue.es/busqueda?controller=search&s=SO-03
+  - main [ref=f81e4]:
+    - generic [ref=f81e5]:
+      - list [ref=f81e17]:
+        - listitem [ref=f81e18]:
+          - generic [ref=f81e19]: 
+          - text: ¡ENVÍO GRATIS A PENÍNSULA Y BALEARES!
+      - navigation [ref=f81e21]:
+        - generic [ref=f81e23]:
+          - list [ref=f81e26]:
+            - listitem [ref=f81e27]:
+              - link "¡LLÁMANOS! 688 751 888" [ref=f81e28] [cursor=pointer]:
+                - /url: tel:+34688751888
+          - list [ref=f81e32]:
+            - listitem [ref=f81e33]:
+              - link "OPINIONES DE CLIENTES" [ref=f81e34] [cursor=pointer]:
+                - /url: https://www.trustedshops.es/evaluacion/info_X7971BAC9A2BC178FCCBEA75B22E0AD86.html
+            - listitem [ref=f81e35]:
+              - link "CONTACTO" [ref=f81e36] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/contactenos
+      - text:      
+      - generic [ref=f81e37]:
+        - link [ref=f81e41] [cursor=pointer]:
+          - /url: https://www.imoveblue.es/
+          - img "imoveblue.es - UJ Solutions SC" [ref=f81e42]
+        - generic [ref=f81e46]:
+          - generic [ref=f81e47]:
+            - generic [ref=f81e48] [cursor=pointer]:
+              - generic [ref=f81e49]: 
+              - generic [ref=f81e50]: Menu
+            - list [ref=f81e52]:
+              - listitem [ref=f81e53]:
+                - link "Inicio" [ref=f81e54] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/
+              - listitem [ref=f81e55]:
+                - link "Contacto" [ref=f81e56] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/contactenos
+              - listitem [ref=f81e57]:
+                - generic [ref=f81e58] [cursor=pointer]:
+                  - generic [ref=f81e59]: 
+                  - text: 
+                - link "Patinetes eléctricos certificados DGT" [ref=f81e60] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+              - listitem [ref=f81e61]:
+                - link "MATRICULA TU VMP" [ref=f81e62] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1726-comprar-matricula-patinete-vmp-adhesivo.html
+              - listitem [ref=f81e63]:
+                - link "Seguro patinete eléctrico VMP" [ref=f81e64] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/content/15-seguro-patinete-electrico-vmp
+              - listitem [ref=f81e65]:
+                - generic [ref=f81e66] [cursor=pointer]:
+                  - generic [ref=f81e67]: 
+                  - text: 
+                - link "Movilidad infantil" [ref=f81e68] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/26-movilidad-infantil
+              - listitem [ref=f81e69]:
+                - link "Bicicletas eléctricas" [ref=f81e70] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/14-bicicletas-electricas
+              - listitem [ref=f81e71]:
+                - link "Motos eléctricas" [ref=f81e72] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/18-motos-electricas
+              - listitem [ref=f81e73]:
+                - link "Monociclos eléctricos" [ref=f81e74] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/30-monociclos-electricos
+              - listitem [ref=f81e75]:
+                - link "Bicicletas" [ref=f81e76] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/31-bicicletas
+              - listitem [ref=f81e77]:
+                - link "Componentes ciclismo" [ref=f81e78] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/38-componentes-ciclismo
+              - listitem [ref=f81e79]:
+                - link "Recambios" [ref=f81e80] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/20-recambios
+              - listitem [ref=f81e81]:
+                - link "Triciclos eléctricos y movilidad reducida" [ref=f81e82] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/32-triciclos-electricos-y-movilidad-reducida
+              - listitem [ref=f81e83]:
+                - link "Accesorios VMP y ciclismo" [ref=f81e84] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/28-accesorios-vmp-ciclismo
+              - listitem [ref=f81e85]:
+                - link "Patinetes eléctricos" [ref=f81e86] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/13-patinete-electrico
+              - listitem [ref=f81e87]:
+                - link "Condiciones de compra y envío" [ref=f81e88] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/content/3-terminos-y-condiciones-de-uso
+          - generic [ref=f81e90] [cursor=pointer]:
+            - generic [ref=f81e91]: 
+            - generic [ref=f81e92]: Buscar
+          - link "Iniciar sesión" [ref=f81e94] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/mi-cuenta
+            - generic [ref=f81e95]: 
+          - generic [ref=f81e99] [cursor=pointer]:
+            - generic [ref=f81e100]:
+              - text: 
+              - generic [ref=f81e101]: "0"
+            - generic [ref=f81e102]: Carrito
+    - generic [ref=f81e103]:
+      - navigation [ref=f81e104]:
+        - list [ref=f81e108]:
+          - listitem [ref=f81e109]:
+            - link "Inicio" [ref=f81e110] [cursor=pointer]:
+              - /url: https://www.imoveblue.es/
+            - text: /
+          - listitem [ref=f81e111]:
+            - generic [ref=f81e112]: Resultados de la búsqueda
+      - generic [ref=f81e113]:
+        - complementary
+        - generic [ref=f81e115]:
+          - heading "Resultados de la búsqueda" [level=1] [ref=f81e116]
+          - generic [ref=f81e118]:
+            - generic [ref=f81e121]:
+              - text: 
+              - generic [ref=f81e122]:
+                - link [ref=f81e123] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/busqueda?controller=search&s=SO-03?productListView=grid
+                  - generic [ref=f81e124]: 
+                - link [ref=f81e125] [cursor=pointer]:
+                  - /url: https://www.imoveblue.es/busqueda?controller=search&s=SO-03?productListView=list
+                  - generic [ref=f81e126]: 
+              - generic [ref=f81e127]: 
+              - navigation [ref=f81e132]:
+                - list [ref=f81e133]:
+                  - listitem [ref=f81e134]:
+                    - link "1" [ref=f81e135] [cursor=pointer]:
+                      - /url: https://www.imoveblue.es/busqueda?controller=search&s=SO-03
+                  - listitem [ref=f81e136]:
+                    - link "2" [ref=f81e137] [cursor=pointer]:
+                      - /url: https://www.imoveblue.es/busqueda?controller=search&s=SO-03&page=2
+                  - listitem [ref=f81e138]:
+                    - link "3" [ref=f81e139] [cursor=pointer]:
+                      - /url: https://www.imoveblue.es/busqueda?controller=search&s=SO-03&page=3
+                  - listitem [ref=f81e140]: …
+                  - listitem [ref=f81e141]:
+                    - link "6" [ref=f81e142] [cursor=pointer]:
+                      - /url: https://www.imoveblue.es/busqueda?controller=search&s=SO-03&page=6
+                  - listitem [ref=f81e143]:
+                    - link [ref=f81e144] [cursor=pointer]:
+                      - /url: https://www.imoveblue.es/busqueda?controller=search&s=SO-03&page=2
+                      - generic [ref=f81e145]: 
+            - generic [ref=f81e146]:
+              - text: 
+              - generic [ref=f81e147]:
+                - generic [ref=f81e148]:
+                  - article [ref=f81e150]:
+                    - generic [ref=f81e151]:
+                      - link [ref=f81e153] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1942-8492-raymon-korak-pro.html#/1-tamano-s/5-color-gris
+                        - img "Raymon Korak Pro" [ref=f81e154]
+                        - img "Raymon Korak Pro 2" [ref=f81e155]
+                      - list [ref=f81e156]:
+                        - listitem [ref=f81e157]: "-1.300,00 €"
+                        - listitem [ref=f81e158]: Nuevo
+                      - link [ref=f81e161] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e162]: 
+                      - generic: 
+                    - generic [ref=f81e163]:
+                      - heading [level=3] [ref=f81e164]:
+                        - link "Raymon Korak Pro" [ref=f81e165] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/bicicletas-electricas/1942-raymon-korak-pro.html
+                      - generic [ref=f81e167]:
+                        - link "3.690,00 €" [ref=f81e168] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/bicicletas-electricas/1942-8492-raymon-korak-pro.html#/1-tamano-s/5-color-gris
+                        - text: 4.990,00 €
+                      - text:    
+                  - article [ref=f81e170]:
+                    - generic [ref=f81e171]:
+                      - link [ref=f81e173] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1934-conor-maui-24.html
+                        - img "Conor MAUI 24" [ref=f81e174]
+                        - img "Conor MAUI 24 2" [ref=f81e175]
+                      - list [ref=f81e176]:
+                        - listitem [ref=f81e177]: Nuevo
+                      - link [ref=f81e180] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e181]: 
+                      - generic: 
+                    - generic [ref=f81e182]:
+                      - heading [level=3] [ref=f81e183]:
+                        - link "Conor MAUI 24\"" [ref=f81e184] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/bicicletas-electricas/1934-conor-maui-24.html
+                      - link "2.239,00 €" [ref=f81e187] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1934-conor-maui-24.html
+                      - text:    
+                  - article [ref=f81e189]:
+                    - generic [ref=f81e190]:
+                      - link [ref=f81e192] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1933-8481-rovoron-r5-pro.html#/11-color-negro
+                        - img "Rovoron R5 Pro" [ref=f81e193]
+                        - img "Rovoron R5 Pro 2" [ref=f81e194]
+                      - list [ref=f81e195]:
+                        - listitem [ref=f81e196]: "-150,00 €"
+                        - listitem [ref=f81e197]: Nuevo
+                      - link [ref=f81e200] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e201]: 
+                      - generic: 
+                    - generic [ref=f81e202]:
+                      - heading [level=3] [ref=f81e203]:
+                        - link "Rovoron R5 Pro certificado REACONDICIONADO" [ref=f81e204] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1933-rovoron-r5-pro.html
+                      - generic [ref=f81e206]:
+                        - link "1.240,00 €" [ref=f81e207] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1933-8481-rovoron-r5-pro.html#/11-color-negro
+                        - text: 1.390,00 €
+                      - text:    
+                  - article [ref=f81e209]:
+                    - generic [ref=f81e210]:
+                      - link [ref=f81e212] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1931-kamikaze-k1-max-tokyo-drift.html
+                        - img "Kamikaze K1 Max Tokyo Drift" [ref=f81e213]
+                        - img "Kamikaze K1 Max Tokyo Drift 2" [ref=f81e214]
+                      - list [ref=f81e215]:
+                        - listitem [ref=f81e216]: Nuevo
+                      - link [ref=f81e219] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e220]: 
+                      - generic: 
+                    - generic [ref=f81e221]:
+                      - heading [level=3] [ref=f81e222]:
+                        - link "Kamikaze K1 Max Tokyo Drift" [ref=f81e223] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1931-kamikaze-k1-max-tokyo-drift.html
+                      - link "849,00 €" [ref=f81e226] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1931-kamikaze-k1-max-tokyo-drift.html
+                      - text:    
+                  - article [ref=f81e228]:
+                    - generic [ref=f81e229]:
+                      - link [ref=f81e231] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1928-8468-ecoxtrem-deimos-dual-pro.html#/13-color-naranja
+                        - img "Ecoxtrem Deimos Dual" [ref=f81e232]
+                        - img "Ecoxtrem Deimos Dual 2" [ref=f81e233]
+                      - list [ref=f81e234]:
+                        - listitem [ref=f81e235]: Nuevo
+                      - link [ref=f81e238] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e239]: 
+                      - generic: 
+                    - generic [ref=f81e240]:
+                      - heading [level=3] [ref=f81e241]:
+                        - link "Ecoxtrem Deimos Dual PRO certificado" [ref=f81e242] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1928-ecoxtrem-deimos-dual-pro.html
+                      - link "749,00 €" [ref=f81e245] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1928-8468-ecoxtrem-deimos-dual-pro.html#/13-color-naranja
+                      - text:    
+                  - article [ref=f81e247]:
+                    - generic [ref=f81e248]:
+                      - link [ref=f81e250] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas/1924-8455-conor-selva-grx820-12s.html#/438-talla-xs
+                        - img "Conor SELVA GRX820" [ref=f81e251]
+                        - img "Conor SELVA GRX820 2" [ref=f81e252]
+                      - list [ref=f81e253]:
+                        - listitem [ref=f81e254]: Nuevo
+                      - link [ref=f81e257] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e258]: 
+                      - generic: 
+                    - generic [ref=f81e259]:
+                      - heading [level=3] [ref=f81e260]:
+                        - link "Conor SELVA GRX820 12s" [ref=f81e261] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/bicicletas/1924-conor-selva-grx820-12s.html
+                      - link "3.649,00 €" [ref=f81e264] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas/1924-8455-conor-selva-grx820-12s.html#/438-talla-xs
+                      - text:    
+                  - article [ref=f81e266]:
+                    - generic [ref=f81e267]:
+                      - link [ref=f81e269] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1918-8447-kaabo-urban.html#/11-color-negro
+                        - img "Kaabo Urban" [ref=f81e270]
+                        - img "Kaabo Urban 2" [ref=f81e271]
+                      - list [ref=f81e272]:
+                        - listitem [ref=f81e273]: Nuevo
+                      - link [ref=f81e276] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e277]: 
+                      - generic: 
+                    - generic [ref=f81e278]:
+                      - heading [level=3] [ref=f81e279]:
+                        - link "Kaabo Urban certificado" [ref=f81e280] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1918-kaabo-urban.html
+                      - link "759,00 €" [ref=f81e283] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1918-8447-kaabo-urban.html#/11-color-negro
+                      - text:    
+                  - article [ref=f81e285]:
+                    - generic [ref=f81e286]:
+                      - link [ref=f81e288] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1916-smartgyro-crossover-dual-xt.html
+                        - img "smartGyro Crossover Dual XT" [ref=f81e289]
+                        - img "smartGyro Crossover Dual XT 2" [ref=f81e290]
+                      - list [ref=f81e291]:
+                        - listitem [ref=f81e292]: Nuevo
+                      - link [ref=f81e295] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e296]: 
+                      - generic: 
+                    - generic [ref=f81e297]:
+                      - heading [level=3] [ref=f81e298]:
+                        - link "smartGyro Crossover Dual XT certificado" [ref=f81e299] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1916-smartgyro-crossover-dual-xt.html
+                      - link "890,00 €" [ref=f81e302] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1916-smartgyro-crossover-dual-xt.html
+                      - text:    
+                  - article [ref=f81e304]:
+                    - generic [ref=f81e305]:
+                      - link [ref=f81e307] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1912-8442-conor-e-selva.html#/430-talla-md/436-grupo-shimano_grx610_12s
+                        - img "Conor E-Selva" [ref=f81e308]
+                        - img "Conor E-Selva 2" [ref=f81e309]
+                      - list [ref=f81e310]:
+                        - listitem [ref=f81e311]: Nuevo
+                      - link [ref=f81e314] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e315]: 
+                      - generic: 
+                    - generic [ref=f81e316]:
+                      - heading [level=3] [ref=f81e317]:
+                        - link "Conor E-Selva" [ref=f81e318] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/bicicletas-electricas/1912-conor-e-selva.html
+                      - link "4.990,00 €" [ref=f81e321] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1912-8442-conor-e-selva.html#/430-talla-md/436-grupo-shimano_grx610_12s
+                      - text:    
+                  - article [ref=f81e323]:
+                    - generic [ref=f81e324]:
+                      - link [ref=f81e326] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1906-8424-ecoxtrem-armored-dual-pro.html#/11-color-negro
+                        - img "Ecoxtrem Armored Dual PRO certificado" [ref=f81e327]
+                        - img "Ecoxtrem Armored Dual PRO certificado 2" [ref=f81e328]
+                      - list [ref=f81e329]:
+                        - listitem [ref=f81e330]: "-50,00 €"
+                        - listitem [ref=f81e331]: Nuevo
+                      - link [ref=f81e334] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e335]: 
+                      - generic: 
+                    - generic [ref=f81e336]:
+                      - heading [level=3] [ref=f81e337]:
+                        - link "Ecoxtrem Armored Dual PRO certificado" [ref=f81e338] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1906-ecoxtrem-armored-dual-pro.html
+                      - generic [ref=f81e340]:
+                        - link "899,00 €" [ref=f81e341] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1906-8424-ecoxtrem-armored-dual-pro.html#/11-color-negro
+                        - text: 949,00 €
+                      - text:    
+                  - article [ref=f81e343]:
+                    - generic [ref=f81e344]:
+                      - link [ref=f81e346] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1902-8422-kaabo-wolf-warrior-x-max.html#/11-color-negro
+                        - img "Kaabo Wolf Warrior X Max" [ref=f81e347]
+                        - img "Kaabo Wolf Warrior X Max 2" [ref=f81e348]
+                      - list [ref=f81e349]:
+                        - listitem [ref=f81e350]: "-300,00 €"
+                        - listitem [ref=f81e351]: Nuevo
+                      - link [ref=f81e354] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e355]: 
+                      - generic: 
+                    - generic [ref=f81e356]:
+                      - heading [level=3] [ref=f81e357]:
+                        - link "Kaabo Wolf Warrior X Max certificado" [ref=f81e358] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1902-kaabo-wolf-warrior-x-max.html
+                      - generic [ref=f81e360]:
+                        - link "1.899,00 €" [ref=f81e361] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1902-8422-kaabo-wolf-warrior-x-max.html#/11-color-negro
+                        - text: 2.199,00 €
+                      - text:    
+                  - article [ref=f81e363]:
+                    - generic [ref=f81e364]:
+                      - link [ref=f81e366] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1900-kamikaze-k1-max.html
+                        - img "Kamikaze K1 Max" [ref=f81e367]
+                        - img "Kamikaze K1 Max 2" [ref=f81e368]
+                      - list [ref=f81e369]:
+                        - listitem [ref=f81e370]: "-84,00 €"
+                        - listitem [ref=f81e371]: Nuevo
+                      - link [ref=f81e374] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e375]: 
+                      - generic: 
+                    - generic [ref=f81e376]:
+                      - heading [level=3] [ref=f81e377]:
+                        - link "Kamikaze K1 Max Certificado REACONDICIONADO" [ref=f81e378] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1900-kamikaze-k1-max.html
+                      - generic [ref=f81e380]:
+                        - link "715,00 €" [ref=f81e381] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1900-kamikaze-k1-max.html
+                        - text: 799,00 €
+                      - text:    
+                  - article [ref=f81e383]:
+                    - generic [ref=f81e384]:
+                      - link [ref=f81e386] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1897-8418-rovoron-r5-pro.html#/10-color-rojo
+                        - img "Rovoron R5 Pro" [ref=f81e387]
+                        - img "Rovoron R5 Pro 2" [ref=f81e388]
+                      - list [ref=f81e389]:
+                        - listitem [ref=f81e390]: Nuevo
+                      - link [ref=f81e393] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e394]: 
+                      - generic: 
+                    - generic [ref=f81e395]:
+                      - heading [level=3] [ref=f81e396]:
+                        - link "Rovoron R5 Pro certificado" [ref=f81e397] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1897-rovoron-r5-pro.html
+                      - link "1.390,00 €" [ref=f81e400] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1897-8418-rovoron-r5-pro.html#/10-color-rojo
+                      - text:    
+                  - article [ref=f81e402]:
+                    - generic [ref=f81e403]:
+                      - link [ref=f81e405] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1896-rovoron-r5.html
+                        - img "Rovoron R5" [ref=f81e406]
+                        - img "Rovoron R5 2" [ref=f81e407]
+                      - list [ref=f81e408]:
+                        - listitem [ref=f81e409]: Nuevo
+                      - link [ref=f81e412] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e413]: 
+                      - generic: 
+                    - generic [ref=f81e414]:
+                      - heading [level=3] [ref=f81e415]:
+                        - link "Rovoron R5 certificado" [ref=f81e416] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1896-rovoron-r5.html
+                      - link "990,00 €" [ref=f81e419] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1896-rovoron-r5.html
+                      - text:    
+                  - article [ref=f81e421]:
+                    - generic [ref=f81e422]:
+                      - link [ref=f81e424] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1895-8415-dualtron-achilleus-limited.html#/11-color-negro/428-bateria-60v_37ah_samsung_version_2026
+                        - img "Dualtron Achilleus Limited Certificado DGT" [ref=f81e425]
+                        - img "Dualtron Achilleus Limited Certificado DGT 2" [ref=f81e426]
+                      - list [ref=f81e427]:
+                        - listitem [ref=f81e428]: "-420,00 €"
+                        - listitem [ref=f81e429]: Nuevo
+                      - link [ref=f81e432] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e433]: 
+                      - generic: 
+                    - generic [ref=f81e434]:
+                      - heading [level=3] [ref=f81e435]:
+                        - link "Dualtron Achilleus Limited 60V 31Ah REACONDICIONADO Certificado" [ref=f81e436] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1895-dualtron-achilleus-limited.html
+                      - generic [ref=f81e438]:
+                        - link "1.629,00 €" [ref=f81e439] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1895-8415-dualtron-achilleus-limited.html#/11-color-negro/428-bateria-60v_37ah_samsung_version_2026
+                        - text: 2.049,00 €
+                      - text:    
+                  - article [ref=f81e441]:
+                    - generic [ref=f81e442]:
+                      - link [ref=f81e444] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1890-8394-conor-roma.html#/14-color-azul/429-talla-sm
+                        - img "Conor Roma" [ref=f81e445]
+                        - img "Conor Roma 2" [ref=f81e446]
+                      - list [ref=f81e447]:
+                        - listitem [ref=f81e448]: Nuevo
+                      - link [ref=f81e451] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e452]: 
+                      - generic: 
+                    - generic [ref=f81e453]:
+                      - heading [level=3] [ref=f81e454]:
+                        - link "Conor Roma" [ref=f81e455] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/bicicletas-electricas/1890-conor-roma.html
+                      - link "2.090,00 €" [ref=f81e458] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1890-8394-conor-roma.html#/14-color-azul/429-talla-sm
+                      - text:    
+                  - article [ref=f81e460]:
+                    - generic [ref=f81e461]:
+                      - link [ref=f81e463] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1889-8391-conor-sevilla.html#/10-color-rojo/429-talla-sm
+                        - img "Conor Sevilla" [ref=f81e464]
+                        - img "Conor Sevilla 2" [ref=f81e465]
+                      - list [ref=f81e466]:
+                        - listitem [ref=f81e467]: Nuevo
+                      - link [ref=f81e470] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e471]: 
+                      - generic: 
+                    - generic [ref=f81e472]:
+                      - heading [level=3] [ref=f81e473]:
+                        - link "Conor Sevilla" [ref=f81e474] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/bicicletas-electricas/1889-conor-sevilla.html
+                      - link "1.590,00 €" [ref=f81e477] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1889-8391-conor-sevilla.html#/10-color-rojo/429-talla-sm
+                      - text:    
+                  - article [ref=f81e479]:
+                    - generic [ref=f81e480]:
+                      - link [ref=f81e482] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1888-8389-conor-nantes.html#/14-color-azul
+                        - img "Conor Nantes" [ref=f81e483]
+                        - img "Conor Nantes 2" [ref=f81e484]
+                      - list [ref=f81e485]:
+                        - listitem [ref=f81e486]: Nuevo
+                      - link [ref=f81e489] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e490]: 
+                      - generic: 
+                    - generic [ref=f81e491]:
+                      - heading [level=3] [ref=f81e492]:
+                        - link "Conor Nantes" [ref=f81e493] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/bicicletas-electricas/1888-conor-nantes.html
+                      - link "1.450,00 €" [ref=f81e496] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1888-8389-conor-nantes.html#/14-color-azul
+                      - text:    
+                  - article [ref=f81e498]:
+                    - generic [ref=f81e499]:
+                      - link [ref=f81e501] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1887-kamikaze-k1-max.html
+                        - img "Kamikaze K1 Max" [ref=f81e502]
+                        - img "Kamikaze K1 Max 2" [ref=f81e503]
+                      - list [ref=f81e504]:
+                        - listitem [ref=f81e505]: "-40,00 €"
+                        - listitem [ref=f81e506]: Nuevo
+                      - link [ref=f81e509] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e510]: 
+                      - generic: 
+                    - generic [ref=f81e511]:
+                      - heading [level=3] [ref=f81e512]:
+                        - link "Kamikaze K1 Max Certificado" [ref=f81e513] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1887-kamikaze-k1-max.html
+                      - generic [ref=f81e515]:
+                        - link "759,00 €" [ref=f81e516] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1887-kamikaze-k1-max.html
+                        - text: 799,00 €
+                      - text:    
+                  - article [ref=f81e518]:
+                    - generic [ref=f81e519]:
+                      - link [ref=f81e521] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1883-ice-fireproof-bag-s5-bolsa-garaje-ignifuga-anti-incendios-para-patinetes-electricos.html
+                        - img "ICe Fireproof Bag S5" [ref=f81e522]
+                        - img "ICe Fireproof Bag S5 2" [ref=f81e523]
+                      - list [ref=f81e524]:
+                        - listitem [ref=f81e525]: Nuevo
+                      - link [ref=f81e528] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e529]: 
+                      - generic: 
+                    - generic [ref=f81e530]:
+                      - heading [level=3] [ref=f81e531]:
+                        - link "ICe Fireproof Bag S5 - Bolsa garaje ignífuga anti incendios para patinetes eléctricos" [ref=f81e532] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1883-ice-fireproof-bag-s5-bolsa-garaje-ignifuga-anti-incendios-para-patinetes-electricos.html
+                      - link "189,00 €" [ref=f81e535] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1883-ice-fireproof-bag-s5-bolsa-garaje-ignifuga-anti-incendios-para-patinetes-electricos.html
+                      - text:    
+                  - article [ref=f81e537]:
+                    - generic [ref=f81e538]:
+                      - link [ref=f81e540] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1875-8361-gafas-cross-adulto-roan-vega.html#/11-color-negro
+                        - img "Gafas cross adulto Roan Vega" [ref=f81e541]
+                        - img "Gafas cross adulto Roan Vega 2" [ref=f81e542]
+                      - list
+                      - link [ref=f81e545] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e546]: 
+                      - generic: 
+                    - generic [ref=f81e547]:
+                      - heading [level=3] [ref=f81e548]:
+                        - link "Gafas cross adulto Madix Vega" [ref=f81e549] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1875-gafas-cross-adulto-roan-vega.html
+                      - link "24,90 €" [ref=f81e552] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1875-8361-gafas-cross-adulto-roan-vega.html#/11-color-negro
+                      - text:    
+                  - article [ref=f81e554]:
+                    - generic [ref=f81e555]:
+                      - link [ref=f81e557] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1872-candado-de-cadena-con-alarma.html
+                        - img "Candado de cadena con alarma" [ref=f81e558]
+                        - img "Candado de cadena con alarma 2" [ref=f81e559]
+                      - list
+                      - link [ref=f81e562] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e563]: 
+                      - generic: 
+                    - generic [ref=f81e564]:
+                      - heading [level=3] [ref=f81e565]:
+                        - link "Candado de cadena con alarma" [ref=f81e566] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1872-candado-de-cadena-con-alarma.html
+                      - link "39,90 €" [ref=f81e569] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1872-candado-de-cadena-con-alarma.html
+                      - text:    
+                  - article [ref=f81e571]:
+                    - generic [ref=f81e572]:
+                      - link [ref=f81e574] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1867-8354-fiido-nomads-pro.html#/2-tamano-m
+                        - img "Fiido Nomads Pro" [ref=f81e575]
+                        - img "Fiido Nomads Pro 2" [ref=f81e576]
+                      - list
+                      - link [ref=f81e579] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e580]: 
+                      - generic: 
+                    - generic [ref=f81e581]:
+                      - heading [level=3] [ref=f81e582]:
+                        - link "Fiido Nomads Pro" [ref=f81e583] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/bicicletas-electricas/1867-fiido-nomads-pro.html
+                      - link "1.990,00 €" [ref=f81e586] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1867-8354-fiido-nomads-pro.html#/2-tamano-m
+                      - text:    
+                  - article [ref=f81e588]:
+                    - generic [ref=f81e589]:
+                      - link [ref=f81e591] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1856-localizador-rastreador-para-patinete-para-apple-find-my-y-android-.html
+                        - img "Localizador rastreador para patinete para Apple Find My y Android" [ref=f81e592]
+                        - img "Localizador rastreador para patinete para Apple Find My y Android 2" [ref=f81e593]
+                      - list
+                      - link [ref=f81e596] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e597]: 
+                      - generic: 
+                    - generic [ref=f81e598]:
+                      - heading [level=3] [ref=f81e599]:
+                        - link "Localizador Apple Find My y Android para patinete" [ref=f81e600] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1856-localizador-rastreador-para-patinete-para-apple-find-my-y-android-.html
+                      - link "29,90 €" [ref=f81e603] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1856-localizador-rastreador-para-patinete-para-apple-find-my-y-android-.html
+                      - text:    
+                  - article [ref=f81e605]:
+                    - generic [ref=f81e606]:
+                      - link [ref=f81e608] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1853-8341-ecoxtrem-deimos.html#/11-color-negro
+                        - img "Ecoxtrem Deimos" [ref=f81e609]
+                        - img "Ecoxtrem Deimos 2" [ref=f81e610]
+                      - list [ref=f81e611]:
+                        - listitem [ref=f81e612]: "-100,00 €"
+                      - link [ref=f81e615] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e616]: 
+                      - generic: 
+                    - generic [ref=f81e617]:
+                      - heading [level=3] [ref=f81e618]:
+                        - link "Ecoxtrem Deimos certificado" [ref=f81e619] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1853-ecoxtrem-deimos.html
+                      - generic [ref=f81e621]:
+                        - link "499,00 €" [ref=f81e622] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1853-8341-ecoxtrem-deimos.html#/11-color-negro
+                        - text: 599,00 €
+                      - text:    
+                  - article [ref=f81e624]:
+                    - generic [ref=f81e625]:
+                      - link [ref=f81e627] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1852-8376-ecoxtrem-deimos.html#/16-color-amarillo
+                        - img "Ecoxtrem Deimos Dual" [ref=f81e628]
+                        - img "Ecoxtrem Deimos Dual 2" [ref=f81e629]
+                      - list [ref=f81e630]:
+                        - listitem [ref=f81e631]: "-50,00 €"
+                      - link [ref=f81e634] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e635]: 
+                      - generic: 
+                    - generic [ref=f81e636]:
+                      - heading [level=3] [ref=f81e637]:
+                        - link "Ecoxtrem Deimos Dual certificado" [ref=f81e638] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1852-ecoxtrem-deimos.html
+                      - generic [ref=f81e640]:
+                        - link "649,00 €" [ref=f81e641] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1852-8376-ecoxtrem-deimos.html#/16-color-amarillo
+                        - text: 699,00 €
+                      - text:    
+                  - article [ref=f81e643]:
+                    - generic [ref=f81e644]:
+                      - link [ref=f81e646] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1851-smartgyro-rockway-gt-dual.html
+                        - img "smartgyro Rockway GT Dual" [ref=f81e647]
+                        - img "smartgyro Rockway GT Dual 2" [ref=f81e648]
+                      - list
+                      - link [ref=f81e651] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e652]: 
+                      - generic: 
+                    - generic [ref=f81e653]:
+                      - heading [level=3] [ref=f81e654]:
+                        - link "smartgyro Rockway GT Dual ceritificado" [ref=f81e655] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1851-smartgyro-rockway-gt-dual.html
+                      - link "790,00 €" [ref=f81e658] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1851-smartgyro-rockway-gt-dual.html
+                      - text:    
+                  - article [ref=f81e660]:
+                    - generic [ref=f81e661]:
+                      - link [ref=f81e663] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/motos-electricas/1847-8328-roan-warrior-mx-e250-1212-250w-minicross-electrica.html#/181-color-rosa_fucsia
+                        - img "Roan Warrior MX-E250 12/12\" 250W minicross eléctrica" [ref=f81e664]
+                        - img "Roan Warrior MX-E250 12/12\" 250W minicross eléctrica 2" [ref=f81e665]
+                      - list
+                      - link [ref=f81e668] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e669]: 
+                      - generic: 
+                    - generic [ref=f81e670]:
+                      - heading [level=3] [ref=f81e671]:
+                        - link "Roan Warrior MX-E250 12/12\" 250W minicross eléctrica" [ref=f81e672] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/motos-electricas/1847-roan-warrior-mx-e250-1212-250w-minicross-electrica.html
+                      - link "339,00 €" [ref=f81e675] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/motos-electricas/1847-8328-roan-warrior-mx-e250-1212-250w-minicross-electrica.html#/181-color-rosa_fucsia
+                      - text:    
+                  - article [ref=f81e677]:
+                    - generic [ref=f81e678]:
+                      - link [ref=f81e680] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1846-smartgyro-k5-pro-lr.html
+                        - img "smartGyro K5 PRO" [ref=f81e681]
+                        - img "smartGyro K5 PRO 2" [ref=f81e682]
+                      - list [ref=f81e683]:
+                        - listitem [ref=f81e684]: "-20,00 €"
+                      - link [ref=f81e687] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e688]: 
+                      - generic: 
+                    - generic [ref=f81e689]:
+                      - heading [level=3] [ref=f81e690]:
+                        - link "smartGyro K5 PRO LR certificado" [ref=f81e691] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1846-smartgyro-k5-pro-lr.html
+                      - generic [ref=f81e693]:
+                        - link "779,00 €" [ref=f81e694] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1846-smartgyro-k5-pro-lr.html
+                        - text: 799,00 €
+                      - text:    
+                  - article [ref=f81e696]:
+                    - generic [ref=f81e697]:
+                      - link [ref=f81e699] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/monociclos-electricos/1844-inmotion-v14-pro-50s.html
+                        - img "InMotion V14 PRO (50S)" [ref=f81e700]
+                        - img "InMotion V14 PRO (50S) 2" [ref=f81e701]
+                      - list
+                      - link [ref=f81e704] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e705]: 
+                      - generic: 
+                    - generic [ref=f81e706]:
+                      - heading [level=3] [ref=f81e707]:
+                        - link "InMotion V14 PRO (50S)" [ref=f81e708] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/monociclos-electricos/1844-inmotion-v14-pro-50s.html
+                      - link "3.299,00 €" [ref=f81e711] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/monociclos-electricos/1844-inmotion-v14-pro-50s.html
+                      - text:    
+                  - article [ref=f81e713]:
+                    - generic [ref=f81e714]:
+                      - link [ref=f81e716] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1839-conor-maui-fat.html
+                        - img "Conor Maui Fat" [ref=f81e717]
+                        - img "Conor Maui Fat 2" [ref=f81e718]
+                      - list
+                      - link [ref=f81e721] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e722]: 
+                      - generic: 
+                    - generic [ref=f81e723]:
+                      - heading [level=3] [ref=f81e724]:
+                        - link "Conor Maui Fat" [ref=f81e725] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/bicicletas-electricas/1839-conor-maui-fat.html
+                      - link "1.890,00 €" [ref=f81e728] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1839-conor-maui-fat.html
+                      - text:    
+                  - article [ref=f81e730]:
+                    - generic [ref=f81e731]:
+                      - link [ref=f81e733] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1838-teverun-fighter-mini-pro-2026-60v-31ah-bosch.html
+                        - img "everun Fighter Mini PRO 2026" [ref=f81e734]
+                        - img "everun Fighter Mini PRO 2026 2" [ref=f81e735]
+                      - list
+                      - link [ref=f81e738] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e739]: 
+                      - generic: 
+                    - generic [ref=f81e740]:
+                      - heading [level=3] [ref=f81e741]:
+                        - link "Teverun Fighter Mini PRO Carbon Bosch Certificado" [ref=f81e742] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1838-teverun-fighter-mini-pro-2026-60v-31ah-bosch.html
+                      - link "2.290,00 €" [ref=f81e745] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1838-teverun-fighter-mini-pro-2026-60v-31ah-bosch.html
+                      - text:    
+                  - article [ref=f81e747]:
+                    - generic [ref=f81e748]:
+                      - link [ref=f81e750] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1837-8326-conor-lombok-275.html#/429-talla-sm
+                        - img "Conor LOMBOK" [ref=f81e751]
+                        - img "Conor LOMBOK 2" [ref=f81e752]
+                      - list
+                      - link [ref=f81e755] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e756]: 
+                      - generic: 
+                    - generic [ref=f81e757]:
+                      - heading [level=3] [ref=f81e758]:
+                        - link "Conor LOMBOK 27,5\"" [ref=f81e759] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/bicicletas-electricas/1837-conor-lombok-275.html
+                      - link "1.890,00 €" [ref=f81e762] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1837-8326-conor-lombok-275.html#/429-talla-sm
+                      - text:    
+                  - article [ref=f81e764]:
+                    - generic [ref=f81e765]:
+                      - link [ref=f81e767] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1836-koolux-x10-250w-36v-13ah-16.html
+                        - img "Koolux X10 250W 36V 13Ah 16”" [ref=f81e768]
+                        - img "Koolux X10 250W 36V 13Ah 16” 2" [ref=f81e769]
+                      - list
+                      - link [ref=f81e772] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e773]: 
+                      - generic: 
+                    - generic [ref=f81e774]:
+                      - heading [level=3] [ref=f81e775]:
+                        - link "Koolux X10 250W 36V 13Ah 16”" [ref=f81e776] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/bicicletas-electricas/1836-koolux-x10-250w-36v-13ah-16.html
+                      - link "689,00 €" [ref=f81e779] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1836-koolux-x10-250w-36v-13ah-16.html
+                      - text:    
+                  - article [ref=f81e781]:
+                    - generic [ref=f81e782]:
+                      - link [ref=f81e784] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/triciclos-electricos-y-movilidad-reducida/1835-etnnic-30-triciclo-electrico.html
+                        - img "Etnnic 3.0 triciclo eléctrico" [ref=f81e785]
+                        - img "Etnnic 3.0 triciclo eléctrico 2" [ref=f81e786]
+                      - list
+                      - link [ref=f81e789] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e790]: 
+                      - generic: 
+                    - generic [ref=f81e791]:
+                      - heading [level=3] [ref=f81e792]:
+                        - link "Etnnic 3.0 triciclo eléctrico" [ref=f81e793] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/triciclos-electricos-y-movilidad-reducida/1835-etnnic-30-triciclo-electrico.html
+                      - link "5.295,00 €" [ref=f81e796] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/triciclos-electricos-y-movilidad-reducida/1835-etnnic-30-triciclo-electrico.html
+                      - text:    
+                  - article [ref=f81e798]:
+                    - generic [ref=f81e799]:
+                      - link [ref=f81e801] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/triciclos-electricos-y-movilidad-reducida/1834-8402-etnnic-folding-trike-30-triciclo-electrico.html#/5-color-gris
+                        - img "Etnnic Folding Trike 3.0 triciclo eléctrico" [ref=f81e802]
+                        - img "Etnnic Folding Trike 3.0 triciclo eléctrico 2" [ref=f81e803]
+                      - list
+                      - link [ref=f81e806] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e807]: 
+                      - generic: 
+                    - generic [ref=f81e808]:
+                      - heading [level=3] [ref=f81e809]:
+                        - link "Etnnic Folding Trike 3.0 triciclo eléctrico" [ref=f81e810] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/triciclos-electricos-y-movilidad-reducida/1834-etnnic-folding-trike-30-triciclo-electrico.html
+                      - link "5.990,00 €" [ref=f81e813] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/triciclos-electricos-y-movilidad-reducida/1834-8402-etnnic-folding-trike-30-triciclo-electrico.html#/5-color-gris
+                      - text:    
+                  - article [ref=f81e815]:
+                    - generic [ref=f81e816]:
+                      - link [ref=f81e818] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/triciclos-electricos-y-movilidad-reducida/1833-etnnic-fst-evo-triciclo-electrico.html
+                        - img "Etnnic Fst Evo triciclo eléctrico" [ref=f81e819]
+                        - img "Etnnic Fst Evo triciclo eléctrico 2" [ref=f81e820]
+                      - list
+                      - link [ref=f81e823] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e824]: 
+                      - generic: 
+                    - generic [ref=f81e825]:
+                      - heading [level=3] [ref=f81e826]:
+                        - link "Etnnic FST Evo triciclo eléctrico" [ref=f81e827] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/triciclos-electricos-y-movilidad-reducida/1833-etnnic-fst-evo-triciclo-electrico.html
+                      - link "6.595,00 €" [ref=f81e830] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/triciclos-electricos-y-movilidad-reducida/1833-etnnic-fst-evo-triciclo-electrico.html
+                      - text:    
+                  - article [ref=f81e832]:
+                    - generic [ref=f81e833]:
+                      - link [ref=f81e835] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1832-8320-koolux-x16-250w-48v-20-plegable.html#/11-color-negro
+                        - img "KOOLUX X16 250W" [ref=f81e836]
+                        - img "KOOLUX X16 250W 2" [ref=f81e837]
+                      - list
+                      - link [ref=f81e840] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e841]: 
+                      - generic: 
+                    - generic [ref=f81e842]:
+                      - heading [level=3] [ref=f81e843]:
+                        - link "KOOLUX X16 250W 48V 15,6Ah 20” plegable con APP" [ref=f81e844] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/bicicletas-electricas/1832-koolux-x16-250w-48v-20-plegable.html
+                      - link "949,00 €" [ref=f81e847] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1832-8320-koolux-x16-250w-48v-20-plegable.html#/11-color-negro
+                      - text:    
+                  - article [ref=f81e849]:
+                    - generic [ref=f81e850]:
+                      - link [ref=f81e852] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1831-koolux-x9-mini-250w-48v.html
+                        - img "KOOLUX X9 Mini" [ref=f81e853]
+                        - img "KOOLUX X9 Mini 2" [ref=f81e854]
+                      - list
+                      - link [ref=f81e857] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e858]: 
+                      - generic: 
+                    - generic [ref=f81e859]:
+                      - heading [level=3] [ref=f81e860]:
+                        - link "KOOLUX X9 Mini 250W 48V 13Ah 16”" [ref=f81e861] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/bicicletas-electricas/1831-koolux-x9-mini-250w-48v.html
+                      - link "819,00 €" [ref=f81e864] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1831-koolux-x9-mini-250w-48v.html
+                      - text:    
+                  - article [ref=f81e866]:
+                    - generic [ref=f81e867]:
+                      - link [ref=f81e869] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1830-roan-rfn-zip-pro-20-1000w-48v-bicicleta-electrica.html
+                        - img "Roan RFN ZIP PRO 20” 1000W 48V bicicleta eléctrica" [ref=f81e870]
+                        - img "Roan RFN ZIP PRO 20” 1000W 48V bicicleta eléctrica 2" [ref=f81e871]
+                      - list
+                      - link [ref=f81e874] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e875]: 
+                      - generic: 
+                    - generic [ref=f81e876]:
+                      - heading [level=3] [ref=f81e877]:
+                        - link "Roan RFN ZIP PRO 20” 1000W 48V bicicleta eléctrica" [ref=f81e878] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/bicicletas-electricas/1830-roan-rfn-zip-pro-20-1000w-48v-bicicleta-electrica.html
+                      - link "1.499,00 €" [ref=f81e881] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1830-roan-rfn-zip-pro-20-1000w-48v-bicicleta-electrica.html
+                      - text:    
+                  - article [ref=f81e883]:
+                    - generic [ref=f81e884]:
+                      - link [ref=f81e886] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1825-casco-smartgyro-smart-helmet-2-lm-blue.html
+                        - img "Casco smartGyro Smart Helmet 2 L/M BLUE" [ref=f81e887]
+                        - img "Casco smartGyro Smart Helmet 2 L/M BLUE 2" [ref=f81e888]
+                      - list
+                      - link [ref=f81e891] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e892]: 
+                      - generic: 
+                    - generic [ref=f81e893]:
+                      - heading [level=3] [ref=f81e894]:
+                        - link "Casco smartGyro Smart Helmet 2 L/M BLUE" [ref=f81e895] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1825-casco-smartgyro-smart-helmet-2-lm-blue.html
+                      - link "69,90 €" [ref=f81e898] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1825-casco-smartgyro-smart-helmet-2-lm-blue.html
+                      - text:    
+                  - article [ref=f81e900]:
+                    - generic [ref=f81e901]:
+                      - link [ref=f81e903] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1824-odyssr-drift-dual.html
+                        - img "Odyssr Drift Dual" [ref=f81e904]
+                        - img "Odyssr Drift Dual 2" [ref=f81e905]
+                      - list
+                      - link [ref=f81e908] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e909]: 
+                      - generic: 
+                    - generic [ref=f81e910]:
+                      - heading [level=3] [ref=f81e911]:
+                        - link "Odyssr Drift Dual Certificado" [ref=f81e912] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1824-odyssr-drift-dual.html
+                      - link "1.290,00 €" [ref=f81e915] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1824-odyssr-drift-dual.html
+                      - text:    
+                  - article [ref=f81e917]:
+                    - generic [ref=f81e918]:
+                      - link [ref=f81e920] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/bicicletas-electricas/1808-roan-rfn-zip-pro-24-1000w-48v-bicicleta-electrica-sin-pedales.html
+                        - img "Roan RFN EVO PRO 24” 1000W 48V bicicleta eléctrica sin pedales" [ref=f81e921]
+                        - img "Roan RFN EVO PRO 24” 1000W 48V bicicleta eléctrica sin pedales 2" [ref=f81e922]
+                      - list [ref=f81e923]:
+                        - listitem [ref=f81e924]: "-40,00 €"
+                      - link [ref=f81e927] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e928]: 
+                      - generic: 
+                    - generic [ref=f81e929]:
+                      - heading [level=3] [ref=f81e930]:
+                        - link "Roan RFN ZIP PRO 24” 1000W 48V bicicleta eléctrica sin pedales" [ref=f81e931] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/bicicletas-electricas/1808-roan-rfn-zip-pro-24-1000w-48v-bicicleta-electrica-sin-pedales.html
+                      - generic [ref=f81e933]:
+                        - link "1.750,00 €" [ref=f81e934] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/bicicletas-electricas/1808-roan-rfn-zip-pro-24-1000w-48v-bicicleta-electrica-sin-pedales.html
+                        - text: 1.790,00 €
+                      - text:    
+                  - article [ref=f81e936]:
+                    - generic [ref=f81e937]:
+                      - link [ref=f81e939] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1807-8272-peto-nino-roan-ninja.html#/310-tamano-xs
+                        - img "Peto niño ROAN ninja" [ref=f81e940]
+                        - img "Peto niño ROAN ninja 2" [ref=f81e941]
+                      - list
+                      - link [ref=f81e944] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e945]: 
+                      - generic [ref=f81e947]:
+                        - generic [ref=f81e948]: 
+                        - text: Consultar stock previamente
+                    - generic [ref=f81e949]:
+                      - heading [level=3] [ref=f81e950]:
+                        - link "Peto niño ROAN ninja" [ref=f81e951] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1807-peto-nino-roan-ninja.html
+                      - link "49,90 €" [ref=f81e954] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1807-8272-peto-nino-roan-ninja.html#/310-tamano-xs
+                      - text:    
+                  - article [ref=f81e956]:
+                    - generic [ref=f81e957]:
+                      - link [ref=f81e959] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1802-portabicicletas-plegable-uebler-i41-s-con-control-de-distancia-para-4-bicicletas-90.html
+                        - img "Portabicicletas Plegable Uebler i41 S con control de distancia" [ref=f81e960]
+                        - img "Portabicicletas Plegable Uebler i41 S con control de distancia 2" [ref=f81e961]
+                      - list
+                      - link [ref=f81e964] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e965]: 
+                      - generic: 
+                    - generic [ref=f81e966]:
+                      - heading [level=3] [ref=f81e967]:
+                        - link "Portabicicletas Plegable Uebler i41 S con control de distancia para 4 Bicicletas 90º" [ref=f81e968] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1802-portabicicletas-plegable-uebler-i41-s-con-control-de-distancia-para-4-bicicletas-90.html
+                      - link "1.745,00 €" [ref=f81e971] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1802-portabicicletas-plegable-uebler-i41-s-con-control-de-distancia-para-4-bicicletas-90.html
+                      - text:    
+                  - article [ref=f81e973]:
+                    - generic [ref=f81e974]:
+                      - link [ref=f81e976] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1785-soporte-baterias-fiido-titan.html
+                        - img "Soporte baterías Fiido Titan" [ref=f81e977]
+                      - list
+                      - link [ref=f81e980] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e981]: 
+                      - generic: 
+                    - generic [ref=f81e982]:
+                      - heading [level=3] [ref=f81e983]:
+                        - link "Soporte baterías Fiido Titan" [ref=f81e984] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1785-soporte-baterias-fiido-titan.html
+                      - link "99,00 €" [ref=f81e987] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1785-soporte-baterias-fiido-titan.html
+                      - text:    
+                  - article [ref=f81e989]:
+                    - generic [ref=f81e990]:
+                      - link [ref=f81e992] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1781-soporte-movil-fiido.html
+                        - img "Soporte móvil Fiido" [ref=f81e993]
+                      - list
+                      - link [ref=f81e996] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e997]: 
+                      - generic: 
+                    - generic [ref=f81e998]:
+                      - heading [level=3] [ref=f81e999]:
+                        - link "Soporte móvil Fiido" [ref=f81e1000] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1781-soporte-movil-fiido.html
+                      - link "29,00 €" [ref=f81e1003] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1781-soporte-movil-fiido.html
+                      - text:    
+                  - article [ref=f81e1005]:
+                    - generic [ref=f81e1006]:
+                      - link [ref=f81e1008] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1777-kit-doble-bateria-extra-soporte-bateria-fiido-titan.html
+                        - img "Kit doble batería extra +..." [ref=f81e1009]
+                      - list
+                      - link [ref=f81e1012] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e1013]: 
+                      - generic: 
+                    - generic [ref=f81e1014]:
+                      - heading [level=3] [ref=f81e1015]:
+                        - link "Kit doble batería extra + soporte batería Fiido Titan" [ref=f81e1016] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1777-kit-doble-bateria-extra-soporte-bateria-fiido-titan.html
+                      - link "790,00 €" [ref=f81e1019] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1777-kit-doble-bateria-extra-soporte-bateria-fiido-titan.html
+                      - text:    
+                  - article [ref=f81e1021]:
+                    - generic [ref=f81e1022]:
+                      - link [ref=f81e1024] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/quads-electricos/1776-8253-roan-ratte-miniquad-electrico-1000w-36v-motor-brushless.html#/14-color-azul
+                        - img "Roan Ratte miniquad eléctrico 1000W 36V motor brush" [ref=f81e1025]
+                        - img "Roan Ratte miniquad eléctrico 1000W 36V motor brush 2" [ref=f81e1026]
+                      - list
+                      - link [ref=f81e1029] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e1030]: 
+                      - generic [ref=f81e1032]:
+                        - generic [ref=f81e1033]: 
+                        - text: Fuera de stock. Consultar.
+                    - generic [ref=f81e1034]:
+                      - heading [level=3] [ref=f81e1035]:
+                        - link "Roan Ratte miniquad eléctrico 1000W 36V motor brushless" [ref=f81e1036] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/quads-electricos/1776-roan-ratte-miniquad-electrico-1000w-36v-motor-brushless.html
+                      - link "555,00 €" [ref=f81e1039] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/quads-electricos/1776-8253-roan-ratte-miniquad-electrico-1000w-36v-motor-brushless.html#/14-color-azul
+                  - article [ref=f81e1041]:
+                    - generic [ref=f81e1042]:
+                      - link [ref=f81e1044] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1772-vinilo-ecoxtrem-m41-tank-armored-amarillo-holografico-redbull.html
+                        - img "Vinilo Ecoxtrem M41 Tank / Armored AMARILLO Holográfico REDBULL" [ref=f81e1045]
+                      - list
+                      - link [ref=f81e1048] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e1049]: 
+                      - generic: 
+                    - generic [ref=f81e1050]:
+                      - heading [level=3] [ref=f81e1051]:
+                        - link "Vinilo Ecoxtrem M41 Tank / Armored AMARILLO Holográfico REDBULL" [ref=f81e1052] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1772-vinilo-ecoxtrem-m41-tank-armored-amarillo-holografico-redbull.html
+                      - link "79,90 €" [ref=f81e1055] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1772-vinilo-ecoxtrem-m41-tank-armored-amarillo-holografico-redbull.html
+                      - text:    
+                  - article [ref=f81e1057]:
+                    - generic [ref=f81e1058]:
+                      - link [ref=f81e1060] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1771-vinilo-ecoxtrem-m41-tank-armored-rojo-holografico-redbull.html
+                        - img "Vinilo Ecoxtrem M41 Tank / Armored ROJO Holografico REDBULL" [ref=f81e1061]
+                      - list
+                      - link [ref=f81e1064] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e1065]: 
+                      - generic: 
+                    - generic [ref=f81e1066]:
+                      - heading [level=3] [ref=f81e1067]:
+                        - link "Vinilo Ecoxtrem M41 Tank / Armored ROJO Holográfico REDBULL" [ref=f81e1068] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1771-vinilo-ecoxtrem-m41-tank-armored-rojo-holografico-redbull.html
+                      - link "79,90 €" [ref=f81e1071] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/accesorios-vmp-ciclismo/1771-vinilo-ecoxtrem-m41-tank-armored-rojo-holografico-redbull.html
+                      - text:    
+                  - article [ref=f81e1073]:
+                    - generic [ref=f81e1074]:
+                      - link [ref=f81e1076] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1760-smartgyro-rockway-gl.html
+                        - img "smartGyro Rockway GL" [ref=f81e1077]
+                        - img "smartGyro Rockway GL 2" [ref=f81e1078]
+                      - list
+                      - link [ref=f81e1081] [cursor=pointer]:
+                        - /url: "#"
+                        - generic [ref=f81e1082]: 
+                      - generic: 
+                    - generic [ref=f81e1083]:
+                      - heading [level=3] [ref=f81e1084]:
+                        - link "smartGyro Rockway GL certificado" [ref=f81e1085] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1760-smartgyro-rockway-gl.html
+                      - link "599,00 €" [ref=f81e1088] [cursor=pointer]:
+                        - /url: https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1760-smartgyro-rockway-gl.html
+                      - text:    
+                - generic [ref=f81e1090]:
+                  - generic [ref=f81e1091]: Mostrando 1-52 de 272 artículo(s)
+                  - navigation [ref=f81e1093]:
+                    - list [ref=f81e1094]:
+                      - listitem [ref=f81e1095]:
+                        - link "1" [ref=f81e1096] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/busqueda?controller=search&s=SO-03
+                      - listitem [ref=f81e1097]:
+                        - link "2" [ref=f81e1098] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/busqueda?controller=search&s=SO-03&page=2
+                      - listitem [ref=f81e1099]:
+                        - link "3" [ref=f81e1100] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/busqueda?controller=search&s=SO-03&page=3
+                      - listitem [ref=f81e1101]: …
+                      - listitem [ref=f81e1102]:
+                        - link "6" [ref=f81e1103] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/busqueda?controller=search&s=SO-03&page=6
+                      - listitem [ref=f81e1104]:
+                        - link [ref=f81e1105] [cursor=pointer]:
+                          - /url: https://www.imoveblue.es/busqueda?controller=search&s=SO-03&page=2
+                          - generic [ref=f81e1106]: 
+            - text: 
+    - generic [ref=f81e1107]:
+      - generic [ref=f81e1110]:
+        - generic [ref=f81e1111]:
+          - heading "Suscríbete y te regalamos 10€" [level=5] [ref=f81e1112]
+          - generic [ref=f81e1114]:
+            - generic [ref=f81e1115]:
+              - textbox "Su dirección de correo electrónico" [ref=f81e1116]
+              - button "Suscribirse" [disabled] [ref=f81e1117]:
+                - generic [ref=f81e1118]: 
+            - generic [ref=f81e1121]:
+              - checkbox "Acepto los términos y condiciones y la política de privacidad. Lee los términos y condiciones de uso." [ref=f81e1122] [cursor=pointer]
+              - generic [ref=f81e1123] [cursor=pointer]: 
+              - generic [ref=f81e1124]:
+                - text: Acepto los términos y condiciones y la política de privacidad.
+                - generic [ref=f81e1125]:
+                  - link "Lee los términos y condiciones de uso" [ref=f81e1126] [cursor=pointer]:
+                    - /url: https://www.imoveblue.es/content/2-aviso-legal
+                  - text: .
+        - list [ref=f81e1128]:
+          - listitem [ref=f81e1129]:
+            - link [ref=f81e1130] [cursor=pointer]:
+              - /url: https://www.facebook.com/imoveblue/
+              - generic [ref=f81e1131]: 
+          - listitem [ref=f81e1132]:
+            - link [ref=f81e1133] [cursor=pointer]:
+              - /url: https://twitter.com/imoveblue
+              - generic [ref=f81e1134]: 
+          - listitem [ref=f81e1135]:
+            - link [ref=f81e1136] [cursor=pointer]:
+              - /url: https://www.instagram.com/imoveblue.es/
+              - generic [ref=f81e1137]: 
+          - listitem [ref=f81e1138]:
+            - link [ref=f81e1139] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCFwHWdvgGT9VnTsA5MxFfWw
+              - generic [ref=f81e1140]: 
+      - generic [ref=f81e1143]:
+        - generic [ref=f81e1144]:
+          - heading "Atención al cliente" [level=5] [ref=f81e1145]
+          - generic [ref=f81e1147]:
+            - generic [ref=f81e1148]:
+              - strong [ref=f81e1149]: "Imoveblue.es - NIF: ESJ01585108"
+              - generic [ref=f81e1150]:
+                - generic [ref=f81e1151]: 
+                - generic [ref=f81e1153]: Apartado de Correos 5003 - 01015 Vitoria-Gasteiz, Euskadi
+              - separator [ref=f81e1154]
+              - generic [ref=f81e1155]:
+                - generic [ref=f81e1156]: 
+                - link "+34 688 751 888" [ref=f81e1159] [cursor=pointer]:
+                  - /url: tel:+34 688 751 888
+              - separator [ref=f81e1160]
+              - generic [ref=f81e1161]:
+                - generic [ref=f81e1162]: 
+                - link "info@imoveblue.es" [ref=f81e1165] [cursor=pointer]:
+                  - /url: mailto:info@imoveblue.es
+            - separator [ref=f81e1166]
+            - generic [ref=f81e1167]:
+              - paragraph [ref=f81e1168]: Si necesitas asesoramiento o servicio postventa no dudes en contactar con nosotros. Nuestro equipo estará encantado de ayudarte.
+              - paragraph [ref=f81e1169]: "Horario de atención al cliente verano: Lunes a Viernes de 10:00h a 15:00h"
+        - generic [ref=f81e1170]:
+          - heading "Información" [level=5] [ref=f81e1171]
+          - list [ref=f81e1174]:
+            - listitem [ref=f81e1175]:
+              - link " Contacto" [ref=f81e1176] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/contactenos
+            - listitem [ref=f81e1177]:
+              - link " Matricular patinete eléctrico VMP DGT" [ref=f81e1178] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/14-matricular-patinete-electrico-vmp-dgt
+            - listitem [ref=f81e1179]:
+              - link " Financiar patinete eléctrico" [ref=f81e1180] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/12-financiar-patinete-electrico
+            - listitem [ref=f81e1181]:
+              - link " Normativa VMP" [ref=f81e1182] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/11-normativa-vmp
+            - listitem [ref=f81e1183]:
+              - link " Postventa y Garantía" [ref=f81e1184] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/13-postventa-y-garantia
+            - listitem [ref=f81e1185]:
+              - link " Opiniones Trusted Shops" [ref=f81e1186] [cursor=pointer]:
+                - /url: https://www.trustedshops.es/evaluacion/info_X7971BAC9A2BC178FCCBEA75B22E0AD86.html?utm_source=shop&utm_medium=link&utm_content=allRatings__full&utm_campaign=trustbadge_maximised
+            - listitem [ref=f81e1187]:
+              - link " Opiniones Google" [ref=f81e1188] [cursor=pointer]:
+                - /url: https://www.google.com/search?q=imovebblue+opiniones+google&oq=imovebblue+opiniones+google&aqs=chrome..69i57j33i160.3751j0j7&sourceid=chrome&ie=UTF-8#lrd=0xd4fc185e0cebe53:0x21a8560d6ea10371,1,,,,
+            - listitem [ref=f81e1189]:
+              - link " Opiniones Trustpilot" [ref=f81e1190] [cursor=pointer]:
+                - /url: https://es.trustpilot.com/review/www.imoveblue.es
+            - listitem [ref=f81e1191]:
+              - link " Descuentos y promociones" [ref=f81e1192] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/8-descuentos
+            - listitem [ref=f81e1193]:
+              - link " Condiciones de compra y envío" [ref=f81e1194] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/3-terminos-y-condiciones-de-uso
+            - listitem [ref=f81e1195]:
+              - link " Pago seguro" [ref=f81e1196] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/5-pago-seguro
+            - listitem [ref=f81e1197]:
+              - link " Sobre nosotros" [ref=f81e1198] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/4-sobre-nosotros
+            - listitem [ref=f81e1199]:
+              - link " Talleres colaboradores" [ref=f81e1200] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/10-talleres-colaboradores
+            - listitem [ref=f81e1201]:
+              - link " Seguro para tu VMP" [ref=f81e1202] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/15-seguro-patinete-electrico-vmp
+            - listitem [ref=f81e1203]:
+              - link " Mapa del sitio" [ref=f81e1204] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/mapa del sitio
+            - listitem [ref=f81e1205]:
+              - link " Aviso legal y Protección de datos" [ref=f81e1206] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/content/2-aviso-legal
+        - generic [ref=f81e1207]:
+          - heading "Categorías de productos" [level=5] [ref=f81e1208]
+          - list [ref=f81e1211]:
+            - listitem [ref=f81e1212]:
+              - link " Patinetes eléctricos" [ref=f81e1213] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/13-patinete-electrico
+            - listitem [ref=f81e1214]:
+              - link " Patinetes eléctricos certificados DGT" [ref=f81e1215] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt
+            - listitem [ref=f81e1216]:
+              - link " Motos eléctricas" [ref=f81e1217] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/18-motos-electricas
+            - listitem [ref=f81e1218]:
+              - link " Bicicletas eléctricas" [ref=f81e1219] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/14-bicicletas-electricas
+            - listitem [ref=f81e1220]:
+              - link " Monociclos eléctricos" [ref=f81e1221] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/30-monociclos-electricos
+            - listitem [ref=f81e1222]:
+              - link " Movilidad infantil" [ref=f81e1223] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/26-movilidad-infantil
+            - listitem [ref=f81e1224]:
+              - link " Estaciones de carga" [ref=f81e1225] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/39-estaciones-de-carga
+            - listitem [ref=f81e1226]:
+              - link " Accesorios VMP y ciclismo" [ref=f81e1227] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/28-accesorios-vmp-ciclismo
+            - listitem [ref=f81e1228]:
+              - link " Triciclos y movilidad reducida" [ref=f81e1229] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/32-triciclos-electricos
+            - listitem [ref=f81e1230]:
+              - link " Bicicletas" [ref=f81e1231] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/31-bicicletas
+            - listitem [ref=f81e1232]:
+              - link " Recambios" [ref=f81e1233] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/20-recambios
+            - listitem [ref=f81e1234]:
+              - link " Patinetes Dualtron DGT" [ref=f81e1235] [cursor=pointer]:
+                - /url: https://www.imoveblue.es/44-dualtron
+        - generic [ref=f81e1236]:
+          - heading "Pago seguro garantizado 100%" [level=5] [ref=f81e1237]
+          - generic [ref=f81e1239]:
+            - paragraph [ref=f81e1240]:
+              - img "Pago seguro garantizado - PLAZOX" [ref=f81e1241]
+            - paragraph
+      - generic [ref=f81e1245]:
+        - paragraph [ref=f81e1246]:
+          - text: "Somos un tienda online especializada en movilidad sostenible:"
+          - link "Patinetes eléctricos" [ref=f81e1247] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/13-patinetes-electricos
+          - text: ","
+          - link "motos eléctricas" [ref=f81e1248] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/18-motos-electricas
+          - text: ","
+          - link "bicicletas eléctricas" [ref=f81e1249] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/14-bicicletas-electricas
+          - text: ","
+          - link "remolques de bicicleta" [ref=f81e1250] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/10-remolques-de-bicicleta
+          - text: ","
+          - link "quads eléctricos" [ref=f81e1251] [cursor=pointer]:
+            - /url: https://www.imoveblue.es/15-quads-electricos
+          - text: y mucho más.
+        - paragraph [ref=f81e1252]:
+          - emphasis [ref=f81e1253]:
+            - 'link "Diseño web ecommerce: Rp Imagen" [ref=f81e1254] [cursor=pointer]':
+              - /url: https://www.rpimagen.com/
+  - generic [ref=f81e1256]:
+    - paragraph [ref=f81e1260]: Tu privacidad, tu consentimiento
+    - paragraph [ref=f81e1261]:
+      - text: En UJ Solutions SC utilizamos cookies y tecnologías similares para mejorar su experiencia y medir sus interacciones con nuestro sitio web. También los usamos para servirle información más relevante en búsquedas y en anuncios en este y otros sitios.
+      - generic [ref=f81e1262]:
+        - text: Lee más en nuestra
+        - link "Política de Cookies" [ref=f81e1263] [cursor=pointer]:
+          - /url: https://www.imoveblue.es/content/2-aviso-legal
+    - generic [ref=f81e1264]:
+      - generic [ref=f81e1266] [cursor=pointer]:
+        - generic [ref=f81e1267]: Ajusta tus preferencias de cookies
+        - img "Arrow" [ref=f81e1268]
+      - generic:
+        - generic:
+          - generic [ref=f81e1269]:
+            - generic [ref=f81e1270]:
+              - generic [ref=f81e1271]: Técnicas (obligatorias)
+              - generic [ref=f81e1272]:
+                - generic [ref=f81e1273]: i
+                - generic [ref=f81e1276]:
+                  - img "lock"
+            - generic [ref=f81e1277]:
+              - generic [ref=f81e1278]: Preferencias
+              - generic [ref=f81e1279]:
+                - generic [ref=f81e1280]: i
+                - checkbox [ref=f81e1284] [cursor=pointer]
+            - generic [ref=f81e1285]:
+              - generic [ref=f81e1286]: Estadísticas
+              - generic [ref=f81e1287]:
+                - generic [ref=f81e1288]: i
+                - checkbox [ref=f81e1292] [cursor=pointer]
+            - generic [ref=f81e1293]:
+              - generic [ref=f81e1294]: Marketing
+              - generic [ref=f81e1295]:
+                - generic [ref=f81e1296]: i
+                - checkbox [ref=f81e1300] [cursor=pointer]
+          - button "Guardar configuración personalizada de cookies" [ref=f81e1301] [cursor=pointer]
+    - generic [ref=f81e1302]:
+      - generic [ref=f81e1304] [cursor=pointer]:
+        - button "RECHAZAR LAS NO NECESARIAS" [ref=f81e1305]
+        - generic [ref=f81e1306]: Rechazar las cookies que no son extrictamente necesarias para el correcto funcionamiento de la web.
+      - generic [ref=f81e1308] [cursor=pointer]:
+        - button "ACEPTAR TODAS" [ref=f81e1309]
+        - generic [ref=f81e1310]: Habilitar todas las cookies y tecnologías disponibles para mejorar la experiencia.
+    - link "powered by Visible Privacy Logo" [ref=f81e1311] [cursor=pointer]:
+      - /url: https://www.visibleprivacy.com/
+      - generic [ref=f81e1312]: powered by
+      - img "Visible Privacy Logo" [ref=f81e1313]
+  - generic [ref=f81e1314]:
+    - button "Sello de Calidad de Trusted Shops Protección al Comprador 4,32 (682) Bueno Trstd Login" [ref=f81e1315] [cursor=pointer]:
+      - generic [ref=f81e1316]:
+        - img "Sello de Calidad de Trusted Shops" [ref=f81e1317]
+        - generic [ref=f81e1318]: Protección al Comprador
+      - generic [ref=f81e1320]:
+        - generic [ref=f81e1321]:
+          - generic [ref=f81e1322]: 4,32
+          - generic [ref=f81e1324]: (682)
+        - generic [ref=f81e1325]: Bueno
+      - switch "Trstd Login" [ref=f81e1327]
+    - button "Menú" [ref=f81e1329] [cursor=pointer]

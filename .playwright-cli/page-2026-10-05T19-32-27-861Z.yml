@@ -1,0 +1,395 @@
+- generic [ref=f108e1]:
+  - alertdialog [ref=f108e2]:
+    - generic [ref=f108e3]:
+      - generic [ref=f108e4]:
+        - heading "Consentimiento para el uso de cookies" [level=2] [ref=f108e5]
+        - paragraph [ref=f108e6]:
+          - text: Nosotros y nuestros partners, incluido Shopify, utilizamos cookies y otras tecnologías para personalizar tu experiencia, mostrarte anuncios y realizar informes y estadísticas, y no utilizaremos cookies ni otras tecnologías para estos fines a menos que las aceptes. Obtén más información en nuestra
+          - link "Política de privacidad" [ref=f108e7] [cursor=pointer]:
+            - /url: http://electyum.com/policies/privacy-policy
+      - generic [ref=f108e8]:
+        - button "Administrar preferencias" [ref=f108e9]
+        - button "Aceptar" [ref=f108e10]
+        - button "Rechazar" [ref=f108e11]
+  - link "Ir directamente al contenido" [ref=f108e12] [cursor=pointer]:
+    - /url: "#MainContent"
+  - banner [ref=f108e14]:
+    - generic [ref=f108e17]:
+      - generic [ref=f108e18]:
+        - link [ref=f108e19] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=f108e23]:
+          - list [ref=f108e26]:
+            - generic:
+              - link "PATINETES" [ref=f108e27] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+              - link "PATINETES HOMOLOGADOS" [ref=f108e29] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - menuitem "Más" [ref=f108e32] [cursor=pointer]
+      - generic [ref=f108e34]:
+        - button "Abrir selector de región e idioma EUR" [ref=f108e36] [cursor=pointer]:
+          - generic [ref=f108e37]: Abrir selector de región e idioma
+          - generic [ref=f108e38]: EUR
+        - button "Abrir búsqueda" [ref=f108e40] [cursor=pointer]
+        - generic [ref=f108e41]:
+          - button "Abrir menú de cuenta" [ref=f108e43] [cursor=pointer]
+          - 'button "Abrir carrito Total de artículos en el carrito: 0" [ref=f108e49] [cursor=pointer]':
+            - generic [ref=f108e51]:
+              - status:
+                - generic [ref=f108e53]: "Total de artículos en el carrito: 0"
+  - main [ref=f108e54]:
+    - generic [ref=f108e57]:
+      - link "Ir directamente a la información del producto" [ref=f108e58] [cursor=pointer]:
+        - /url: "#ProductInformation-template--26141808394565__main"
+      - generic [ref=f108e59]:
+        - generic [ref=f108e62]:
+          - generic [ref=f108e63]:
+            - generic:
+              - button "Diapositiva anterior" [ref=f108e64] [cursor=pointer]
+              - button "Siguiente diapositiva" [ref=f108e65] [cursor=pointer]
+            - img "Patinete Eléctrico Dualtron Thunder 3" [ref=f108e70]
+          - generic [ref=f108e85]:
+            - button "Diapositiva 1 de 4" [ref=f108e86] [cursor=pointer]:
+              - img "Patinete Eléctrico Dualtron Thunder 3" [ref=f108e87]
+            - button "Diapositiva 2 de 4" [ref=f108e88] [cursor=pointer]:
+              - img "Patinete Eléctrico Dualtron Thunder 3" [ref=f108e89]
+            - button "Diapositiva 3 de 4" [ref=f108e90] [cursor=pointer]:
+              - img "Patinete Eléctrico Dualtron Thunder 3" [ref=f108e91]
+            - button "Diapositiva 4 de 4" [ref=f108e92] [cursor=pointer]:
+              - img "Patinete Eléctrico Dualtron Thunder 3" [ref=f108e93]
+        - generic [ref=f108e96]:
+          - heading "Patinete Eléctrico Dualtron Thunder 3" [level=1] [ref=f108e98]
+          - generic [ref=f108e99]:
+            - generic [ref=f108e100]:
+              - group [ref=f108e101]:
+                - generic [ref=f108e102]: Precio de oferta
+                - text: €3.590,00 EUR
+              - group [ref=f108e103]:
+                - generic [ref=f108e104]: Precio habitual
+                - text: €4.699,00 EUR
+            - generic [ref=f108e105]: Aranceles e impuestos incluidos. Envío calculado en el pago.
+          - iframe [ref=f108e111]:
+            - generic [ref=f113e5]:
+              - generic [ref=f113e6]:
+                - generic [ref=f113e7]:
+                  - generic [ref=f113e9]:
+                    - strong [ref=f113e10]: 292,00 €
+                    - text: al mes
+                  - generic [ref=f113e12]:
+                    - generic [ref=f113e13]: x12
+                    - generic [ref=f113e14] [cursor=pointer]: x6
+                    - generic [ref=f113e15] [cursor=pointer]: x3 sin coste
+                    - text: +info
+                - img "SeQura logo" [ref=f113e17] [cursor=pointer]
+              - paragraph [ref=f113e27]: A plazos hasta 3000,00 €. Primer pago de 882,00 €
+          - paragraph [ref=f108e113]: Homologado por la DGT ✅
+          - generic [ref=f108e115]:
+            - paragraph [ref=f108e116]:
+              - text: El
+              - strong [ref=f108e117]: Dualtron Thunder 3
+              - text: es un patinete eléctrico de aventura y terreno mixto, diseñado para afrontar caminos, asfalto irregular y terreno mixto. Potente, robusto y con gran autonomía para salir de la ciudad con seguridad.
+            - paragraph [ref=f108e118]:
+              - text: El
+              - strong [ref=f108e119]: Dualtron Thunder 3
+              - text: es un patinete eléctrico todo terreno diseñado para los que buscan aventura más allá del asfalto. Con motor de alta potencia, ruedas grandes y suspensión reforzada, está listo para caminos de tierra, senderos y superficies irregulares.
+            - paragraph [ref=f108e120]:
+              - strong [ref=f108e121]: "🚀 Motor Dual:"
+              - text: 2500W x2 pico 10800W
+            - paragraph [ref=f108e122]:
+              - strong [ref=f108e123]: "🔋 Autonomía:"
+              - text: Hasta 170 Km
+            - paragraph [ref=f108e124]:
+              - strong [ref=f108e125]: "🔋 Batería:"
+              - text: 72V 40Ah
+            - paragraph [ref=f108e126]:
+              - strong [ref=f108e127]: "⚡ Velocidad Limitada:"
+              - text: Hasta 100 Km/h
+            - paragraph [ref=f108e128]:
+              - strong [ref=f108e129]: "🛞 Ruedas:"
+              - text: 11″ Tubless - Ultra Wide
+            - paragraph [ref=f108e130]:
+              - text: 🛑
+              - strong [ref=f108e131]: "Frenos:"
+              - text: Frenos de disco hidráulicos NUTT (160 mm) + asistencia eléctrica
+            - paragraph [ref=f108e132]:
+              - strong [ref=f108e133]: 📱 APP móvil -
+              - text: iOS/Android (EY3 APP)
+            - paragraph [ref=f108e134]:
+              - strong [ref=f108e135]: "Ideal para:"
+            - list [ref=f108e136]:
+              - listitem [ref=f108e137]: ✅ Rutas off-road, caminos de tierra y terrenos irregulares
+              - listitem [ref=f108e138]: ✅ Usuarios que combinan uso urbano y aventura en exterior
+              - listitem [ref=f108e139]: ✅ Conductor que busca potencia, autonomía extendida y robustez
+            - paragraph [ref=f108e140]:
+              - strong [ref=f108e141]: "Ideal para:"
+            - list [ref=f108e142]:
+              - listitem [ref=f108e143]: "✅ Rutas mixtas: asfalto, tierra y caminos irregulares"
+              - listitem [ref=f108e144]: ✅ Conductores que salen de la ciudad y necesitan un patinete todoterreno
+              - listitem [ref=f108e145]: ✅ Usuarios que buscan potencia, autonomía y resistencia fuera del asfalto
+          - paragraph [ref=f108e147]:
+            - strong [ref=f108e148]: 🚚 Envíos
+            - strong [ref=f108e149]: de 5 a 8 días hábiles
+          - group "ColorNegro" [ref=f108e152]:
+            - radio "Negro" [checked] [ref=f108e155] [cursor=pointer]
+          - generic [ref=f108e159]:
+            - heading "Comprados juntos..." [level=4] [ref=f108e162]
+            - generic [ref=f108e163]:
+              - generic "Carga de recomendaciones de productos" [ref=f108e164]
+              - generic "Carga de recomendaciones de productos" [ref=f108e165]
+          - generic [ref=f108e167]:
+            - status [ref=f108e168]
+            - generic [ref=f108e170]:
+              - generic [ref=f108e171]:
+                - button "Disminuir cantidad" [ref=f108e172] [cursor=pointer]
+                - spinbutton "Cantidad" [ref=f108e174]: "1"
+                - button "Aumentar cantidad" [ref=f108e175] [cursor=pointer]
+              - button "Agregar al carrito" [ref=f108e179] [cursor=pointer]:
+                - generic [ref=f108e182]: Agregada
+              - generic [ref=f108e186]:
+                - generic [ref=f108e189]:
+                  - iframe [ref=f108e190]:
+                    - generic "Payment Button" [ref=f110e2]:
+                      - link "PayPal" [ref=f110e5] [cursor=pointer]
+                  - iframe [ref=f108e191]
+                - link "Más opciones de pago" [ref=f108e193] [cursor=pointer]:
+                  - /url: "#"
+    - generic [ref=f108e198]:
+      - heading "Patinete Eléctrico Dualtron Thunder 3" [level=2] [ref=f108e200]
+      - generic [ref=f108e202]:
+        - heading "Dualtron Thunder 3 | El Patinete Eléctrico más Potente de 11000W" [level=3] [ref=f108e203]
+        - heading [level=3]
+        - paragraph [ref=f108e204]:
+          - text: El
+          - strong [ref=f108e205]: Dualtron Thunder 3
+          - text: llega para redefinir los límites de la movilidad eléctrica. Basado en el legendario legado de la línea Thunder, esta tercera generación no es solo una actualización; es una revolución en ingeniería, seguridad y potencia. Con un diseño de chasis elegante y una resistencia al agua certificada, el Thunder 3 está preparado para conquistar tanto el asfalto urbano como los terrenos más exigentes.
+        - heading "Características Principales de Última Generación" [level=3] [ref=f108e206]
+        - heading "Pantalla Inteligente EY4 con Protección IPX7" [level=3] [ref=f108e207]
+        - paragraph [ref=f108e208]:
+          - text: Olvídate de las preocupaciones por la lluvia. El Thunder 3 introduce la nueva
+          - strong [ref=f108e209]: pantalla central LCD EY4
+          - text: ", totalmente impermeable (IPX7) y con conectividad"
+          - strong [ref=f108e210]: Bluetooth
+          - text: . Vincúlalo con la App oficial de Dualtron para gestionar parámetros de conducción, estadísticas y seguridad directamente desde tu smartphone.
+        - heading "Potencia Bruta y Aceleración Overtake" [level=3] [ref=f108e211]
+        - paragraph [ref=f108e212]:
+          - text: Equipado con un sistema de motor dual que alcanza los
+          - strong [ref=f108e213]: 11000W de potencia máxima
+          - text: ", este patinete ofrece un incremento de fuerza de entre el 5% y el 10% respecto a su predecesor. Además, incluye la función"
+          - strong [ref=f108e214]: Overtake
+          - text: ", diseñada para momentos donde necesitas un extra de aceleración inmediata."
+        - heading "Seguridad y Control Total" [level=3] [ref=f108e215]
+        - paragraph [ref=f108e216]:
+          - text: Para domar a esta "bestia", Dualtron ha integrado un sistema de
+          - strong [ref=f108e217]: frenado hidráulico NUTT de 4 pistones
+          - text: con una función de refrigeración integrada única en el mercado. Para garantizar la estabilidad a altas velocidades, se incluye de serie un
+          - strong [ref=f108e218]: amortiguador de dirección hidráulico
+          - text: ", eliminando vibraciones y movimientos no deseados."
+        - heading "Especificaciones Técnicas Detalladas" [level=2] [ref=f108e219]
+        - paragraph [ref=f108e220]: Característica Especificación Potencia Máxima 11000 W (Motor Dual) Velocidad Máxima100 km/h Batería LG 72V 40Ah (Celdas de alta capacidad)Autonomía Máxima Hasta 170 km Frenos Disco Hidráulico NUTT 4 pistones (Refrigerados) SuspensiónBrazo oscilante con cartuchos reemplazables Neumáticos Ultra anchos de 11 pulgadas Resistencia al Agua IPX5 (Chasis) / IPX7 (Pantalla)Carga Máxima150 kg Manillar XL de 700 mm para mayor control
+        - heading "Innovaciones en Diseño y Durabilidad" [level=2] [ref=f108e221]
+        - list [ref=f108e222]:
+          - listitem [ref=f108e223]:
+            - strong [ref=f108e224]: "Sistema de Plegado de Triple Seguridad:"
+            - text: Nueva columna de dirección reforzada y sistema de plegado rediseñado para garantizar que la estructura se mantenga rígida y segura incluso tras un uso intensivo.
+          - listitem [ref=f108e225]:
+            - strong [ref=f108e226]: "Iluminación de Alta Potencia:"
+            - text: Incorpora faros dobles frontales de gran alcance que garantizan visibilidad total en conducción nocturna, complementados con el icónico sistema de luces LED laterales de Dualtron.
+          - listitem [ref=f108e227]:
+            - strong [ref=f108e228]: "Gestión de Carga Eficiente:"
+            - text: Cuenta con dos puertos de carga. Utilizando un cargador rápido y ambos puertos, puedes reducir el tiempo de carga de 26 horas a tan solo
+            - strong [ref=f108e229]: 8 horas
+            - text: .
+          - listitem [ref=f108e230]:
+            - strong [ref=f108e231]: "Resistencia Todo Clima:"
+            - text: Es el primer modelo de la marca con certificación de resistencia al agua IPX5 para el marco, lo que permite su uso bajo la lluvia con total confianza.
+        - heading "¿Qué incluye la caja?" [level=2] [ref=f108e232]
+        - list [ref=f108e233]:
+          - listitem [ref=f108e234]: Patinete Eléctrico Dualtron Thunder 3.
+          - listitem [ref=f108e235]: Cargador Estándar.
+          - listitem [ref=f108e236]: Amortiguador de dirección hidráulico (preinstalado).
+          - listitem [ref=f108e237]: Kit de herramientas multiusos.
+          - listitem [ref=f108e238]: Manual de usuario.
+        - paragraph [ref=f108e239]: El Dualtron Thunder 3 es una máquina de alto rendimiento diseñada para usuarios experimentados. Su equilibrio entre la potencia bruta, la comodidad de su suspensión de cartuchos y la seguridad de sus frenos de 4 pistones lo convierten en la elección perfecta para quienes no aceptan compromisos en su transporte diario o viajes de larga distancia.
+        - heading "Potencia, Autonomía y Rendimiento Extremo en el nuevo Thunder 3" [level=3] [ref=f108e240]
+        - paragraph [ref=f108e241]:
+          - text: Si estás buscando comprar el
+          - strong [ref=f108e242]: mejor patinete eléctrico de alta gama
+          - text: ", el"
+          - strong [ref=f108e243]: Dualtron Thunder 3
+          - text: se posiciona como el referente absoluto en movilidad urbana y todoterreno. Equipado con una impresionante batería
+          - strong [ref=f108e244]: LG 72V 40Ah
+          - text: ", este modelo no solo garantiza una autonomía de hasta 170 km, sino que redefine la velocidad y la seguridad gracias a sus frenos de 4 pistones y su certificación de resistencia al agua IPX5. Es la opción predilecta para usuarios expertos que exigen un rendimiento profesional en cada trayecto."
+        - paragraph [ref=f108e245]:
+          - text: La ingeniería de
+          - strong [ref=f108e246]: Minimotors
+          - text: alcanza su punto álgido con este scooter eléctrico potente, integrando una pantalla digital EY4 con Bluetooth y un sistema de plegado reforzado único en su categoría. Ya sea para trayectos largos o para disfrutar de la máxima potencia en terrenos difíciles, el
+          - strong [ref=f108e247]: Dualtron Thunder 3
+          - text: ofrece una experiencia de conducción superior, combinando tecnología de vanguardia con un diseño robusto y elegante. Hazte con el rey de los
+          - strong [ref=f108e248]: patinetes eléctricos Dualtron
+          - text: y eleva tu movilidad a un nivel nunca antes visto.
+    - generic [ref=f108e256]:
+      - paragraph [ref=f108e258]:
+        - strong [ref=f108e259]: Hasta 100Km
+        - text: de libertad 🔋
+      - paragraph [ref=f108e261]:
+        - text: Con su batería de
+        - strong [ref=f108e262]: 72V 40Ah
+        - text: y motor de
+        - strong [ref=f108e263]: 10800W
+        - text: ", tendrás garantizadas horas de autonomía para todos tus trayectos diarios. ¡Circula ahora sin preocupaciones!"
+    - generic [ref=f108e267]:
+      - heading "Related products" [level=3] [ref=f108e270]
+      - generic [ref=f108e271]:
+        - generic "Carga de recomendaciones de productos" [ref=f108e272]
+        - generic "Carga de recomendaciones de productos" [ref=f108e273]
+        - generic "Carga de recomendaciones de productos" [ref=f108e274]
+        - generic "Carga de recomendaciones de productos" [ref=f108e275]
+    - generic [ref=f108e285]:
+      - generic [ref=f108e287]:
+        - heading "Capacidad de motor ⚙️" [level=2] [ref=f108e289]
+        - paragraph [ref=f108e291]: Doble motor x2 (2500W) Potencia máxima 10800W
+        - paragraph [ref=f108e293]:
+          - text: Pico máximo con
+          - strong [ref=f108e294]: 10800W
+          - text: de potencia máxima para nunca dejarte tirado ;)
+      - generic [ref=f108e296]:
+        - heading "Batería y autonomía 🔋" [level=2] [ref=f108e298]
+        - generic [ref=f108e299]:
+          - paragraph [ref=f108e300]:
+            - text: Batería de
+            - strong [ref=f108e301]: 72V 40Ah
+            - text: ", con la que podrás hacer"
+            - strong [ref=f108e302]: Hasta 100Km
+          - paragraph [ref=f108e303]:
+            - text: Disfruta de tu
+            - strong [ref=f108e304]: Patinete Eléctrico Dualtron Thunder 3
+            - text: sin preocuparte por la carga!
+      - generic [ref=f108e306]:
+        - heading "Suspensión y ruedas 🛞" [level=2] [ref=f108e308]
+        - generic [ref=f108e309]:
+          - paragraph [ref=f108e310]:
+            - text: Ruedas de
+            - strong [ref=f108e311]: Neumáticos de 11″ Tubless - Ultra Wide
+            - text: ", con agarre y seguridad en cada trayecto."
+          - paragraph [ref=f108e312]:
+            - text: Suspensión
+            - strong [ref=f108e313]: Goma delantera y trasera, cartucho ajustable
+            - text: para una conducción cómoda y estable.
+    - generic [ref=f108e322]:
+      - heading "Related products" [level=3] [ref=f108e325]
+      - generic [ref=f108e326]:
+        - generic "Carga de recomendaciones de productos" [ref=f108e327]
+        - generic "Carga de recomendaciones de productos" [ref=f108e328]
+        - generic "Carga de recomendaciones de productos" [ref=f108e329]
+        - generic "Carga de recomendaciones de productos" [ref=f108e330]
+    - generic [ref=f108e339]:
+      - generic [ref=f108e340]:
+        - paragraph [ref=f108e343]: Homologado por la DGT ✅
+        - paragraph [ref=f108e346]: Homologado por la DGT ✅
+        - paragraph [ref=f108e349]: Homologado por la DGT ✅
+        - paragraph [ref=f108e352]: Homologado por la DGT ✅
+      - generic [ref=f108e353]:
+        - paragraph [ref=f108e356]: Homologado por la DGT ✅
+        - paragraph [ref=f108e359]: Homologado por la DGT ✅
+        - paragraph [ref=f108e362]: Homologado por la DGT ✅
+        - paragraph [ref=f108e365]: Homologado por la DGT ✅
+    - generic [ref=f108e375]:
+      - generic [ref=f108e377]:
+        - heading "Garantía de 2 años 🔓" [level=2] [ref=f108e379]
+        - paragraph [ref=f108e381]: Somos los distribuidores oficiales de la marca en España y Europa
+      - generic [ref=f108e383]:
+        - heading "Envios 🚚" [level=2] [ref=f108e385]
+        - paragraph [ref=f108e387]: Aquí va información sobre los envíos y lo rápido que somos o lo barato que son
+        - paragraph [ref=f108e389]: de 5 a 8 días hábiles
+      - generic [ref=f108e391]:
+        - heading "Atención al cliente 📞" [level=2] [ref=f108e393]
+        - paragraph [ref=f108e395]: de 5 a 8 días hábiles
+    - generic [ref=f108e410]:
+      - heading "Preguntas frecuentes" [level=3] [ref=f108e412]
+      - generic [ref=f108e413]:
+        - group [ref=f108e415]:
+          - generic "Cual es nuestra politica postventa?" [ref=f108e416] [cursor=pointer]
+        - group [ref=f108e418]:
+          - generic "Are any purchases final sale?" [ref=f108e419] [cursor=pointer]
+        - group [ref=f108e421]:
+          - generic "When will I get my order?" [ref=f108e422] [cursor=pointer]
+        - group [ref=f108e424]:
+          - generic "Where are your products manufactured?" [ref=f108e425] [cursor=pointer]
+        - group [ref=f108e427]:
+          - generic "How much does shipping cost?" [ref=f108e428] [cursor=pointer]
+  - generic [ref=f108e433]:
+    - generic [ref=f108e435]:
+      - generic [ref=f108e437]:
+        - group [ref=f108e439]:
+          - generic "Tienda" [ref=f108e440]
+          - list [ref=f108e442]:
+            - listitem [ref=f108e443]:
+              - link "PATINETES" [ref=f108e444] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos
+            - listitem [ref=f108e445]:
+              - link "PATINETES HOMOLOGADOS" [ref=f108e446] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-homologados-dgt
+            - listitem [ref=f108e447]:
+              - link "MOTOS ELÉCTRICAS" [ref=f108e448] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f108e449]:
+              - link "BICIS ELÉCTRICAS" [ref=f108e450] [cursor=pointer]:
+                - /url: /collections/bicicletas-electricas
+            - listitem [ref=f108e451]:
+              - link "MOVILIDAD INFANTIL" [ref=f108e452] [cursor=pointer]:
+                - /url: /collections/patinetes-electricos-ninos
+            - listitem [ref=f108e453]:
+              - link "MOVILIDAD REDUCIDA" [ref=f108e454] [cursor=pointer]:
+                - /url: /collections/scooters-movilidad-reducida
+            - listitem [ref=f108e455]:
+              - link "KARTS ELÉCTRICOS" [ref=f108e456] [cursor=pointer]:
+                - /url: /collections/karts-electricos
+            - listitem [ref=f108e457]:
+              - link "COCHES ELÉCTRICOS" [ref=f108e458] [cursor=pointer]:
+                - /url: /collections/coches-electricos
+            - listitem [ref=f108e459]:
+              - link "MOTOS de GASOLINA" [ref=f108e460] [cursor=pointer]:
+                - /url: /collections/motos-gasolina
+            - listitem [ref=f108e461]:
+              - link "Contacto" [ref=f108e462] [cursor=pointer]:
+                - /url: /pages/contact
+        - group [ref=f108e464]:
+          - generic "Información" [ref=f108e465]
+          - list [ref=f108e467]:
+            - listitem [ref=f108e468]:
+              - link "Financiar patinete eléctrico" [ref=f108e469] [cursor=pointer]:
+                - /url: /pages/como-financiar-un-patinete-electrico
+            - listitem [ref=f108e470]:
+              - link "Términos y condiciones" [ref=f108e471] [cursor=pointer]:
+                - /url: /policies/terms-of-service
+            - listitem [ref=f108e472]:
+              - link "Política de envíos" [ref=f108e473] [cursor=pointer]:
+                - /url: /policies/shipping-policy
+            - listitem [ref=f108e474]:
+              - link "Devoluciones y garantías" [ref=f108e475] [cursor=pointer]:
+                - /url: /policies/refund-policy
+            - listitem [ref=f108e476]:
+              - link "(+34) 689313556" [ref=f108e477] [cursor=pointer]:
+                - /url: https://wa.me/34689313556
+            - listitem [ref=f108e478]:
+              - link "sat@electyum.com" [ref=f108e479] [cursor=pointer]:
+                - /url: mailto:sat@electyum.com
+      - generic [ref=f108e480]:
+        - generic [ref=f108e481]: suscríbete para descuentitos!
+        - generic [ref=f108e483]:
+          - generic [ref=f108e484]: Correo electrónico
+          - textbox "Correo electrónico" [ref=f108e485]:
+            - /placeholder: Dirección de correo electrónico
+          - button "Registrarse" [ref=f108e486]
+    - generic [ref=f108e489]:
+      - generic [ref=f108e490]:
+        - generic [ref=f108e492]:
+          - text: © 2026
+          - link "Electyum" [ref=f108e493] [cursor=pointer]:
+            - /url: /
+        - button "Términos y políticas" [ref=f108e495] [cursor=pointer]
+      - generic [ref=f108e497]:
+        - link "Instagram" [ref=f108e499] [cursor=pointer]:
+          - /url: https://instagram.com/electyum
+        - link "Youtube" [ref=f108e503] [cursor=pointer]:
+          - /url: https://www.youtube.com/@electyummovilidadinteligen6279

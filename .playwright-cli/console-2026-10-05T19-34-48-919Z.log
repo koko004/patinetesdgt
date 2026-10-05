@@ -1,0 +1,23 @@
+[    1838ms] TypeError: Cannot read properties of undefined (reading 'offsetWidth')
+    at Object.after (metaslider-flex-slider-js-after:203:64)
+    at n.wrapup (https://navee.tech/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider.min.js?ver=3.100.1:1:17455)
+    at HTMLUListElement.<anonymous> (https://navee.tech/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider.min.js?ver=3.100.1:1:16909)
+    at HTMLUListElement.dispatch (https://navee.tech/wp-includes/js/jquery/jquery.min.js?ver=3.7.1:2:40035)
+    at v.handle (https://navee.tech/wp-includes/js/jquery/jquery.min.js?ver=3.7.1:2:38006)
+[    2389ms] [WARNING] CSRF data not available;The data may be unavailable by design, such as during non-authenticated requests: SyntaxError: Unexpected token '<', "
+<!DOCTYPE "... is not valid JSON @ https://es-es.segway.com/etc.clientlibs/clientlibs/granite/jquery/granite/csrf.a9dcac4698709ca8e1cbc88363cf0793.js:152
+[    2719ms] [LOG] 是否重叠 false @ https://es-es.segway.com/etc.clientlibs/segway-ninebot/components/header/clientlibs.dd058c8b462e9fc6ad1381291e351cdd.js:0
+[    3183ms] [LOG] 1111 @ https://es-es.segway.com/etc.clientlibs/segway-ninebot/components/subbanner2/clientlibs.4b27fae24f1f8cb5a8cb727dd469868e.js:0
+[    5193ms] [LOG] {isIpMatch: undefined, currentLocation: undefined, ipLocation: undefined, ipAddress: undefined, __ob__: t} @ https://es-es.segway.com/etc.clientlibs/segway-ninebot/components/languageselectionbar/clientlibs.06fb7e687c4f7b37ae028fa653889152.js:0
+[    5873ms] [LOG] dataLayerBlocker for "dataLayer" is in blocking mode. Data is put into queue. Waiting for user choice. @ https://cdn.consentmanager.net/delivery/customdata/bV8xLndfMTcyMDY3LnJfR0RQUi5sX2VzLmRfNDg3NjIueF81MDUudi5wLnRfNDg3NjIueHRfMTg3.js:16
+[    5873ms] [LOG] dataLayerBlocker for "dataLayer" is in blocking mode. Data is put into queue. Waiting for user choice. @ https://cdn.consentmanager.net/delivery/customdata/bV8xLndfMTcyMDY3LnJfR0RQUi5sX2VzLmRfNDg3NjIueF81MDUudi5wLnRfNDg3NjIueHRfMTg3.js:16
+[    5874ms] [LOG] dataLayerBlocker for "dataLayer" is in blocking mode. Data is put into queue. Waiting for user choice. @ https://cdn.consentmanager.net/delivery/customdata/bV8xLndfMTcyMDY3LnJfR0RQUi5sX2VzLmRfNDg3NjIueF81MDUudi5wLnRfNDg3NjIueHRfMTg3.js:16
+[    5874ms] [LOG] dataLayerBlocker for "dataLayer" is in blocking mode. Data is put into queue. Waiting for user choice. @ https://cdn.consentmanager.net/delivery/customdata/bV8xLndfMTcyMDY3LnJfR0RQUi5sX2VzLmRfNDg3NjIueF81MDUudi5wLnRfNDg3NjIueHRfMTg3.js:16
+[    5875ms] [LOG] dataLayerBlocker for "dataLayer" is in blocking mode. Data is put into queue. Waiting for user choice. @ https://cdn.consentmanager.net/delivery/customdata/bV8xLndfMTcyMDY3LnJfR0RQUi5sX2VzLmRfNDg3NjIueF81MDUudi5wLnRfNDg3NjIueHRfMTg3.js:16
+[    5875ms] [LOG] dataLayerBlocker for "dataLayer" is in blocking mode. Data is put into queue. Waiting for user choice. @ https://cdn.consentmanager.net/delivery/customdata/bV8xLndfMTcyMDY3LnJfR0RQUi5sX2VzLmRfNDg3NjIueF81MDUudi5wLnRfNDg3NjIueHRfMTg3.js:16
+[    5959ms] [LOG] dataLayerBlocker for "dataLayer" is in blocking mode. Data is put into queue. Waiting for user choice. @ https://cdn.consentmanager.net/delivery/customdata/bV8xLndfMTcyMDY3LnJfR0RQUi5sX2VzLmRfNDg3NjIueF81MDUudi5wLnRfNDg3NjIueHRfMTg3.js:16
+[    5960ms] [LOG] dataLayerBlocker for "dataLayer" is in blocking mode. Data is put into queue. Waiting for user choice. @ https://cdn.consentmanager.net/delivery/customdata/bV8xLndfMTcyMDY3LnJfR0RQUi5sX2VzLmRfNDg3NjIueF81MDUudi5wLnRfNDg3NjIueHRfMTg3.js:16
+[    5962ms] [LOG] dataLayerBlocker for "dataLayer" is in blocking mode. Data is put into queue. Waiting for user choice. @ https://cdn.consentmanager.net/delivery/customdata/bV8xLndfMTcyMDY3LnJfR0RQUi5sX2VzLmRfNDg3NjIueF81MDUudi5wLnRfNDg3NjIueHRfMTg3.js:16
+[    5963ms] [LOG] dataLayerBlocker for "dataLayer" is in blocking mode. Data is put into queue. Waiting for user choice. @ https://cdn.consentmanager.net/delivery/customdata/bV8xLndfMTcyMDY3LnJfR0RQUi5sX2VzLmRfNDg3NjIueF81MDUudi5wLnRfNDg3NjIueHRfMTg3.js:16
+[    6119ms] [LOG] dataLayerBlocker for "dataLayer" is in blocking mode. Data is put into queue. Waiting for user choice. @ https://cdn.consentmanager.net/delivery/customdata/bV8xLndfMTcyMDY3LnJfR0RQUi5sX2VzLmRfNDg3NjIueF81MDUudi5wLnRfNDg3NjIueHRfMTg3.js:16
+[    6119ms] [LOG] dataLayerBlocker for "dataLayer" is in blocking mode. Data is put into queue. Waiting for user choice. @ https://cdn.consentmanager.net/delivery/customdata/bV8xLndfMTcyMDY3LnJfR0RQUi5sX2VzLmRfNDg3NjIueF81MDUudi5wLnRfNDg3NjIueHRfMTg3.js:16

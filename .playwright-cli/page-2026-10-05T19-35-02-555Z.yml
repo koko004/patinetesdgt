@@ -1,0 +1,715 @@
+- generic [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - navigation
+      - generic [ref=e7]:
+        - generic [ref=e10]:
+          - button "Noticias & Blog" [ref=e17] [cursor=pointer]:
+            - generic [ref=e18]:
+              - generic [ref=e19]: 
+              - generic [ref=e21]: Noticias & Blog
+          - text: 
+          - button "+ 40 Tiendas en España" [ref=e28] [cursor=pointer]:
+            - generic [ref=e29]:
+              - generic [ref=e30]: 
+              - generic [ref=e32]: + 40 Tiendas en España
+          - button "¿Te ayudamos?" [ref=e39] [cursor=pointer]:
+            - generic [ref=e40]:
+              - generic [ref=e41]: 
+              - generic [ref=e43]: ¿Te ayudamos?
+          - link "" [ref=e49] [cursor=pointer]:
+            - /url: https://sabway.es/shop/inicio-sesion
+        - generic [ref=e53]:
+          - link [ref=e60] [cursor=pointer]:
+            - /url: https://sabway.es/shop/
+          - generic [ref=e68]:
+            - button "" [ref=e69] [cursor=pointer]
+            - textbox "Buscar productos aquí" [ref=e72]
+          - link " 0" [ref=e78] [cursor=pointer]:
+            - /url: //sabway.es/shop/carrito?action=show
+            - generic [ref=e79]: 
+            - generic [ref=e80]: "0"
+        - text:   
+        - link " Menu" [ref=e89] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e90]: 
+          - generic [ref=e91]: Menu
+        - text:          
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - button "Noticias & Blog":
+                                  - generic:
+                                    - generic: 
+                                    - generic: Noticias & Blog
+                    - text: 
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - button "+ 40 Tiendas en España":
+                                  - generic:
+                                    - generic: 
+                                    - generic: + 40 Tiendas en España
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - button "¿Te ayudamos?":
+                                  - generic:
+                                    - generic: 
+                                    - generic: ¿Te ayudamos?
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link "":
+                                - /url: https://sabway.es/shop/inicio-sesion
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - link:
+                                  - /url: https://sabway.es/shop/
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - button ""
+                                    - generic:
+                                      - textbox "Buscar productos aquí"
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link " 0":
+                                - /url: //sabway.es/shop/carrito?action=show
+                                - generic: 
+                                - generic: "0"
+              - text:   
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link " Menu":
+                                - /url: "#"
+                                - generic: 
+                                - generic: Menu
+              - text:          
+    - navigation [ref=e93]:
+      - heading "ZWheel" [level=1] [ref=e94]
+      - list [ref=e95]:
+        - listitem [ref=e96]:
+          - link "" [ref=e97] [cursor=pointer]:
+            - /url: https://sabway.es/shop/
+          - text: ">"
+        - listitem [ref=e100]:
+          - 'link "Patinetes Eléctricos: Guía de Compra y Mejores Precios" [ref=e101] [cursor=pointer]':
+            - /url: https://sabway.es/shop/12-patinetes-electricos
+          - text: ">"
+        - listitem [ref=e102]:
+          - generic [ref=e103]: ZWheel
+    - generic [ref=e104]:
+      - complementary
+      - generic [ref=e106]:
+        - generic [ref=e107]:
+          - generic [ref=e108]:
+            - text: 
+            - link " Inicio" [ref=e109] [cursor=pointer]:
+              - /url: "#category-top-menu"
+            - text:             
+          - generic [ref=e110]:
+            - text: 
+            - link " New Product" [ref=e111] [cursor=pointer]:
+              - /url: "#tdcolumn_block_48287"
+            - text:               
+          - generic [ref=e112]:
+            - text: 
+            - link " Top Sellers" [ref=e113] [cursor=pointer]:
+              - /url: "#tdcolumn_block_65107"
+            - text:               
+        - generic [ref=e115]:
+          - img "Comprar patinetes eléctricos Zwheel homologados DGT al mejor precio" [ref=e120]
+          - generic [ref=e121]:
+            - generic [ref=e123]:
+              - generic [ref=e124]:
+                - link [ref=e125] [cursor=pointer]:
+                  - /url: https://sabway.es/shop/216-zwheel?order=product.position.asc&productListView=grid
+                - link [ref=e128] [cursor=pointer]:
+                  - /url: https://sabway.es/shop/216-zwheel?order=product.position.asc&productListView=list
+              - generic [ref=e131]:
+                - generic [ref=e132]: Mostrando 1-11 de 11 artículo(s)
+                - combobox [ref=e135]:
+                  - option "Los más vendidos"
+                  - option "Relevancia" [selected]
+                  - option "Nombre, A a Z"
+                  - option "Nombre, Z a A"
+                  - 'option "Precio: de más bajo a más alto"'
+                  - option "Precio, de más alto a más bajo"
+                  - option "Referencia, A a Z"
+                  - option "Referencia, Z a A"
+                  - option "Fecha de añadido, de más antiguos a más recientes"
+                  - option "Fecha de añadido, más recientes a más antiguos"
+            - generic [ref=e137]:
+              - generic [ref=e138]:
+                - article [ref=e139]:
+                  - generic [ref=e140]:
+                    - generic [ref=e142]:
+                      - link [ref=e143] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/zwheel/2278-patinete-electrico-zwheel-zrino-se-homologado-dgt.html
+                        - img "Patinete eléctrico Zwheel ZRino SE Homologado DGT al mejor precio 2" [ref=e144]
+                        - img "Patinete eléctrico Zwheel ZRino SE Homologado DGT al mejor precio" [ref=e146]
+                      - list:
+                        - listitem: ¡En oferta!
+                      - generic [ref=e147]:
+                        - button " Añadir a la cesta" [ref=e151] [cursor=pointer]
+                        - link "" [ref=e153] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e155] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e157] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=e158]:
+                      - link "Patinete eléctrico Zwheel ZRino SE Homologado DGT" [ref=e160] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/zwheel/2278-patinete-electrico-zwheel-zrino-se-homologado-dgt.html
+                      - generic [ref=e161]: 469,99 €
+                      - generic [ref=e162]:
+                        - generic [ref=e163]:
+                          - generic [ref=e164] [cursor=pointer]: 
+                          - generic [ref=e165] [cursor=pointer]: 
+                          - generic [ref=e166] [cursor=pointer]: 
+                          - generic [ref=e167] [cursor=pointer]: 
+                          - generic [ref=e168] [cursor=pointer]: 
+                        - generic [ref=e169]: "0"
+                - article [ref=e170]:
+                  - generic [ref=e171]:
+                    - generic [ref=e173]:
+                      - link [ref=e174] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos-homologados/2270-patinete-electrico-zwheel-zcougar-duo-homologado-dgt.html
+                        - img "Patinete eléctrico Zwheel ZCougar DUO Homologado DGT 2" [ref=e175]
+                        - img "Patinete eléctrico Zwheel ZCougar DUO Homologado DGT" [ref=e177]
+                      - list
+                      - generic [ref=e178]:
+                        - button " Añadir a la cesta" [ref=e182] [cursor=pointer]
+                        - link "" [ref=e184] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e186] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e188] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=e189]:
+                      - link "Patinete eléctrico Zwheel ZCougar DUO Homologado DGT" [ref=e191] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos-homologados/2270-patinete-electrico-zwheel-zcougar-duo-homologado-dgt.html
+                      - generic [ref=e192]: 799,99 €
+                      - generic [ref=e193]:
+                        - generic [ref=e194]:
+                          - generic [ref=e195] [cursor=pointer]: 
+                          - generic [ref=e196] [cursor=pointer]: 
+                          - generic [ref=e197] [cursor=pointer]: 
+                          - generic [ref=e198] [cursor=pointer]: 
+                          - generic [ref=e199] [cursor=pointer]: 
+                        - generic [ref=e200]: "0"
+                - article [ref=e201]:
+                  - generic [ref=e202]:
+                    - generic [ref=e204]:
+                      - link [ref=e205] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos-homologados/2273-patinete-electrico-zwheel-zcougar-plus-homologado-dgt.html
+                        - img "Patinete eléctrico Zwheel ZCougar Plus Homologado DGT 2" [ref=e206]
+                        - img "Patinete eléctrico Zwheel ZCougar Plus Homologado DGT" [ref=e208]
+                      - list
+                      - generic [ref=e209]:
+                        - button " Añadir a la cesta" [ref=e213] [cursor=pointer]
+                        - link "" [ref=e215] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e217] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e219] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=e220]:
+                      - link "Patinete eléctrico Zwheel ZCougar Plus Homologado DGT" [ref=e222] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos-homologados/2273-patinete-electrico-zwheel-zcougar-plus-homologado-dgt.html
+                      - generic [ref=e223]: 699,99 €
+                      - generic [ref=e224]:
+                        - generic [ref=e225]:
+                          - generic [ref=e226] [cursor=pointer]: 
+                          - generic [ref=e227] [cursor=pointer]: 
+                          - generic [ref=e228] [cursor=pointer]: 
+                          - generic [ref=e229] [cursor=pointer]: 
+                          - generic [ref=e230] [cursor=pointer]: 
+                        - generic [ref=e231]: "0"
+                - article [ref=e232]:
+                  - generic [ref=e233]:
+                    - generic [ref=e235]:
+                      - link [ref=e236] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos/2274-patinete-electrico-zwheel-zrino-duo-max-homologado-dgt.html
+                        - img "ZWheel ZRino Duo Max Homologado DGT | Patinete 1000W 2" [ref=e237]
+                        - img "ZWheel ZRino Duo Max Homologado DGT | Patinete 1000W" [ref=e239]
+                      - list
+                      - generic [ref=e240]:
+                        - button " Añadir a la cesta" [ref=e244] [cursor=pointer]
+                        - link "" [ref=e246] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e248] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e250] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=e251]:
+                      - link "Patinete eléctrico Zwheel ZRino Duo Max Homologado DGT" [ref=e253] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos/2274-patinete-electrico-zwheel-zrino-duo-max-homologado-dgt.html
+                      - generic [ref=e254]: 699,99 €
+                      - generic [ref=e255]:
+                        - generic [ref=e256]:
+                          - generic [ref=e257] [cursor=pointer]: 
+                          - generic [ref=e258] [cursor=pointer]: 
+                          - generic [ref=e259] [cursor=pointer]: 
+                          - generic [ref=e260] [cursor=pointer]: 
+                          - generic [ref=e261] [cursor=pointer]: 
+                        - generic [ref=e262]: "0"
+                - article [ref=e263]:
+                  - generic [ref=e264]:
+                    - generic [ref=e266]:
+                      - link [ref=e267] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos/2275-patinete-electrico-zwheel-zrino-duo-homologado-dgt.html
+                        - img "ZWheel ZRino Duo Homologado DGT | Patinete Eléctrico 1000W 2" [ref=e268]
+                        - img "ZWheel ZRino Duo Homologado DGT | Patinete Eléctrico 1000W" [ref=e270]
+                      - list
+                      - generic [ref=e271]:
+                        - button " Añadir a la cesta" [ref=e275] [cursor=pointer]
+                        - link "" [ref=e277] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e279] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e281] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=e282]:
+                      - link "Patinete eléctrico Zwheel ZRino DUO Homologado DGT" [ref=e284] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos/2275-patinete-electrico-zwheel-zrino-duo-homologado-dgt.html
+                      - generic [ref=e285]: 659,99 €
+                      - generic [ref=e286]:
+                        - generic [ref=e287]:
+                          - generic [ref=e288] [cursor=pointer]: 
+                          - generic [ref=e289] [cursor=pointer]: 
+                          - generic [ref=e290] [cursor=pointer]: 
+                          - generic [ref=e291] [cursor=pointer]: 
+                          - generic [ref=e292] [cursor=pointer]: 
+                        - generic [ref=e293]: "0"
+                - article [ref=e294]:
+                  - generic [ref=e295]:
+                    - generic [ref=e297]:
+                      - link [ref=e298] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos/2276-patinete-electrico-zwheel-zcougar-homologado-dgt.html
+                        - img "ZWheel ZCougar Homologado DGT | Patinete Eléctrico 800W 2" [ref=e299]
+                        - img "ZWheel ZCougar Homologado DGT | Patinete Eléctrico 800W" [ref=e301]
+                      - list
+                      - generic [ref=e302]:
+                        - button " Añadir a la cesta" [ref=e306] [cursor=pointer]
+                        - link "" [ref=e308] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e310] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e312] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=e313]:
+                      - link "Patinete eléctrico Zwheel ZCougar Homologado DGT" [ref=e315] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos/2276-patinete-electrico-zwheel-zcougar-homologado-dgt.html
+                      - generic [ref=e316]: 559,99 €
+                      - generic [ref=e317]:
+                        - generic [ref=e318]:
+                          - generic [ref=e319] [cursor=pointer]: 
+                          - generic [ref=e320] [cursor=pointer]: 
+                          - generic [ref=e321] [cursor=pointer]: 
+                          - generic [ref=e322] [cursor=pointer]: 
+                          - generic [ref=e323] [cursor=pointer]: 
+                        - generic [ref=e324]: "0"
+                - article [ref=e325]:
+                  - generic [ref=e326]:
+                    - generic [ref=e328]:
+                      - link [ref=e329] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/raiz/2417-patinete-electrico-zwheel-zwolf-homologado-dgt.html
+                        - img "ZWheel ZWolf Homologado DGT | Patinete Eléctrico 500W 2" [ref=e330]
+                        - img "ZWheel ZWolf Homologado DGT | Patinete Eléctrico 500W" [ref=e332]
+                      - list
+                      - generic [ref=e333]:
+                        - button " Añadir a la cesta" [ref=e337] [cursor=pointer]
+                        - link "" [ref=e339] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e341] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e343] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=e344]:
+                      - link "Patinete eléctrico Zwheel ZWolf Homologado DGT" [ref=e346] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/raiz/2417-patinete-electrico-zwheel-zwolf-homologado-dgt.html
+                      - generic [ref=e347]: 599,99 €
+                      - generic [ref=e348]:
+                        - generic [ref=e349]:
+                          - generic [ref=e350] [cursor=pointer]: 
+                          - generic [ref=e351] [cursor=pointer]: 
+                          - generic [ref=e352] [cursor=pointer]: 
+                          - generic [ref=e353] [cursor=pointer]: 
+                          - generic [ref=e354] [cursor=pointer]: 
+                        - generic [ref=e355]: "0"
+                - article [ref=e356]:
+                  - generic [ref=e357]:
+                    - generic [ref=e359]:
+                      - link [ref=e360] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/raiz/2449-9988-patinete-electrico-infantil-ztoy-superkid-rosa.html#/14-color-azul
+                        - img "ZWheel ZToy | Patinete Eléctrico Infantil 150W para Niños 2" [ref=e361]
+                        - img "ZWheel ZToy | Patinete Eléctrico Infantil 150W para Niños" [ref=e363]
+                      - list
+                      - generic [ref=e364]:
+                        - link " Seleccionar opción" [ref=e366] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e368] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e370] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e372] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=e373]:
+                      - link "Patinete eléctrico Infantil ZToy Superkid" [ref=e375] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/raiz/2449-9988-patinete-electrico-infantil-ztoy-superkid-rosa.html#/14-color-azul
+                      - generic [ref=e376]: 169,00 €
+                      - generic [ref=e377]:
+                        - generic [ref=e378]:
+                          - generic [ref=e379] [cursor=pointer]: 
+                          - generic [ref=e380] [cursor=pointer]: 
+                          - generic [ref=e381] [cursor=pointer]: 
+                          - generic [ref=e382] [cursor=pointer]: 
+                          - generic [ref=e383] [cursor=pointer]: 
+                        - generic [ref=e384]: "0"
+                - article [ref=e385]:
+                  - generic [ref=e386]:
+                    - generic [ref=e388]:
+                      - link [ref=e389] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/raiz/2453-patinete-electrico-zwheel-zwolf-plus-homologado-dgt.html
+                        - img "ZWheel ZWolf Plus Homologado DGT | Patinete 2000W 2" [ref=e390]
+                        - img "ZWheel ZWolf Plus Homologado DGT | Patinete 2000W" [ref=e392]
+                      - list
+                      - generic [ref=e393]:
+                        - button " Añadir a la cesta" [ref=e397] [cursor=pointer]
+                        - link "" [ref=e399] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e401] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e403] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=e404]:
+                      - link "Patinete eléctrico Zwheel ZWolf PLUS Homologado DGT" [ref=e406] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/raiz/2453-patinete-electrico-zwheel-zwolf-plus-homologado-dgt.html
+                      - generic [ref=e407]: 749,99 €
+                      - generic [ref=e408]:
+                        - generic [ref=e409]:
+                          - generic [ref=e410] [cursor=pointer]: 
+                          - generic [ref=e411] [cursor=pointer]: 
+                          - generic [ref=e412] [cursor=pointer]: 
+                          - generic [ref=e413] [cursor=pointer]: 
+                          - generic [ref=e414] [cursor=pointer]: 
+                        - generic [ref=e415]: "0"
+                - article [ref=e416]:
+                  - generic [ref=e417]:
+                    - generic [ref=e419]:
+                      - link [ref=e420] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/raiz/2549-patinete-electrico-zwheel-zlion-duo-homologado-dgt.html
+                        - img "Zwheel ZLion Duo patinete eléctrico 48V 15Ah 2" [ref=e421]
+                        - img "Zwheel ZLion Duo patinete eléctrico 48V 15Ah" [ref=e423]
+                      - list
+                      - generic [ref=e424]:
+                        - button " Añadir a la cesta" [ref=e428] [cursor=pointer]
+                        - link "" [ref=e430] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e432] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e434] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=e435]:
+                      - link "Patinete eléctrico Zwheel ZLion Duo Homologado DGT" [ref=e437] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/raiz/2549-patinete-electrico-zwheel-zlion-duo-homologado-dgt.html
+                      - generic [ref=e438]: 629,00 €
+                      - generic [ref=e439]:
+                        - generic [ref=e440]:
+                          - generic [ref=e441] [cursor=pointer]: 
+                          - generic [ref=e442] [cursor=pointer]: 
+                          - generic [ref=e443] [cursor=pointer]: 
+                          - generic [ref=e444] [cursor=pointer]: 
+                          - generic [ref=e445] [cursor=pointer]: 
+                        - generic [ref=e446]: "0"
+                - article [ref=e447]:
+                  - generic [ref=e448]:
+                    - generic [ref=e450]:
+                      - link [ref=e451] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/raiz/2550-patinete-electrico-zwheel-zlion-duo-homologado-dgt.html
+                        - img "Zwheel ZLion Duo + 48V 17,5Ah doble motor 2" [ref=e452]
+                        - img "Zwheel ZLion Duo + 48V 17,5Ah doble motor" [ref=e454]
+                      - list
+                      - generic [ref=e455]:
+                        - button " Añadir a la cesta" [ref=e459] [cursor=pointer]
+                        - link "" [ref=e461] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e463] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=e465] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=e466]:
+                      - link "Patinete eléctrico Zwheel ZLion Duo+ Homologado DGT" [ref=e468] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/raiz/2550-patinete-electrico-zwheel-zlion-duo-homologado-dgt.html
+                      - generic [ref=e469]: 779,00 €
+                      - generic [ref=e470]:
+                        - generic [ref=e471]:
+                          - generic [ref=e472] [cursor=pointer]: 
+                          - generic [ref=e473] [cursor=pointer]: 
+                          - generic [ref=e474] [cursor=pointer]: 
+                          - generic [ref=e475] [cursor=pointer]: 
+                          - generic [ref=e476] [cursor=pointer]: 
+                        - generic [ref=e477]: "0"
+              - navigation
+          - generic [ref=e479]:
+            - heading [level=2] [ref=e480]:
+              - strong [ref=e481]: Patinetes eléctricos homologados zWheel
+            - paragraph [ref=e482]:
+              - text: Los
+              - strong [ref=e483]: patinetes eléctricos homologados zWheel
+              - text: son una opción ideal para quienes buscan una movilidad urbana cómoda, segura y eficiente. En esta categoría encontrarás modelos diseñados para desplazarte por ciudad con mayor practicidad, con una conducción estable, buena autonomía y soluciones pensadas para el uso diario. Si estás buscando
+              - strong [ref=e484]: comprar un patinete eléctrico zWheel homologado DGT
+              - text: ", aquí podrás comparar diferentes alternativas de la marca y elegir la que mejor se adapte a tu ritmo, a tus trayectos y al tipo de conducción que necesitas. La propia marca destaca la homologación DGT en varias de sus gamas principales."
+            - paragraph [ref=e485]: zWheel se ha consolidado como una marca muy reconocida dentro de la movilidad eléctrica por ofrecer patinetes con una combinación muy equilibrada entre diseño, rendimiento y relación calidad-precio. Sus modelos están pensados para cubrir necesidades muy distintas, desde usuarios que buscan un patinete eléctrico ligero y fácil de plegar para moverse por asfalto, hasta quienes prefieren modelos con más potencia, más autonomía, mejores suspensiones o un comportamiento más sólido en terrenos irregulares.
+            - paragraph [ref=e486]:
+              - text: Dentro de la gama
+              - strong [ref=e487]: ZFox
+              - text: encontrarás patinetes eléctricos homologados orientados a quienes priorizan la ligereza, la agilidad y la facilidad de uso en ciudad. Modelos como el
+              - strong [ref=e488]: ZFox
+              - text: ","
+              - strong [ref=e489]: ZFox Plus
+              - text: o
+              - strong [ref=e490]: ZFox Max
+              - text: están pensados para un uso urbano diario, con formatos plegables, pesos contenidos y una conducción cómoda para desplazamientos habituales. Además, la gama ZFox se presenta como una de las más versátiles de la marca, ideal para quienes buscan una opción práctica y funcional para el día a día.
+            - paragraph [ref=e491]:
+              - text: La gama
+              - strong [ref=e492]: ZLion
+              - text: sube un escalón en presencia, potencia y equipamiento. zWheel define esta familia como una propuesta urbana con más carácter, con modelos como el
+              - strong [ref=e493]: ZLion X
+              - text: o el
+              - strong [ref=e494]: ZLion Pro
+              - text: ", pensados para quienes quieren un patinete con más autonomía, mejor aplomo y un diseño más robusto, manteniendo un claro enfoque de uso en ciudad. En esta gama destacan elementos como ruedas antipinchazos, mejor potencia y una sensación de conducción más sólida."
+            - paragraph [ref=e495]:
+              - text: Para quienes buscan un patinete más contundente y preparado para superficies exigentes, la gama
+              - strong [ref=e496]: ZRino
+              - text: representa la opción más aventurera. Modelos como el
+              - strong [ref=e497]: ZRino SE
+              - text: o el
+              - strong [ref=e498]: ZRino Duo
+              - text: están orientados a una conducción más robusta, con doble suspensión, ruedas de 10 pulgadas y una configuración diseñada para ofrecer mayor comodidad en terrenos irregulares y trayectos donde se necesita más absorción y más estabilidad. La propia marca describe al ZRino como su propuesta para aventuras off-road y recorridos de mayor exigencia.
+            - paragraph [ref=e499]:
+              - text: En la parte más potente y profesional de la marca aparece la gama
+              - strong [ref=e500]: ZCougar
+              - text: ", enfocada a usuarios que necesitan más autonomía, más capacidad de carga y un comportamiento más atlético. zWheel la presenta como una herramienta de trabajo y como un tope de gama urbano por resistencia y potencia, pensada para riders o personas que necesitan transportar peso y afrontar recorridos exigentes con mayor confianza."
+            - paragraph [ref=e501]:
+              - text: Entre ambas filosofías, zWheel también ha desarrollado la gama
+              - strong [ref=e502]: ZWolf
+              - text: ", una familia que la marca define como una fusión entre la potencia del ZCougar y la suspensión del ZRino. Esto la sitúa como una alternativa muy interesante para quienes buscan un patinete eléctrico homologado con una presencia más robusta, gran comodidad de marcha y una respuesta potente en cualquier condición urbana."
+            - paragraph [ref=e503]:
+              - text: Gracias a esta variedad, los
+              - strong [ref=e504]: patinetes eléctricos homologados zWheel
+              - text: permiten encontrar opciones para perfiles muy distintos. Hay modelos más ligeros para recorridos cortos, patinetes urbanos con más autonomía para trayectos diarios más largos, y alternativas más robustas para quienes valoran especialmente la estabilidad, la suspensión, el tamaño de rueda o una frenada más contundente. Esa amplitud de gama es una de las grandes fortalezas de la marca y uno de los motivos por los que cada vez más usuarios buscan
+              - strong [ref=e505]: patinetes zWheel homologados DGT
+              - text: .
+            - paragraph [ref=e506]:
+              - text: Si estás comparando opciones para
+              - strong [ref=e507]: comprar un patinete eléctrico zWheel al mejor precio
+              - text: ", esta categoría está pensada para ayudarte a descubrir la gama completa de modelos homologados y encontrar el que mejor encaje contigo. Aquí podrás valorar desde patinetes eléctricos urbanos ligeros y plegables hasta modelos más potentes, con ruedas antipinchazos, doble suspensión, más autonomía o mayor capacidad para un uso intensivo. Todo ello con la tranquilidad de elegir una marca que trabaja diferentes segmentos de movilidad dentro de una misma propuesta de calidad."
+            - paragraph
+            - paragraph [ref=e508]:
+              - text: En definitiva, los
+              - strong [ref=e509]: patinetes eléctricos homologados zWheel
+              - text: son una excelente alternativa para quienes quieren moverse con más libertad, comodidad y seguridad. Descubre en esta categoría las gamas
+              - strong [ref=e510]: ZFox, ZLion, ZRino, ZWolf y ZCougar
+              - text: ", y elige el modelo que mejor se adapte a tu día a día. Ya busques un patinete ligero para ciudad o una opción más potente y robusta, aquí encontrarás una selección de"
+              - strong [ref=e511]: patinetes zWheel homologados DGT
+              - text: preparada para responder a distintas formas de movilidad urbana.
+            - generic [ref=e512]:
+              - paragraph
+              - paragraph [ref=e514]:
+                - iframe [ref=e515]:
+                  - generic [ref=f1e1]:
+                    - generic "YouTube Video Player" [ref=f1e3]
+                    - generic [ref=f1e5]:
+                      - generic:
+                        - generic:
+                          - button "Play video" [ref=f1e10] [cursor=pointer]
+                          - button "Hide player controls" [ref=f1e12] [cursor=pointer]
+                          - generic [ref=f1e14]:
+                            - generic [ref=f1e19]:
+                              - generic [ref=f1e20]:
+                                - link "💬¿Qué nos diferencia de la competencia?" [ref=f1e21] [cursor=pointer]:
+                                  - /url: https://www.youtube.com/watch?v=lafSNa1Jq-w
+                                - link "Zwheel" [ref=f1e22] [cursor=pointer]:
+                                  - /url: /channel/UCLWDKEDDiCbb4Qzsv4nTTbA
+                              - generic [ref=f1e24]:
+                                - button [ref=f1e25] [cursor=pointer]
+                                - generic [ref=f1e27]:
+                                  - generic: Zwheel
+                                  - generic: 3.09K subscribers
+                            - generic [ref=f1e28]:
+                              - button "Share" [ref=f1e31] [cursor=pointer]
+                              - link "Watch on YouTube" [ref=f1e42] [cursor=pointer]:
+                                - /url: https://www.youtube.com/watch?v=lafSNa1Jq-w
+                                - generic [ref=f1e43]: Watch on
+    - generic [ref=e519]:
+      - text:  
+      - generic [ref=e522]:
+        - generic [ref=e528]:
+          - paragraph [ref=e529]: Atención al cliente
+          - text: 
+          - list [ref=e530]:
+            - listitem [ref=e531]:
+              - link "Tiendas & Talleres" [ref=e532] [cursor=pointer]:
+                - /url: https://sabway.es/shop/content/4-tiendas-oficiales-sabway
+                - generic [ref=e533]: 
+            - listitem [ref=e536]:
+              - link "Envío y Devoluciones" [ref=e537] [cursor=pointer]:
+                - /url: https://sabway.es/shop/content/1-entrega
+                - generic [ref=e538]: 
+            - listitem [ref=e541]:
+              - link "Aviso legal" [ref=e542] [cursor=pointer]:
+                - /url: https://sabway.es/shop/content/2-aviso-legal
+                - generic [ref=e543]: 
+            - listitem [ref=e546]:
+              - link "Términos y condiciones" [ref=e547] [cursor=pointer]:
+                - /url: https://sabway.es/shop/content/3-terminos-y-condiciones-de-uso
+                - generic [ref=e548]: 
+            - listitem [ref=e551]:
+              - link "Políticas de Privacidad" [ref=e552] [cursor=pointer]:
+                - /url: https://sabway.es/shop/content/6-politicas-de-privacidad
+                - generic [ref=e553]: 
+            - listitem [ref=e556]:
+              - link "Declaración accesibilidad" [ref=e557] [cursor=pointer]:
+                - /url: https://sabway.es/shop/content/61-declaracion-accesibilidad
+                - generic [ref=e558]: 
+            - listitem [ref=e561]:
+              - link "Política de Cookies" [ref=e562] [cursor=pointer]:
+                - /url: https://sabway.es/shop/content/66-politica-de-cookies
+                - generic [ref=e563]: 
+            - listitem [ref=e566]:
+              - link "SAT SABWAY" [ref=e567] [cursor=pointer]:
+                - /url: https://www.sabway.es/blog/sat/
+                - generic [ref=e568]: 
+        - generic [ref=e576]:
+          - paragraph [ref=e577]: Productos
+          - text: 
+          - list [ref=e578]:
+            - listitem [ref=e579]:
+              - link "Seguros y Matrículas VMP" [ref=e580] [cursor=pointer]:
+                - /url: https://sabway.es/shop/225-matricula-vmp-y-seguro
+                - generic [ref=e581]: 
+            - listitem [ref=e584]:
+              - link "Patinetes Eléctricos" [ref=e585] [cursor=pointer]:
+                - /url: https://sabway.es/shop/12-patinetes-electricos
+                - generic [ref=e586]: 
+            - listitem [ref=e589]:
+              - link "Bicicletas Eléctricas" [ref=e590] [cursor=pointer]:
+                - /url: https://sabway.es/shop/24-bicicletas-electricas
+                - generic [ref=e591]: 
+            - listitem [ref=e594]:
+              - link "Movilidad reducida" [ref=e595] [cursor=pointer]:
+                - /url: https://sabway.es/shop/37-movilidad-reducida
+                - generic [ref=e596]: 
+            - listitem [ref=e599]:
+              - link "Juguetes" [ref=e600] [cursor=pointer]:
+                - /url: https://sabway.es/shop/55-juguetes
+                - generic [ref=e601]: 
+            - listitem [ref=e604]:
+              - link "Recambios" [ref=e605] [cursor=pointer]:
+                - /url: https://sabway.es/shop/144-recambios
+                - generic [ref=e606]: 
+            - listitem [ref=e609]:
+              - link "Abre tu franquicia" [ref=e610] [cursor=pointer]:
+                - /url: https://www.sabway.es/blog/franquicias/
+                - generic [ref=e611]: 
+        - generic [ref=e616]:
+          - heading "CONTACTO" [level=2] [ref=e619]
+          - list [ref=e626]:
+            - listitem [ref=e627]:
+              - link "Lunes a Viernes 9 a 17 hrs." [ref=e628] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e629]: 
+            - listitem [ref=e632]:
+              - link "+34655910806" [ref=e633] [cursor=pointer]:
+                - /url: https://wa.me/34655910806
+                - generic [ref=e634]: 
+            - listitem [ref=e637]:
+              - generic [ref=e638]: 
+              - generic [ref=e640]: 930 185 635
+            - listitem [ref=e641]:
+              - generic [ref=e642]: 
+              - generic [ref=e644]: contacto@sabway.es
+      - generic [ref=e647]:
+        - paragraph [ref=e657]: 100% Pago seguro. financiación a medida sin papeleos.
+        - link [ref=e664] [cursor=pointer]:
+          - /url: https://sabway.es/shop/index.php?controller=attachment&id_attachment=81
+        - generic [ref=e670]:
+          - link "Whatsapp " [ref=e671] [cursor=pointer]:
+            - /url: https://wa.me/34655910806
+            - generic [ref=e672]: Whatsapp
+            - generic [ref=e673]: 
+          - link "Youtube " [ref=e674] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCmcJCT3rltTPd7JSEQFvHcA/videos
+            - generic [ref=e675]: Youtube
+            - generic [ref=e676]: 
+          - link "Instagram " [ref=e677] [cursor=pointer]:
+            - /url: https://www.instagram.com/sabwayoficial/?utm_source=ig_profile_share&igshid=nl467k23wba7
+            - generic [ref=e678]: Instagram
+            - generic [ref=e679]: 
+          - link "Tumblr " [ref=e680] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@sabwayoficial
+            - generic [ref=e681]: Tumblr
+            - generic [ref=e682]: 
+          - link "Twitter " [ref=e683] [cursor=pointer]:
+            - /url: https://twitter.com/sabwayoficial
+            - generic [ref=e684]: Twitter
+            - generic [ref=e685]: 
+          - link "Linkedin-in " [ref=e686] [cursor=pointer]:
+            - /url: https://es.linkedin.com/company/sabway
+            - generic [ref=e687]: Linkedin-in
+            - generic [ref=e688]: 
+  - text:   
+  - generic [ref=e689]: tablet
+  - text:                      
+  - alertdialog [ref=e690]
+  - generic [ref=e693]:
+    - generic:
+      - paragraph [ref=e696]: Esta tienda te pide que aceptes cookies para fines de rendimiento, redes sociales y publicidad. Las redes sociales y las cookies publicitarias de terceros se utilizan para ofrecerte funciones de redes sociales y anuncios personalizados. ¿Aceptas estas cookies y el procesamiento de datos personales involucrados?
+      - text: ✘ ✘
+      - generic [ref=e699]:
+        - button "Configurar" [ref=e701] [cursor=pointer]
+        - button "Rechazar" [ref=e703] [cursor=pointer]
+        - button "Aceptar" [ref=e705] [cursor=pointer]
+  - text: ✖ ✖

@@ -1,0 +1,620 @@
+- generic [ref=f13e1]:
+  - generic [ref=f13e2]:
+    - heading "En KuKirin.es utilizamos cookies para que tu visita sea inmejorable 🍪" [level=4] [ref=f13e3]
+    - paragraph [ref=f13e4]: Nuestra tienda usa cookies para optimizar tu experiencia con KuKirin. Puedes aceptar todas o configurar tus preferencias.
+    - generic [ref=f13e5]:
+      - button "Aceptar todas" [ref=f13e6] [cursor=pointer]
+      - button "Configuración de cookies" [ref=f13e7] [cursor=pointer]
+  - generic [ref=f13e8]:
+    - banner [ref=f13e9]:
+      - generic [ref=f13e10]:
+        - text:          
+        - generic [ref=f13e13]:
+          - text:       
+          - link "Open mobile menu" [ref=f13e16] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=f13e17]: 
+            - generic [ref=f13e18]: Menu
+          - link "Site logo" [ref=f13e21] [cursor=pointer]:
+            - /url: https://kukirin.es/
+            - img "KuKirin.es - Tienda oficial de KuKirin en España - Logo de la marca de patinetes eléctricos más vendida" [ref=f13e22]
+          - link " 0" [ref=f13e25] [cursor=pointer]:
+            - /url: https://kukirin.es/carrito/
+            - generic [ref=f13e26]:
+              - text: 
+              - generic [ref=f13e27]: "0"
+    - main [ref=f13e29]:
+      - generic [ref=f13e31]:
+        - generic [ref=f13e35]:
+          - generic [ref=f13e37]:
+            - generic [ref=f13e39]:
+              - figure [ref=f13e40]:
+                - generic [ref=f13e41]:
+                  - figure [ref=f13e43]:
+                    - link [ref=f13e44] [cursor=pointer]:
+                      - /url: https://kukirin.es/wp-content/uploads/2026/04/kukirin-g2-barato-patinete-electrico-calidad-precio-oferta.webp.webp
+                      - img "KuKirin G2 barato patinete eléctrico con buena relación calidad precio" [ref=f13e45]
+                  - figure [ref=f13e47]:
+                    - link "KuKirin G2 post2":
+                      - /url: https://kukirin.es/wp-content/uploads/2024/06/KuKirin-G2-post2.jpg
+                      - img "KuKirin G2 post2"
+                  - figure [ref=f13e49]:
+                    - link "KuKirin G2 post5":
+                      - /url: https://kukirin.es/wp-content/uploads/2024/06/KuKirin-G2-post5.jpg
+                      - img "KuKirin G2 post5"
+                  - figure [ref=f13e51]:
+                    - link "KuKirin G2 post3":
+                      - /url: https://kukirin.es/wp-content/uploads/2024/06/KuKirin-G2-post3.jpg
+                      - img "KuKirin G2 post3"
+                  - figure [ref=f13e53]:
+                    - link "KuKirin G2 post":
+                      - /url: https://kukirin.es/wp-content/uploads/2024/06/KuKirin-G2-post.jpg
+                      - img "KuKirin G2 post"
+                  - figure [ref=f13e55]:
+                    - link "KuKirin G2 post6":
+                      - /url: https://kukirin.es/wp-content/uploads/2024/06/KuKirin-G2-post6.jpg
+                      - img "KuKirin G2 post6"
+                  - figure [ref=f13e57]:
+                    - link "KuKirin G2 post4":
+                      - /url: https://kukirin.es/wp-content/uploads/2024/06/KuKirin-G2-post4.jpg
+                      - img "KuKirin G2 post4"
+                  - figure [ref=f13e59]:
+                    - link "KuKirin G2 post7":
+                      - /url: https://kukirin.es/wp-content/uploads/2024/06/KuKirin-G2-post7.jpg
+                      - img "KuKirin G2 post7"
+              - generic:
+                - generic [ref=f13e60]: 
+                - generic [ref=f13e62]: 
+              - link " Click to enlarge" [ref=f13e66] [cursor=pointer]:
+                - /url: "#"
+                - text: 
+                - generic: Click to enlarge
+            - generic [ref=f13e68]:
+              - img "KuKirin G2 barato patinete eléctrico con buena relación calidad precio" [ref=f13e72] [cursor=pointer]
+              - generic:
+                - generic [ref=f13e80]: 
+                - generic [ref=f13e82]: 
+          - generic [ref=f13e85]:
+            - heading "Patinete eléctrico KuKirin G2" [level=1] [ref=f13e86]
+            - generic [ref=f13e87]:
+              - img "Valorado con 5.00 de 5" [ref=f13e88]:
+                - text: 
+                - generic [ref=f13e89]:
+                  - text:  Valorado con
+                  - strong [ref=f13e90]: "5.00"
+                  - text: de 5 en base a
+                  - generic [ref=f13e91]:  12
+                  - text: valoraciones de clientes
+              - link "(12 valoraciones de clientes)" [ref=f13e92] [cursor=pointer]:
+                - /url: "#reviews"
+            - paragraph [ref=f13e93]:
+              - generic [ref=f13e94]: 458.00€
+              - text: –
+              - generic [ref=f13e96]: 473.00€
+              - generic [ref=f13e98]: Imp. incluidos
+            - generic [ref=f13e100]:
+              - generic [ref=f13e101]:
+                - generic [ref=f13e104]:
+                  - generic [ref=f13e105]: "02"
+                  - text: días
+                - generic [ref=f13e109]:
+                  - generic [ref=f13e110]: "04"
+                  - text: horas
+                - generic [ref=f13e114]:
+                  - generic [ref=f13e115]: "33"
+                  - text: mins
+                - generic [ref=f13e119]:
+                  - generic [ref=f13e120]: "50"
+                  - text: segs
+              - paragraph [ref=f13e122]:
+                - strong [ref=f13e123]: Oferta Flash con Envío GRATIS
+            - generic [ref=f13e124]:
+              - paragraph [ref=f13e125]:
+                - strong [ref=f13e126]: Velocidad máxima
+                - text: ": 45Km/h (limitable a 25 km/h)"
+                - strong [ref=f13e127]: "Motor:"
+                - text: 800W
+                - strong [ref=f13e128]: Batería
+                - text: ": 48V 15Ah"
+                - strong [ref=f13e129]: Autonomía
+                - text: ": 55Km"
+                - strong [ref=f13e130]: "Peso máximo soportado:"
+                - text: 120Kg
+                - strong [ref=f13e131]: "Ruedas:"
+                - text: Neumáticos de 10”
+                - strong [ref=f13e132]: "Sistema de frenado:"
+                - text: Frenos de disco doble delanteros y traseros
+                - strong [ref=f13e133]: "Iluminación:"
+                - text: Luz de giro y trasera
+                - strong [ref=f13e134]: Certificación
+                - text: ": IP54"
+              - paragraph [ref=f13e135]:
+                - generic [ref=f13e136]: Envío en 2-3 días hábiles. Producto muy solicitado.
+              - paragraph [ref=f13e137]:
+                - link "Guía para registrar tu patinete eléctrico en la DGT" [ref=f13e138] [cursor=pointer]:
+                  - /url: https://kukirin.es/como-registrar-dgt-patinete-electrico-kukirin/
+                  - generic [ref=f13e140]: →
+              - paragraph [ref=f13e141]:
+                - img "Pago de patinete eléctrico" [ref=f13e142]
+            - paragraph [ref=f13e144]:
+              - iframe [ref=f13e146]:
+                - button "PayPal Paga en 3 plazos de 152,67€, sin intereses. 0% TAE. Más información" [ref=f18e2]:
+                  - generic [ref=f18e5] [cursor=pointer]:
+                    - generic [ref=f18e9]: PayPal
+                    - generic [ref=f18e10]:
+                      - generic [ref=f18e11]: Paga en 3 plazos de 152,67€, sin intereses.
+                      - paragraph [ref=f18e15]:
+                        - generic [ref=f18e16]: 0% TAE.
+                        - generic [ref=f18e17]: Más información
+            - generic [ref=f13e148]:
+              - generic [ref=f13e149]: "Versión:"
+              - radiogroup "Versión" [ref=f13e150]:
+                - radio "Modelo de 800W" [ref=f13e151] [cursor=pointer]
+                - radio "500W Homologado por la DGT" [ref=f13e154] [cursor=pointer]
+              - alert
+              - generic [ref=f13e159]:
+                - generic [ref=f13e160]:
+                  - button "-" [ref=f13e161] [cursor=pointer]
+                  - generic: Patinete eléctrico KuKirin G2 cantidad
+                  - spinbutton "Cantidad de productos" [ref=f13e162]: "1"
+                  - button "+" [ref=f13e163] [cursor=pointer]
+                - button "Añadir al carrito" [ref=f13e164] [cursor=pointer]
+                - region "Completa tu compra con accesorios recomendados" [ref=f13e165]:
+                  - button "Completa tu compra con accesorios recomendados Añádelos ahora con precio especial junto a tu patinete." [ref=f13e166] [cursor=pointer]:
+                    - generic [ref=f13e167]:
+                      - generic [ref=f13e168]: Completa tu compra con accesorios recomendados
+                      - generic [ref=f13e169]: Añádelos ahora con precio especial junto a tu patinete.
+            - generic [ref=f13e172]:
+              - iframe
+        - generic [ref=f13e175]:
+          - generic [ref=f13e176]:
+            - generic [ref=f13e177] [cursor=pointer]:
+              - generic [ref=f13e178]: Descripción
+              - generic [ref=f13e180]: 
+            - tabpanel "Descripción" [ref=f13e181]:
+              - generic [ref=f13e182]:
+                - heading "Descripción" [level=2] [ref=f13e183]
+                - heading "KuKirin G2" [level=1] [ref=f13e184]
+                - iframe [ref=f13e186]:
+                  - generic [ref=f14e1]:
+                    - generic "YouTube Video Player" [ref=f14e3]
+                    - generic [ref=f14e5]:
+                      - generic:
+                        - generic:
+                          - button "Play video" [ref=f14e10] [cursor=pointer]
+                          - button "Hide player controls" [ref=f14e12] [cursor=pointer]
+                          - generic [ref=f14e14]:
+                            - generic [ref=f14e19]:
+                              - generic [ref=f14e20]:
+                                - 'link "Patinete eléctrico KuKirin G2: El Hermano Pequeño del Kukirin G4 - 🛴 ¿Vale la Pena? Review y opinión" [ref=f14e21] [cursor=pointer]':
+                                  - /url: https://www.youtube.com/watch?v=oLkOhomM6gY
+                                - link "UrbanCityMove" [ref=f14e22] [cursor=pointer]:
+                                  - /url: /channel/UChOu0WtO5VpV2VWx-GVgTAw
+                              - generic [ref=f14e24]:
+                                - button [ref=f14e25] [cursor=pointer]
+                                - generic [ref=f14e27]:
+                                  - generic: UrbanCityMove
+                                  - generic: 1.22K subscribers
+                            - generic [ref=f14e28]:
+                              - button "Share" [ref=f14e31] [cursor=pointer]
+                              - link "Watch on YouTube" [ref=f14e42] [cursor=pointer]:
+                                - /url: https://www.youtube.com/watch?v=oLkOhomM6gY
+                                - generic [ref=f14e43]: Watch on
+                - paragraph [ref=f13e187]
+                - paragraph [ref=f13e188]:
+                  - text: El
+                  - strong [ref=f13e189]: KuKirin G2
+                  - text: se trata de un patinete eléctrico de la marca Kugoo que está diseñado para el día a día. Gracias a sus especificaciones, califica como una gran opción para transporte de movilidad cotidiano. Su potencia de motor permite subir pendientes con gran inclinación, además de sus
+                  - strong [ref=f13e190]: neumáticos resistentes, autonomía y pantalla LCD
+                  - text: . Una gran opción plegable que te permite cargarlo con facilidad para guardarlo cuando no lo utilices.
+                - paragraph [ref=f13e191]:
+                  - text: Permite ser conducido incluso bajo la lluvia debido a su certificación. Su iluminación hace de la vista nocturna una visión clara. Dispone de un gran soporte de peso, permitiendo hasta 120Kg sin disminuir su potencia.
+                  - strong [ref=f13e192]: Con 3 modos de velocidad podrás conducir en la velocidad de tu preferencia
+                  - text: sin cansarte de la mano por aceleración.
+                - paragraph [ref=f13e193]
+                - heading [level=2] [ref=f13e194]:
+                  - strong [ref=f13e195]: "KuKirin G2: nueva versión"
+                - paragraph [ref=f13e196]: La marca KuKirin continúa evolucionando sus modelos más populares, y el G2 no es la excepción. En su nueva versión, el patinete eléctrico presenta una serie de mejoras técnicas y de diseño que refuerzan su fiabilidad y rendimiento para el día a día.
+                - paragraph [ref=f13e197]: "Entre las principales novedades destacan:"
+                - list [ref=f13e198]:
+                  - listitem [ref=f13e199]:
+                    - paragraph [ref=f13e200]:
+                      - strong [ref=f13e201]: Disco de freno trasero ampliado de 140 mm a 160 mm
+                      - text: ", proporcionando una frenada más potente y progresiva."
+                  - listitem [ref=f13e202]:
+                    - paragraph [ref=f13e203]:
+                      - strong [ref=f13e204]: Nueva luz trasera integrada en el chasis
+                      - text: ", mejorando tanto la visibilidad como la estética."
+                  - listitem [ref=f13e205]:
+                    - paragraph [ref=f13e206]:
+                      - strong [ref=f13e207]: Guardabarros trasero reforzado
+                      - text: ", más resistente a impactos y vibraciones."
+                  - listitem [ref=f13e208]:
+                    - paragraph [ref=f13e209]:
+                      - strong [ref=f13e210]: Base completamente sellada
+                      - text: ", que ofrece mayor protección contra el agua y las condiciones climáticas."
+                  - listitem [ref=f13e211]:
+                    - paragraph [ref=f13e212]:
+                      - strong [ref=f13e213]: Horquilla delantera rediseñada
+                      - text: ", con mejoras en la estabilidad, durabilidad y comportamiento en terrenos irregulares."
+                - heading [level=3] [ref=f13e214]:
+                  - strong [ref=f13e215]: Diseño plegable
+                - paragraph [ref=f13e216]:
+                  - text: El KuKirin G2 dispone de un
+                  - strong [ref=f13e217]: modelo plegable, gracias a su mecanismo con un solo botón
+                  - text: ", se pliega y despliega en pocos segundos. Además, dispone de un sistema de bloqueo que asegura que no se despliegue accidentalmente durante el transporte, ofreciendo una experiencia de uso segura para que puedas cargarlo fácilmente."
+                - heading [level=3] [ref=f13e218]:
+                  - strong [ref=f13e219]: Pantalla LCD
+                - paragraph [ref=f13e220]:
+                  - text: La
+                  - strong [ref=f13e221]: pantalla táctil LCD está incorporada en el manillar
+                  - text: ", es una pantalla inteligente y de alta definición, lo que proporciona información en tiempo real sobre la velocidad, la batería, el kilometraje y la marcha actual. De esta forma, puedes estar al tanto sobre las características al conducir. Añadiendo que, puedes cambiar modos de conducción, ajustando el brillo para situaciones bajo el sol o en oscuridad puedas ver con claridad."
+                - heading [level=3] [ref=f13e222]:
+                  - strong [ref=f13e223]: Motor de gran potencia
+                - paragraph [ref=f13e224]:
+                  - text: Cuenta con un
+                  - strong [ref=f13e225]: motor de cubo integrado de 800W
+                  - text: y un modo de aceleración con el que experimentarás una aceleración suave y una potencia continua. Sus tres modos de velocidad te permiten elegir entre 15 km/h,25Km/h y 45 km/h, adaptándose a tus necesidades diarias y permitiendo conducirlo dentro de las normativas europeas. Su potencia permite subir pendientes de hasta 20° de inclinación y permite un peso máximo de 120 kg, ideal para cualquier persona.
+                - heading [level=3] [ref=f13e226]:
+                  - strong [ref=f13e227]: Autonomía de gran alcance
+                - paragraph [ref=f13e228]:
+                  - text: Equipado con una
+                  - strong [ref=f13e229]: batería de litio de alto rendimiento de 48V y 15Ah
+                  - text: ", permite una autonomía de hasta 55 km a velocidad media. Ideal para desplazamientos diarios o escapadas de fin de semana, este scooter te permite explorar sin preocuparte por la carga. Además, toma un tiempo de carga de 8-9 horas, por lo que puedes conectarlo a cargar durante las noches para que en la mañana tengas un VMP totalmente funcional."
+                - heading [level=3] [ref=f13e230]:
+                  - strong [ref=f13e231]: Neumáticos todoterreno
+                - paragraph [ref=f13e232]:
+                  - text: Equipado con
+                  - strong [ref=f13e233]: neumáticos de vacío de 10
+                  - text: ” dispone de un excelente agarre y absorción de impactos. Estos neumáticos reducen significativamente el riesgo de caídas, garantizando una conducción segura y cómoda en diversas condiciones de la carretera. Desde el asfalto urbano hasta senderos podrás vivir nuevas experiencias seguras y a todo terreno.
+                - heading [level=3] [ref=f13e234]:
+                  - strong [ref=f13e235]: Frenos de calidad
+                - paragraph [ref=f13e236]:
+                  - text: Los
+                  - strong [ref=f13e237]: frenos de disco delanteros y traseros garantizan una respuesta rápida y segura
+                  - text: ", incluso a altas velocidades. La distancia de frenado, controlada entre 4 y 10 metros, asegura un frenado eficiente en situaciones de emergencia. Su disipación de calor rápida permite un frenado seguro y estratégico que te ayudara en caso improvistos."
+                - heading [level=3] [ref=f13e238]:
+                  - strong [ref=f13e239]: Peso ligero y facilidad de guardado
+                - paragraph [ref=f13e240]:
+                  - text: Cuenta con un
+                  - strong [ref=f13e241]: peso neto de aproximadamente 26 kg
+                  - text: y un diseño estructural optimizado, este patinete eléctrico es fácil de transportar y almacenar. Su tamaño compacto plegado lo hace ideal para llevar al trabajo o guardar en el maletero del automóvil.
+                - heading "Especificaciones técnicas del Kukirin G2" [level=2] [ref=f13e242]
+                - table [ref=f13e243]:
+                  - rowgroup [ref=f13e244]:
+                    - row [ref=f13e245]:
+                      - columnheader "Característica" [ref=f13e246]
+                      - columnheader "Detalle" [ref=f13e247]
+                  - rowgroup [ref=f13e248]:
+                    - row [ref=f13e249]:
+                      - cell "Modelo" [ref=f13e250]
+                      - cell "Kukirin G2" [ref=f13e251]
+                    - row [ref=f13e252]:
+                      - cell "Motor" [ref=f13e253]
+                      - cell "Brushless 800W" [ref=f13e254]
+                    - row [ref=f13e255]:
+                      - cell "Velocidad máxima" [ref=f13e256]
+                      - cell "45 km/h" [ref=f13e257]
+                    - row [ref=f13e258]:
+                      - cell "Autonomía" [ref=f13e259]
+                      - cell "Hasta 55 km" [ref=f13e260]
+                    - row [ref=f13e261]:
+                      - cell "Batería" [ref=f13e262]
+                      - cell "48V 15.6Ah (celdas 18650)" [ref=f13e263]
+                    - row [ref=f13e264]:
+                      - cell "Tiempo de carga" [ref=f13e265]
+                      - cell "8-9 horas" [ref=f13e266]
+                    - row [ref=f13e267]:
+                      - cell "Frenos" [ref=f13e268]
+                      - cell "Disco delantero y trasero + corte eléctrico" [ref=f13e269]
+                    - row [ref=f13e270]:
+                      - cell "Suspensión" [ref=f13e271]
+                      - cell "Doble suspensión de muelle" [ref=f13e272]
+                    - row [ref=f13e273]:
+                      - cell "Neumáticos" [ref=f13e274]
+                      - cell "10″ tubeless" [ref=f13e275]
+                    - row [ref=f13e276]:
+                      - cell "Peso" [ref=f13e277]
+                      - cell "26 kg" [ref=f13e278]
+                    - row [ref=f13e279]:
+                      - cell "Carga máxima" [ref=f13e280]
+                      - cell "120 kg" [ref=f13e281]
+                    - row [ref=f13e282]:
+                      - cell "Impermeabilidad" [ref=f13e283]
+                      - cell "IPX4" [ref=f13e284]
+                - table [ref=f13e285]:
+                  - rowgroup [ref=f13e286]:
+                    - row [ref=f13e287]:
+                      - columnheader "Dimensiones y medidas" [ref=f13e288]
+                      - columnheader "Detalle" [ref=f13e289]
+                  - rowgroup [ref=f13e290]:
+                    - row [ref=f13e291]:
+                      - cell "Dimensiones desplegado" [ref=f13e292]
+                      - cell "1258 x 660 x 1290 mm" [ref=f13e293]
+                    - row [ref=f13e294]:
+                      - cell "Dimensiones plegado" [ref=f13e295]
+                      - cell "1258 x 660 x 560 mm" [ref=f13e296]
+                    - row [ref=f13e297]:
+                      - cell "Base (plataforma)" [ref=f13e298]
+                      - cell "460 x 187 mm" [ref=f13e299]
+                    - row [ref=f13e300]:
+                      - cell "Anchura del manillar" [ref=f13e301]
+                      - cell "660 mm" [ref=f13e302]
+                    - row [ref=f13e303]:
+                      - cell "Altura del chasis" [ref=f13e304]
+                      - cell "180 mm" [ref=f13e305]
+                    - row [ref=f13e306]:
+                      - cell "Distancia pedal-manillar" [ref=f13e307]
+                      - cell "990 mm" [ref=f13e308]
+                - table [ref=f13e309]:
+                  - rowgroup [ref=f13e310]:
+                    - row [ref=f13e311]:
+                      - columnheader "Contenido del Paquete" [ref=f13e312]
+                      - columnheader "Elementos" [ref=f13e313]
+                  - rowgroup [ref=f13e314]:
+                    - row [ref=f13e315]:
+                      - cell "1 x" [ref=f13e316]
+                      - cell "Patinete eléctrico Kukirin G2" [ref=f13e317]
+                    - row [ref=f13e318]:
+                      - cell "1 x" [ref=f13e319]
+                      - cell "Cargador" [ref=f13e320]
+                    - row [ref=f13e321]:
+                      - cell "2 x" [ref=f13e322]
+                      - cell "Pernos de montaje guardabarros" [ref=f13e323]
+                    - row [ref=f13e324]:
+                      - cell "1 x" [ref=f13e325]
+                      - cell "Guardabarros trasero" [ref=f13e326]
+                    - row [ref=f13e327]:
+                      - cell "1 x" [ref=f13e328]
+                      - cell "Kit de herramientas completo (llaves Allen, tornillería y repuestos)" [ref=f13e329]
+                    - row [ref=f13e330]:
+                      - cell "1 x" [ref=f13e331]
+                      - cell "Manual de usuario" [ref=f13e332]
+                - paragraph [ref=f13e333]
+          - generic [ref=f13e334]:
+            - generic [ref=f13e335] [cursor=pointer]:
+              - generic [ref=f13e336]: Valoraciones (12)
+              - generic [ref=f13e338]: 
+            - text: "                        :     "
+        - generic [ref=f13e340]:
+          - heading "Productos relacionados" [level=2] [ref=f13e341]
+          - generic [ref=f13e343]:
+            - generic [ref=f13e345]:
+              - link [ref=f13e347] [cursor=pointer]:
+                - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2-homologado-dgt-velocidad-25kmh-500w/
+                - img "Kukirin G2 Homologado DGT" [ref=f13e348]
+              - generic [ref=f13e349]:
+                - heading [level=3] [ref=f13e350]:
+                  - link "Kukirin G2 Homologado DGT" [ref=f13e351] [cursor=pointer]:
+                    - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2-homologado-dgt-velocidad-25kmh-500w/
+                - img "Valorado con 4.94 de 5" [ref=f13e352]:
+                  - text: 
+                  - generic [ref=f13e353]:
+                    - text:  Valorado con
+                    - strong [ref=f13e354]: "4.94"
+                    - text: de 5
+                - generic [ref=f13e355]:
+                  - deletion [ref=f13e356]:
+                    - generic [ref=f13e357]: 719.99€
+                  - generic: "El precio original era: 719.99€."
+                  - insertion [ref=f13e359]:
+                    - generic [ref=f13e360]: 473.00€
+                  - generic: "El precio actual es: 473.00€."
+                - 'link "Añadir al carrito: “Kukirin G2 Homologado DGT”" [ref=f13e363] [cursor=pointer]':
+                  - /url: "?add-to-cart=22054"
+                  - text: 
+                  - generic [ref=f13e364]: Añadir al carrito
+            - generic [ref=f13e366]:
+              - link [ref=f13e368] [cursor=pointer]:
+                - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2-pro-homologado-dgt-vmp/
+                - img "Comprar patinete eléctrico Kukirin G2 Pro VMP Homologado DGT Tienda oficial" [ref=f13e369]
+              - generic [ref=f13e370]:
+                - heading [level=3] [ref=f13e371]:
+                  - link "Kukirin G2 Pro Homologado DGT" [ref=f13e372] [cursor=pointer]:
+                    - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2-pro-homologado-dgt-vmp/
+                - img "Valorado con 4.98 de 5" [ref=f13e373]:
+                  - text: 
+                  - generic [ref=f13e374]:
+                    - text:  Valorado con
+                    - strong [ref=f13e375]: "4.98"
+                    - text: de 5
+                - generic [ref=f13e376]:
+                  - deletion [ref=f13e377]:
+                    - generic [ref=f13e378]: 719.99€
+                  - generic: "El precio original era: 719.99€."
+                  - insertion [ref=f13e380]:
+                    - generic [ref=f13e381]: 467.00€
+                  - generic: "El precio actual es: 467.00€."
+                - 'link "Añadir al carrito: “Kukirin G2 Pro Homologado DGT”" [ref=f13e384] [cursor=pointer]':
+                  - /url: "?add-to-cart=24147"
+                  - text: 
+                  - generic [ref=f13e385]: Añadir al carrito
+            - generic [ref=f13e387]:
+              - link [ref=f13e389] [cursor=pointer]:
+                - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2-master/
+                - img "comprar patinete eléctrico Kukirin G2 Master" [ref=f13e390]
+              - generic [ref=f13e391]:
+                - heading [level=3] [ref=f13e392]:
+                  - link "KuKirin G2 Master" [ref=f13e393] [cursor=pointer]:
+                    - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2-master/
+                - img "Valorado con 5.00 de 5" [ref=f13e394]:
+                  - text: 
+                  - generic [ref=f13e395]:
+                    - text:  Valorado con
+                    - strong [ref=f13e396]: "5.00"
+                    - text: de 5
+                - generic [ref=f13e397]:
+                  - deletion [ref=f13e398]:
+                    - generic [ref=f13e399]: 999.00€
+                  - generic: "El precio original era: 999.00€."
+                  - insertion [ref=f13e401]:
+                    - generic [ref=f13e402]: 829.00€
+                  - generic: "El precio actual es: 829.00€."
+                - 'link "Añadir al carrito: “KuKirin G2 Master”" [ref=f13e405] [cursor=pointer]':
+                  - /url: "?add-to-cart=21403"
+                  - text: 
+                  - generic [ref=f13e406]: Añadir al carrito
+            - generic [ref=f13e408]:
+              - link [ref=f13e410] [cursor=pointer]:
+                - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2-ultra/
+                - img "Comprar patinete eléctrico Kukirin G2 Ultra tienda oficial España" [ref=f13e411]
+              - generic [ref=f13e412]:
+                - heading [level=3] [ref=f13e413]:
+                  - link "Kukirin G2 Ultra" [ref=f13e414] [cursor=pointer]:
+                    - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2-ultra/
+                - img "Valorado con 5.00 de 5" [ref=f13e415]:
+                  - text: 
+                  - generic [ref=f13e416]:
+                    - text:  Valorado con
+                    - strong [ref=f13e417]: "5.00"
+                    - text: de 5
+                - generic [ref=f13e418]:
+                  - deletion [ref=f13e419]:
+                    - generic [ref=f13e420]: 899.00€
+                  - generic: "El precio original era: 899.00€."
+                  - insertion [ref=f13e422]:
+                    - generic [ref=f13e423]: 638.00€
+                  - generic: "El precio actual es: 638.00€."
+                - 'link "Añadir al carrito: “Kukirin G2 Ultra”" [ref=f13e426] [cursor=pointer]':
+                  - /url: "?add-to-cart=28827"
+                  - text: 
+                  - generic [ref=f13e427]: Añadir al carrito
+    - generic [ref=f13e434]:
+      - generic [ref=f13e436]:
+        - generic [ref=f13e438]:
+          - link [ref=f13e442] [cursor=pointer]:
+            - /url: https://kukirin.es
+          - paragraph [ref=f13e445]: Somos, probablemente, una de las marcas con más experiencia y ventas a nivel mundial en el sector del patinete eléctrico.
+        - generic [ref=f13e447]:
+          - heading "Enlaces de Interés" [level=2] [ref=f13e450]
+          - paragraph [ref=f13e453]:
+            - link "Mi cuenta" [ref=f13e455] [cursor=pointer]:
+              - /url: https://kukirin.es/mi-cuenta/
+            - link "Solicitud de cancelación" [ref=f13e457] [cursor=pointer]:
+              - /url: https://kukirin.es/solicitud-de-cancelacion/
+            - link "Blog" [ref=f13e459] [cursor=pointer]:
+              - /url: https://kukirin.es/blog/
+            - link "Aviso legal" [ref=f13e461] [cursor=pointer]:
+              - /url: https://kukirin.es/aviso-legal/
+            - link "Política de privacidad y cookies" [ref=f13e463] [cursor=pointer]:
+              - /url: https://kukirin.es/politica-de-privacidad-y-cookies/
+            - link "Condiciones generales de venta" [ref=f13e465] [cursor=pointer]:
+              - /url: https://kukirin.es/condiciones-generales-de-venta/
+            - generic [ref=f13e467]:
+              - link "Términos del servicio" [ref=f13e468] [cursor=pointer]:
+                - /url: https://kukirin.es/terminos-servicio/
+              - link "Certificado punto de venta oficial" [ref=f13e469] [cursor=pointer]:
+                - /url: https://mega.nz/file/gqsVyThY#UUeYBFrEcI32FhC3fioPRht-5piYzvNFf_9Jy0rSINk
+        - generic [ref=f13e471]:
+          - heading "Menú Principal" [level=2] [ref=f13e474]
+          - list [ref=f13e477]:
+            - listitem [ref=f13e478]:
+              - link "Kukirin" [ref=f13e479] [cursor=pointer]:
+                - /url: https://kukirin.es/categoria-producto/kukirin/
+            - listitem [ref=f13e481]:
+              - link "Bicicletas eléctricas" [ref=f13e482] [cursor=pointer]:
+                - /url: https://kukirin.es/categoria-producto/kukirin-ebikes/
+            - listitem [ref=f13e484]:
+              - link "Accesorios" [ref=f13e485] [cursor=pointer]:
+                - /url: https://kukirin.es/categoria-producto/accesorios/
+            - listitem [ref=f13e487]:
+              - link "Repuestos" [ref=f13e488] [cursor=pointer]:
+                - /url: https://kukirin.es/categoria-producto/repuestos/
+            - listitem [ref=f13e490]:
+              - link "Seguros para patinete eléctrico" [ref=f13e491] [cursor=pointer]:
+                - /url: https://kukirin.es/seguros-patinete-electrico/
+            - listitem [ref=f13e493]:
+              - link "Opiniones" [ref=f13e494] [cursor=pointer]:
+                - /url: https://kukirin.es/opiniones-sobre-la-marca-kukirin/
+        - generic [ref=f13e497]:
+          - heading "Contáctanos" [level=2] [ref=f13e500]
+          - generic [ref=f13e502]:
+            - paragraph [ref=f13e503]:
+              - link "hola@kukirin.es" [ref=f13e505] [cursor=pointer]:
+                - /url: mailto:hola@kukirin.es
+            - paragraph [ref=f13e506]: Redes sociales
+          - list [ref=f13e509]:
+            - listitem [ref=f13e510]:
+              - link "Facebook-f" [ref=f13e511] [cursor=pointer]:
+                - /url: https://www.facebook.com/profile.php?id=61550328424151
+                - generic [ref=f13e513]: 
+            - listitem [ref=f13e514]:
+              - generic [ref=f13e515] [cursor=pointer]:
+                - generic [ref=f13e516]: Twitter
+                - generic [ref=f13e517]: 
+            - listitem [ref=f13e518]:
+              - link "Instagram" [ref=f13e519] [cursor=pointer]:
+                - /url: https://www.instagram.com/kukirin.es/
+                - generic [ref=f13e521]: 
+      - generic [ref=f13e529]:
+        - paragraph [ref=f13e532]:
+          - text: Copyright © 2026
+          - generic [ref=f13e533]:
+            - link "K" [ref=f13e534] [cursor=pointer]:
+              - /url: http://kukirin.es
+            - text: ukirin
+          - text: . Todos los derechos reservados.
+        - generic [ref=f13e536]:
+          - img "Metodos de pago tarjeta paypal"
+  - link "Scroll to top button":
+    - /url: "#"
+    - text: 
+  - generic [ref=f13e537]:
+    - search [ref=f13e539]:
+      - textbox "Buscar" [ref=f13e540]:
+        - /placeholder: ¿Qué estás buscando?
+      - text: 
+      - button "Buscar " [ref=f13e541] [cursor=pointer]:
+        - generic: Buscar
+        - text: 
+    - list [ref=f13e542]:
+      - listitem [ref=f13e543]:
+        - link "KuKirin" [ref=f13e544] [cursor=pointer]:
+          - /url: https://kukirin.es/categoria-producto/kukirin/
+        - text:      
+        - generic [ref=f13e546] [cursor=pointer]: 
+      - listitem [ref=f13e547]:
+        - link "Ebikes" [ref=f13e548] [cursor=pointer]:
+          - /url: https://kukirin.es/categoria-producto/kukirin-ebikes/
+        - text: 
+        - generic [ref=f13e550] [cursor=pointer]: 
+      - listitem [ref=f13e551]:
+        - link "Accesorios" [ref=f13e552] [cursor=pointer]:
+          - /url: https://kukirin.es/categoria-producto/accesorios/
+      - listitem [ref=f13e554]:
+        - link "Repuestos" [ref=f13e555] [cursor=pointer]:
+          - /url: https://kukirin.es/categoria-producto/repuestos/
+        - generic [ref=f13e557] [cursor=pointer]: 
+      - listitem [ref=f13e558]:
+        - link "Seguros" [ref=f13e559] [cursor=pointer]:
+          - /url: https://kukirin.es/seguros-patinete-electrico/
+      - listitem [ref=f13e561]:
+        - link "Contacto" [ref=f13e562] [cursor=pointer]:
+          - /url: https://kukirin.es/contacto/
+      - listitem [ref=f13e564]:
+        - link "Blog" [ref=f13e565] [cursor=pointer]:
+          - /url: https://kukirin.es/blog/
+  - generic [ref=f13e567]:
+    - generic [ref=f13e568]:
+      - generic [ref=f13e569]: Carrito
+      - link " Cerrar" [ref=f13e571] [cursor=pointer]:
+        - /url: "#"
+    - generic [ref=f13e572]: No hay productos en el carrito.
+  - generic [ref=f13e575]:
+    - link " Tienda" [ref=f13e577] [cursor=pointer]:
+      - /url: https://kukirin.es/tienda/
+      - generic [ref=f13e578]: 
+      - generic [ref=f13e579]: Tienda
+    - generic "My cart" [ref=f13e580]:
+      - link " 0 Carrito" [ref=f13e581] [cursor=pointer]:
+        - /url: https://kukirin.es/carrito/
+        - generic [ref=f13e582]:
+          - text: 
+          - generic [ref=f13e583]: "0"
+        - generic [ref=f13e584]: Carrito
+    - link " Mi cuenta" [ref=f13e586] [cursor=pointer]:
+      - /url: https://kukirin.es/mi-cuenta/
+      - generic [ref=f13e587]: 
+      - generic [ref=f13e588]: Mi cuenta
+  - generic [ref=f13e589]: tablet
+  - status

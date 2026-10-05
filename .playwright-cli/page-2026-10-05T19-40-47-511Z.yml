@@ -1,0 +1,745 @@
+- generic [ref=f189e1]:
+  - main [ref=f189e2]:
+    - generic [ref=f189e3]:
+      - navigation
+      - generic [ref=f189e7]:
+        - generic [ref=f189e10]:
+          - button "Noticias & Blog" [ref=f189e17] [cursor=pointer]:
+            - generic [ref=f189e18]:
+              - generic [ref=f189e19]: 
+              - generic [ref=f189e21]: Noticias & Blog
+          - text: 
+          - button "+ 40 Tiendas en España" [ref=f189e28] [cursor=pointer]:
+            - generic [ref=f189e29]:
+              - generic [ref=f189e30]: 
+              - generic [ref=f189e32]: + 40 Tiendas en España
+          - button "¿Te ayudamos?" [ref=f189e39] [cursor=pointer]:
+            - generic [ref=f189e40]:
+              - generic [ref=f189e41]: 
+              - generic [ref=f189e43]: ¿Te ayudamos?
+          - link "" [ref=f189e49] [cursor=pointer]:
+            - /url: https://sabway.es/shop/inicio-sesion
+        - generic [ref=f189e53]:
+          - link [ref=f189e60] [cursor=pointer]:
+            - /url: https://sabway.es/shop/
+          - generic [ref=f189e68]:
+            - button "" [ref=f189e69] [cursor=pointer]
+            - textbox "Buscar productos aquí" [ref=f189e72]
+          - link " 0" [ref=f189e78] [cursor=pointer]:
+            - /url: //sabway.es/shop/carrito?action=show
+            - generic [ref=f189e79]: 
+            - generic [ref=f189e80]: "0"
+        - text:   
+        - link " Menu" [ref=f189e89] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=f189e90]: 
+          - generic [ref=f189e91]: Menu
+        - text:          
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - button "Noticias & Blog":
+                                  - generic:
+                                    - generic: 
+                                    - generic: Noticias & Blog
+                    - text: 
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - button "+ 40 Tiendas en España":
+                                  - generic:
+                                    - generic: 
+                                    - generic: + 40 Tiendas en España
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - button "¿Te ayudamos?":
+                                  - generic:
+                                    - generic: 
+                                    - generic: ¿Te ayudamos?
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link "":
+                                - /url: https://sabway.es/shop/inicio-sesion
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - link:
+                                  - /url: https://sabway.es/shop/
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - button ""
+                                    - generic:
+                                      - textbox "Buscar productos aquí"
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link " 0":
+                                - /url: //sabway.es/shop/carrito?action=show
+                                - generic: 
+                                - generic: "0"
+              - text:   
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link " Menu":
+                                - /url: "#"
+                                - generic: 
+                                - generic: Menu
+              - text:          
+    - navigation [ref=f189e93]:
+      - heading "Dualtron" [level=1] [ref=f189e94]
+      - list [ref=f189e95]:
+        - listitem [ref=f189e96]:
+          - link "" [ref=f189e97] [cursor=pointer]:
+            - /url: https://sabway.es/shop/
+          - text: ">"
+        - listitem [ref=f189e100]:
+          - 'link "Patinetes Eléctricos: Guía de Compra y Mejores Precios" [ref=f189e101] [cursor=pointer]':
+            - /url: https://sabway.es/shop/12-patinetes-electricos
+          - text: ">"
+        - listitem [ref=f189e102]:
+          - generic [ref=f189e103]: Dualtron
+    - generic [ref=f189e104]:
+      - complementary
+      - generic [ref=f189e106]:
+        - generic [ref=f189e107]:
+          - generic [ref=f189e108]:
+            - text: 
+            - link " Inicio" [ref=f189e109] [cursor=pointer]:
+              - /url: "#category-top-menu"
+            - text:             
+          - generic [ref=f189e110]:
+            - text: 
+            - link " New Product" [ref=f189e111] [cursor=pointer]:
+              - /url: "#tdcolumn_block_72490"
+            - text:               
+          - generic [ref=f189e112]:
+            - text: 
+            - link " Top Sellers" [ref=f189e113] [cursor=pointer]:
+              - /url: "#tdcolumn_block_52607"
+            - text:               
+        - generic [ref=f189e115]:
+          - generic [ref=f189e117]:
+            - img "Patinetes eléctricos Dualtron" [ref=f189e120]
+            - generic:
+              - heading [level=1]
+          - generic [ref=f189e121]:
+            - generic [ref=f189e123]:
+              - link " Filtrar" [ref=f189e126] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f189e127]: 
+                - text: Filtrar
+              - generic [ref=f189e128]:
+                - link [ref=f189e129] [cursor=pointer]:
+                  - /url: https://sabway.es/shop/53-dualtron?order=product.position.asc&productListView=grid
+                - link [ref=f189e132] [cursor=pointer]:
+                  - /url: https://sabway.es/shop/53-dualtron?order=product.position.asc&productListView=list
+              - generic [ref=f189e135]:
+                - generic [ref=f189e136]: Mostrando 1-12 de 14 artículo(s)
+                - combobox [ref=f189e139]:
+                  - option "Los más vendidos"
+                  - option "Relevancia" [selected]
+                  - option "Nombre, A a Z"
+                  - option "Nombre, Z a A"
+                  - 'option "Precio: de más bajo a más alto"'
+                  - option "Precio, de más alto a más bajo"
+                  - option "Referencia, A a Z"
+                  - option "Referencia, Z a A"
+                  - option "Fecha de añadido, de más antiguos a más recientes"
+                  - option "Fecha de añadido, más recientes a más antiguos"
+            - generic [ref=f189e141]:
+              - generic [ref=f189e142]:
+                - article [ref=f189e143]:
+                  - generic [ref=f189e144]:
+                    - generic [ref=f189e146]:
+                      - link [ref=f189e147] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/dualtron/1859-patinete-electrico-dualtron-victor-luxury-plus-60v.html
+                        - img "Patinete eléctrico Dualtron Victor Luxury Plus 60V 2" [ref=f189e148]
+                        - img "Patinete eléctrico Dualtron Victor Luxury Plus 60V" [ref=f189e150]
+                      - list
+                      - generic [ref=f189e151]:
+                        - button " Añadir a la cesta" [ref=f189e155] [cursor=pointer]
+                        - link "" [ref=f189e157] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e159] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e161] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=f189e162]:
+                      - link "DT VICTOR LUXURY PLUS 60V 31,5AH 2025 Homologado DGT" [ref=f189e164] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/dualtron/1859-patinete-electrico-dualtron-victor-luxury-plus-60v.html
+                      - generic [ref=f189e165]: 1.999,99 €
+                      - generic [ref=f189e166]:
+                        - generic [ref=f189e167]:
+                          - generic [ref=f189e168] [cursor=pointer]: 
+                          - generic [ref=f189e169] [cursor=pointer]: 
+                          - generic [ref=f189e170] [cursor=pointer]: 
+                          - generic [ref=f189e171] [cursor=pointer]: 
+                          - generic [ref=f189e172] [cursor=pointer]: 
+                        - generic [ref=f189e173]: "1"
+                - article [ref=f189e174]:
+                  - generic [ref=f189e175]:
+                    - generic [ref=f189e177]:
+                      - link [ref=f189e178] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/dualtron/554-patinete-electrico-dualtron-victor-60v-minimotors-8436574657746.html
+                        - img "Dualtron Victor 60V 27Ah EY4 Homologado DGT | Patinete Eléctrico Premium 2" [ref=f189e179]
+                        - img "Dualtron Victor 60V 27Ah EY4 Homologado DGT | Patinete Eléctrico Premium" [ref=f189e181]
+                      - list
+                      - generic [ref=f189e182]:
+                        - button " Añadir a la cesta" [ref=f189e186] [cursor=pointer]
+                        - link "" [ref=f189e188] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e190] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e192] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=f189e193]:
+                      - link "Patinete eléctrico DUALTRON Victor 60V 27AH 2026 Homologado DGT" [ref=f189e195] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/dualtron/554-patinete-electrico-dualtron-victor-60v-minimotors-8436574657746.html
+                      - generic [ref=f189e196]: 1.799,99 €
+                      - generic [ref=f189e197]:
+                        - generic [ref=f189e198]:
+                          - generic [ref=f189e199] [cursor=pointer]: 
+                          - generic [ref=f189e200] [cursor=pointer]: 
+                          - generic [ref=f189e201] [cursor=pointer]: 
+                          - generic [ref=f189e202] [cursor=pointer]: 
+                          - generic [ref=f189e203] [cursor=pointer]: 
+                        - generic [ref=f189e204]: "0"
+                - article [ref=f189e205]:
+                  - generic [ref=f189e206]:
+                    - generic [ref=f189e208]:
+                      - link [ref=f189e209] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/dualtron/1929-10090-patinete-electrico-dualtron-thunder-iii-72v-40ah-lg-MINIMOTORS.html#/299-bateria-72v_42ah
+                        - img "Patinete eléctrico Dualtron Thunder III 72V 40Ah LG MINIMOTORS 2" [ref=f189e210]
+                        - img "Patinete eléctrico Dualtron Thunder III 72V 40Ah LG MINIMOTORS" [ref=f189e212]
+                      - list
+                      - generic [ref=f189e213]:
+                        - link " Seleccionar opción" [ref=f189e215] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e217] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e219] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e221] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=f189e222]:
+                      - link "Patinete eléctrico DUALTRON Thunder III 72V 44Ah LG Homologado DGT" [ref=f189e224] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/dualtron/1929-10090-patinete-electrico-dualtron-thunder-iii-72v-40ah-lg-MINIMOTORS.html#/299-bateria-72v_42ah
+                      - generic [ref=f189e225]: 7.199,98 €
+                      - generic [ref=f189e226]:
+                        - generic [ref=f189e227]:
+                          - generic [ref=f189e228] [cursor=pointer]: 
+                          - generic [ref=f189e229] [cursor=pointer]: 
+                          - generic [ref=f189e230] [cursor=pointer]: 
+                          - generic [ref=f189e231] [cursor=pointer]: 
+                          - generic [ref=f189e232] [cursor=pointer]: 
+                        - generic [ref=f189e233]: "0"
+                - article [ref=f189e234]:
+                  - generic [ref=f189e235]:
+                    - generic [ref=f189e237]:
+                      - link [ref=f189e238] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/dualtron/2103-patinete-electrico-dualtron-togo-plus-48v-12ah-homologado-dgt.html
+                        - img "Patinete eléctrico DUALTRON TOGO 48V 12Ah Homologado DGT 2" [ref=f189e239]
+                        - img "Patinete eléctrico DUALTRON TOGO 48V 12Ah Homologado DGT" [ref=f189e241]
+                      - list
+                      - generic [ref=f189e242]:
+                        - button " Añadir a la cesta" [ref=f189e246] [cursor=pointer]
+                        - link "" [ref=f189e248] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e250] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e252] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=f189e253]:
+                      - link "Patinete eléctrico DUALTRON TOGO PLUS 48V 12Ah Homologado DGT" [ref=f189e255] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/dualtron/2103-patinete-electrico-dualtron-togo-plus-48v-12ah-homologado-dgt.html
+                      - generic [ref=f189e256]: 639,99 €
+                      - generic [ref=f189e257]:
+                        - generic [ref=f189e258]:
+                          - generic [ref=f189e259] [cursor=pointer]: 
+                          - generic [ref=f189e260] [cursor=pointer]: 
+                          - generic [ref=f189e261] [cursor=pointer]: 
+                          - generic [ref=f189e262] [cursor=pointer]: 
+                          - generic [ref=f189e263] [cursor=pointer]: 
+                        - generic [ref=f189e264]: "0"
+                - article [ref=f189e265]:
+                  - generic [ref=f189e266]:
+                    - generic [ref=f189e268]:
+                      - link [ref=f189e269] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos/2299-patinete-electrico-dualtron-victor-60v-24ah-2024.html
+                        - img "Patinete eléctrico Dualtron Victor 60V 24Ah 2024 2" [ref=f189e270]
+                        - img "Patinete eléctrico Dualtron Victor 60V 24Ah 2024" [ref=f189e272]
+                      - list
+                      - generic [ref=f189e273]:
+                        - button " Añadir a la cesta" [ref=f189e277] [cursor=pointer]
+                        - link "" [ref=f189e279] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e281] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e283] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=f189e284]:
+                      - link "Patinete eléctrico Dualtron Victor 60V 24AH 2025 Homologado DGT" [ref=f189e286] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos/2299-patinete-electrico-dualtron-victor-60v-24ah-2024.html
+                      - generic [ref=f189e287]: 1.599,99 €
+                      - generic [ref=f189e288]:
+                        - generic [ref=f189e289]:
+                          - generic [ref=f189e290] [cursor=pointer]: 
+                          - generic [ref=f189e291] [cursor=pointer]: 
+                          - generic [ref=f189e292] [cursor=pointer]: 
+                          - generic [ref=f189e293] [cursor=pointer]: 
+                          - generic [ref=f189e294] [cursor=pointer]: 
+                        - generic [ref=f189e295]: "0"
+                - article [ref=f189e296]:
+                  - generic [ref=f189e297]:
+                    - generic [ref=f189e299]:
+                      - link [ref=f189e300] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos/2310-patinete-electrico-dualtron-forever-60v-182ah-homologado-dgt.html
+                        - img "Patinete eléctrico Dualtron Forever 60V 18,2Ah Homologado DGT 2" [ref=f189e301]
+                        - img "Patinete eléctrico Dualtron Forever 60V 18,2Ah Homologado DGT" [ref=f189e303]
+                      - list
+                      - generic [ref=f189e304]:
+                        - button " Añadir a la cesta" [ref=f189e308] [cursor=pointer]
+                        - link "" [ref=f189e310] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e312] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e314] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=f189e315]:
+                      - link "Patinete eléctrico Dualtron Forever 60V 18Ah Homologado DGT" [ref=f189e317] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos/2310-patinete-electrico-dualtron-forever-60v-182ah-homologado-dgt.html
+                      - generic [ref=f189e318]: 999,99 €
+                      - generic [ref=f189e319]:
+                        - generic [ref=f189e320]:
+                          - generic [ref=f189e321] [cursor=pointer]: 
+                          - generic [ref=f189e322] [cursor=pointer]: 
+                          - generic [ref=f189e323] [cursor=pointer]: 
+                          - generic [ref=f189e324] [cursor=pointer]: 
+                          - generic [ref=f189e325] [cursor=pointer]: 
+                        - generic [ref=f189e326]: "0"
+                - article [ref=f189e327]:
+                  - generic [ref=f189e328]:
+                    - generic [ref=f189e330]:
+                      - link [ref=f189e331] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos/2358-9850-patinete-electrico-dualtron-forever-limited-60v.html#/445-bateria-60v_182ah
+                        - img "Patinete eléctrico DUALTRON FOREVER 60V 24A LIMITED 2" [ref=f189e332]
+                        - img "Patinete eléctrico DUALTRON FOREVER 60V 24A LIMITED" [ref=f189e334]
+                      - list
+                      - generic [ref=f189e335]:
+                        - link " Seleccionar opción" [ref=f189e337] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e339] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e341] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e343] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=f189e344]:
+                      - link "Patinete eléctrico DUALTRON FOREVER LIMITED 60V Homologado DGT" [ref=f189e346] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos/2358-9850-patinete-electrico-dualtron-forever-limited-60v.html#/445-bateria-60v_182ah
+                      - generic [ref=f189e347]: 1.089,98 €
+                      - generic [ref=f189e348]:
+                        - generic [ref=f189e349]:
+                          - generic [ref=f189e350] [cursor=pointer]: 
+                          - generic [ref=f189e351] [cursor=pointer]: 
+                          - generic [ref=f189e352] [cursor=pointer]: 
+                          - generic [ref=f189e353] [cursor=pointer]: 
+                          - generic [ref=f189e354] [cursor=pointer]: 
+                        - generic [ref=f189e355]: "0"
+                - article [ref=f189e356]:
+                  - generic [ref=f189e357]:
+                    - generic [ref=f189e359]:
+                      - link [ref=f189e360] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/dualtron/2359-patinete-electrico-dualtron-aminia-special-52v.html
+                        - img "Patinete eléctrico DUALTRON AMINIA SPECIAL 52V 2" [ref=f189e361]
+                        - img "Patinete eléctrico DUALTRON AMINIA SPECIAL 52V" [ref=f189e363]
+                      - list:
+                        - listitem: ¡En oferta!
+                      - generic [ref=f189e364]:
+                        - button " Añadir a la cesta" [ref=f189e368] [cursor=pointer]
+                        - link "" [ref=f189e370] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e372] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e374] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=f189e375]:
+                      - link "Patinete eléctrico DUALTRON AMINIA EY3 52V 13AH Homologado DGT" [ref=f189e377] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/dualtron/2359-patinete-electrico-dualtron-aminia-special-52v.html
+                      - generic [ref=f189e378]: 899,99 €
+                      - generic [ref=f189e379]:
+                        - generic [ref=f189e380]:
+                          - generic [ref=f189e381] [cursor=pointer]: 
+                          - generic [ref=f189e382] [cursor=pointer]: 
+                          - generic [ref=f189e383] [cursor=pointer]: 
+                          - generic [ref=f189e384] [cursor=pointer]: 
+                          - generic [ref=f189e385] [cursor=pointer]: 
+                        - generic [ref=f189e386]: "0"
+                - article [ref=f189e387]:
+                  - generic [ref=f189e388]:
+                    - generic [ref=f189e390]:
+                      - link [ref=f189e391] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos/2369-9822-patinete-electrico-dualtron-aminia-doble-motor-52v-homologado-dgt.html#/423-bateria-52v_21ah_dual_motor
+                        - img "Patinete eléctrico DUALTRON AMINIA DOBLE MOTOR 52V Homologado DGT 2" [ref=f189e392]
+                        - img "Patinete eléctrico DUALTRON AMINIA DOBLE MOTOR 52V Homologado DGT" [ref=f189e394]
+                      - list:
+                        - listitem: ¡En oferta!
+                      - generic [ref=f189e395]:
+                        - link " Seleccionar opción" [ref=f189e397] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e399] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e401] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e403] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=f189e404]:
+                      - link "Patinete eléctrico DUALTRON AMINIA DOBLE MOTOR 52V Homologado DGT" [ref=f189e406] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos/2369-9822-patinete-electrico-dualtron-aminia-doble-motor-52v-homologado-dgt.html#/423-bateria-52v_21ah_dual_motor
+                      - generic [ref=f189e407]: 1.439,99 €
+                      - generic [ref=f189e408]:
+                        - generic [ref=f189e409]:
+                          - generic [ref=f189e410] [cursor=pointer]: 
+                          - generic [ref=f189e411] [cursor=pointer]: 
+                          - generic [ref=f189e412] [cursor=pointer]: 
+                          - generic [ref=f189e413] [cursor=pointer]: 
+                          - generic [ref=f189e414] [cursor=pointer]: 
+                        - generic [ref=f189e415]: "0"
+                - article [ref=f189e416]:
+                  - generic [ref=f189e417]:
+                    - generic [ref=f189e419]:
+                      - link [ref=f189e420] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/productos-destacados/2402-10020-patinete-electrico-dualtron-victor-limited-60v-2025-ey4-homologado-dgt.html#/474-bateria-60v_37ah_samsung
+                        - img "Patinete eléctrico DUALTRON VICTOR LIMITED 60V 2025 EY4 Homologado DGT 2" [ref=f189e421]
+                        - img "Patinete eléctrico DUALTRON VICTOR LIMITED 60V 2025 EY4 Homologado DGT" [ref=f189e423]
+                      - list:
+                        - listitem: ¡En oferta!
+                      - generic [ref=f189e424]:
+                        - link " Seleccionar opción" [ref=f189e426] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e428] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e430] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e432] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=f189e433]:
+                      - link "Patinete eléctrico DUALTRON VICTOR LIMITED 60V 2025 EY4 Homologado DGT" [ref=f189e435] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/productos-destacados/2402-10020-patinete-electrico-dualtron-victor-limited-60v-2025-ey4-homologado-dgt.html#/474-bateria-60v_37ah_samsung
+                      - generic [ref=f189e436]: 1.949,00 €
+                      - generic [ref=f189e437]:
+                        - generic [ref=f189e438]:
+                          - generic [ref=f189e439] [cursor=pointer]: 
+                          - generic [ref=f189e440] [cursor=pointer]: 
+                          - generic [ref=f189e441] [cursor=pointer]: 
+                          - generic [ref=f189e442] [cursor=pointer]: 
+                          - generic [ref=f189e443] [cursor=pointer]: 
+                        - generic [ref=f189e444]: "0"
+                - article [ref=f189e445]:
+                  - generic [ref=f189e446]:
+                    - generic [ref=f189e448]:
+                      - link [ref=f189e449] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/raiz/2404-patinete-electrico-dualtron-togo-pro-ey4-48v-13ah-homologado-dgt.html
+                        - img "Dualtron Togo Pro 48V 13,5 AH Homologado DGT | Patinete 760W 2" [ref=f189e450]
+                        - img "Dualtron Togo Pro 48V 13,5 AH Homologado DGT | Patinete 760W" [ref=f189e452]
+                      - list:
+                        - listitem: ¡En oferta!
+                      - generic [ref=f189e453]:
+                        - button " Añadir a la cesta" [ref=f189e457] [cursor=pointer]
+                        - link "" [ref=f189e459] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e461] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e463] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=f189e464]:
+                      - link "Patinete eléctrico DUALTRON TOGO PRO EY4 48V 13,5Ah Homologado DGT" [ref=f189e466] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/raiz/2404-patinete-electrico-dualtron-togo-pro-ey4-48v-13ah-homologado-dgt.html
+                      - generic [ref=f189e467]: 699,99 €
+                      - generic [ref=f189e468]:
+                        - generic [ref=f189e469]:
+                          - generic [ref=f189e470] [cursor=pointer]: 
+                          - generic [ref=f189e471] [cursor=pointer]: 
+                          - generic [ref=f189e472] [cursor=pointer]: 
+                          - generic [ref=f189e473] [cursor=pointer]: 
+                          - generic [ref=f189e474] [cursor=pointer]: 
+                        - generic [ref=f189e475]: "0"
+                - article [ref=f189e476]:
+                  - generic [ref=f189e477]:
+                    - generic [ref=f189e479]:
+                      - link [ref=f189e480] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos-homologados/2423-10021-patinete-electrico-dualtron-sonic-alien-72v-40ah-samsung-2026-homologado-dgt.html#/8-color-blanco
+                        - img "Patinete eléctrico DUALTRON SONIC ALIEN 72V 40Ah SAMSUNG 2026 Homologado DGT 2" [ref=f189e481]
+                        - img "Patinete eléctrico DUALTRON SONIC ALIEN 72V 40Ah SAMSUNG 2026 Homologado DGT" [ref=f189e483]
+                      - list
+                      - generic [ref=f189e484]:
+                        - link " Seleccionar opción" [ref=f189e486] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e488] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e490] [cursor=pointer]:
+                          - /url: "#"
+                        - link "" [ref=f189e492] [cursor=pointer]:
+                          - /url: "#"
+                    - generic [ref=f189e493]:
+                      - link "Patinete eléctrico DUALTRON SONIC ALIEN 72V 40Ah SAMSUNG 2026 Homologado DGT" [ref=f189e495] [cursor=pointer]:
+                        - /url: https://sabway.es/shop/patinetes-electricos-homologados/2423-10021-patinete-electrico-dualtron-sonic-alien-72v-40ah-samsung-2026-homologado-dgt.html#/8-color-blanco
+                      - generic [ref=f189e496]: 3.799,99 €
+                      - generic [ref=f189e497]:
+                        - generic [ref=f189e498]:
+                          - generic [ref=f189e499] [cursor=pointer]: 
+                          - generic [ref=f189e500] [cursor=pointer]: 
+                          - generic [ref=f189e501] [cursor=pointer]: 
+                          - generic [ref=f189e502] [cursor=pointer]: 
+                          - generic [ref=f189e503] [cursor=pointer]: 
+                        - generic [ref=f189e504]: "0"
+              - navigation [ref=f189e505]:
+                - list [ref=f189e507]:
+                  - listitem [ref=f189e508]:
+                    - link "1":
+                      - /url: https://sabway.es/shop/53-dualtron
+                  - listitem [ref=f189e509]:
+                    - link "2" [ref=f189e510] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/53-dualtron?page=2
+                  - listitem [ref=f189e511]:
+                    - link "Siguiente " [ref=f189e512] [cursor=pointer]:
+                      - /url: https://sabway.es/shop/53-dualtron?page=2
+                      - generic [ref=f189e513]: Siguiente
+                      - generic [ref=f189e514]: 
+          - generic [ref=f189e516]:
+            - heading [level=2] [ref=f189e517]:
+              - strong [ref=f189e518]: Descubre la Revolución de la Movilidad con Dualtron a través de SABWAY, Distribuidor Oficial de Patinetes Dualtron en España
+            - paragraph
+            - paragraph [ref=f189e519]: Bienvenido a la vanguardia de la movilidad personal con Dualtron, la marca líder en patinetes eléctricos de alto rendimiento. Como distribuidor oficial en España, nos enorgullece ofrecer la línea completa de Dualtron, incluyendo modelos destacados como el Dualtron X, Dualtron Mini y Dualtron Eagle entre otros muchos.
+            - paragraph
+            - paragraph [ref=f189e520]
+            - generic:
+              - strong
+            - paragraph
+            - paragraph [ref=f189e522]:
+              - iframe [ref=f189e523]:
+                - generic [ref=f190e1]:
+                  - generic "YouTube Video Player" [ref=f190e3]
+                  - generic [ref=f190e5]:
+                    - generic:
+                      - generic:
+                        - button "Play video" [ref=f190e10] [cursor=pointer]
+                        - button "Hide player controls" [ref=f190e12] [cursor=pointer]
+                        - generic [ref=f190e14]:
+                          - generic [ref=f190e19]:
+                            - generic [ref=f190e20]:
+                              - link "Patinete eléctrico Dualtron Eagle Pro 60V! Con un alcance de hasta 80 Km!" [ref=f190e21] [cursor=pointer]:
+                                - /url: https://www.youtube.com/watch?v=pPojYyX4dOU
+                              - link "SABWAY OFICIAL" [ref=f190e22] [cursor=pointer]:
+                                - /url: /channel/UCmcJCT3rltTPd7JSEQFvHcA
+                            - generic [ref=f190e24]:
+                              - button [ref=f190e25] [cursor=pointer]
+                              - generic [ref=f190e27]:
+                                - generic: SABWAY OFICIAL
+                                - generic: 1.6K subscribers
+                          - generic [ref=f190e28]:
+                            - button "Share" [ref=f190e31] [cursor=pointer]
+                            - link "Watch on YouTube" [ref=f190e42] [cursor=pointer]:
+                              - /url: https://www.youtube.com/watch?v=pPojYyX4dOU
+                              - generic [ref=f190e43]: Watch on
+            - paragraph [ref=f189e524]
+            - paragraph [ref=f189e525]:
+              - strong [ref=f189e526]: "Innovación Tecnológica de Dualtron:"
+            - paragraph [ref=f189e527]:
+              - text: Experimenta la
+              - strong [ref=f189e528]: potencia sin igual de los patinetes Dualtron
+              - text: ", diseñados con tecnologías de vanguardia. Desde el icónico Dualtron X hasta la versatilidad del Dualtron Mini, cada modelo ofrece un rendimiento excepcional y una experiencia de conducción única."
+            - paragraph
+            - paragraph [ref=f189e529]:
+              - strong [ref=f189e530]: "Rendimiento Dualtron:"
+            - paragraph [ref=f189e531]: Con sus potentes motores y sus sistemas de suspensión avanzados, los patinetes Dualtron garantizan un rendimiento inigualable. Descubre la velocidad y la autonomía en tu patin Dualtron.
+            - paragraph
+            - paragraph [ref=f189e532]:
+              - strong [ref=f189e533]: "Diseño y Calidad de Dualtron:"
+            - paragraph [ref=f189e534]:
+              - text: La estética elegante se combina con durabilidad en cada patinete de la marca Dualtron.
+              - strong [ref=f189e535]: Fabricados con materiales de alta calidad
+              - text: ", estos patinetes no solo ofrecen un rendimiento espectacular, sino que también destacan por su estilo y resistencia duradera."
+            - paragraph
+            - paragraph [ref=f189e536]:
+              - strong [ref=f189e537]: "Experiencia Personalizada con Dualtron:"
+            - paragraph [ref=f189e538]:
+              - text: Desde el todoterreno Dualtron Eagle hasta la portabilidad del Dualtron Mini,
+              - strong [ref=f189e539]: nuestra gama se adapta a diferentes estilos de vida
+              - text: . Como distribuidor oficial de minimotors, nos comprometemos a brindarte acceso exclusivo a la experiencia Dualtron.
+            - paragraph
+            - paragraph [ref=f189e540]:
+              - strong [ref=f189e541]: "Talleres Especializados y Repuestos Originales:"
+            - paragraph [ref=f189e542]: Queremos ofrecerte la mejor atención postventa. Todas nuestras tiendas son talleres especializados de Dualtron, lo que significa que no solo te proporcionamos estos patinetes eléctricos de última generación, sino también mantenimiento de calidad. Trabajamos con repuestos originales de Dualtron para garantizar el rendimiento y la durabilidad de tu patinete eléctrico.
+            - paragraph
+            - paragraph [ref=f189e543]:
+              - text: Descubre la excelencia en movilidad con Dualtron, donde
+              - strong [ref=f189e544]: la innovación y el rendimiento
+              - text: se fusionan para llevar tus desplazamientos al siguiente nivel.
+            - paragraph
+            - paragraph [ref=f189e545]:
+              - text: Bienvenido a la revolución de Dualtron a través de
+              - strong [ref=f189e546]: SABWAY
+              - text: ", tu distribuidor oficial de confianza en España. ¡Explora la gama completa ahora!"
+            - paragraph
+            - paragraph [ref=f189e547]
+    - generic [ref=f189e551]:
+      - text:  
+      - generic [ref=f189e554]:
+        - generic [ref=f189e560]:
+          - paragraph [ref=f189e561]: Atención al cliente
+          - text: 
+          - list [ref=f189e562]:
+            - listitem [ref=f189e563]:
+              - link "Tiendas & Talleres" [ref=f189e564] [cursor=pointer]:
+                - /url: https://sabway.es/shop/content/4-tiendas-oficiales-sabway
+                - generic [ref=f189e565]: 
+            - listitem [ref=f189e568]:
+              - link "Envío y Devoluciones" [ref=f189e569] [cursor=pointer]:
+                - /url: https://sabway.es/shop/content/1-entrega
+                - generic [ref=f189e570]: 
+            - listitem [ref=f189e573]:
+              - link "Aviso legal" [ref=f189e574] [cursor=pointer]:
+                - /url: https://sabway.es/shop/content/2-aviso-legal
+                - generic [ref=f189e575]: 
+            - listitem [ref=f189e578]:
+              - link "Términos y condiciones" [ref=f189e579] [cursor=pointer]:
+                - /url: https://sabway.es/shop/content/3-terminos-y-condiciones-de-uso
+                - generic [ref=f189e580]: 
+            - listitem [ref=f189e583]:
+              - link "Políticas de Privacidad" [ref=f189e584] [cursor=pointer]:
+                - /url: https://sabway.es/shop/content/6-politicas-de-privacidad
+                - generic [ref=f189e585]: 
+            - listitem [ref=f189e588]:
+              - link "Declaración accesibilidad" [ref=f189e589] [cursor=pointer]:
+                - /url: https://sabway.es/shop/content/61-declaracion-accesibilidad
+                - generic [ref=f189e590]: 
+            - listitem [ref=f189e593]:
+              - link "Política de Cookies" [ref=f189e594] [cursor=pointer]:
+                - /url: https://sabway.es/shop/content/66-politica-de-cookies
+                - generic [ref=f189e595]: 
+            - listitem [ref=f189e598]:
+              - link "SAT SABWAY" [ref=f189e599] [cursor=pointer]:
+                - /url: https://www.sabway.es/blog/sat/
+                - generic [ref=f189e600]: 
+        - generic [ref=f189e608]:
+          - paragraph [ref=f189e609]: Productos
+          - text: 
+          - list [ref=f189e610]:
+            - listitem [ref=f189e611]:
+              - link "Seguros y Matrículas VMP" [ref=f189e612] [cursor=pointer]:
+                - /url: https://sabway.es/shop/225-matricula-vmp-y-seguro
+                - generic [ref=f189e613]: 
+            - listitem [ref=f189e616]:
+              - link "Patinetes Eléctricos" [ref=f189e617] [cursor=pointer]:
+                - /url: https://sabway.es/shop/12-patinetes-electricos
+                - generic [ref=f189e618]: 
+            - listitem [ref=f189e621]:
+              - link "Bicicletas Eléctricas" [ref=f189e622] [cursor=pointer]:
+                - /url: https://sabway.es/shop/24-bicicletas-electricas
+                - generic [ref=f189e623]: 
+            - listitem [ref=f189e626]:
+              - link "Movilidad reducida" [ref=f189e627] [cursor=pointer]:
+                - /url: https://sabway.es/shop/37-movilidad-reducida
+                - generic [ref=f189e628]: 
+            - listitem [ref=f189e631]:
+              - link "Juguetes" [ref=f189e632] [cursor=pointer]:
+                - /url: https://sabway.es/shop/55-juguetes
+                - generic [ref=f189e633]: 
+            - listitem [ref=f189e636]:
+              - link "Recambios" [ref=f189e637] [cursor=pointer]:
+                - /url: https://sabway.es/shop/144-recambios
+                - generic [ref=f189e638]: 
+            - listitem [ref=f189e641]:
+              - link "Abre tu franquicia" [ref=f189e642] [cursor=pointer]:
+                - /url: https://www.sabway.es/blog/franquicias/
+                - generic [ref=f189e643]: 
+        - generic [ref=f189e648]:
+          - heading "CONTACTO" [level=2] [ref=f189e651]
+          - list [ref=f189e658]:
+            - listitem [ref=f189e659]:
+              - link "Lunes a Viernes 9 a 17 hrs." [ref=f189e660] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f189e661]: 
+            - listitem [ref=f189e664]:
+              - link "+34655910806" [ref=f189e665] [cursor=pointer]:
+                - /url: https://wa.me/34655910806
+                - generic [ref=f189e666]: 
+            - listitem [ref=f189e669]:
+              - generic [ref=f189e670]: 
+              - generic [ref=f189e672]: 930 185 635
+            - listitem [ref=f189e673]:
+              - generic [ref=f189e674]: 
+              - generic [ref=f189e676]: contacto@sabway.es
+      - generic [ref=f189e679]:
+        - paragraph [ref=f189e689]: 100% Pago seguro. financiación a medida sin papeleos.
+        - link [ref=f189e696] [cursor=pointer]:
+          - /url: https://sabway.es/shop/index.php?controller=attachment&id_attachment=81
+        - generic [ref=f189e702]:
+          - link "Whatsapp " [ref=f189e703] [cursor=pointer]:
+            - /url: https://wa.me/34655910806
+            - generic [ref=f189e704]: Whatsapp
+            - generic [ref=f189e705]: 
+          - link "Youtube " [ref=f189e706] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCmcJCT3rltTPd7JSEQFvHcA/videos
+            - generic [ref=f189e707]: Youtube
+            - generic [ref=f189e708]: 
+          - link "Instagram " [ref=f189e709] [cursor=pointer]:
+            - /url: https://www.instagram.com/sabwayoficial/?utm_source=ig_profile_share&igshid=nl467k23wba7
+            - generic [ref=f189e710]: Instagram
+            - generic [ref=f189e711]: 
+          - link "Tumblr " [ref=f189e712] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@sabwayoficial
+            - generic [ref=f189e713]: Tumblr
+            - generic [ref=f189e714]: 
+          - link "Twitter " [ref=f189e715] [cursor=pointer]:
+            - /url: https://twitter.com/sabwayoficial
+            - generic [ref=f189e716]: Twitter
+            - generic [ref=f189e717]: 
+          - link "Linkedin-in " [ref=f189e718] [cursor=pointer]:
+            - /url: https://es.linkedin.com/company/sabway
+            - generic [ref=f189e719]: Linkedin-in
+            - generic [ref=f189e720]: 
+  - text:         
+  - generic [ref=f189e721]: tablet
+  - text:                       ✖ ✖

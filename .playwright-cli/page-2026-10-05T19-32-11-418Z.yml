@@ -1,0 +1,757 @@
+- main [ref=f66e2]:
+  - generic [ref=f66e3]:
+    - generic [ref=f66e5]:
+      - link [ref=f66e12] [cursor=pointer]:
+        - /url: /es
+        - img "NIU" [ref=f66e13]
+      - generic [ref=f66e20]:
+        - navigation [ref=f66e22]:
+          - list [ref=f66e23]:
+            - listitem [ref=f66e24]:
+              - button "MODELOS" [ref=f66e25] [cursor=pointer]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - heading "Equivalente a 50 cc" [level=3]
+                                  - paragraph: "Licencia: AM"
+                                - generic:
+                                  - img "Equivalente a 50 cc"
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - heading "Equivalente a 125 cc" [level=3]
+                                  - paragraph: "Licencia: A1 / B1 + 3 años"
+                                - generic:
+                                  - img "Equivalente a 125 cc"
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - heading "Offroad" [level=3]
+                                  - paragraph: Explore your wild side
+                                - generic:
+                                  - img "Offroad"
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - heading "Micromobility" [level=3]
+                                  - paragraph: Kickscooter & E-Bikes
+                                - generic:
+                                  - img "Micromobility"
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - heading "Concept Bikes" [level=3]
+                                - generic:
+                                  - img "Concept Bikes"
+                            - list:
+                              - listitem:
+                                - link "Encuentra tu concesionario":
+                                  - /url: /es/find-a-store
+                              - listitem:
+                                - link "Reserva una prueba gratuita":
+                                  - /url: /es/test-dealer
+            - listitem [ref=f66e26]:
+              - link "CONCESIONARIOS" [ref=f66e27] [cursor=pointer]:
+                - /url: /es/find-a-store
+            - listitem [ref=f66e28]:
+              - link "Reserva una prueba gratuita" [ref=f66e29] [cursor=pointer]:
+                - /url: /es/test-dealer
+            - listitem [ref=f66e30]:
+              - link "NOTICIAS" [ref=f66e31] [cursor=pointer]:
+                - /url: https://global.niu.com/es/blog
+        - generic [ref=f66e33]:
+          - generic [ref=f66e34]: en
+          - generic [ref=f66e37]:
+            - img "close" [ref=f66e39] [cursor=pointer]
+            - generic [ref=f66e43]:
+              - generic [ref=f66e44]:
+                - heading "Asia" [level=5] [ref=f66e45]
+                - link "Hongkong" [ref=f66e47] [cursor=pointer]:
+                  - /url: /hk
+                - link "Indonesia" [ref=f66e51] [cursor=pointer]:
+                  - /url: /id
+                - link "Macau" [ref=f66e55] [cursor=pointer]:
+                  - /url: /zh-Hant-MO
+                - link "Malaysia" [ref=f66e59] [cursor=pointer]:
+                  - /url: /my
+                - link "Nepal" [ref=f66e63] [cursor=pointer]:
+                  - /url: /np
+                - link "Thailand" [ref=f66e67] [cursor=pointer]:
+                  - /url: /th
+              - generic [ref=f66e70]:
+                - heading "Europe" [level=5] [ref=f66e71]
+                - link "België" [ref=f66e73] [cursor=pointer]:
+                  - /url: /nl_BE
+                - link "Belgique" [ref=f66e77] [cursor=pointer]:
+                  - /url: /fr_BE
+                - link "Bulgaria" [ref=f66e81] [cursor=pointer]:
+                  - /url: /bg
+                - link "Česká Republika" [ref=f66e85] [cursor=pointer]:
+                  - /url: /cs
+                - link "Denmark" [ref=f66e89] [cursor=pointer]:
+                  - /url: /dk
+                - link "Deutschland" [ref=f66e93] [cursor=pointer]:
+                  - /url: /de
+                - link "France" [ref=f66e97] [cursor=pointer]:
+                  - /url: /fr
+                - link "España" [ref=f66e101] [cursor=pointer]:
+                  - /url: /es
+                - link "Italia" [ref=f66e105] [cursor=pointer]:
+                  - /url: /it
+                - link "Magyarország" [ref=f66e109] [cursor=pointer]:
+                  - /url: /hu
+                - link "Nederland" [ref=f66e113] [cursor=pointer]:
+                  - /url: /nl
+                - link "Österreich" [ref=f66e117] [cursor=pointer]:
+                  - /url: /de_AT
+                - link "Polska" [ref=f66e121] [cursor=pointer]:
+                  - /url: /pl
+                - link "Portugal" [ref=f66e125] [cursor=pointer]:
+                  - /url: /pt_pt
+                - link "Schweiz" [ref=f66e129] [cursor=pointer]:
+                  - /url: /de_CH
+                - link "Svizzera" [ref=f66e133] [cursor=pointer]:
+                  - /url: /it_CH
+                - link "Suisse" [ref=f66e137] [cursor=pointer]:
+                  - /url: /fr_CH
+                - link "Slovensko" [ref=f66e141] [cursor=pointer]:
+                  - /url: /sk
+                - link "Sverige" [ref=f66e145] [cursor=pointer]:
+                  - /url: /se
+                - link "Global" [ref=f66e149] [cursor=pointer]:
+                  - /url: /
+              - generic [ref=f66e152]:
+                - heading "North America" [level=5] [ref=f66e153]
+                - link "United States" [ref=f66e155] [cursor=pointer]:
+                  - /url: /en-us
+                - link "Canada" [ref=f66e159] [cursor=pointer]:
+                  - /url: /en-ca
+              - generic [ref=f66e162]:
+                - heading "South America" [level=5] [ref=f66e163]
+                - link "Brazil" [ref=f66e165] [cursor=pointer]:
+                  - /url: /br
+                - link "Chile" [ref=f66e169] [cursor=pointer]:
+                  - /url: /CL
+                - link "Colombia" [ref=f66e173] [cursor=pointer]:
+                  - /url: /co
+              - generic [ref=f66e176]:
+                - heading "Oceania" [level=5] [ref=f66e177]
+                - link "Australia" [ref=f66e179] [cursor=pointer]:
+                  - /url: /au
+                - link "New Zealand" [ref=f66e183] [cursor=pointer]:
+                  - /url: /nz
+              - generic [ref=f66e186]:
+                - heading "Africa" [level=5] [ref=f66e187]
+                - link "Algeria" [ref=f66e189] [cursor=pointer]:
+                  - /url: /dz
+                - link "South Africa" [ref=f66e193] [cursor=pointer]:
+                  - /url: /za
+    - main [ref=f66e196]:
+      - generic [ref=f66e197]:
+        - generic:
+          - dialog
+        - generic [ref=f66e199]:
+          - generic [ref=f66e207]:
+            - heading "Fast Travel Unlocked." [level=1] [ref=f66e209]
+            - link "Ver el drop" [ref=f66e211] [cursor=pointer]:
+              - /url: /es/product/FQiX-Razer
+          - generic [ref=f66e219]:
+            - heading "El Original, Reimaginado" [level=1] [ref=f66e221]
+            - link "Ver el modelo" [ref=f66e223] [cursor=pointer]:
+              - /url: /es/product/NQiX-500
+        - banner [ref=f66e225]:
+          - generic [ref=f66e226]:
+            - generic [ref=f66e227]:
+              - link "Prueba gratuita" [ref=f66e228] [cursor=pointer]:
+                - /url: https://global.niu.com/es/test-dealer
+              - link "Encontrar concesionario" [ref=f66e229] [cursor=pointer]:
+                - /url: https://global.niu.com/es/find-a-store
+            - generic [ref=f66e230]:
+              - generic [ref=f66e237]:
+                - generic [ref=f66e238]: 20+ Concesionarios en España
+                - generic [ref=f66e239]: Red de servicio integral
+              - generic [ref=f66e247]:
+                - generic [ref=f66e248]: 3 años de garantía
+                - generic [ref=f66e249]: en vehículo y batería
+              - generic [ref=f66e256]:
+                - generic [ref=f66e257]: Líder europeo
+                - generic [ref=f66e258]: en movilidad eléctrica
+        - region "NIU Finder" [ref=f66e260]:
+          - generic [ref=f66e261]:
+            - generic [ref=f66e262]:
+              - paragraph [ref=f66e263]: NIU FINDER
+              - heading "¿QUÉ NIU SE ADAPTA A TI?" [level=2] [ref=f66e264]
+              - paragraph [ref=f66e265]: Dinos qué tienes en mente — te mostramos los modelos que encajan. Sin lío de fichas técnicas.
+            - group "Navegación del carrusel" [ref=f66e266]:
+              - button "Modelo anterior" [disabled] [ref=f66e267]
+              - button "Modelo siguiente" [ref=f66e272] [cursor=pointer]
+          - generic [ref=f66e278]:
+            - article [ref=f66e279]:
+              - img "Movilidad urbana" [ref=f66e280]
+              - generic [ref=f66e281]:
+                - paragraph [ref=f66e282]: CIUDAD
+                - heading "Movilidad urbana" [level=3] [ref=f66e283]
+                - paragraph [ref=f66e284]: 45 km/h, máxima flexibilidad. Perfecto para el día a día, el trabajo y la libertad urbana.
+                - paragraph [ref=f66e285]: desde1.999 €
+                - link "Ver modelos de ciudad desde 1.999 €" [ref=f66e286] [cursor=pointer]:
+                  - /url: /es/product-overview?preset=45kmh
+                  - text: Ver modelos
+            - article [ref=f66e287]:
+              - img "Más que tráfico urbano" [ref=f66e288]
+              - generic [ref=f66e289]:
+                - paragraph [ref=f66e290]: PERFORMANCE
+                - heading "Más que tráfico urbano" [level=3] [ref=f66e291]
+                - paragraph [ref=f66e292]: Más velocidad, más autonomía, más libertad — para la ciudad y mucho más allá.
+                - paragraph [ref=f66e293]: desde2.499 €
+                - link "Ver modelos performance desde 2.499 €" [ref=f66e294] [cursor=pointer]:
+                  - /url: /es/product-overview?preset=125er
+                  - text: Ver modelos
+            - article [ref=f66e295]:
+              - img "Fuera de carretera" [ref=f66e296]
+              - generic [ref=f66e297]:
+                - paragraph [ref=f66e298]: OFFROAD
+                - heading "Fuera de carretera" [level=3] [ref=f66e299]
+                - paragraph [ref=f66e300]: Grava, bosque, diversión. Para quienes no quieren parar donde acaba el asfalto.
+                - paragraph [ref=f66e301]: desde3499 €
+                - link "Ver modelos offroad desde 3499 €" [ref=f66e302] [cursor=pointer]:
+                  - /url: /es/product-overview?preset=offroad
+                  - text: Ver modelos
+            - article [ref=f66e303]:
+              - img "Trayectos cortos" [ref=f66e304]
+              - generic [ref=f66e305]:
+                - paragraph [ref=f66e306]: ÚLTIMA MILLA
+                - heading "Trayectos cortos" [level=3] [ref=f66e307]
+                - paragraph [ref=f66e308]: Estación, oficina, supermercado. Compacto, plegable, listo en un segundo.
+                - paragraph [ref=f66e309]: desde299 €
+                - link "Ver modelos última milla desde 299 €" [ref=f66e310] [cursor=pointer]:
+                  - /url: /es/product-overview?preset=kickscooter
+                  - text: Ver modelos
+        - region [ref=f66e312]:
+          - generic [ref=f66e313]:
+            - img "Conductora NIU en tráfico urbano" [ref=f66e314]:
+              - generic [ref=f66e315]:
+                - generic [ref=f66e316]: ¿POR QUÉ NIU?
+                - heading "MUCHO MÁS QUE UN SCOOTER" [level=2] [ref=f66e317]
+                - paragraph [ref=f66e318]: Tres de las muchas razones por las que los riders de NIU siguen siendo riders de NIU.
+            - generic [ref=f66e319]:
+              - generic [ref=f66e327]:
+                - heading "Red de servicio" [level=3] [ref=f66e328]
+                - paragraph [ref=f66e329]: 20+ talleres y tiendas autorizados en España. Reparaciones, inspecciones, piezas originales.
+                - link "Encuentra una tienda" [ref=f66e330] [cursor=pointer]:
+                  - /url: https://global.niu.com/find-a-store
+              - generic [ref=f66e337]:
+                - heading "Garantía" [level=3] [ref=f66e338]
+                - paragraph [ref=f66e339]: 3 años en el vehículo, 3 años en la batería. Sin letra pequeña.
+              - generic [ref=f66e348]:
+                - heading "Galardonado" [level=3] [ref=f66e349]
+                - paragraph [ref=f66e350]: Ganador de pruebas y recomendado en los tests independientes más importantes.
+              - generic "Premios" [ref=f66e351]:
+                - generic "1000PS Top Award 2025":
+                  - img "1000PS Top Award 2025"
+                - generic "iF Design Award 2025" [ref=f66e352]:
+                  - img "iF Design Award 2025" [ref=f66e353]
+                - generic "Red Dot Winner 2025" [ref=f66e377]:
+                  - img "red dot winner 2025" [ref=f66e378]
+        - generic [ref=f66e401]:
+          - generic [ref=f66e402]:
+            - generic [ref=f66e403]: NIU EN CIFRAS
+            - heading "LO QUE MOVEMOS JUNTOS" [level=2] [ref=f66e404]
+          - generic [ref=f66e405]:
+            - generic [ref=f66e406]:
+              - generic [ref=f66e407]:
+                - img "Earth"
+              - generic [ref=f66e408]:
+                - generic [ref=f66e409]:
+                  - generic [ref=f66e410]: 39,972,993,157
+                  - generic [ref=f66e411]: km
+                - paragraph [ref=f66e412]: Distancia total recorrida
+            - generic [ref=f66e413]:
+              - generic [ref=f66e414]:
+                - img "Scooter"
+              - generic [ref=f66e415]:
+                - generic [ref=f66e416]: 1,884,084
+                - paragraph [ref=f66e418]: Pilotos activos hoy
+            - generic [ref=f66e419]:
+              - generic [ref=f66e420]:
+                - img "CO2"
+              - generic [ref=f66e421]:
+                - generic [ref=f66e422]:
+                  - generic [ref=f66e423]: 9,993,248,768
+                  - generic [ref=f66e424]: kg
+                - paragraph [ref=f66e425]:
+                  - text: Total de emisiones de CO
+                  - subscript [ref=f66e426]: "2"
+                  - text: evitadas
+            - generic [ref=f66e427]:
+              - generic [ref=f66e428]:
+                - img "Trees"
+              - generic [ref=f66e429]:
+                - generic [ref=f66e430]: 499,662,438
+                - paragraph [ref=f66e432]: Equivalente en árboles plantados
+        - region "NIU Blog" [ref=f66e434]:
+          - generic [ref=f66e435]:
+            - generic [ref=f66e437]:
+              - generic [ref=f66e438]: Blog
+              - heading "Lo que pasa en NIU" [level=2] [ref=f66e439]
+            - generic [ref=f66e440]:
+              - 'link "2 de octubre de 2026 Ciclomotor eléctrico, bicicleta eléctrica o patinete: ¿cuál elegir? Leer más" [ref=f66e441] [cursor=pointer]':
+                - /url: https://global.niu.com/es/blog/electric-moped-vs-e-bike-vs-kick-scooter
+                - generic [ref=f66e443]:
+                  - generic [ref=f66e444]: 2 de octubre de 2026
+                  - 'heading "Ciclomotor eléctrico, bicicleta eléctrica o patinete: ¿cuál elegir?" [level=3] [ref=f66e445]'
+                  - generic [ref=f66e446]: Leer más
+              - 'link "1 de octubre de 2026 Aparcar una moto eléctrica en Madrid, Barcelona y Valencia: la guía real Leer más" [ref=f66e447] [cursor=pointer]':
+                - /url: https://global.niu.com/es/blog/electric-moped-parking-european-cities
+                - generic [ref=f66e449]:
+                  - generic [ref=f66e450]: 1 de octubre de 2026
+                  - 'heading "Aparcar una moto eléctrica en Madrid, Barcelona y Valencia: la guía real" [level=3] [ref=f66e451]'
+                  - generic [ref=f66e452]: Leer más
+              - 'link "28 de agosto de 2026 FQiX x Razer Special Edition: todo lo que necesitas saber Leer más" [ref=f66e453] [cursor=pointer]':
+                - /url: https://global.niu.com/es/blog/fqix-x-razer-special-edition-everything-you-need-to-know
+                - generic [ref=f66e455]:
+                  - generic [ref=f66e456]: 28 de agosto de 2026
+                  - 'heading "FQiX x Razer Special Edition: todo lo que necesitas saber" [level=3] [ref=f66e457]'
+                  - generic [ref=f66e458]: Leer más
+              - link "Visita el blog de NIU" [ref=f66e459] [cursor=pointer]:
+                - /url: https://global.niu.com/es/blog
+                - generic [ref=f66e471]:
+                  - generic [ref=f66e472]: NIU Blog | NIU Crew
+                  - heading "¿Quieres ver más entradas? Visita el blog de NIU." [level=3] [ref=f66e473]: ¿Quieres ver más entradas?Visita el blog de NIU.
+                  - generic [ref=f66e474]: Ir al blog
+        - region [ref=f66e481]:
+          - generic [ref=f66e482]:
+            - paragraph [ref=f66e483]: GRATIS · SIN COMPROMISO
+            - heading "DEJA QUE LA MOTO TE CONVENZA — COMO YA LO HA HECHO CON MILES DE OTROS RIDERS." [level=2] [ref=f66e484]
+            - paragraph [ref=f66e485]:
+              - strong [ref=f66e486]: 78 % de satisfacción general
+              - text: basada en más de 4.300 opiniones de clientes.
+              - strong [ref=f66e487]: Prueba gratuita en un concesionario cerca de ti.
+              - text: Sin presión de compra, sin tasas de reserva — solo súbete y conduce.
+            - link "Reservar Prueba" [ref=f66e488] [cursor=pointer]:
+              - /url: https://global.niu.com/es/test-dealer
+        - region "NIU Crew" [ref=f66e490]:
+          - generic [ref=f66e492]:
+            - img "NIU Crew — Miles de Riders. Una Comunidad." [ref=f66e494]
+            - generic [ref=f66e495]:
+              - generic [ref=f66e496]: NIU CREW
+              - heading "MILES DE RIDERS. UNA COMUNIDAD." [level=2] [ref=f66e497]: MILES DE RIDERS.UNA COMUNIDAD.
+              - paragraph [ref=f66e498]: "¿Ya tienes un scooter eléctrico inteligente de NIU o estás pensando en conseguir uno? Entonces forma parte de la #NIUCrew oficial con miles de fans de todo el mundo!"
+              - paragraph [ref=f66e499]: Todos los entusiastas de NIU están invitados a compartir sus historias, fotos, preguntas, experiencias o problemas. Y aunque todavía estés pensando en un NIU, eres más que bienvenido a unirte a la comunidad.
+              - link "Únete ahora" [ref=f66e500] [cursor=pointer]:
+                - /url: https://www.facebook.com/groups/niucrew.global
+        - region "NIU App" [ref=f66e502]:
+          - generic [ref=f66e504]:
+            - generic:
+              - img "NIU App — cockpit smartphone con antirrobo en tiempo real y GPS"
+            - generic [ref=f66e505]:
+              - generic [ref=f66e506]: NIU APP
+              - heading "TU MOTO. TU MÓVIL. CONECTADOS." [level=2] [ref=f66e507]
+              - paragraph [ref=f66e508]:
+                - text: Con la app NIU, tu smartphone se convierte en un cockpit inteligente. Aprovéchate de la protección antirrobo en tiempo real, del GPS preciso y de una gestión inteligente de la batería directamente en tu teléfono. Usa tu smartphone como llave digital — en iPhone incluso directamente desde Apple Wallet y el Apple Watch. Comparte el acceso fácilmente y mantén siempre a la vista los datos de conducción y tu ahorro de CO
+                - subscript [ref=f66e509]: "2"
+                - text: . Conectado en menos de dos minutos, disfrutas de la máxima seguridad y comodidad en tu día a día.
+              - link "Más información" [ref=f66e510] [cursor=pointer]:
+                - /url: https://global.niu.com/es/smartapp
+        - generic [ref=f66e513]:
+          - generic [ref=f66e514]:
+            - generic [ref=f66e515]: NIU CREW
+            - heading "SUSCRIPCIÓN AL NEWSLETTER" [level=2] [ref=f66e516]
+          - generic [ref=f66e519]:
+            - generic [ref=f66e520]:
+              - generic [ref=f66e521]:
+                - generic [ref=f66e522]: Nombre
+                - textbox "Nombre" [ref=f66e524]:
+                  - /placeholder: Campo de entrada
+              - generic [ref=f66e525]:
+                - generic [ref=f66e526]: Apellidos
+                - textbox "Apellidos" [ref=f66e528]:
+                  - /placeholder: Campo de entrada
+              - generic [ref=f66e529]:
+                - generic [ref=f66e530]: País
+                - combobox "País" [ref=f66e532] [cursor=pointer]:
+                  - option [selected]
+                  - option "Australia"
+                  - option "Austria"
+                  - option "Belgium"
+                  - option "Bosnia and Herzegovina"
+                  - option "Brazil"
+                  - option "Bulgaria"
+                  - option "Canada"
+                  - option "Chile"
+                  - option "China"
+                  - option "Colombia"
+                  - option "Croatia"
+                  - option "Cyprus"
+                  - option "Czech Republic"
+                  - option "Denmark"
+                  - option "Estonia"
+                  - option "Finland"
+                  - option "France"
+                  - option "Germany"
+                  - option "Greece"
+                  - option "Hungary"
+                  - option "Iceland"
+                  - option "Ireland"
+                  - option "Italy"
+                  - option "Latvia"
+                  - option "Lithuania"
+                  - option "Luxembourg"
+                  - option "Malaysia"
+                  - option "Malta"
+                  - option "Mexico"
+                  - option "Nepal"
+                  - option "Netherlands"
+                  - option "New Zealand"
+                  - option "Norway"
+                  - option "Poland"
+                  - option "Portugal"
+                  - option "Romania"
+                  - option "Serbia"
+                  - option "Slovakia"
+                  - option "Slovenia"
+                  - option "South Africa"
+                  - option "Spain"
+                  - option "Sweden"
+                  - option "Switzerland"
+                  - option "United Kingdom"
+                  - option "United States of America"
+                  - option "Other"
+              - generic [ref=f66e533]:
+                - generic [ref=f66e534]: Correo electrónico*
+                - textbox "Correo electrónico*" [ref=f66e536]:
+                  - /placeholder: Campo de entrada
+            - generic [ref=f66e537]:
+              - group [ref=f66e539]:
+                - generic [ref=f66e540]: ¿En qué productos estás interesado?
+                - generic [ref=f66e542]:
+                  - checkbox "Ciclomotores / Motocicletas" [ref=f66e543] [cursor=pointer]
+                  - generic [ref=f66e544]: Ciclomotores / Motocicletas
+                - generic [ref=f66e545]:
+                  - checkbox "Dirt Bikes" [ref=f66e546] [cursor=pointer]
+                  - generic [ref=f66e547]: Dirt Bikes
+                - generic [ref=f66e548]:
+                  - checkbox "Patinete" [ref=f66e549] [cursor=pointer]
+                  - generic [ref=f66e550]: Patinete
+              - group [ref=f66e552]:
+                - generic [ref=f66e553]: Protección de datos
+                - generic [ref=f66e555]:
+                  - checkbox "He leído y acepto la información sobre el uso de mis datos personales explicada en la Política de Privacidad y en la Política de Cookies, y doy mi consentimiento para que NIU Technologies conserve mis datos personales y se ponga en contacto conmigo c" [ref=f66e556] [cursor=pointer]
+                  - generic [ref=f66e557]: He leído y acepto la información sobre el uso de mis datos personales explicada en la Política de Privacidad y en la Política de Cookies, y doy mi consentimiento para que NIU Technologies conserve mis datos personales y se ponga en contacto conmigo c
+              - button "Enviar" [ref=f66e559] [cursor=pointer]
+        - generic [ref=f66e562]:
+          - generic [ref=f66e563]:
+            - generic [ref=f66e564]: FAQ
+            - heading "¿PRIMER SCOOTER ELÉCTRICO?" [level=2] [ref=f66e565]
+            - paragraph [ref=f66e566]: Lo que de verdad importa antes de comprar — explicado claramente por NIU.
+          - list [ref=f66e567]:
+            - listitem [ref=f66e568]:
+              - button "¿Qué scooter eléctrico es bueno para la ciudad?" [ref=f66e569] [cursor=pointer]
+              - region:
+                - generic [ref=f66e570]:
+                  - paragraph [ref=f66e571]: Para un uso urbano intensivo necesitas un formato compacto, par instantáneo, aparcamiento fácil y una batería que puedas subir a tu casa.
+                  - paragraph [ref=f66e572]:
+                    - text: La opción premium urbana de NIU es el
+                    - strong [ref=f66e573]: NQiX 150
+                    - text: — estrecho, silencioso, vivo desde parado, con batería extraíble que se carga en cualquier enchufe doméstico. Un peldaño por debajo está el
+                    - strong [ref=f66e574]: NQi Sport
+                    - text: como entrada de gama sobre la misma plataforma conectada. Y el próximo
+                    - strong [ref=f66e575]: FQiX 150
+                    - text: trae una sensación de conducción más deportiva a la misma categoría de 45 km/h.
+                  - paragraph [ref=f66e576]:
+                    - text: Para la auténtica última milla — el trayecto de la estación a la oficina, o trayectos cortos por el barrio — los patinetes eléctricos
+                    - strong [ref=f66e577]: KQi
+                    - text: completan la oferta urbana de NIU.
+            - listitem [ref=f66e578]:
+              - button "¿Cuál es el mejor scooter eléctrico para ir a trabajar?" [ref=f66e579] [cursor=pointer]
+              - region:
+                - generic [ref=f66e580]:
+                  - paragraph [ref=f66e581]: Depende de tu distancia diaria y de si tu ruta incluye carreteras más rápidas.
+                  - paragraph [ref=f66e582]:
+                    - text: Para trayectos urbanos de hasta unos
+                    - strong [ref=f66e583]: 40 km al día
+                    - text: en vías a 50 km/h, el
+                    - strong [ref=f66e584]: NQi Sport
+                    - text: ", el"
+                    - strong [ref=f66e585]: NQiX 150
+                    - text: o el próximo
+                    - strong [ref=f66e586]: FQiX 150
+                    - text: son la opción más sencilla. Para distancias más largas o tramos a 80–100 km/h, el
+                    - strong [ref=f66e587]: NQiX 300
+                    - text: y el
+                    - strong [ref=f66e588]: FQi 500
+                    - text: suben el listón — misma plataforma conectada, más autonomía, más velocidad máxima.
+                  - paragraph [ref=f66e589]:
+                    - text: "Para quienes no quieren renunciar a nada: el"
+                    - strong [ref=f66e590]: NQiX 500
+                    - text: es el scooter más avanzado y potente de NIU — diseñado para ofrecer máximo rendimiento, tecnología de última generación y practicidad diaria. Rápido, ágil y preparado para cualquier trayecto.
+                  - paragraph [ref=f66e591]: Lo que hace que ir a trabajar en un NIU sea realmente cómodo es la combinación de baterías extraíbles (cargas en la oficina o en casa), la NIU Smart App y una red de concesionarios por toda Europa.
+            - listitem [ref=f66e592]:
+              - button "¿Qué scooter eléctricos tienen baterías extraíbles?" [ref=f66e593] [cursor=pointer]
+              - region:
+                - generic [ref=f66e594]:
+                  - paragraph [ref=f66e595]:
+                    - text: Las baterías extraíbles son un sello de NIU — toda la gama actual está construida en torno a ellas. Eso incluye el
+                    - strong [ref=f66e596]: NQi GTS, NQi Sport, NQiX 150, NQiX 300, NQiX 500, FQi 500, XQi3
+                    - text: y los próximos
+                    - strong [ref=f66e597]: FQiX 150 y FQiX 300
+                    - text: .
+                  - paragraph [ref=f66e598]: Desbloqueas el asiento (o el compartimento de batería, según el modelo), sacas la batería y la cargas dentro de casa en cualquier enchufe doméstico — sin wallbox, sin cableado en el parking, sin electricista. Es una de las principales razones por las que NIU funciona para quien vive de alquiler, en piso o sin garaje con corriente. Los modelos de mayor autonomía usan dos baterías que puedes cambiar y cargar de forma independiente, y desde el Model Year 2026 el NQiX 500 admite incluso una tercera batería.
+            - listitem [ref=f66e599]:
+              - button "¿Qué scooter eléctrico es adecuado para largas distancias?" [ref=f66e600] [cursor=pointer]
+              - region:
+                - generic [ref=f66e601]:
+                  - paragraph [ref=f66e602]:
+                    - text: Para distancias de verdad, mira el
+                    - strong [ref=f66e603]: NQiX 300
+                    - text: y el
+                    - strong [ref=f66e604]: NQiX 500
+                    - text: . Ambos llevan dos baterías y una mecánica más potente que los modelos urbanos, cubriendo cómodamente trayectos regionales con una sola carga.
+                  - paragraph [ref=f66e605]:
+                    - text: El NQiX 500 es la actual nave insignia — pensado para turismo en vías rápidas, smart-conectado y reconocido como mejor scooter eléctrico en pruebas comparativas independientes.
+                    - strong [ref=f66e606]: Desde el Model Year 2026, el NQiX 500 admite además una tercera batería
+                    - text: — lo que amplía claramente la autonomía real para tours más largos y rutas de fin de semana.
+            - listitem [ref=f66e607]:
+              - button "¿Hay scooter eléctricos con app?" [ref=f66e608] [cursor=pointer]
+              - region:
+                - generic [ref=f66e609]:
+                  - paragraph [ref=f66e610]:
+                    - text: Sí — y NIU fue una de las primeras marcas en convertir la app conectada en estándar y no en extra opcional. Todo NIU viene con la
+                    - strong [ref=f66e611]: NIU Smart App
+                    - text: ": nivel de batería y autonomía restante en tiempo real, ubicación GPS, alertas antirrobo, historial de viaje, estado de servicio y actualizaciones OTA."
+                  - paragraph [ref=f66e612]:
+                    - text: Aplica a toda la gama —
+                    - strong [ref=f66e613]: NQi, NQiX, FQi, FQiX, XQi y KQi
+                    - text: — desde el scooter urbano al modelo performance, pasando por la moto eléctrica ligera y el patinete eléctrico. Tu vehículo envía datos a la nube en cuanto lo enciendes, y tú los ves en el móvil estés donde estés.
+            - listitem [ref=f66e614]:
+              - button "¿Qué motos eléctricas no requieren carnet de moto?" [ref=f66e615] [cursor=pointer]
+              - region:
+                - generic [ref=f66e616]:
+                  - paragraph [ref=f66e617]: La clase de carnet depende del modelo y de su velocidad máxima.
+                  - paragraph [ref=f66e618]:
+                    - text: En España, los
+                    - strong [ref=f66e619]: modelos 45 km/h
+                    - text: (NIU NQi GTS, NQi Sport, NQiX 150 en versión 45 km/h) se conducen con el
+                    - strong [ref=f66e620]: permiso AM
+                    - text: ", desde los 15 años. Los modelos de"
+                    - strong [ref=f66e621]: clase A1 (hasta 11 kW, ~95 km/h)
+                    - text: requieren
+                    - strong [ref=f66e622]: permiso A1
+                    - text: (desde los 16) o
+                    - strong [ref=f66e623]: permiso B con 3 años de antigüedad
+                    - text: ", que te permite conducir motocicletas hasta 125 cm³ dentro del territorio español."
+                  - paragraph [ref=f66e624]: Tu concesionario NIU indica la categoría exacta para cada modelo — sin sorpresas en la matriculación.
+            - listitem [ref=f66e625]:
+              - button "¿Qué scooter eléctricos tienen 100 km de autonomía?" [ref=f66e626] [cursor=pointer]
+              - region:
+                - generic [ref=f66e627]:
+                  - paragraph [ref=f66e628]:
+                    - text: 100 km con una sola carga es claramente terreno NIU. El
+                    - strong [ref=f66e629]: NQiX 500
+                    - text: llega a unos
+                    - strong [ref=f66e630]: 100 km
+                    - text: por carga, y el
+                    - strong [ref=f66e631]: NQiX 300
+                    - text: alcanza unos
+                    - strong [ref=f66e632]: 120 km
+                    - text: . Desde el Model Year 2026, el NQiX 500 admite además una tercera batería — ampliando aún más la autonomía real.
+                  - paragraph [ref=f66e633]: Las cifras de autonomía se basan en el ciclo WMTC ciudad. Los números reales dependen de velocidad, peso del piloto y temperatura, pero la línea NQiX está diseñada para cubrir un trayecto diario típico ida y vuelta con una sola carga — y algo más.
+            - listitem [ref=f66e634]:
+              - button "¿Cuánto dura la batería?" [ref=f66e635] [cursor=pointer]
+              - region:
+                - generic [ref=f66e636]:
+                  - paragraph [ref=f66e637]:
+                    - text: NIU usa
+                    - strong [ref=f66e638]: celdas pouch de iones de litio
+                    - text: dimensionadas para
+                    - strong [ref=f66e639]: 800–1.000 ciclos de carga completos
+                    - text: . Pasado ese punto, la batería conserva alrededor del
+                    - strong [ref=f66e640]: 70–80 %
+                    - text: de su capacidad original — no está « muerta », sólo con algo menos de autonomía.
+                  - paragraph [ref=f66e641]:
+                    - text: En la práctica, a unos 100 km por carga, se traduce en una vida útil de batería de
+                    - strong [ref=f66e642]: 80.000–100.000 km
+                    - text: antes de tener que pensar en sustituirla. La mayoría de pilotos vende o cambia su scooter mucho antes de llegar a ese kilometraje.
+            - listitem [ref=f66e643]:
+              - button "¿Cuánto cuesta un scooter eléctrico al año, comparado con uno de gasolina?" [ref=f66e644] [cursor=pointer]
+              - region:
+                - generic [ref=f66e645]:
+                  - paragraph [ref=f66e646]: "Con 5.000 km al año y un precio eléctrico de 0,32 €/kWh:"
+                  - paragraph [ref=f66e647]:
+                    - text: •
+                    - strong [ref=f66e648]: "NQiX 500 (electricidad):"
+                    - text: unos
+                    - strong [ref=f66e649]: 65 € al año
+                    - text: •
+                    - strong [ref=f66e650]: "Scooter 125 cm³ gasolina (combustible):"
+                    - text: unos
+                    - strong [ref=f66e651]: 220 € al año
+                  - paragraph [ref=f66e652]:
+                    - text: "A esto se añade: en España los vehículos eléctricos disfrutan de un descuento de hasta el"
+                    - strong [ref=f66e653]: 75 % en el IVTM
+                    - text: (impuesto municipal de circulación, según ayuntamiento), nada de cambios de aceite, ni bujías, ni escape que reparar. Los costes reales de mantenimiento suelen quedar en el
+                    - strong [ref=f66e654]: 30–50 %
+                    - text: de un equivalente de gasolina — y la diferencia se agranda con los años.
+            - listitem [ref=f66e655]:
+              - button "¿Qué marca lidera el mercado de scooter eléctricos?" [ref=f66e656] [cursor=pointer]
+              - region:
+                - generic [ref=f66e657]:
+                  - paragraph [ref=f66e658]:
+                    - strong [ref=f66e659]: NIU
+                    - text: es una de las mayores marcas mundiales de vehículos eléctricos de dos ruedas, con millones de usuarios en más de 50 países. NIU fue la primera marca en producir scooter eléctricos conectados a escala y sigue marcando el listón en tecnología de batería, integración de app y calidad de diseño.
+                  - paragraph [ref=f66e660]:
+                    - text: Recientemente, el
+                    - strong [ref=f66e661]: NQiX 500
+                    - text: se ha situado en lo alto de las comparativas independientes — la misma referencia que siguen pilotos, concesionarios y periodistas del sector.
+            - listitem [ref=f66e662]:
+              - button "¿Qué vehículos eléctricos son los más adecuados para la movilidad urbana?" [ref=f66e663] [cursor=pointer]
+              - region:
+                - generic [ref=f66e664]:
+                  - paragraph [ref=f66e665]:
+                    - text: Para la ciudad quieres algo silencioso, fácil de aparcar, con bajos costes de uso y cero emisiones. Los
+                    - strong [ref=f66e666]: scooter eléctricos
+                    - text: cumplen los cuatro mejor que los coches eléctricos en trayectos por debajo de unos 25 km, y mejor que las e-bikes en cuanto necesitas protección real ante el clima o llevar pasajero.
+                  - paragraph [ref=f66e667]: Toda la gama NIU — desde el compacto NQi Sport pasando por la línea NQiX hasta la serie performance FQi — cubre todo, desde la última milla hasta el commuter regional, sobre la misma plataforma conectada.
+    - generic [ref=f66e672]:
+      - generic [ref=f66e673]:
+        - img "Niu Logo" [ref=f66e674]
+        - generic [ref=f66e675]:
+          - link [ref=f66e676] [cursor=pointer]:
+            - /url: https://www.instagram.com/niumobility
+            - img "instagram" [ref=f66e677]
+          - link [ref=f66e678] [cursor=pointer]:
+            - /url: https://www.facebook.com/niumobility
+            - img "facebook" [ref=f66e679]
+          - link [ref=f66e680] [cursor=pointer]:
+            - /url: https://www.youtube.com/niumobility
+            - img "youtube" [ref=f66e681]
+          - link [ref=f66e682] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/niu-technologies
+            - img "linkedin" [ref=f66e683]
+          - link [ref=f66e684] [cursor=pointer]:
+            - /url: https://twitter.com/niumobility
+            - img "x" [ref=f66e685]
+          - link [ref=f66e686] [cursor=pointer]:
+            - /url: https://at.pinterest.com/niumobilityofficial/
+            - img "NIU on Pinterest" [ref=f66e687]
+          - link [ref=f66e688] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@niumobilityofficial
+            - img "NIU on TikTok" [ref=f66e689]
+      - generic [ref=f66e691]:
+        - generic [ref=f66e692]:
+          - heading "E-Scooter" [level=5] [ref=f66e693]
+          - list [ref=f66e694]:
+            - listitem [ref=f66e695]:
+              - link "NQiX 150" [ref=f66e696] [cursor=pointer]:
+                - /url: /es/product/NQiX-150
+            - listitem [ref=f66e697]:
+              - link "NQiX 300" [ref=f66e698] [cursor=pointer]:
+                - /url: /es/product/NQiX-300
+            - listitem [ref=f66e699]:
+              - link "NQiX 500" [ref=f66e700] [cursor=pointer]:
+                - /url: /es/product/NQiX-500
+            - listitem [ref=f66e701]:
+              - link "FQiX 150" [ref=f66e702] [cursor=pointer]:
+                - /url: /es/product/FQiX-150
+            - listitem [ref=f66e703]:
+              - link "FQiX 300" [ref=f66e704] [cursor=pointer]:
+                - /url: /es/product/FQiX-300
+            - listitem [ref=f66e705]:
+              - link "NQi Sport" [ref=f66e706] [cursor=pointer]:
+                - /url: /es/product/NQi-Sport
+            - listitem [ref=f66e707]:
+              - link "NQi GTS" [ref=f66e708] [cursor=pointer]:
+                - /url: /es/product/NQi-GTS
+        - generic [ref=f66e709]:
+          - heading "Micromobility" [level=5] [ref=f66e710]
+          - list [ref=f66e711]:
+            - listitem [ref=f66e712]:
+              - link "KQi 100" [ref=f66e713] [cursor=pointer]:
+                - /url: /es/product/KQi-100
+            - listitem [ref=f66e714]:
+              - link "KQi 200" [ref=f66e715] [cursor=pointer]:
+                - /url: /es/product/KQi-200
+            - listitem [ref=f66e716]:
+              - link "KQi 300" [ref=f66e717] [cursor=pointer]:
+                - /url: /es/product/KQi-300
+            - listitem [ref=f66e718]:
+              - link "KQi Air" [ref=f66e719] [cursor=pointer]:
+                - /url: /es/product/KQi-Air
+        - generic [ref=f66e720]:
+          - heading "Service" [level=5] [ref=f66e721]
+          - list [ref=f66e722]:
+            - listitem [ref=f66e723]:
+              - link "Manuales del usuario" [ref=f66e724] [cursor=pointer]:
+                - /url: /es/downloads
+            - listitem [ref=f66e725]:
+              - link "Find a Store" [ref=f66e726] [cursor=pointer]:
+                - /url: /es/find-a-store
+            - listitem [ref=f66e727]:
+              - link "Test Drive" [ref=f66e728] [cursor=pointer]:
+                - /url: /es/test-dealer
+            - listitem [ref=f66e729]:
+              - link "Support" [ref=f66e730] [cursor=pointer]:
+                - /url: https://niumobility.freshdesk.com/en/support/home
+            - listitem [ref=f66e731]:
+              - link "Kick Scooter Support" [ref=f66e732] [cursor=pointer]:
+                - /url: https://niu.b2x.com/
+        - generic [ref=f66e733]:
+          - heading "Business" [level=5] [ref=f66e734]
+          - list [ref=f66e735]:
+            - listitem [ref=f66e736]:
+              - link "NIU Fleet" [ref=f66e737] [cursor=pointer]:
+                - /url: https://global.niufleet.com/en
+            - listitem [ref=f66e738]:
+              - link "Partner Portal" [ref=f66e739] [cursor=pointer]:
+                - /url: https://academy.niu.com/
+        - generic [ref=f66e740]:
+          - heading "Media Center" [level=5] [ref=f66e741]
+          - list [ref=f66e742]:
+            - listitem [ref=f66e743]:
+              - link "Blog" [ref=f66e744] [cursor=pointer]:
+                - /url: /es/blog
+            - listitem [ref=f66e745]:
+              - link "Press" [ref=f66e746] [cursor=pointer]:
+                - /url: /es/press
+        - generic [ref=f66e747]:
+          - heading "About" [level=5] [ref=f66e748]
+          - list [ref=f66e749]:
+            - listitem [ref=f66e750]:
+              - link "Our Story" [ref=f66e751] [cursor=pointer]:
+                - /url: /es/about
+            - listitem [ref=f66e752]:
+              - link "Contact" [ref=f66e753] [cursor=pointer]:
+                - /url: /es/contact
+            - listitem [ref=f66e754]:
+              - link "Investors" [ref=f66e755] [cursor=pointer]:
+                - /url: https://ir.niu.com/
+        - generic [ref=f66e756]:
+          - heading "App" [level=5] [ref=f66e757]
+          - list [ref=f66e758]:
+            - listitem [ref=f66e759]:
+              - link "Smart App" [ref=f66e760] [cursor=pointer]:
+                - /url: /es/smartapp
+            - listitem [ref=f66e761]:
+              - link "Android" [ref=f66e762] [cursor=pointer]:
+                - /url: https://play.google.com/store/apps/details?id=com.niu.manager
+            - listitem [ref=f66e763]:
+              - link "iOS" [ref=f66e764] [cursor=pointer]:
+                - /url: https://apps.apple.com/app/niu-e-scooter/id1257989182
+      - generic [ref=f66e765]:
+        - link [ref=f66e767] [cursor=pointer]:
+          - /url: /es/blog
+          - img "Niu Community Logo" [ref=f66e768]
+        - generic [ref=f66e769]:
+          - link "Privacy Policy" [ref=f66e770] [cursor=pointer]:
+            - /url: /es/privacy
+          - link "Cookies" [ref=f66e771] [cursor=pointer]:
+            - /url: /es/cookies
+          - 'link "KQi & BQi Support: +34 800 000 006" [ref=f66e772] [cursor=pointer]':
+            - /url: tel:+34800000006
+      - generic [ref=f66e773]: Niu International. All rights reserved.

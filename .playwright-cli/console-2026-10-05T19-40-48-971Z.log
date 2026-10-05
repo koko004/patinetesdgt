@@ -1,0 +1,9 @@
+[     405ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ https://www.imoveblue.es/buscar?texto=joyor:0
+[    1000ms] TypeError: Cannot read properties of undefined (reading 'value')
+    at HTMLDocument.<anonymous> (https://www.imoveblue.es/themes/warehouse/assets/cache/bottom-67982a647.js:416:253)
+    at u (https://www.imoveblue.es/themes/warehouse/assets/cache/bottom-67982a647.js:39:22924)
+    at Object.fireWith [as resolveWith] (https://www.imoveblue.es/themes/warehouse/assets/cache/bottom-67982a647.js:39:23681)
+    at e.ready (https://www.imoveblue.es/themes/warehouse/assets/cache/bottom-67982a647.js:39:25468)
+    at HTMLDocument.H (https://www.imoveblue.es/themes/warehouse/assets/cache/bottom-67982a647.js:39:22662)
+[    1115ms] [LOG] Beautiful Consent Service up. @ https://bc-prod-config.empathy.co/assets/index.js:23
+[    1287ms] [LOG] Shopify features loaded @ https://bc-prod-config.empathy.co/assets/content.kHIStm_Q.js:7

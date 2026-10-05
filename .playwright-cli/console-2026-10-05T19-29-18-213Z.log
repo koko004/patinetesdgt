@@ -1,0 +1,3 @@
+[    4440ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ https://www.imoveblue.es/img/p/es-default-home_default.jpg:0
+[    4470ms] [LOG] Beautiful Consent Service up. @ https://bc-prod-config.empathy.co/assets/index.js:23
+[    4622ms] [LOG] Shopify features loaded @ https://bc-prod-config.empathy.co/assets/content.kHIStm_Q.js:7

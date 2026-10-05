@@ -1,0 +1,835 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - link [ref=e6] [cursor=pointer]:
+      - /url: /
+      - img "logo" [ref=e7]
+    - textbox "¿Qué estás buscando?" [ref=e9]
+    - generic [ref=e10]:
+      - generic [ref=e11]: "0"
+      - button [ref=e16] [cursor=pointer]
+  - region "Ventajas de comprar en Patinete Store" [ref=e17]:
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e21]: ALMACÉN EN ESPAÑA
+        - generic [ref=e22]: ENVÍOS EN 24-48 HORAS
+        - generic [ref=e23]: •
+        - generic [ref=e24]: TIENDA Nº1 DE PATINETES EN ESPAÑA
+        - generic [ref=e25]: •
+        - generic [ref=e26]: ★
+        - link "+2.500 RESEÑAS EN GOOGLE" [ref=e27] [cursor=pointer]:
+          - /url: https://share.google/RuIHo1gsaQe1QaF8z
+        - generic [ref=e28]: •
+        - generic [ref=e29]:
+          - text: ¡VINILO
+          - generic [ref=e30]: GRATIS
+          - text: CON LA COMPRA DE TU PATINETE!
+      - generic [ref=e31]:
+        - generic [ref=e32]: ALMACÉN EN ESPAÑA
+        - generic [ref=e33]: ENVÍOS EN 24-48 HORAS
+        - generic [ref=e34]: •
+        - generic [ref=e35]: TIENDA Nº1 DE PATINETES EN ESPAÑA
+        - generic [ref=e36]: •
+        - generic [ref=e37]: ★
+        - generic [ref=e38]: +2.500 RESEÑAS EN GOOGLE
+        - generic [ref=e39]: •
+        - generic [ref=e40]:
+          - text: ¡VINILO
+          - generic [ref=e41]: GRATIS
+          - text: CON LA COMPRA DE TU PATINETE!
+  - link "Saltar al contenido" [ref=e42] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=e43]:
+    - banner [ref=e44]:
+      - generic [ref=e45]:
+        - text:   
+        - navigation [ref=e47]:
+          - link [ref=e49] [cursor=pointer]:
+            - /url: https://patinetestore.com/
+            - img "Patinete Store | Venta de patinetes eléctricos y repuestos de patinete" [ref=e50]
+          - list [ref=e52]:
+            - listitem [ref=e53]:
+              - button "Menú" [ref=e54] [cursor=pointer]:
+                - generic [ref=e55]: 
+          - text:  
+          - list [ref=e57]:
+            - listitem [ref=e58]:
+              - button "Ver carrito" [ref=e59] [cursor=pointer]:
+                - generic [ref=e60]: 
+        - text:     
+        - search "Buscar productos" [ref=e66]:
+          - searchbox "Buscar" [ref=e68]
+    - navigation [ref=e73]:
+      - generic [ref=e74]:
+        - link "Patinetes eléctricos" [ref=e75] [cursor=pointer]:
+          - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/
+        - text: »
+        - link "Kamikaze" [ref=e76] [cursor=pointer]:
+          - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/kamikaze/
+    - main [ref=e78]:
+      - generic [ref=e81]:
+        - generic [ref=e83]:
+          - generic [ref=e87]:
+            - generic [ref=e88]: OFERTÓN!
+            - link [ref=e92] [cursor=pointer]:
+              - /url: https://patinetestore.com/wp-content/uploads/2025/12/Kamikaze-k1plus.jpg
+              - img "Patinete eléctrico KAMIKAZE K1 Plus DGT" [ref=e93]
+          - generic [ref=e94]:
+            - heading "Patinete eléctrico KAMIKAZE K1 Plus DGT" [level=1] [ref=e95]
+            - paragraph [ref=e97]:
+              - deletion [ref=e98]:
+                - generic [ref=e100]:
+                  - generic [ref=e101]: €
+                  - text: 799,00
+              - generic [ref=e102]: "El precio original era: €799,00."
+              - insertion [ref=e103]:
+                - generic [ref=e105]:
+                  - generic [ref=e106]: €
+                  - text: 599,00
+              - generic [ref=e107]: "El precio actual es: €599,00."
+            - generic "Selecciona el modelo" [ref=e108]:
+              - generic [ref=e110]:
+                - link "Kamikaze K1 Lite 470€" [ref=e111] [cursor=pointer]:
+                  - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-lite-dgt/
+                  - generic [ref=e112]: Kamikaze K1 Lite
+                  - generic [ref=e113]: 470€
+                - link "Kamikaze K1 529€" [ref=e114] [cursor=pointer]:
+                  - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-dgt/
+                  - generic [ref=e115]: Kamikaze K1
+                  - generic [ref=e116]: 529€
+                - link "Kamikaze K1 Plus 599€" [ref=e117]:
+                  - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-plus-dgt/
+                  - generic [ref=e118]: Kamikaze K1 Plus
+                  - generic [ref=e119]: 599€
+            - note [ref=e121]:
+              - strong [ref=e124]: Envío en 24-48 horas
+            - paragraph [ref=e126]:
+              - strong [ref=e127]: Kamikaze K1 Plus DGT 48V 20Ah
+              - text: ": motor 1000W, hasta 80 km de autonomía, doble freno de disco, suspensión de muelle, iluminación e IP45. Si quieres gastar menos, compara con el"
+              - link [ref=e128] [cursor=pointer]:
+                - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-lite-dgt/
+                - strong [ref=e129]: K1 Lite
+              - text: o el
+              - link [ref=e130] [cursor=pointer]:
+                - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-dgt/
+                - strong [ref=e131]: Kamikaze K1
+              - text: .
+            - generic [ref=e132]:
+              - generic [ref=e134]:
+                - heading "Datos necesarios para la Gestión DGT" [level=3] [ref=e135]
+                - paragraph [ref=e136]: Completa estos datos para que podamos gestionar el alta DGT correctamente.
+                - generic [ref=e137]:
+                  - generic [ref=e138]: ¿tienes Clave movil o certificado digital? *
+                  - combobox "¿tienes Clave movil o certificado digital? *" [ref=e139]:
+                    - option "Selecciona una opción" [selected]
+                    - option "Tengo Clave movil"
+                    - option "Tengo certificado digital"
+                    - option "No tengo ninguna"
+                - generic [ref=e140]:
+                  - generic [ref=e141]: Adjunto DNI cara A *
+                  - generic [ref=e142]:
+                    - button "Adjunto DNI cara A *" [ref=e143]
+                    - button "Seleccionar archivo" [ref=e144] [cursor=pointer]
+                    - generic [ref=e145]: Ningún archivo seleccionado
+                - generic [ref=e146]:
+                  - generic [ref=e147]: Adjunto DNI cara B *
+                  - generic [ref=e148]:
+                    - button "Adjunto DNI cara B *" [ref=e149]
+                    - button "Seleccionar archivo" [ref=e150] [cursor=pointer]
+                    - generic [ref=e151]: Ningún archivo seleccionado
+              - generic [ref=e152]:
+                - generic [ref=e153]:
+                  - generic [ref=e154]: ELIGE TU VINILO
+                  - generic [ref=e157]:
+                    - generic [ref=e159]:
+                      - generic [ref=e160]:
+                        - radio [ref=e161]
+                        - button "Personalizar Vinilo Kamikaze K1 Redbull Holográfico" [ref=e162] [cursor=pointer]:
+                          - generic [ref=e163]: TOP VENTAS
+                          - generic "Ampliar foto del vinilo" [ref=e164]:
+                            - img "Vinilo Kamikaze K1 Redbull Holográfico" [ref=e165]
+                          - generic [ref=e166]: Holográfico Vinilo + base
+                          - generic [ref=e167]: 19,90 €
+                          - generic [ref=e168]:
+                            - generic [ref=e169]: PERSONALIZAR
+                            - generic [ref=e171]: ›
+                      - generic [ref=e172]:
+                        - radio [ref=e173]
+                        - button "Personalizar Vinilo Kamikaze K1 Redbull" [ref=e174] [cursor=pointer]:
+                          - generic "Ampliar foto del vinilo" [ref=e175]:
+                            - img "Vinilo Kamikaze K1 Redbull" [ref=e176]
+                          - generic [ref=e177]: Vinilo Kamikaze K1 Redbull
+                          - generic [ref=e178]: 19,90 €
+                          - generic [ref=e179]:
+                            - generic [ref=e180]: PERSONALIZAR
+                            - generic [ref=e182]: ›
+                      - generic [ref=e183]:
+                        - radio [ref=e184]
+                        - button "Personalizar Vinilo Kamikaze K1 ORANGE REDBULL" [ref=e185] [cursor=pointer]:
+                          - generic "Ampliar foto del vinilo" [ref=e186]:
+                            - img "Vinilo Kamikaze K1 ORANGE REDBULL" [ref=e187]
+                          - generic [ref=e188]: Vinilo Kamikaze K1 ORANGE REDBULL
+                          - generic [ref=e189]: 19,90 €
+                          - generic [ref=e190]:
+                            - generic [ref=e191]: PERSONALIZAR
+                            - generic [ref=e193]: ›
+                      - generic [ref=e194]:
+                        - radio [ref=e195]
+                        - button "Personalizar Vinilo Kamikaze K1 DUCATI Corse" [ref=e196] [cursor=pointer]:
+                          - generic "Ampliar foto del vinilo" [ref=e197]:
+                            - img "Vinilo Kamikaze K1 DUCATI Corse" [ref=e198]
+                          - generic [ref=e199]: Vinilo Kamikaze K1 DUCATI Corse
+                          - generic [ref=e200]: 19,90 €
+                          - generic [ref=e201]:
+                            - generic [ref=e202]: PERSONALIZAR
+                            - generic [ref=e204]: ›
+                      - generic [ref=e205]:
+                        - radio [checked] [ref=e206]
+                        - button "No incluir vinilo" [ref=e207] [cursor=pointer]:
+                          - generic [ref=e208]: ⊘
+                          - generic [ref=e209]: Sin vinilo
+                          - generic [ref=e210]: 0,00 €
+                          - text: ✓
+                    - button "‹" [ref=e211] [cursor=pointer]
+                    - button "›" [ref=e213] [cursor=pointer]
+                - generic [ref=e215]:
+                  - generic [ref=e216]: TUNEA TU PATINETE
+                  - generic [ref=e218]:
+                    - generic [ref=e219] [cursor=pointer]:
+                      - generic [ref=e220]:
+                        - button [ref=e221]:
+                          - img "Acelerador Kamikaze K1 Cj Racing" [ref=e222]
+                        - generic [ref=e223]: Acelerador Kamikaze K1 Cj Racing
+                        - generic [ref=e225]: +19,00 €
+                      - radio
+                      - radio [checked]
+                    - generic [ref=e229] [cursor=pointer]:
+                      - generic [ref=e230]:
+                        - button [ref=e231]:
+                          - img "Chaleco reflectante tirante SUNIIK" [ref=e232]
+                        - generic [ref=e234]:
+                          - generic [ref=e235]: OBLIGATORIO DE NOCHE
+                          - generic [ref=e236]: Chaleco reflectante tirante SUNIIK
+                          - generic [ref=e237]: Te pueden multar si circulas de noche o con poca visibilidad sin un elemento reflectante.
+                        - generic [ref=e238]: +12,90 €
+                      - radio
+                      - radio [checked]
+                    - generic [ref=e242] [cursor=pointer]:
+                      - generic [ref=e243]:
+                        - button [ref=e244]:
+                          - img "Cubre cables protector de colores (1 metro)" [ref=e245]
+                        - generic [ref=e246]: Cubre cables protector de colores (1 metro)
+                        - generic [ref=e248]: GRATIS
+                      - radio
+                      - radio [checked]
+                    - generic [ref=e252] [cursor=pointer]:
+                      - generic [ref=e253]:
+                        - button [ref=e254]:
+                          - img "Cubre manetas de goma (2 unidades)" [ref=e255]
+                        - generic [ref=e256]: Cubre manetas de goma (2 unidades)
+                        - generic [ref=e258]: GRATIS
+                      - radio
+                      - radio [checked]
+                    - generic [ref=e263] [cursor=pointer]:
+                      - generic [ref=e264]:
+                        - button [ref=e265]:
+                          - img "Localizador GPS para patinete (Iphone y Android)" [ref=e266]
+                        - generic [ref=e267]: Localizador GPS para patinete (Iphone y Android)
+                        - generic [ref=e269]: +14,90 €
+                      - radio
+                      - radio [checked]
+                    - generic [ref=e273] [cursor=pointer]:
+                      - generic [ref=e274]:
+                        - button [ref=e275]:
+                          - img "Puños patinete eléctrico CJ Racing" [ref=e276]
+                        - generic [ref=e277]: Puños patinete eléctrico CJ Racing
+                        - generic [ref=e279]: GRATIS
+                      - radio
+                      - radio [checked]
+                    - generic [ref=e283] [cursor=pointer]:
+                      - generic [ref=e284]:
+                        - button [ref=e285]:
+                          - img "Copias de llaves NFC para patinete eléctrico – CJ Racing" [ref=e286]
+                        - generic [ref=e287]: Copias de llaves NFC para patinete eléctrico – CJ Racing
+                        - generic [ref=e289]: Desde +12,90 €
+                      - radio
+                      - radio [checked]
+                    - generic [ref=e293] [cursor=pointer]:
+                      - generic [ref=e294]:
+                        - button [ref=e295]:
+                          - img "Acelerador Kamikaze K1" [ref=e296]
+                        - generic [ref=e297]: Acelerador Kamikaze K1
+                        - generic [ref=e299]: +29,90 €
+                      - radio
+                      - radio [checked]
+                    - generic [ref=e303] [cursor=pointer]:
+                      - generic [ref=e304]:
+                        - button [ref=e305]:
+                          - img "Pegs Anticaida patinete eléctrico CJ Racing1" [ref=e306]
+                        - generic [ref=e307]: Pegs Anticaida patinete eléctrico CJ Racing1
+                        - generic [ref=e309]: +29,90 €
+                      - radio
+                      - radio [checked]
+                    - generic [ref=e313] [cursor=pointer]:
+                      - generic [ref=e314]:
+                        - button [ref=e315]:
+                          - img "Neumáticos de carretera para Kamikaze K1 / PLUS - Dos unidades" [ref=e316]
+                        - generic [ref=e317]: Neumáticos de carretera para Kamikaze K1 / PLUS - Dos unidades
+                        - generic [ref=e319]: +39,90 €
+                      - radio
+                      - radio [checked]
+                    - generic [ref=e323] [cursor=pointer]:
+                      - generic [ref=e324]:
+                        - button [ref=e325]:
+                          - img "Neumáticos Kamikaze K1 90/55 6.5" [ref=e326]
+                        - generic [ref=e327]: Neumáticos Kamikaze K1 90/55 6.5
+                        - generic [ref=e329]: +44,90 €
+                      - radio
+                      - radio [checked]
+                    - generic [ref=e333] [cursor=pointer]:
+                      - generic [ref=e334]:
+                        - button [ref=e335]:
+                          - img "Luz faro Para Patinetes o Bicicletas (2 Soportes) Potente" [ref=e336]
+                        - generic [ref=e337]: Luz faro Para Patinetes o Bicicletas (2 Soportes) Potente
+                        - generic [ref=e339]: +45,00 €
+                      - radio
+                      - radio [checked]
+                    - generic [ref=e343] [cursor=pointer]:
+                      - generic [ref=e344]:
+                        - button [ref=e345]:
+                          - img "Portamatrículas de metacrilato para patinete eléctrico" [ref=e346]
+                        - generic [ref=e347]: Portamatrículas de metacrilato para patinete eléctrico
+                        - generic [ref=e349]: +9,90 €
+                      - radio
+                      - radio [checked]
+                - text: ✔ ✖
+                - generic [ref=e353]:
+                  - generic [ref=e354]: TRÁMITES NECESARIOS PARA CIRCULAR LEGALMENTE
+                  - generic [ref=e361]:
+                    - generic [ref=e362]:
+                      - checkbox "Matrícula DGT MATRICULAR MI PATINETE Una vez tengas el patinete inscrito en la DGT contacta con nosotros y te enviaremos tu matrícula homologada. 9,90 €"
+                      - generic [ref=e364] [cursor=pointer]:
+                        - img "Matrícula DGT" [ref=e368]
+                        - generic [ref=e369]:
+                          - generic [ref=e370]: MATRICULAR MI PATINETE
+                          - generic [ref=e371]: Una vez tengas el patinete inscrito en la DGT contacta con nosotros y te enviaremos tu matrícula homologada.
+                        - generic [ref=e372]: 9,90 €
+                    - generic [ref=e374]:
+                      - checkbox "Seguro patinete ASEGURAR EL PATINETE Desde 3,40€/mes Una vez adquieras el patinete, te contactaremos para ayudarte en la gestión del alta de tu seguro obligatorio. Desde 3,40€/mes"
+                      - generic [ref=e376] [cursor=pointer]:
+                        - img "Seguro patinete" [ref=e380]
+                        - generic [ref=e381]:
+                          - generic [ref=e382]: ASEGURAR EL PATINETE
+                          - generic [ref=e383]: Desde 3,40€/mes
+                          - generic [ref=e384]: Una vez adquieras el patinete, te contactaremos para ayudarte en la gestión del alta de tu seguro obligatorio.
+                        - generic [ref=e385]: Desde 3,40€/mes
+                - generic [ref=e387]:
+                  - generic [ref=e388]:
+                    - strong [ref=e389]: Tu configuración
+                    - generic [ref=e390]: Revisa qué incluye tu patinete antes de añadirlo al carrito.
+                  - generic [ref=e391]:
+                    - generic [ref=e392]: Patinete eléctrico KAMIKAZE K1 Plus DGT
+                    - strong [ref=e393]: 599,00 €
+                  - generic [ref=e395]: Selecciona mejoras, accesorios o servicios y aparecerán aquí.
+                  - generic [ref=e396]:
+                    - generic [ref=e397]: Mejoras y servicios
+                    - strong [ref=e398]: 0,00 €
+                  - generic [ref=e399]:
+                    - generic [ref=e400]: Precio total
+                    - generic [ref=e401]: 599,00 €
+              - button "Añadir al carrito" [ref=e402] [cursor=pointer]
+              - button "Comprar ahora" [ref=e403] [cursor=pointer]
+            - generic [ref=e404]:
+              - generic [ref=e405]: "SKU: PS-418"
+              - generic [ref=e406]:
+                - text: "Categorías:"
+                - link "Kamikaze" [ref=e407] [cursor=pointer]:
+                  - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/kamikaze/
+                - text: ","
+                - link "Patinetes eléctricos" [ref=e408] [cursor=pointer]:
+                  - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/
+              - generic [ref=e409]:
+                - text: "Marca:"
+                - link "Kamikaze" [ref=e410] [cursor=pointer]:
+                  - /url: https://patinetestore.com/marca/kamikaze/
+          - text:                                
+        - region "Vídeos del producto" [ref=e411]:
+          - heading "Vídeos del producto" [level=2] [ref=e412]
+          - generic [ref=e413]:
+            - list [ref=e414]:
+              - listitem [ref=e415]:
+                - generic [ref=e416]:
+                  - button "Reproducir video del producto" [ref=e423] [cursor=pointer]:
+                    - img "Video del producto" [ref=e424]
+                  - generic [ref=e426]:
+                    - heading "Patinete eléctrico KAMIKAZE K1 Plus DGT" [level=3] [ref=e427]
+                    - paragraph [ref=e428]: Vídeo 1 sobre Patinete eléctrico KAMIKAZE K1 Plus DGT. Review, funcionamiento y detalles del producto.
+              - listitem [ref=e429]:
+                - generic [ref=e430]:
+                  - iframe [ref=e436]:
+                    - region "TikTok video player" [ref=f1e1]:
+                      - generic [ref=f1e2]:
+                        - img "Video Cover"
+                      - link "Visit patinetestore's video on TikTok" [ref=f1e6] [cursor=pointer]:
+                        - /url: https://www.tiktok.com/@patinetestore/video/7611248560457141526?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7611248560457141526%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7611248560457141526
+                      - link "Visit PATINETE STORE 🏁' profile on TikTok" [ref=f1e8] [cursor=pointer]:
+                        - /url: https://www.tiktok.com/@patinetestore?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7611248560457141526%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7611248560457141526
+                        - generic [ref=f1e11]:
+                          - generic [ref=f1e12]: PATINETE STORE 🏁
+                          - generic [ref=f1e13]: patinetestore
+                      - button "Play video" [ref=f1e15] [cursor=pointer]
+                      - generic [ref=f1e17]:
+                        - slider "Seek video" [ref=f1e19]
+                        - generic [ref=f1e21]:
+                          - generic [ref=f1e22]:
+                            - button "Play" [ref=f1e23] [cursor=pointer]
+                            - generic [ref=f1e26]:
+                              - button "Mute" [ref=f1e27] [cursor=pointer]
+                              - slider "Volume" [ref=f1e31] [cursor=pointer]
+                            - generic [ref=f1e34]: 00:00/00:30
+                          - generic [ref=f1e35]:
+                            - button "Show Closed Caption" [ref=f1e37] [cursor=pointer]
+                            - button "Settings" [ref=f1e41] [cursor=pointer]
+                            - button "Enter fullscreen" [ref=f1e47] [cursor=pointer]
+                      - generic [ref=f1e50]:
+                        - link "Like this post on TikTok" [ref=f1e51] [cursor=pointer]:
+                          - /url: https://www.tiktok.com/@patinetestore/video/7611248560457141526?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7611248560457141526%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7611248560457141526
+                          - generic [ref=f1e54]: "3839"
+                        - link "Comment this post on TikTok" [ref=f1e55] [cursor=pointer]:
+                          - /url: https://www.tiktok.com/@patinetestore/video/7611248560457141526?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7611248560457141526%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7611248560457141526
+                          - generic [ref=f1e58]: "74"
+                        - link "Share this post on TikTok" [ref=f1e59] [cursor=pointer]:
+                          - /url: https://www.tiktok.com/@patinetestore/video/7611248560457141526?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7611248560457141526%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7611248560457141526
+                          - generic [ref=f1e62]: "88"
+                  - generic [ref=e437]:
+                    - heading "Vídeo 2 de Patinete eléctrico KAMIKAZE K1 Plus DGT" [level=3] [ref=e438]
+                    - paragraph [ref=e439]: Vídeo 2 sobre Patinete eléctrico KAMIKAZE K1 Plus DGT. Review, funcionamiento y detalles del producto.
+              - listitem [ref=e440]:
+                - generic [ref=e441]:
+                  - iframe [ref=e447]:
+                    - region "TikTok video player" [ref=f2e1]:
+                      - generic [ref=f2e2]:
+                        - img "Video Cover"
+                      - link "Visit patinetestore's video on TikTok" [ref=f2e6] [cursor=pointer]:
+                        - /url: https://www.tiktok.com/@patinetestore/video/7601122963345116418?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7601122963345116418%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7601122963345116418
+                      - link "Visit PATINETE STORE 🏁' profile on TikTok" [ref=f2e8] [cursor=pointer]:
+                        - /url: https://www.tiktok.com/@patinetestore?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7601122963345116418%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7601122963345116418
+                        - generic [ref=f2e11]:
+                          - generic [ref=f2e12]: PATINETE STORE 🏁
+                          - generic [ref=f2e13]: patinetestore
+                      - button "Play video" [ref=f2e15] [cursor=pointer]
+                      - generic [ref=f2e17]:
+                        - slider "Seek video" [ref=f2e19]
+                        - generic [ref=f2e21]:
+                          - generic [ref=f2e22]:
+                            - button "Play" [ref=f2e23] [cursor=pointer]
+                            - generic [ref=f2e26]:
+                              - button "Mute" [ref=f2e27] [cursor=pointer]
+                              - slider "Volume" [ref=f2e31] [cursor=pointer]
+                            - generic [ref=f2e34]: 00:00/00:14
+                          - generic [ref=f2e35]:
+                            - button "Show Closed Caption" [disabled] [ref=f2e37] [cursor=pointer]
+                            - button "Settings" [ref=f2e41] [cursor=pointer]
+                            - button "Enter fullscreen" [ref=f2e47] [cursor=pointer]
+                      - generic [ref=f2e50]:
+                        - link "Like this post on TikTok" [ref=f2e51] [cursor=pointer]:
+                          - /url: https://www.tiktok.com/@patinetestore/video/7601122963345116418?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7601122963345116418%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7601122963345116418
+                          - generic [ref=f2e54]: "533"
+                        - link "Comment this post on TikTok" [ref=f2e55] [cursor=pointer]:
+                          - /url: https://www.tiktok.com/@patinetestore/video/7601122963345116418?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7601122963345116418%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7601122963345116418
+                          - generic [ref=f2e58]: "27"
+                        - link "Share this post on TikTok" [ref=f2e59] [cursor=pointer]:
+                          - /url: https://www.tiktok.com/@patinetestore/video/7601122963345116418?utm_campaign=&utm_source=unknown&refer=player_v1&referrer_url=https%3A%2F%2Fwww.tiktok.com%2Fplayer%2Fv1%2F7601122963345116418%3Fautoplay%3D0%26controls%3D1%26description%3D0%26music_info%3D0%26fullscreen_button%3D1&referer_video_id=7601122963345116418
+                          - generic [ref=f2e62]: "53"
+                  - generic [ref=e448]:
+                    - heading "Vídeo 3 de Patinete eléctrico KAMIKAZE K1 Plus DGT" [level=3] [ref=e449]
+                    - paragraph [ref=e450]: Vídeo 3 sobre Patinete eléctrico KAMIKAZE K1 Plus DGT. Review, funcionamiento y detalles del producto.
+            - generic "Cambiar vídeo" [ref=e451]:
+              - button "1" [ref=e452] [cursor=pointer]
+              - button "2" [ref=e453] [cursor=pointer]
+              - button "3" [ref=e454] [cursor=pointer]
+        - generic [ref=e456]:
+          - generic [ref=e458]:
+            - generic [ref=e459]:
+              - heading "Características técnicas" [level=2] [ref=e460]
+              - generic [ref=e461]: de Patinete eléctrico KAMIKAZE K1 Plus DGT
+            - generic [ref=e462]:
+              - generic [ref=e463]:
+                - img "Motor trasero" [ref=e464]
+                - generic [ref=e465]: Motor trasero
+                - generic [ref=e466]: 500W (1000W Pico)
+              - generic [ref=e467]:
+                - img "Batería" [ref=e468]
+                - generic [ref=e469]: Batería
+                - generic [ref=e470]: 70 Kilómetros (48V 20Ah)
+              - generic [ref=e471]:
+                - img "Velocidad" [ref=e472]
+                - generic [ref=e473]: Velocidad
+                - generic [ref=e474]: 25Km/h 45Km/h
+              - generic [ref=e475]:
+                - img "Deslimitar" [ref=e476]
+                - generic [ref=e477]: Deslimitar
+                - generic [ref=e478]: Desde Display
+              - generic [ref=e479]:
+                - img "Frenos" [ref=e480]
+                - generic [ref=e481]: Frenos
+                - generic [ref=e482]: Doble disco mecánico
+              - generic [ref=e483]:
+                - img "Neumáticos" [ref=e484]
+                - generic [ref=e485]: Neumáticos
+                - generic [ref=e486]: 10"
+              - generic [ref=e487]:
+                - img "Peso" [ref=e488]
+                - generic [ref=e489]: Peso
+                - generic [ref=e490]: 26,3 kg
+          - generic [ref=e492]:
+            - generic [ref=e493]:
+              - link [expanded] [ref=e494] [cursor=pointer]:
+                - /url: "#accordion-item-description"
+                - button "Toggle" [ref=e495]:
+                  - generic [ref=e496]: 
+                - text: Descripción
+              - generic "Toggle Descripción" [ref=e497]:
+                - generic [ref=e498]:
+                  - generic [ref=e499]:
+                    - paragraph [ref=e500]:
+                      - generic [ref=e501]: Kamikaze K1 Plus DGT
+                    - 'heading "Kamikaze K1 Plus DGT 48V 20Ah: más autonomía para usuarios exigentes" [level=2] [ref=e502]'
+                    - paragraph [ref=e503]:
+                      - text: El
+                      - strong [ref=e504]: Kamikaze K1 Plus DGT
+                      - text: "es la versión con más batería de la familia K1: motor 1000W, batería 48V 20Ah, autonomía declarada de hasta 80 km, doble freno de disco, suspensión de muelle, iluminación e IP45. Es la compra lógica si haces recorridos largos o quieres más margen entre cargas."
+                    - generic [ref=e505]:
+                      - generic [ref=e506]:
+                        - strong [ref=e507]: 48V 20Ah
+                        - text: La batería más grande entre K1 Lite, K1 y K1 Plus.
+                      - generic [ref=e508]:
+                        - strong [ref=e509]: Hasta 80 km
+                        - text: Más margen para trayectos largos y uso intensivo.
+                      - generic [ref=e510]:
+                        - strong [ref=e511]: Motor 1000W
+                        - text: Respuesta deportiva con doble disco y suspensión de muelle.
+                  - 'heading "Kamikaze K1 Lite vs K1 vs K1 Plus: cuál comprar" [level=2] [ref=e512]'
+                  - paragraph [ref=e513]: Las tres versiones comparten el estilo deportivo de la familia Kamikaze K1, doble freno de disco, suspensión de muelle, iluminación visible e IP45. La diferencia real está en motor, batería y autonomía.
+                  - generic [ref=e514]:
+                    - article [ref=e515]:
+                      - generic [ref=e516]: K1 Lite
+                      - heading "Kamikaze K1 Lite DGT" [level=3] [ref=e517]
+                      - paragraph [ref=e518]: "La entrada más accesible de la familia: motor 800W, batería 48V 13,5Ah y hasta 55 km para ciudad y terrenos irregulares."
+                      - list [ref=e519]:
+                        - listitem [ref=e520]:
+                          - strong [ref=e521]: Motor
+                          - text: 800W
+                        - listitem [ref=e522]:
+                          - strong [ref=e523]: Batería
+                          - text: 48V 13,5Ah
+                        - listitem [ref=e524]:
+                          - strong [ref=e525]: Autonomía
+                          - text: Hasta 55 km
+                        - listitem [ref=e526]:
+                          - strong [ref=e527]: Uso ideal
+                          - text: Precio y ligereza
+                      - link "Ver Kamikaze K1 Lite" [ref=e529] [cursor=pointer]:
+                        - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-lite-dgt/
+                    - article [ref=e530]:
+                      - generic [ref=e531]: K1
+                      - heading "Kamikaze K1 DGT" [level=3] [ref=e532]
+                      - paragraph [ref=e533]: "El punto medio: motor 1000W, batería 48V 15Ah y hasta 60 km para quien quiere más respuesta sin saltar al Plus."
+                      - list [ref=e534]:
+                        - listitem [ref=e535]:
+                          - strong [ref=e536]: Motor
+                          - text: 1000W
+                        - listitem [ref=e537]:
+                          - strong [ref=e538]: Batería
+                          - text: 48V 15Ah
+                        - listitem [ref=e539]:
+                          - strong [ref=e540]: Autonomía
+                          - text: Hasta 60 km
+                        - listitem [ref=e541]:
+                          - strong [ref=e542]: Uso ideal
+                          - text: Equilibrio deportivo
+                      - link "Ver Kamikaze K1" [ref=e544] [cursor=pointer]:
+                        - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-dgt/
+                    - article [ref=e545]:
+                      - generic [ref=e546]: K1 Plus
+                      - heading "Kamikaze K1 Plus DGT" [level=3] [ref=e547]
+                      - paragraph [ref=e548]: "La versión con más batería: motor 1000W, 48V 20Ah y hasta 80 km para usuarios que priorizan autonomía."
+                      - list [ref=e549]:
+                        - listitem [ref=e550]:
+                          - strong [ref=e551]: Motor
+                          - text: 1000W
+                        - listitem [ref=e552]:
+                          - strong [ref=e553]: Batería
+                          - text: 48V 20Ah
+                        - listitem [ref=e554]:
+                          - strong [ref=e555]: Autonomía
+                          - text: Hasta 80 km
+                        - listitem [ref=e556]:
+                          - strong [ref=e557]: Uso ideal
+                          - text: Más autonomía
+                      - generic [ref=e558]: Estás viendo esta versión
+                  - generic [ref=e559]:
+                    - heading "Por qué elegir el Kamikaze K1 Plus" [level=2] [ref=e560]
+                    - paragraph [ref=e561]: El Plus está pensado para quien ya sabe que la autonomía importa. Si haces muchos kilómetros, tienes trayectos largos o quieres usar el patinete varios días sin cargar, la batería 48V 20Ah marca la diferencia frente al Lite y al K1.
+                    - generic [ref=e562]:
+                      - generic [ref=e563]:
+                        - strong [ref=e564]: 48V 20Ah
+                        - text: Mayor capacidad para moverte con más margen.
+                      - generic [ref=e565]:
+                        - strong [ref=e566]: Hasta 80 km
+                        - text: Autonomía orientativa superior dentro de la gama K1.
+                      - generic [ref=e567]:
+                        - strong [ref=e568]: Doble freno de disco
+                        - text: Control de frenada para una conducción más exigente.
+                      - generic [ref=e569]:
+                        - strong [ref=e570]: Iluminación completa
+                        - text: Luz frontal, plataforma iluminada e intermitentes integrados.
+                  - heading "Ficha técnica comparativa Kamikaze K1" [level=2] [ref=e571]
+                  - table [ref=e573]:
+                    - rowgroup [ref=e574]:
+                      - row [ref=e575]:
+                        - columnheader "Característica" [ref=e576]
+                        - columnheader "K1 Lite" [ref=e577]
+                        - columnheader "K1" [ref=e578]
+                        - columnheader "K1 Plus" [ref=e579]
+                    - rowgroup [ref=e580]:
+                      - row [ref=e581]:
+                        - cell "Motor" [ref=e582]
+                        - cell "800W" [ref=e583]
+                        - cell "1000W" [ref=e584]
+                        - cell "1000W" [ref=e585]
+                      - row [ref=e586]:
+                        - cell "Batería" [ref=e587]
+                        - cell "48V 13,5Ah" [ref=e588]
+                        - cell "48V 15Ah" [ref=e589]
+                        - cell "48V 20Ah" [ref=e590]
+                      - row [ref=e591]:
+                        - cell "Autonomía orientativa" [ref=e592]
+                        - cell "Hasta 55 km" [ref=e593]
+                        - cell "Hasta 60 km" [ref=e594]
+                        - cell "Hasta 80 km" [ref=e595]
+                      - row [ref=e596]:
+                        - cell "Frenos" [ref=e597]
+                        - cell "Doble freno de disco" [ref=e598]
+                        - cell "Doble freno de disco" [ref=e599]
+                        - cell "Doble freno de disco" [ref=e600]
+                      - row [ref=e601]:
+                        - cell "Suspensión" [ref=e602]
+                        - cell "Suspensión de muelle" [ref=e603]
+                        - cell "Suspensión de muelle" [ref=e604]
+                        - cell "Suspensión de muelle" [ref=e605]
+                      - row [ref=e606]:
+                        - cell "Resistencia al agua" [ref=e607]
+                        - cell "IP45" [ref=e608]
+                        - cell "IP45" [ref=e609]
+                        - cell "IP45" [ref=e610]
+                      - row [ref=e611]:
+                        - cell "Iluminación" [ref=e612]
+                        - cell "Luz frontal + plataforma iluminada" [ref=e613]
+                        - cell "Luz LED + plataforma iluminada" [ref=e614]
+                        - cell "Luz frontal + plataforma iluminada" [ref=e615]
+                      - row [ref=e616]:
+                        - cell "Intermitentes" [ref=e617]
+                        - cell "Integrados en la base" [ref=e618]
+                        - cell "Integrados" [ref=e619]
+                        - cell "Integrados en la base" [ref=e620]
+                      - row [ref=e621]:
+                        - cell "Recomendado para" [ref=e622]
+                        - cell "Uso urbano y precio ajustado" [ref=e623]
+                        - cell "Equilibrio entre potencia y autonomía" [ref=e624]
+                        - cell "Trayectos largos y más margen de batería" [ref=e625]
+                  - generic [ref=e626]:
+                    - generic [ref=e627]:
+                      - 'heading "DGT, matrícula y seguro: déjalo preparado desde el pedido" [level=2] [ref=e628]'
+                      - paragraph [ref=e629]: Los Kamikaze K1 DGT están pensados para circular limitados a 25 km/h en vía pública y cumplir con el marco legal aplicable. Desde Patinete Store puedes añadir gestión DGT, matrícula y seguro obligatorio para comprar el patinete con el proceso más claro.
+                      - paragraph [ref=e630]: Si ya tienes inscripción, también puedes pedir la matrícula por separado. Si quieres resolverlo todo desde cero, la gestión integral es la opción más cómoda.
+                      - generic [ref=e631]:
+                        - link "Ver gestión integral DGT" [ref=e632] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/gestion-integral-dgt-alta-dgt-matriculacion/
+                        - link "Ver matrícula DGT" [ref=e633] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/matricula-dgt-para-patinetes-electrico-homologada-dgt/
+                    - complementary [ref=e634]:
+                      - heading "Consejo de Patinete Store" [level=3] [ref=e635]
+                      - paragraph [ref=e636]: El Plus tiene sentido si la autonomía manda. Si haces trayectos largos, esos 20Ah se notan.
+                  - heading "Para quién recomendamos el Kamikaze K1 Plus" [level=2] [ref=e637]
+                  - list [ref=e638]:
+                    - listitem [ref=e639]: Para quien prioriza autonomía por encima del precio.
+                    - listitem [ref=e640]: Para usuarios que hacen trayectos largos o uso diario intensivo.
+                    - listitem [ref=e641]: Para quien quiere motor 1000W con batería 20Ah.
+                    - listitem [ref=e642]: Para compradores que comparan K1 y Plus y no quieren quedarse cortos.
+                    - listitem [ref=e643]: Para quien busca estética deportiva, IP45 y buena visibilidad.
+                    - listitem [ref=e644]: Para quien quiere comprar con DGT, matrícula y soporte postventa.
+                  - generic [ref=e645]:
+                    - heading "Preguntas frecuentes sobre Kamikaze K1 Plus" [level=2] [ref=e646]
+                    - generic [ref=e647]:
+                      - group [ref=e648]:
+                        - generic "¿Qué diferencia hay entre K1 Plus y K1?" [ref=e649] [cursor=pointer]
+                        - paragraph [ref=e650]: El Plus sube la batería a 48V 20Ah y llega hasta 80 km de autonomía orientativa. El K1 monta 48V 15Ah y hasta 60 km.
+                      - group [ref=e651]:
+                        - generic "¿Qué diferencia hay entre K1 Plus y Lite?" [ref=e652] [cursor=pointer]
+                      - group [ref=e653]:
+                        - generic "¿Merece la pena el Plus?" [ref=e654] [cursor=pointer]
+                      - group [ref=e655]:
+                        - generic "¿Es DGT?" [ref=e656] [cursor=pointer]
+            - generic: 
+          - generic [ref=e657]:
+            - heading "Más Kamikaze que te pueden interesar:" [level=2] [ref=e658]
+            - generic [ref=e659]:
+              - generic [ref=e662]:
+                - generic [ref=e663]:
+                  - generic:
+                    - link "Patinete eléctrico Kamikaze G4 con diseño naranja":
+                      - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-g4/
+                      - img "Patinete eléctrico Kamikaze G4 con diseño naranja" [ref=e664] [cursor=pointer]
+                  - generic:
+                    - button "Vista Rápida"
+                  - generic [ref=e665]: Sin existencias
+                - generic [ref=e666]:
+                  - generic [ref=e667]:
+                    - generic [ref=e668]: Envío en 24-48 horas
+                    - paragraph [ref=e671]:
+                      - link "Patinete eléctrico Kamikaze G4" [ref=e672] [cursor=pointer]:
+                        - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-g4/
+                  - generic [ref=e673]: €912,00
+              - generic [ref=e680]:
+                - generic [ref=e681]:
+                  - generic:
+                    - link "Patinete eléctrico Kamikaze K1 Ninja":
+                      - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-ninja/
+                      - img "Patinete eléctrico Kamikaze K1 Ninja" [ref=e682] [cursor=pointer]
+                  - generic:
+                    - button "Vista Rápida"
+                  - generic [ref=e683]: Sin existencias
+                - generic [ref=e684]:
+                  - generic [ref=e685]:
+                    - generic [ref=e686]: Envío en 24-48 horas
+                    - paragraph [ref=e689]:
+                      - link "Patinete eléctrico Kamikaze K1 Ninja" [ref=e690] [cursor=pointer]:
+                        - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-ninja/
+                  - generic [ref=e691]: €1.163,00
+              - generic [ref=e697]:
+                - generic [ref=e698]: OFERTÓN!
+                - generic [ref=e699]:
+                  - generic [ref=e700]:
+                    - generic:
+                      - link "Patinete eléctrico KAMIKAZE K1 MAX Tokio Drift DGT":
+                        - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-max-dgt/
+                        - img "Patinete eléctrico KAMIKAZE K1 MAX Tokio Drift DGT" [ref=e701] [cursor=pointer]
+                    - generic:
+                      - button "Vista Rápida"
+                  - generic [ref=e702]:
+                    - generic [ref=e703]:
+                      - generic [ref=e704]: Envío en 24-48 horas
+                      - paragraph [ref=e707]:
+                        - link "Patinete Eléctrico Kamikaze K1 Max DGT" [ref=e708] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-max-dgt/
+                    - generic [ref=e710]:
+                      - deletion [ref=e711]:
+                        - generic [ref=e712]: €860,00
+                      - generic [ref=e714]: "El precio original era: €860,00."
+                      - insertion [ref=e715]:
+                        - generic [ref=e716]: €799,00
+                      - generic [ref=e718]: "El precio actual es: €799,00."
+              - generic [ref=e721]:
+                - generic [ref=e722]: OFERTÓN!
+                - generic [ref=e723]:
+                  - generic [ref=e724]:
+                    - generic:
+                      - link "Patinete eléctrico KAMIKAZE K1 DGT":
+                        - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-dgt/
+                        - img "Patinete eléctrico KAMIKAZE K1 DGT" [ref=e725] [cursor=pointer]
+                    - generic:
+                      - button "Vista Rápida"
+                  - generic [ref=e726]:
+                    - generic [ref=e727]:
+                      - generic [ref=e728]: Envío en 24-48 horas
+                      - paragraph [ref=e731]:
+                        - link "Patinete eléctrico KAMIKAZE K1 DGT" [ref=e732] [cursor=pointer]:
+                          - /url: https://patinetestore.com/producto/patinete-electrico-kamikaze-k1-dgt/
+                    - generic [ref=e734]:
+                      - deletion [ref=e735]:
+                        - generic [ref=e736]: €699,00
+                      - generic [ref=e738]: "El precio original era: €699,00."
+                      - insertion [ref=e739]:
+                        - generic [ref=e740]: €529,00
+                      - generic [ref=e742]: "El precio actual es: €529,00."
+    - contentinfo [ref=e744]:
+      - region "Instagram feed" [ref=e749]:
+        - link "patinetestore_ on Instagram" [ref=e751] [cursor=pointer]:
+          - /url: https://www.instagram.com/patinetestore_/
+          - generic [ref=e757]:
+            - heading "patinetestore_" [level=3] [ref=e758]
+            - paragraph [ref=e759]:
+              - text: Tienda y Taller patinetes eléctricos
+              - img "🏁" [ref=e760]
+              - img "🥷🏽" [ref=e761]
+              - img "🛴" [ref=e762]
+              - text: Avenida del Cid, 4 Valencia
+        - list [ref=e763]:
+          - listitem [ref=e764]:
+            - 'link "asmr #patinete #escooter #asmr" [ref=e766] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeFNuD-IZ0m/
+          - listitem [ref=e770]:
+            - 'link "Como vinilar patinete eléctrico #patinete #vinilar" [ref=e772] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeB57zCo_Oz/
+          - listitem [ref=e776]:
+            - 'link "Always back to the line#escooter #crash #dualt" [ref=e778] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeAN95qRJH-/
+          - listitem [ref=e782]:
+            - link "Si vas a hacer el canelo, hazlo cuando no hay nadi" [ref=e784] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/Dd_jt9NIDvP/
+          - listitem [ref=e788]:
+            - 'link "Como copiar llave NFC en patinete eléctrico #nfc #" [ref=e790] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/Dd8_W1_ITu9/
+          - listitem [ref=e794]:
+            - 'link "Hemos comprado los nuevos Ecoxtrem Armored PRO #pa" [ref=e796] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/Dd600xwo6-O/
+        - generic [ref=e800]:
+          - button "Cargar más" [ref=e801] [cursor=pointer]
+          - link "Seguir en Instagram" [ref=e804] [cursor=pointer]:
+            - /url: https://www.instagram.com/patinetestore_/
+      - generic [ref=e808]:
+        - link [ref=e810] [cursor=pointer]:
+          - /url: https://patinetestore.com/
+        - list [ref=e813]:
+          - listitem [ref=e814]:
+            - link "Aviso legal" [ref=e815] [cursor=pointer]:
+              - /url: https://patinetestore.com/aviso-legal/
+          - listitem [ref=e816]:
+            - link "Política de devolución y reembolsos" [ref=e817] [cursor=pointer]:
+              - /url: https://patinetestore.com/politica-de-devolucion-y-reembolsos/
+          - listitem [ref=e818]:
+            - link "Métodos de pago" [ref=e819] [cursor=pointer]:
+              - /url: https://patinetestore.com/metodos-de-pago/
+          - listitem [ref=e820]:
+            - link "Política de privacidad" [ref=e821] [cursor=pointer]:
+              - /url: https://patinetestore.com/privacy-policy/
+          - listitem [ref=e822]:
+            - link "Mapa del sitio" [ref=e823] [cursor=pointer]:
+              - /url: https://patinetestore.com/sitemap_index.xml
+          - listitem [ref=e824]:
+            - link "Blog" [ref=e825] [cursor=pointer]:
+              - /url: https://patinetestore.com/blog/
+          - listitem [ref=e826]:
+            - link "Acceso B2B" [ref=e827] [cursor=pointer]:
+              - /url: https://patinetestore.com/my-account/
+      - generic [ref=e829]:
+        - group "Payment icons" [ref=e831]:
+          - generic [ref=e832]: Visa
+          - generic [ref=e836]: Klarna
+          - generic [ref=e849]: Apple Pay
+          - generic [ref=e853]: Cash On Delivery
+          - generic [ref=e857]: Cash on Pickup
+          - generic [ref=e861]: Google Pay
+          - generic [ref=e865]: MasterCard
+          - generic [ref=e872]: PayPal
+          - generic [ref=e876]: Revolut
+        - generic [ref=e882]:
+          - text: Copyright 2026 ©
+          - strong [ref=e883]: Patinete Store
+  - text:          
+  - generic:
+    - button "¡Contacta con nosotros! Abrir chat" [ref=e884] [cursor=pointer]:
+      - generic: ¡Contacta con nosotros!
+    - generic: "1"
+    - dialog "Patinete Store"
+  - status [ref=e886]

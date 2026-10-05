@@ -1,0 +1,491 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - heading "En KuKirin.es utilizamos cookies para que tu visita sea inmejorable 🍪" [level=4] [ref=e3]
+    - paragraph [ref=e4]: Nuestra tienda usa cookies para optimizar tu experiencia con KuKirin. Puedes aceptar todas o configurar tus preferencias.
+    - generic [ref=e5]:
+      - button "Aceptar todas" [ref=e6] [cursor=pointer]
+      - button "Configuración de cookies" [ref=e7] [cursor=pointer]
+  - generic [ref=e8]:
+    - banner [ref=e9]:
+      - generic [ref=e10]:
+        - text:          
+        - generic [ref=e13]:
+          - text:       
+          - link "Open mobile menu" [ref=e16] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e17]: 
+            - generic [ref=e18]: Menu
+          - link "Site logo" [ref=e21] [cursor=pointer]:
+            - /url: https://kukirin.es/
+            - img "KuKirin.es - Tienda oficial de KuKirin en España - Logo de la marca de patinetes eléctricos más vendida" [ref=e22]
+          - link " 0" [ref=e25] [cursor=pointer]:
+            - /url: https://kukirin.es/carrito/
+            - generic [ref=e26]:
+              - text: 
+              - generic [ref=e27]: "0"
+    - main [ref=e29]:
+      - generic [ref=e30]:
+        - generic [ref=e32]:
+          - img "Comprar Kukirin G2 Certificado DGT - Tienda oficial" [ref=e37]
+          - generic [ref=e39]:
+            - heading "Patinetes eléctricos KuKirin" [level=1] [ref=e42]
+            - heading "Potencia, autonomía y modelos homologados para moverte sin límites" [level=2] [ref=e45]
+            - paragraph [ref=e48]: Descubre los patinetes KuKirin más vendidos en Europa con garantía oficial, envío desde España y la mejor relación calidad-precio. Compra seguro en la tienda oficial de España.
+            - link "VER PATINETES" [ref=e52] [cursor=pointer]:
+              - /url: https://kukirin.es/categoria-producto/kukirin/
+        - generic [ref=e57]:
+          - generic [ref=e59]:
+            - heading "Clientes" [level=2] [ref=e62]
+            - heading "+ 1 Millón" [level=2] [ref=e65]
+            - heading "patinetes eléctricos vendidos" [level=2] [ref=e68]
+            - paragraph [ref=e71]: Únete a la marca de patinetes eléctricos más vendida de Europa, por diseño, calidad y precio.
+          - generic [ref=e73]:
+            - heading "Tienda oficial" [level=2] [ref=e76]
+            - heading "Kukirin" [level=2] [ref=e79]
+            - heading "envío gratis desde España" [level=2] [ref=e82]
+            - paragraph [ref=e85]: Garantía oficial, servicio técnico local con repuestos originales y patinetes eléctricos homologados
+          - generic [ref=e87]:
+            - heading "Pago a plazos" [level=2] [ref=e90]
+            - heading "Sin intereses" [level=2] [ref=e93]
+            - heading "paga en 3 plazos con Paypal" [level=2] [ref=e96]
+            - paragraph [ref=e99]: Puedes pagar tus compras con tarjeta o con Paypal, quien te permite pagar a plazos
+        - generic [ref=e103]:
+          - heading "Los más vendidos" [level=2] [ref=e106]
+          - generic [ref=e111]:
+            - generic [ref=e113]:
+              - link [ref=e115] [cursor=pointer]:
+                - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2-pro-homologado-dgt-vmp/
+                - img "Comprar patinete eléctrico Kukirin G2 Pro VMP Homologado DGT Tienda oficial" [ref=e116]
+              - generic [ref=e117]:
+                - heading [level=3] [ref=e118]:
+                  - link "Kukirin G2 Pro Homologado DGT" [ref=e119] [cursor=pointer]:
+                    - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2-pro-homologado-dgt-vmp/
+                - img "Valorado con 4.98 de 5" [ref=e120]:
+                  - text: 
+                  - generic [ref=e121]:
+                    - text:  Valorado con
+                    - strong [ref=e122]: "4.98"
+                    - text: de 5
+                - generic [ref=e123]:
+                  - deletion [ref=e124]:
+                    - generic [ref=e125]: 949.99€
+                  - generic: "El precio original era: 949.99€."
+                  - insertion [ref=e127]:
+                    - generic [ref=e128]: 509.00€
+                  - generic: "El precio actual es: 509.00€."
+                - 'link "Añadir al carrito: “Kukirin G2 Pro Homologado DGT”" [ref=e131] [cursor=pointer]':
+                  - /url: "?add-to-cart=24147"
+                  - text: 
+                  - generic [ref=e132]: Añadir al carrito
+            - generic [ref=e134]:
+              - link [ref=e136] [cursor=pointer]:
+                - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2-homologado-dgt-velocidad-25kmh-500w/
+                - img "Kukirin G2 Homologado DGT" [ref=e137]
+              - generic [ref=e138]:
+                - heading [level=3] [ref=e139]:
+                  - link "Kukirin G2 Homologado DGT" [ref=e140] [cursor=pointer]:
+                    - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2-homologado-dgt-velocidad-25kmh-500w/
+                - img "Valorado con 4.94 de 5" [ref=e141]:
+                  - text: 
+                  - generic [ref=e142]:
+                    - text:  Valorado con
+                    - strong [ref=e143]: "4.94"
+                    - text: de 5
+                - generic [ref=e144]:
+                  - deletion [ref=e145]:
+                    - generic [ref=e146]: 719.99€
+                  - generic: "El precio original era: 719.99€."
+                  - insertion [ref=e148]:
+                    - generic [ref=e149]: 489.00€
+                  - generic: "El precio actual es: 489.00€."
+                - 'link "Añadir al carrito: “Kukirin G2 Homologado DGT”" [ref=e152] [cursor=pointer]':
+                  - /url: "?add-to-cart=22054"
+                  - text: 
+                  - generic [ref=e153]: Añadir al carrito
+            - generic [ref=e155]:
+              - link [ref=e157] [cursor=pointer]:
+                - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2-ultra/
+                - img "Comprar patinete eléctrico Kukirin G2 Ultra tienda oficial España" [ref=e158]
+              - generic [ref=e159]:
+                - heading [level=3] [ref=e160]:
+                  - link "Kukirin G2 Ultra" [ref=e161] [cursor=pointer]:
+                    - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2-ultra/
+                - img "Valorado con 5.00 de 5" [ref=e162]:
+                  - text: 
+                  - generic [ref=e163]:
+                    - text:  Valorado con
+                    - strong [ref=e164]: "5.00"
+                    - text: de 5
+                - generic [ref=e165]:
+                  - deletion [ref=e166]:
+                    - generic [ref=e167]: 899.00€
+                  - generic: "El precio original era: 899.00€."
+                  - insertion [ref=e169]:
+                    - generic [ref=e170]: 729.00€
+                  - generic: "El precio actual es: 729.00€."
+                - 'link "Añadir al carrito: “Kukirin G2 Ultra”" [ref=e173] [cursor=pointer]':
+                  - /url: "?add-to-cart=28827"
+                  - text: 
+                  - generic [ref=e174]: Añadir al carrito
+            - generic [ref=e176]:
+              - link [ref=e178] [cursor=pointer]:
+                - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2-max/
+                - img "Comprar patinete eléctrico Kukirin G2 Master tienda oficial España" [ref=e179]
+              - generic [ref=e180]:
+                - heading [level=3] [ref=e181]:
+                  - link "KuKirin G2 Max" [ref=e182] [cursor=pointer]:
+                    - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2-max/
+                - img "Valorado con 4.85 de 5" [ref=e183]:
+                  - text: 
+                  - generic [ref=e184]:
+                    - text:  Valorado con
+                    - strong [ref=e185]: "4.85"
+                    - text: de 5
+                - generic [ref=e186]:
+                  - deletion [ref=e187]:
+                    - generic [ref=e188]: 999.00€
+                  - generic: "El precio original era: 999.00€."
+                  - insertion [ref=e190]:
+                    - generic [ref=e191]: 649.00€
+                  - generic: "El precio actual es: 649.00€."
+                - 'link "Añadir al carrito: “KuKirin G2 Max”" [ref=e194] [cursor=pointer]':
+                  - /url: "?add-to-cart=19352"
+                  - text: 
+                  - generic [ref=e195]: Añadir al carrito
+            - generic [ref=e197]:
+              - link [ref=e199] [cursor=pointer]:
+                - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2-master/
+                - img "comprar patinete eléctrico Kukirin G2 Master" [ref=e200]
+              - generic [ref=e201]:
+                - heading [level=3] [ref=e202]:
+                  - link "KuKirin G2 Master" [ref=e203] [cursor=pointer]:
+                    - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2-master/
+                - img "Valorado con 5.00 de 5" [ref=e204]:
+                  - text: 
+                  - generic [ref=e205]:
+                    - text:  Valorado con
+                    - strong [ref=e206]: "5.00"
+                    - text: de 5
+                - generic [ref=e207]:
+                  - deletion [ref=e208]:
+                    - generic [ref=e209]: 999.00€
+                  - generic: "El precio original era: 999.00€."
+                  - insertion [ref=e211]:
+                    - generic [ref=e212]: 839.00€
+                  - generic: "El precio actual es: 839.00€."
+                - 'link "Añadir al carrito: “KuKirin G2 Master”" [ref=e215] [cursor=pointer]':
+                  - /url: "?add-to-cart=21403"
+                  - text: 
+                  - generic [ref=e216]: Añadir al carrito
+            - generic [ref=e218]:
+              - link [ref=e220] [cursor=pointer]:
+                - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g4/
+                - img "Nueva versión 2026 del patinete eléctrico KuKirin G4 en la tienda oficial de KuKirin en España, kukirin.es" [ref=e221]
+              - generic [ref=e222]:
+                - heading [level=3] [ref=e223]:
+                  - link "KuKirin G4 – V. 2026" [ref=e224] [cursor=pointer]:
+                    - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g4/
+                - img "Valorado con 4.85 de 5" [ref=e225]:
+                  - text: 
+                  - generic [ref=e226]:
+                    - text:  Valorado con
+                    - strong [ref=e227]: "4.85"
+                    - text: de 5
+                - generic [ref=e228]:
+                  - deletion [ref=e229]:
+                    - generic [ref=e230]: 999.00€
+                  - generic: "El precio original era: 999.00€."
+                  - insertion [ref=e232]:
+                    - generic [ref=e233]: 859.00€
+                  - generic: "El precio actual es: 859.00€."
+                - 'link "Añadir al carrito: “KuKirin G4 - V. 2026”" [ref=e236] [cursor=pointer]':
+                  - /url: "?add-to-cart=20478"
+                  - text: 
+                  - generic [ref=e237]: Añadir al carrito
+          - link "Ver todos los patinetes" [ref=e241] [cursor=pointer]:
+            - /url: https://kukirin.es/categoria-producto/kukirin/
+        - generic [ref=e245]:
+          - generic [ref=e247]:
+            - heading "Kukirin España" [level=2] [ref=e250]
+            - heading "La mejor calidad al mejor precio" [level=2] [ref=e253]
+            - paragraph [ref=e256]:
+              - generic [ref=e257]:
+                - text: KuKirin combina
+                - strong [ref=e258]: potencia, autonomía y fiabilidad
+                - text: en cada modelo.
+              - generic [ref=e259]:
+                - text: Descubre patinetes eléctricos preparados para el día a día, con
+                - strong [ref=e260]: garantía oficial en España
+                - text: y repuestos originales.
+            - link "Descubrir modelos" [ref=e264] [cursor=pointer]:
+              - /url: https://kukirin.es/categoria-producto/kukirin/
+          - iframe [ref=e272]:
+            
+        - generic [ref=e276]:
+          - heading "Patinetes eléctricos homologados DGT" [level=2] [ref=e279]
+          - paragraph [ref=e282]: Modelos homologados por la DGT para circular con total seguridad en España.
+          - link "Ver modelos homologados" [ref=e286] [cursor=pointer]:
+            - /url: https://kukirin.es/categoria-producto/kukirin/homologados-dgt/
+        - generic [ref=e292]:
+          - generic [ref=e295]:
+            - heading "Kukirin.es – Tienda oficial KuKirin en España" [level=2] [ref=e296]
+            - paragraph [ref=e297]: "No todos los patinetes eléctricos ofrecen la misma experiencia, y tampoco todos los sitios donde comprarlos. En Kukirin.es nos centramos en algo muy concreto: que compres con tranquilidad y sepas que detrás hay un servicio que responde."
+            - paragraph [ref=e298]:
+              - text: Somos
+              - strong [ref=e299]: tienda oficial de KuKirin en España
+              - text: ", lo que significa que todos los modelos son originales, con garantía real y soporte técnico gestionado desde aquí. Sin intermediarios, sin procesos complicados y sin depender de terceros."
+            - paragraph [ref=e300]:
+              - text: Además, trabajamos con stock en España, lo que nos permite ofrecer
+              - strong [ref=e301]: envíos rápidos en 24/72 horas
+              - text: y sin costes adicionales. Compras hoy y en pocos días puedes estar utilizándolo.
+            - heading "Por qué elegir Kukirin.es" [level=3] [ref=e302]
+            - paragraph [ref=e303]: "Cuando compras un patinete eléctrico no solo eliges un modelo, también eliges el servicio que lo acompaña. Estas son algunas de las razones por las que cada vez más usuarios confían en Kukirin.es:"
+            - list [ref=e304]:
+              - listitem [ref=e305]:
+                - strong [ref=e306]: Tienda oficial en España.
+                - text: Producto original con respaldo directo de la marca.
+              - listitem [ref=e307]:
+                - strong [ref=e308]: Entrega rápida.
+                - text: Sin esperas largas ni envíos internacionales.
+              - listitem [ref=e309]:
+                - strong [ref=e310]: Garantía de hasta 3 años.
+                - text: Cobertura real, sin letra pequeña.
+              - listitem [ref=e311]:
+                - strong [ref=e312]: Servicio técnico nacional.
+                - text: Talleres en España y recogida a domicilio si es necesario.
+              - listitem [ref=e313]:
+                - strong [ref=e314]: Pago a plazos.
+                - text: Divide tu compra fácilmente sin intereses.
+              - listitem [ref=e315]:
+                - strong [ref=e316]: Atención al cliente directa.
+                - text: Respuestas claras y sin automatismos.
+            - generic [ref=e317]:
+              - text: Si necesitas más información, tutoriales de mantenimiento o comparativas con otros patinetes eléctricos, ponemos a tu disposición nuestro
+              - link "blog" [ref=e318] [cursor=pointer]:
+                - /url: https://kukirin.es/blog/
+              - text: para mantenerte actualizado y al día de todo lo relevante al rededor del ecosistema de patinetes Kukirin en España.
+            - heading "Patinetes eléctricos KuKirin más vendidos" [level=3] [ref=e320]
+            - paragraph [ref=e321]: "Dentro de la gama KuKirin encontrarás opciones tanto para uso urbano como para recorridos más exigentes. Estos son algunos de los modelos más buscados en España:"
+            - paragraph [ref=e322]:
+              - link [ref=e323] [cursor=pointer]:
+                - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2/
+                - strong [ref=e324]: KuKirin G2
+              - text: – Uno de los modelos más equilibrados. Fiable, cómodo y con versión homologada por la DGT, lo que lo convierte en una opción muy completa para el día a día.
+            - paragraph [ref=e325]:
+              - link [ref=e326] [cursor=pointer]:
+                - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2-pro-homologado-dgt-vmp/
+                - strong [ref=e327]: KuKirin G2 Pro
+              - text: – Un clásico, fiable y ligero, manteniendo un manejo sencillo. Muy buena opción si quieres algo más sin complicarte. También con versión homologada por la DGT.
+            - paragraph [ref=e328]:
+              - link [ref=e329] [cursor=pointer]:
+                - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2-master/
+                - strong [ref=e330]: KuKirin G2 Master
+              - text: – Pensado para un uso más intensivo. Destaca por su potencia, rendimiento y su relación calidad-precio.
+            - paragraph [ref=e331]:
+              - link [ref=e332] [cursor=pointer]:
+                - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g4/
+                - strong [ref=e333]: KuKirin G4
+              - text: – uno de los modelos más potente de la marca, orientado a quienes buscan prestaciones superiores en todos los aspectos.
+            - paragraph [ref=e334]:
+              - link [ref=e335] [cursor=pointer]:
+                - /url: https://kukirin.es/producto/patinete-electrico-kukirin-g2-max/
+                - strong [ref=e336]: KuKirin G2 Max
+              - text: – Perfecto si priorizas autonomía y comodidad en trayectos largos.
+            - paragraph [ref=e337]:
+              - link [ref=e338] [cursor=pointer]:
+                - /url: https://kukirin.es/producto/patinete-electrico-kugoo-kirin-g3/
+                - strong [ref=e339]: KuKirin G3
+              - text: – Estabilidad, robustez y conducción suave incluso en superficies más irregulares.
+            - heading "Servicio técnico KuKirin en España" [level=3] [ref=e340]
+            - paragraph [ref=e341]: Una de las principales dudas al comprar un patinete eléctrico es qué ocurre si necesitas asistencia. En Kukirin.es ese aspecto está cubierto desde el primer momento.
+            - paragraph [ref=e342]:
+              - text: Disponemos de
+              - strong [ref=e343]: servicio técnico en distintas ciudades de España
+              - text: ", y si no tienes uno cercano, gestionamos la recogida a domicilio durante el periodo de garantía. Todo el proceso se realiza aquí, sin envíos internacionales ni esperas innecesarias."
+            - paragraph [ref=e344]: Esto marca la diferencia en el uso a largo plazo.
+            - paragraph [ref=e345]: Cuando necesites hacer uso de la garantía, contacta con nosotros y te indicaremos cómo proceder y si hay un taller autorizado cerca de tu domicilio o recogemos el patinete (necesitarás la caja).
+            - heading "Movilidad eléctrica para el día a día" [level=3] [ref=e346]
+            - paragraph [ref=e347]: El patinete eléctrico se ha consolidado como una alternativa real al coche en ciudad. Permite ahorrar tiempo, evitar atascos y reducir costes en desplazamientos diarios.
+            - paragraph [ref=e348]: Pero para que realmente sea una buena inversión, necesitas un modelo fiable y un servicio que esté a la altura. KuKirin apuesta por ese equilibrio entre potencia, autonomía y durabilidad, pensado para un uso real.
+            - paragraph [ref=e349]:
+              - strong [ref=e350]: Explora los modelos disponibles, compara y elige el que mejor encaje contigo. En pocos días lo tendrás en casa listo para usar.
+          - heading "Preguntas frecuentes antes de comprar tu patinete eléctrico KuKirin" [level=3] [ref=e353]
+          - generic [ref=e356]:
+            - generic [ref=e357]:
+              - button "¿Cuánto tarda el envío?" [expanded] [ref=e358] [cursor=pointer]:
+                - generic [ref=e359]:
+                  - text: 
+                  - generic [ref=e360]: 
+                - text: ¿Cuánto tarda el envío?
+              - region "¿Cuánto tarda el envío?" [ref=e362]:
+                - paragraph [ref=e363]: El plazo habitual es de 2 a 3 días laborables. Todos los pedidos se envían desde España y sin coste.
+            - button "¿Qué garantía tienen los patinetes?" [ref=e365] [cursor=pointer]:
+              - generic [ref=e366]:
+                - generic [ref=e367]: 
+                - text: 
+              - text: ¿Qué garantía tienen los patinetes?
+            - button "¿Se puede pagar a plazos?" [ref=e370] [cursor=pointer]:
+              - generic [ref=e371]:
+                - generic [ref=e372]: 
+                - text: 
+              - text: ¿Se puede pagar a plazos?
+            - button "¿Cómo funciona el servicio técnico?" [ref=e375] [cursor=pointer]:
+              - generic [ref=e376]:
+                - generic [ref=e377]: 
+                - text: 
+              - text: ¿Cómo funciona el servicio técnico?
+            - button "¿Qué modelos están homologados por la DGT?" [ref=e380] [cursor=pointer]:
+              - generic [ref=e381]:
+                - generic [ref=e382]: 
+                - text: 
+              - text: ¿Qué modelos están homologados por la DGT?
+          - link "Ver todos los patinetes eléctricos" [ref=e387] [cursor=pointer]:
+            - /url: https://kukirin.es/categoria-producto/kukirin/
+        - heading "Descubre KuKirin en acción" [level=3] [ref=e396]
+        - generic [ref=e398]:
+          - img "Imagen patinete eléctrico Kukirin tienda oficial Valencia" [ref=e403]
+          - img "Imagen patinete eléctrico Kukirin tienda oficial España" [ref=e408]
+          - img "Imagen patinete eléctrico Kukirin tienda oficial Sevilla" [ref=e413]
+        - generic [ref=e415]:
+          - img "Imagen patinete eléctrico Kukirin tienda oficial Madrid" [ref=e420]
+          - img "Imagen patinete eléctrico Kukirin tienda oficial Barcelona" [ref=e425]
+          - img "Imagen patinete eléctrico Kukirin tienda oficial" [ref=e430]
+    - generic [ref=e441]:
+      - generic [ref=e443]:
+        - generic [ref=e445]:
+          - link [ref=e449] [cursor=pointer]:
+            - /url: https://kukirin.es
+          - paragraph [ref=e452]: Somos, probablemente, una de las marcas con más experiencia y ventas a nivel mundial en el sector del patinete eléctrico.
+        - generic [ref=e454]:
+          - heading "Enlaces de Interés" [level=2] [ref=e457]
+          - paragraph [ref=e460]:
+            - link "Mi cuenta" [ref=e462] [cursor=pointer]:
+              - /url: https://kukirin.es/mi-cuenta/
+            - link "Solicitud de cancelación" [ref=e464] [cursor=pointer]:
+              - /url: https://kukirin.es/solicitud-de-cancelacion/
+            - link "Blog" [ref=e466] [cursor=pointer]:
+              - /url: https://kukirin.es/blog/
+            - link "Aviso legal" [ref=e468] [cursor=pointer]:
+              - /url: https://kukirin.es/aviso-legal/
+            - link "Política de privacidad y cookies" [ref=e470] [cursor=pointer]:
+              - /url: https://kukirin.es/politica-de-privacidad-y-cookies/
+            - link "Condiciones generales de venta" [ref=e472] [cursor=pointer]:
+              - /url: https://kukirin.es/condiciones-generales-de-venta/
+            - generic [ref=e474]:
+              - link "Términos del servicio" [ref=e475] [cursor=pointer]:
+                - /url: https://kukirin.es/terminos-servicio/
+              - link "Certificado punto de venta oficial" [ref=e476] [cursor=pointer]:
+                - /url: https://mega.nz/file/gqsVyThY#UUeYBFrEcI32FhC3fioPRht-5piYzvNFf_9Jy0rSINk
+        - generic [ref=e478]:
+          - heading "Menú Principal" [level=2] [ref=e481]
+          - list [ref=e484]:
+            - listitem [ref=e485]:
+              - link "Kukirin" [ref=e486] [cursor=pointer]:
+                - /url: https://kukirin.es/categoria-producto/kukirin/
+            - listitem [ref=e488]:
+              - link "Bicicletas eléctricas" [ref=e489] [cursor=pointer]:
+                - /url: https://kukirin.es/categoria-producto/kukirin-ebikes/
+            - listitem [ref=e491]:
+              - link "Accesorios" [ref=e492] [cursor=pointer]:
+                - /url: https://kukirin.es/categoria-producto/accesorios/
+            - listitem [ref=e494]:
+              - link "Repuestos" [ref=e495] [cursor=pointer]:
+                - /url: https://kukirin.es/categoria-producto/repuestos/
+            - listitem [ref=e497]:
+              - link "Seguros para patinete eléctrico" [ref=e498] [cursor=pointer]:
+                - /url: https://kukirin.es/seguros-patinete-electrico/
+            - listitem [ref=e500]:
+              - link "Opiniones" [ref=e501] [cursor=pointer]:
+                - /url: https://kukirin.es/opiniones-sobre-la-marca-kukirin/
+        - generic [ref=e504]:
+          - heading "Contáctanos" [level=2] [ref=e507]
+          - generic [ref=e509]:
+            - paragraph [ref=e510]:
+              - link "hola@kukirin.es" [ref=e512] [cursor=pointer]:
+                - /url: mailto:hola@kukirin.es
+            - paragraph [ref=e513]: Redes sociales
+          - list [ref=e516]:
+            - listitem [ref=e517]:
+              - link "Facebook-f" [ref=e518] [cursor=pointer]:
+                - /url: https://www.facebook.com/profile.php?id=61550328424151
+                - generic [ref=e520]: 
+            - listitem [ref=e521]:
+              - generic [ref=e522] [cursor=pointer]:
+                - generic [ref=e523]: Twitter
+                - generic [ref=e524]: 
+            - listitem [ref=e525]:
+              - link "Instagram" [ref=e526] [cursor=pointer]:
+                - /url: https://www.instagram.com/kukirin.es/
+                - generic [ref=e528]: 
+      - generic [ref=e536]:
+        - paragraph [ref=e539]:
+          - text: Copyright © 2026
+          - generic [ref=e540]:
+            - link "K" [ref=e541] [cursor=pointer]:
+              - /url: http://kukirin.es
+            - text: ukirin
+          - text: . Todos los derechos reservados.
+        - generic [ref=e543]:
+          - img "Metodos de pago tarjeta paypal"
+  - link "Scroll to top button":
+    - /url: "#"
+    - text: 
+  - generic [ref=e544]:
+    - search [ref=e546]:
+      - textbox "Buscar" [ref=e547]:
+        - /placeholder: ¿Qué estás buscando?
+      - text: 
+      - button "Buscar " [ref=e548] [cursor=pointer]:
+        - generic: Buscar
+        - text: 
+    - list [ref=e549]:
+      - listitem [ref=e550]:
+        - link "KuKirin" [ref=e551] [cursor=pointer]:
+          - /url: https://kukirin.es/categoria-producto/kukirin/
+        - text:      
+        - generic [ref=e553] [cursor=pointer]: 
+      - listitem [ref=e554]:
+        - link "Ebikes" [ref=e555] [cursor=pointer]:
+          - /url: https://kukirin.es/categoria-producto/kukirin-ebikes/
+        - text: 
+        - generic [ref=e557] [cursor=pointer]: 
+      - listitem [ref=e558]:
+        - link "Accesorios" [ref=e559] [cursor=pointer]:
+          - /url: https://kukirin.es/categoria-producto/accesorios/
+      - listitem [ref=e561]:
+        - link "Repuestos" [ref=e562] [cursor=pointer]:
+          - /url: https://kukirin.es/categoria-producto/repuestos/
+        - generic [ref=e564] [cursor=pointer]: 
+      - listitem [ref=e565]:
+        - link "Seguros" [ref=e566] [cursor=pointer]:
+          - /url: https://kukirin.es/seguros-patinete-electrico/
+      - listitem [ref=e568]:
+        - link "Contacto" [ref=e569] [cursor=pointer]:
+          - /url: https://kukirin.es/contacto/
+      - listitem [ref=e571]:
+        - link "Blog" [ref=e572] [cursor=pointer]:
+          - /url: https://kukirin.es/blog/
+  - generic [ref=e574]:
+    - generic [ref=e575]:
+      - generic [ref=e576]: Carrito
+      - link " Cerrar" [ref=e578] [cursor=pointer]:
+        - /url: "#"
+    - generic [ref=e579]: No hay productos en el carrito.
+  - generic [ref=e582]:
+    - link " Tienda" [ref=e584] [cursor=pointer]:
+      - /url: https://kukirin.es/tienda/
+      - generic [ref=e585]: 
+      - generic [ref=e586]: Tienda
+    - generic "My cart" [ref=e587]:
+      - link " 0 Carrito" [ref=e588] [cursor=pointer]:
+        - /url: https://kukirin.es/carrito/
+        - generic [ref=e589]:
+          - text: 
+          - generic [ref=e590]: "0"
+        - generic [ref=e591]: Carrito
+    - link " Mi cuenta" [ref=e593] [cursor=pointer]:
+      - /url: https://kukirin.es/mi-cuenta/
+      - generic [ref=e594]: 
+      - generic [ref=e595]: Mi cuenta
+  - generic [ref=e596]: tablet
+  - status

@@ -1,0 +1,311 @@
+- generic [ref=f74e1]:
+  - generic [ref=f74e4]:
+    - generic:
+      - link "logo":
+        - /url: /
+        - img "logo"
+    - textbox "¿Qué estás buscando?" [ref=f74e6]
+    - generic [ref=f74e7]:
+      - generic [ref=f74e8]: "0"
+      - button [ref=f74e13] [cursor=pointer]
+  - region "Ventajas de comprar en Patinete Store" [ref=f74e14]:
+    - generic [ref=f74e16]:
+      - generic [ref=f74e17]:
+        - generic [ref=f74e18]: ALMACÉN EN ESPAÑA
+        - generic [ref=f74e19]: ENVÍOS EN 24-48 HORAS
+        - generic [ref=f74e20]: •
+        - generic [ref=f74e21]: TIENDA Nº1 DE PATINETES EN ESPAÑA
+        - generic [ref=f74e22]: •
+        - generic [ref=f74e23]: ★
+        - link "+2.500 RESEÑAS EN GOOGLE" [ref=f74e24] [cursor=pointer]:
+          - /url: https://share.google/RuIHo1gsaQe1QaF8z
+        - generic [ref=f74e25]: •
+        - generic [ref=f74e26]:
+          - text: ¡VINILO
+          - generic [ref=f74e27]: GRATIS
+          - text: CON LA COMPRA DE TU PATINETE!
+      - generic [ref=f74e28]:
+        - generic [ref=f74e29]: ALMACÉN EN ESPAÑA
+        - generic [ref=f74e30]: ENVÍOS EN 24-48 HORAS
+        - generic [ref=f74e31]: •
+        - generic [ref=f74e32]: TIENDA Nº1 DE PATINETES EN ESPAÑA
+        - generic [ref=f74e33]: •
+        - generic [ref=f74e34]: ★
+        - generic [ref=f74e35]: +2.500 RESEÑAS EN GOOGLE
+        - generic [ref=f74e36]: •
+        - generic [ref=f74e37]:
+          - text: ¡VINILO
+          - generic [ref=f74e38]: GRATIS
+          - text: CON LA COMPRA DE TU PATINETE!
+  - link "Saltar al contenido" [ref=f74e39] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=f74e40]:
+    - banner [ref=f74e41]:
+      - generic [ref=f74e42]:
+        - text:   
+        - navigation [ref=f74e44]:
+          - link [ref=f74e46] [cursor=pointer]:
+            - /url: https://patinetestore.com/
+            - img "Patinete Store | Venta de patinetes eléctricos y repuestos de patinete" [ref=f74e47]
+          - list [ref=f74e49]:
+            - listitem [ref=f74e50]:
+              - button "Menú" [ref=f74e51] [cursor=pointer]:
+                - generic [ref=f74e52]: 
+          - text:  
+          - list [ref=f74e54]:
+            - listitem [ref=f74e55]:
+              - button "Ver carrito" [ref=f74e56] [cursor=pointer]:
+                - generic [ref=f74e57]: 
+        - text:     
+        - search "Buscar productos" [ref=f74e63]:
+          - searchbox "Buscar" [ref=f74e65]
+    - generic [ref=f74e72]:
+      - heading "IceQ" [level=1] [ref=f74e73]
+      - navigation [ref=f74e75]:
+        - generic [ref=f74e76]:
+          - link "Portada" [ref=f74e78] [cursor=pointer]:
+            - /url: https://patinetestore.com/
+          - text: »
+          - link "Patinetes eléctricos" [ref=f74e80] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/
+          - text: » IceQ
+    - main [ref=f74e82]:
+      - generic [ref=f74e85]:
+        - generic [ref=f74e87]:
+          - link "ODYSSR ODYSSR 2 productos" [ref=f74e88] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/odyssr/
+            - img "ODYSSR" [ref=f74e90]
+            - generic [ref=f74e91]: ODYSSR
+            - generic [ref=f74e92]: 2 productos
+          - link "Xtreme Xtreme 2 productos" [ref=f74e93] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/xtreme/
+            - img "Xtreme" [ref=f74e95]
+            - generic [ref=f74e96]: Xtreme
+            - generic [ref=f74e97]: 2 productos
+          - link "Adasmart Adasmart 2 productos" [ref=f74e98] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/adasmart/
+            - img "Adasmart" [ref=f74e100]
+            - generic [ref=f74e101]: Adasmart
+            - generic [ref=f74e102]: 2 productos
+          - link "Dualtron Dualtron 10 productos" [ref=f74e103] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/dualtron/
+            - img "Dualtron" [ref=f74e105]
+            - generic [ref=f74e106]: Dualtron
+            - generic [ref=f74e107]: 10 productos
+          - link "Ecoxtrem Ecoxtrem 14 productos" [ref=f74e108] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/ecoxtrem/
+            - img "Ecoxtrem" [ref=f74e110]
+            - generic [ref=f74e111]: Ecoxtrem
+            - generic [ref=f74e112]: 14 productos
+          - link "IceQ IceQ 4 productos" [ref=f74e113] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/iceq/
+            - img "IceQ" [ref=f74e115]
+            - generic [ref=f74e116]: IceQ
+            - generic [ref=f74e117]: 4 productos
+          - link "Inmotion Inmotion 1 producto" [ref=f74e118] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/inmotion/
+            - img "Inmotion" [ref=f74e120]
+            - generic [ref=f74e121]: Inmotion
+            - generic [ref=f74e122]: 1 producto
+          - link "Kaabo Kaabo 4 productos" [ref=f74e123] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/kaabo/
+            - img "Kaabo" [ref=f74e125]
+            - generic [ref=f74e126]: Kaabo
+            - generic [ref=f74e127]: 4 productos
+          - link "Kamikaze Kamikaze 9 productos" [ref=f74e128] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/kamikaze/
+            - img "Kamikaze" [ref=f74e130]
+            - generic [ref=f74e131]: Kamikaze
+            - generic [ref=f74e132]: 9 productos
+          - link "Kukirin Kukirin 7 productos" [ref=f74e133] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/kukirin/
+            - img "Kukirin" [ref=f74e135]
+            - generic [ref=f74e136]: Kukirin
+            - generic [ref=f74e137]: 7 productos
+          - link "Navee Navee 16 productos" [ref=f74e138] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/navee/
+            - img "Navee" [ref=f74e140]
+            - generic [ref=f74e141]: Navee
+            - generic [ref=f74e142]: 16 productos
+          - link "Patinetes Modificados Patinetes Modificados 20 productos" [ref=f74e143] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/patinetes-modificados/
+            - img "Patinetes Modificados" [ref=f74e145]
+            - generic [ref=f74e146]: Patinetes Modificados
+            - generic [ref=f74e147]: 20 productos
+          - link "Rovoron Rovoron 6 productos" [ref=f74e148] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/rovoron/
+            - img "Rovoron" [ref=f74e150]
+            - generic [ref=f74e151]: Rovoron
+            - generic [ref=f74e152]: 6 productos
+          - link "Smartgyro Smartgyro 19 productos" [ref=f74e153] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/smartgyro/
+            - img "Smartgyro" [ref=f74e155]
+            - generic [ref=f74e156]: Smartgyro
+            - generic [ref=f74e157]: 19 productos
+          - link "Teverun Teverun 3 productos" [ref=f74e158] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/teverun/
+            - img "Teverun" [ref=f74e160]
+            - generic [ref=f74e161]: Teverun
+            - generic [ref=f74e162]: 3 productos
+          - link "Zwheel Zwheel 5 productos" [ref=f74e163] [cursor=pointer]:
+            - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/zwheel/
+            - img "Zwheel" [ref=f74e165]
+            - generic [ref=f74e166]: Zwheel
+            - generic [ref=f74e167]: 5 productos
+        - generic [ref=f74e168]:
+          - generic [ref=f74e171]:
+            - generic [ref=f74e172]:
+              - generic:
+                - link "ICe Q5 EVO 52V 23Ah 2026 DGT Rojo":
+                  - /url: https://patinetestore.com/producto/ice-q5-evo-52v-23ah-2026-dgt-rojo/
+                  - img "ICe Q5 EVO 52V 23Ah 2026 DGT Rojo" [ref=f74e173] [cursor=pointer]
+              - generic:
+                - button "Vista Rápida"
+            - generic [ref=f74e174]:
+              - generic [ref=f74e175]:
+                - generic [ref=f74e176]: Envío en 24-48 horas
+                - paragraph [ref=f74e179]:
+                  - link "ICe Q5 EVO 52V 23Ah 2026 DGT Rojo" [ref=f74e180] [cursor=pointer]:
+                    - /url: https://patinetestore.com/producto/ice-q5-evo-52v-23ah-2026-dgt-rojo/
+              - generic [ref=f74e181]: €1.399,00
+          - generic [ref=f74e187]:
+            - generic [ref=f74e188]: OFERTÓN!
+            - generic [ref=f74e189]:
+              - generic [ref=f74e190]:
+                - generic:
+                  - link "ICe Q3 EVO 48V 15,6Ah 2026 DGT Amarillo":
+                    - /url: https://patinetestore.com/producto/ice-q3-evo-48v-156ah-2026-dgt-amarillo/
+                    - img "ICe Q3 EVO 48V 15,6Ah 2026 DGT Amarillo" [ref=f74e191] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f74e192]:
+                - generic [ref=f74e193]:
+                  - generic [ref=f74e194]: Envío en 24-48 horas
+                  - paragraph [ref=f74e197]:
+                    - link "ICe Q3 EVO 48V 15,6Ah 2026 DGT Amarillo" [ref=f74e198] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/ice-q3-evo-48v-156ah-2026-dgt-amarillo/
+                - generic [ref=f74e200]:
+                  - deletion [ref=f74e201]:
+                    - generic [ref=f74e202]: €1.100,00
+                  - generic [ref=f74e204]: "El precio original era: €1.100,00."
+                  - insertion [ref=f74e205]:
+                    - generic [ref=f74e206]: €999,00
+                  - generic [ref=f74e208]: "El precio actual es: €999,00."
+          - generic [ref=f74e212]:
+            - generic [ref=f74e213]:
+              - generic:
+                - link "ICe Q5 EVO 60V 26Ah 2026 DGT Amarillo":
+                  - /url: https://patinetestore.com/producto/ice-q5-evo-60v-26ah-2026-dgt-amarillo/
+                  - img "ICe Q5 EVO 60V 26Ah 2026 DGT Amarillo" [ref=f74e214] [cursor=pointer]
+              - generic:
+                - button "Vista Rápida"
+            - generic [ref=f74e215]:
+              - generic [ref=f74e216]:
+                - generic [ref=f74e217]: Envío en 24-48 horas
+                - paragraph [ref=f74e220]:
+                  - link "ICe Q5 EVO 60V 26Ah 2026 DGT Amarillo" [ref=f74e221] [cursor=pointer]:
+                    - /url: https://patinetestore.com/producto/ice-q5-evo-60v-26ah-2026-dgt-amarillo/
+              - generic [ref=f74e222]: €1.599,00
+          - generic [ref=f74e229]:
+            - generic [ref=f74e230]:
+              - generic:
+                - link "ICe Q5 EVO 52V 23Ah 2026 DGT Rojo":
+                  - /url: https://patinetestore.com/producto/ice-q5-evo-60v-26ah-2026-dgt/
+                  - img "ICe Q5 EVO 52V 23Ah 2026 DGT Rojo" [ref=f74e231] [cursor=pointer]
+              - generic:
+                - button "Vista Rápida"
+            - generic [ref=f74e232]:
+              - generic [ref=f74e233]:
+                - generic [ref=f74e234]: Envío en 24-48 horas
+                - paragraph [ref=f74e237]:
+                  - link "ICe Q5 EVO 60V 26Ah 2026 DGT Rojo" [ref=f74e238] [cursor=pointer]:
+                    - /url: https://patinetestore.com/producto/ice-q5-evo-60v-26ah-2026-dgt/
+              - generic [ref=f74e239]: €1.599,00
+        - generic [ref=f74e245]:
+          - paragraph [ref=f74e246]: IceQ
+          - paragraph [ref=f74e247]: En Patinete Store reunimos iceq dentro de Patinetes eléctricos para que puedas encontrar piezas y accesorios compatibles sin perder tiempo comparando referencias equivocadas.
+          - paragraph [ref=f74e248]: Esta selección está pensada para comprar con criterio. Revisa compatibilidad, uso previsto, medidas y disponibilidad antes de decidir.
+          - paragraph [ref=f74e249]: Cómo elegir bien
+          - paragraph [ref=f74e250]: – Comprueba el modelo exacto y la versión del patinete. – Revisa medidas, conectores, tornillos y forma de montaje. – Compara las fotos del producto con la pieza antigua cuando sea posible. – Si dudas, es mejor confirmar compatibilidad antes de comprar.
+          - paragraph [ref=f74e251]: Trabajamos esta categoría para que comprar iceq sea más sencillo, con referencias pensadas para taller, mantenimiento y uso diario.
+    - contentinfo [ref=f74e252]:
+      - region "Instagram feed" [ref=f74e257]:
+        - link "patinetestore_ on Instagram" [ref=f74e259] [cursor=pointer]:
+          - /url: https://www.instagram.com/patinetestore_/
+          - generic [ref=f74e265]:
+            - heading "patinetestore_" [level=3] [ref=f74e266]
+            - paragraph [ref=f74e267]:
+              - text: Tienda y Taller patinetes eléctricos
+              - img "🏁" [ref=f74e268]
+              - img "🥷🏽" [ref=f74e269]
+              - img "🛴" [ref=f74e270]
+              - text: Avenida del Cid, 4 Valencia
+        - list [ref=f74e271]:
+          - listitem [ref=f74e272]:
+            - 'link "asmr #patinete #escooter #asmr" [ref=f74e274] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeFNuD-IZ0m/
+          - listitem [ref=f74e278]:
+            - 'link "Como vinilar patinete eléctrico #patinete #vinilar" [ref=f74e280] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeB57zCo_Oz/
+          - listitem [ref=f74e284]:
+            - 'link "Always back to the line#escooter #crash #dualt" [ref=f74e286] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeAN95qRJH-/
+          - listitem [ref=f74e290]:
+            - link "Si vas a hacer el canelo, hazlo cuando no hay nadi" [ref=f74e292] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/Dd_jt9NIDvP/
+          - listitem [ref=f74e296]:
+            - 'link "Como copiar llave NFC en patinete eléctrico #nfc #" [ref=f74e298] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/Dd8_W1_ITu9/
+          - listitem [ref=f74e302]:
+            - 'link "Hemos comprado los nuevos Ecoxtrem Armored PRO #pa" [ref=f74e304] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/Dd600xwo6-O/
+        - generic [ref=f74e308]:
+          - button "Cargar más" [ref=f74e309] [cursor=pointer]
+          - link "Seguir en Instagram" [ref=f74e312] [cursor=pointer]:
+            - /url: https://www.instagram.com/patinetestore_/
+      - generic [ref=f74e316]:
+        - link [ref=f74e318] [cursor=pointer]:
+          - /url: https://patinetestore.com/
+        - list [ref=f74e321]:
+          - listitem [ref=f74e322]:
+            - link "Aviso legal" [ref=f74e323] [cursor=pointer]:
+              - /url: https://patinetestore.com/aviso-legal/
+          - listitem [ref=f74e324]:
+            - link "Política de devolución y reembolsos" [ref=f74e325] [cursor=pointer]:
+              - /url: https://patinetestore.com/politica-de-devolucion-y-reembolsos/
+          - listitem [ref=f74e326]:
+            - link "Métodos de pago" [ref=f74e327] [cursor=pointer]:
+              - /url: https://patinetestore.com/metodos-de-pago/
+          - listitem [ref=f74e328]:
+            - link "Política de privacidad" [ref=f74e329] [cursor=pointer]:
+              - /url: https://patinetestore.com/privacy-policy/
+          - listitem [ref=f74e330]:
+            - link "Mapa del sitio" [ref=f74e331] [cursor=pointer]:
+              - /url: https://patinetestore.com/sitemap_index.xml
+          - listitem [ref=f74e332]:
+            - link "Blog" [ref=f74e333] [cursor=pointer]:
+              - /url: https://patinetestore.com/blog/
+          - listitem [ref=f74e334]:
+            - link "Acceso B2B" [ref=f74e335] [cursor=pointer]:
+              - /url: https://patinetestore.com/my-account/
+      - generic [ref=f74e337]:
+        - group "Payment icons" [ref=f74e339]:
+          - generic [ref=f74e340]: Visa
+          - generic [ref=f74e344]: Klarna
+          - generic [ref=f74e357]: Apple Pay
+          - generic [ref=f74e361]: Cash On Delivery
+          - generic [ref=f74e365]: Cash on Pickup
+          - generic [ref=f74e369]: Google Pay
+          - generic [ref=f74e373]: MasterCard
+          - generic [ref=f74e380]: PayPal
+          - generic [ref=f74e384]: Revolut
+        - generic [ref=f74e390]:
+          - text: Copyright 2026 ©
+          - strong [ref=f74e391]: Patinete Store
+  - text:          
+  - generic:
+    - button "¡Contacta con nosotros! Abrir chat" [ref=f74e392] [cursor=pointer]:
+      - generic: ¡Contacta con nosotros!
+    - generic: "1"
+    - dialog "Patinete Store"
+  - status [ref=f74e394]

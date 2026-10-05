@@ -1,0 +1,583 @@
+- generic [ref=f60e1]:
+  - generic [ref=f60e4]:
+    - generic:
+      - link "logo":
+        - /url: /
+        - img "logo"
+    - textbox "¿Qué estás buscando?" [ref=f60e6]
+    - generic [ref=f60e7]:
+      - generic [ref=f60e8]: "0"
+      - button [ref=f60e13] [cursor=pointer]
+  - region "Ventajas de comprar en Patinete Store" [ref=f60e14]:
+    - generic [ref=f60e16]:
+      - generic [ref=f60e17]:
+        - generic [ref=f60e18]: ALMACÉN EN ESPAÑA
+        - generic [ref=f60e19]: ENVÍOS EN 24-48 HORAS
+        - generic [ref=f60e20]: •
+        - generic [ref=f60e21]: TIENDA Nº1 DE PATINETES EN ESPAÑA
+        - generic [ref=f60e22]: •
+        - generic [ref=f60e23]: ★
+        - link "+2.500 RESEÑAS EN GOOGLE" [ref=f60e24] [cursor=pointer]:
+          - /url: https://share.google/RuIHo1gsaQe1QaF8z
+        - generic [ref=f60e25]: •
+        - generic [ref=f60e26]:
+          - text: ¡VINILO
+          - generic [ref=f60e27]: GRATIS
+          - text: CON LA COMPRA DE TU PATINETE!
+      - generic [ref=f60e28]:
+        - generic [ref=f60e29]: ALMACÉN EN ESPAÑA
+        - generic [ref=f60e30]: ENVÍOS EN 24-48 HORAS
+        - generic [ref=f60e31]: •
+        - generic [ref=f60e32]: TIENDA Nº1 DE PATINETES EN ESPAÑA
+        - generic [ref=f60e33]: •
+        - generic [ref=f60e34]: ★
+        - generic [ref=f60e35]: +2.500 RESEÑAS EN GOOGLE
+        - generic [ref=f60e36]: •
+        - generic [ref=f60e37]:
+          - text: ¡VINILO
+          - generic [ref=f60e38]: GRATIS
+          - text: CON LA COMPRA DE TU PATINETE!
+  - link "Saltar al contenido" [ref=f60e39] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=f60e40]:
+    - banner [ref=f60e41]:
+      - generic [ref=f60e42]:
+        - text:   
+        - navigation [ref=f60e44]:
+          - link [ref=f60e46] [cursor=pointer]:
+            - /url: https://patinetestore.com/
+            - img "Patinete Store | Venta de patinetes eléctricos y repuestos de patinete" [ref=f60e47]
+          - list [ref=f60e49]:
+            - listitem [ref=f60e50]:
+              - button "Menú" [ref=f60e51] [cursor=pointer]:
+                - generic [ref=f60e52]: 
+          - text:  
+          - list [ref=f60e54]:
+            - listitem [ref=f60e55]:
+              - button "Ver carrito" [ref=f60e56] [cursor=pointer]:
+                - generic [ref=f60e57]: 
+        - text:     
+        - search "Buscar productos" [ref=f60e63]:
+          - searchbox "Buscar" [ref=f60e65]
+    - navigation [ref=f60e70]:
+      - link "Patinetes eléctricos" [ref=f60e72] [cursor=pointer]:
+        - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/
+    - main [ref=f60e74]:
+      - generic [ref=f60e77]:
+        - generic [ref=f60e79]:
+          - generic [ref=f60e84]:
+            - generic [ref=f60e85] [cursor=pointer]:
+              - generic:
+                - link [ref=f60e87]:
+                  - /url: https://patinetestore.com/wp-content/uploads/2026/06/adasmart-36ah.png
+                  - img "Patinete Eléctrico Adasmart X" [ref=f60e88]
+                - link [ref=f60e90]:
+                  - /url: https://patinetestore.com/wp-content/uploads/2026/06/adasmart-x.jpg
+                  - img "Patinete Eléctrico Adasmart X - Imagen 2" [ref=f60e91]
+                - link [ref=f60e93]:
+                  - /url: https://patinetestore.com/wp-content/uploads/2026/06/adasmartxx.jpg
+                  - img "Patinete Eléctrico Adasmart X - Imagen 3" [ref=f60e94]
+                - link [ref=f60e96]:
+                  - /url: https://patinetestore.com/wp-content/uploads/2026/06/adasmartxxx.jpg
+                  - img "Patinete Eléctrico Adasmart X - Imagen 4" [ref=f60e97]
+            - list [ref=f60e98]:
+              - listitem [ref=f60e99] [cursor=pointer]:
+                - img "Patinete Eléctrico Adasmart X" [ref=f60e100]
+              - listitem [ref=f60e101] [cursor=pointer]:
+                - img "Patinete Eléctrico Adasmart X - Imagen 2" [ref=f60e102]
+              - listitem [ref=f60e103] [cursor=pointer]:
+                - img "Patinete Eléctrico Adasmart X - Imagen 3" [ref=f60e104]
+              - listitem [ref=f60e105] [cursor=pointer]:
+                - img "Patinete Eléctrico Adasmart X - Imagen 4" [ref=f60e106]
+          - generic [ref=f60e107]:
+            - heading "Patinete Eléctrico Adasmart X" [level=1] [ref=f60e108]
+            - paragraph [ref=f60e110]:
+              - generic [ref=f60e112]:
+                - generic [ref=f60e113]: €
+                - text: 599,00
+            - generic [ref=f60e114]:
+              - paragraph [ref=f60e115]:
+                - text: El
+                - strong [ref=f60e116]: patinete eléctrico Ecoxtrem 800W
+                - text: es una opción muy seria si buscas potencia, autonomía y comodidad para moverte por ciudad o hacer rutas largas.
+              - paragraph [ref=f60e117]:
+                - text: Está disponible en
+                - strong [ref=f60e118]: 3 versiones de batería
+                - text: ":"
+                - strong [ref=f60e119]: 15.6Ah, 23.4Ah y 36Ah
+                - text: ", para que elijas entre más ligereza, más autonomía o directamente una batería top para hacer kilómetros sin preocuparte."
+              - paragraph [ref=f60e120]:
+                - text: Tiene motor de
+                - strong [ref=f60e121]: 800W nominal
+                - text: ", velocidad limitada de fábrica a"
+                - strong [ref=f60e122]: 25 km/h
+                - text: para uso en vía pública según normativa VMP, ruedas de
+                - strong [ref=f60e123]: 10 pulgadas
+                - text: ", doble suspensión, frenos mecánicos, pantalla LED con NFC, luces y certificado DGT."
+              - paragraph [ref=f60e124]:
+                - text: Ideal si buscas un
+                - strong [ref=f60e125]: patinete eléctrico potente
+                - text: ", cómodo, con buena autonomía y estilo urbano. Una opción muy buena para riders que quieren algo más pro que un patinete básico."
+            - generic [ref=f60e126]:
+              - generic [ref=f60e128]:
+                - generic [ref=f60e129]: BATERÍA
+                - generic:
+                  - generic [ref=f60e130] [cursor=pointer]:
+                    - radio "MÁS VENDIDO 15,6Ah 15,6Ah Envío en 24-48 horas" [checked]
+                    - generic [ref=f60e131]:
+                      - generic: MÁS VENDIDO
+                      - img "15,6Ah" [ref=f60e133]
+                      - generic [ref=f60e134]:
+                        - generic [ref=f60e135]: 15,6Ah
+                        - generic [ref=f60e136]: Envío en 24-48 horas
+                  - generic [ref=f60e137] [cursor=pointer]:
+                    - radio "23,4 23,4 Envío en 24-48 horas € 699,00"
+                    - generic [ref=f60e138]:
+                      - img "23,4" [ref=f60e140]
+                      - generic [ref=f60e141]:
+                        - generic [ref=f60e142]: 23,4
+                        - generic [ref=f60e143]: Envío en 24-48 horas
+                        - generic [ref=f60e145]:
+                          - generic [ref=f60e146]: €
+                          - text: 699,00
+                  - generic [ref=f60e147] [cursor=pointer]:
+                    - radio "36Ah 36Ah Envío en 24-48 horas € 799,00"
+                    - generic [ref=f60e148]:
+                      - img "36Ah" [ref=f60e150]
+                      - generic [ref=f60e151]:
+                        - generic [ref=f60e152]: 36Ah
+                        - generic [ref=f60e153]: Envío en 24-48 horas
+                        - generic [ref=f60e155]:
+                          - generic [ref=f60e156]: €
+                          - text: 799,00
+              - generic [ref=f60e158]:
+                - heading "Datos necesarios para la Gestión DGT" [level=3] [ref=f60e159]
+                - paragraph [ref=f60e160]: Completa estos datos para que podamos gestionar el alta DGT correctamente.
+                - generic [ref=f60e161]:
+                  - generic [ref=f60e162]: ¿tienes Clave movil o certificado digital? *
+                  - combobox "¿tienes Clave movil o certificado digital? *" [ref=f60e163]:
+                    - option "Selecciona una opción" [selected]
+                    - option "Tengo Clave movil"
+                    - option "Tengo certificado digital"
+                    - option "No tengo ninguna"
+                - generic [ref=f60e164]:
+                  - generic [ref=f60e165]: Adjunto DNI cara A *
+                  - generic [ref=f60e166]:
+                    - button "Adjunto DNI cara A *" [ref=f60e167]
+                    - button "Seleccionar archivo" [ref=f60e168] [cursor=pointer]
+                    - generic [ref=f60e169]: Ningún archivo seleccionado
+                - generic [ref=f60e170]:
+                  - generic [ref=f60e171]: Adjunto DNI cara B *
+                  - generic [ref=f60e172]:
+                    - button "Adjunto DNI cara B *" [ref=f60e173]
+                    - button "Seleccionar archivo" [ref=f60e174] [cursor=pointer]
+                    - generic [ref=f60e175]: Ningún archivo seleccionado
+              - generic [ref=f60e176]:
+                - generic [ref=f60e177]:
+                  - generic [ref=f60e178]: TUNEA TU PATINETE
+                  - generic [ref=f60e181] [cursor=pointer]:
+                    - generic [ref=f60e182]:
+                      - button [ref=f60e183]:
+                        - img "Chaleco reflectante tirante SUNIIK" [ref=f60e184]
+                      - generic [ref=f60e186]:
+                        - generic [ref=f60e187]: OBLIGATORIO DE NOCHE
+                        - generic [ref=f60e188]: Chaleco reflectante tirante SUNIIK
+                        - generic [ref=f60e189]: Te pueden multar si circulas de noche o con poca visibilidad sin un elemento reflectante.
+                      - generic [ref=f60e190]: +12,90 €
+                    - radio
+                    - radio [checked]
+                - text: ✔ ✖
+                - generic [ref=f60e194]:
+                  - generic [ref=f60e195]: TRÁMITES NECESARIOS PARA CIRCULAR LEGALMENTE
+                  - generic [ref=f60e202]:
+                    - generic [ref=f60e203]:
+                      - checkbox "Matrícula DGT MATRICULAR MI PATINETE Una vez tengas el patinete inscrito en la DGT contacta con nosotros y te enviaremos tu matrícula homologada. 9,90 €"
+                      - generic [ref=f60e205] [cursor=pointer]:
+                        - img "Matrícula DGT" [ref=f60e209]
+                        - generic [ref=f60e210]:
+                          - generic [ref=f60e211]: MATRICULAR MI PATINETE
+                          - generic [ref=f60e212]: Una vez tengas el patinete inscrito en la DGT contacta con nosotros y te enviaremos tu matrícula homologada.
+                        - generic [ref=f60e213]: 9,90 €
+                    - generic [ref=f60e215]:
+                      - checkbox "Seguro patinete ASEGURAR EL PATINETE Desde 3,40€/mes Una vez adquieras el patinete, te contactaremos para ayudarte en la gestión del alta de tu seguro obligatorio. Desde 3,40€/mes"
+                      - generic [ref=f60e217] [cursor=pointer]:
+                        - img "Seguro patinete" [ref=f60e221]
+                        - generic [ref=f60e222]:
+                          - generic [ref=f60e223]: ASEGURAR EL PATINETE
+                          - generic [ref=f60e224]: Desde 3,40€/mes
+                          - generic [ref=f60e225]: Una vez adquieras el patinete, te contactaremos para ayudarte en la gestión del alta de tu seguro obligatorio.
+                        - generic [ref=f60e226]: Desde 3,40€/mes
+                - generic [ref=f60e228]:
+                  - generic [ref=f60e229]:
+                    - strong [ref=f60e230]: Tu configuración
+                    - generic [ref=f60e231]: Revisa qué incluye tu patinete antes de añadirlo al carrito.
+                  - generic [ref=f60e232]:
+                    - generic [ref=f60e233]: Patinete Eléctrico Adasmart X
+                    - strong [ref=f60e234]: 599,00 €
+                  - generic [ref=f60e236]: Selecciona mejoras, accesorios o servicios y aparecerán aquí.
+                  - generic [ref=f60e237]:
+                    - generic [ref=f60e238]: Mejoras y servicios
+                    - strong [ref=f60e239]: 0,00 €
+                  - generic [ref=f60e240]:
+                    - generic [ref=f60e241]: Precio total
+                    - generic [ref=f60e242]: 599,00 €
+              - button "Añadir al carrito" [ref=f60e243] [cursor=pointer]
+              - button "Comprar ahora" [ref=f60e244] [cursor=pointer]
+            - generic [ref=f60e245]:
+              - generic [ref=f60e246]: "SKU: 37560"
+              - generic [ref=f60e247]:
+                - text: "Categorías:"
+                - link "Adasmart" [ref=f60e248] [cursor=pointer]:
+                  - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/adasmart/
+                - text: ","
+                - link "Patinetes eléctricos" [ref=f60e249] [cursor=pointer]:
+                  - /url: https://patinetestore.com/categoria-producto/patinetes-electricos/
+          - text:                                
+        - generic [ref=f60e251]:
+          - generic [ref=f60e253]:
+            - generic [ref=f60e254]:
+              - heading "Características técnicas" [level=2] [ref=f60e255]
+              - generic [ref=f60e256]: de Patinete Eléctrico Adasmart X
+            - generic [ref=f60e257]:
+              - generic [ref=f60e258]:
+                - img "Motor trasero" [ref=f60e259]
+                - generic [ref=f60e260]: Motor trasero
+                - generic [ref=f60e261]: 800W nominales
+              - generic [ref=f60e262]:
+                - img "Batería" [ref=f60e263]
+                - generic [ref=f60e264]: Batería
+                - generic [ref=f60e265]: Hasta 110 km (36Ah) / Hasta 50-60 km (15,6Ah) / Hasta 70-80 km (23,4Ah)
+              - generic [ref=f60e266]:
+                - img "Velocidad" [ref=f60e267]
+                - generic [ref=f60e268]: Velocidad
+                - generic [ref=f60e269]: 25 km/h / 50 km/h
+              - generic [ref=f60e270]:
+                - img "Deslimitar" [ref=f60e271]
+                - generic [ref=f60e272]: Deslimitar
+                - generic [ref=f60e273]: Mandito limitador/deslimitador
+              - generic [ref=f60e274]:
+                - img "Frenos" [ref=f60e275]
+                - generic [ref=f60e276]: Frenos
+                - generic [ref=f60e277]: Doble freno mecánico
+              - generic [ref=f60e278]:
+                - img "Neumáticos" [ref=f60e279]
+                - generic [ref=f60e280]: Neumáticos
+                - generic [ref=f60e281]: 10"
+              - generic [ref=f60e282]:
+                - img "Peso" [ref=f60e283]
+                - generic [ref=f60e284]: Peso
+                - generic [ref=f60e285]: 28 kg (23,4Ah) / 29 kg (36Ah) / 30 kg (15,6Ah)
+          - generic [ref=f60e287]:
+            - generic [ref=f60e288]:
+              - link [expanded] [ref=f60e289] [cursor=pointer]:
+                - /url: "#accordion-item-description"
+                - button "Toggle" [ref=f60e290]:
+                  - generic [ref=f60e291]: 
+                - text: Descripción
+              - generic "Toggle Descripción" [ref=f60e292]:
+                - heading "Patinete eléctrico Ecoxtrem 800W con 3 versiones de batería" [level=2] [ref=f60e293]
+                - paragraph [ref=f60e294]:
+                  - text: El
+                  - strong [ref=f60e295]: patinete eléctrico Ecoxtrem 800W
+                  - text: está pensado para los que quieren moverse con potencia, comodidad y autonomía real. No es el típico patinete flojo para ir justo. Este modelo tiene motor de
+                  - strong [ref=f60e296]: 800W nominal
+                  - text: ", estructura robusta, doble suspensión y varias opciones de batería para adaptarse a tu uso."
+                - paragraph [ref=f60e297]:
+                  - text: Puedes elegir entre
+                  - strong [ref=f60e298]: 15.6Ah, 23.4Ah o 36Ah
+                  - text: ", según si quieres un patinete para trayectos diarios, rutas largas o máxima autonomía."
+                - paragraph [ref=f60e299]:
+                  - text: La velocidad viene limitada de fábrica a
+                  - strong [ref=f60e300]: 25 km/h
+                  - text: ", cumpliendo con la normativa VMP para circular por vía pública. Además, cuenta con certificados"
+                  - strong [ref=f60e301]: CE, RoHS, FCC y DGT
+                  - text: .
+                - table [ref=f60e302]:
+                  - rowgroup [ref=f60e303]:
+                    - row [ref=f60e304]:
+                      - columnheader "Versión" [ref=f60e305]
+                      - columnheader "Autonomía" [ref=f60e306]
+                      - columnheader "Tiempo de carga" [ref=f60e307]
+                      - columnheader "Peso" [ref=f60e308]
+                      - columnheader "Recomendado para" [ref=f60e309]
+                  - rowgroup [ref=f60e310]:
+                    - row [ref=f60e311]:
+                      - cell "15.6Ah" [ref=f60e312]
+                      - cell "Hasta 50-60 km" [ref=f60e313]
+                      - cell "6-8 horas" [ref=f60e314]
+                      - cell "30 kg" [ref=f60e315]
+                      - cell "Ciudad, trayectos diarios y uso equilibrado" [ref=f60e316]
+                    - row [ref=f60e317]:
+                      - cell "23.4Ah" [ref=f60e318]
+                      - cell "Hasta 70-80 km" [ref=f60e319]
+                      - cell "9-12 horas" [ref=f60e320]
+                      - cell "28 kg" [ref=f60e321]
+                      - cell "Rutas largas y usuarios que quieren más batería" [ref=f60e322]
+                    - row [ref=f60e323]:
+                      - cell "36Ah" [ref=f60e324]
+                      - cell "Hasta 110 km" [ref=f60e325]
+                      - cell "10-14 horas" [ref=f60e326]
+                      - cell "29 kg" [ref=f60e327]
+                      - cell "Máxima autonomía y uso intensivo" [ref=f60e328]
+                - heading "Tres baterías para elegir según tu forma de moverte" [level=2] [ref=f60e329]
+                - table [ref=f60e330]:
+                  - rowgroup [ref=f60e331]:
+                    - row [ref=f60e332]:
+                      - columnheader "Característica" [ref=f60e333]
+                      - columnheader "Detalle" [ref=f60e334]
+                  - rowgroup [ref=f60e335]:
+                    - row [ref=f60e336]:
+                      - cell "Producto" [ref=f60e337]
+                      - cell "Patinete eléctrico Ecoxtrem" [ref=f60e338]
+                    - row [ref=f60e339]:
+                      - cell "Potencia del motor" [ref=f60e340]
+                      - cell "800W nominal" [ref=f60e341]
+                    - row [ref=f60e342]:
+                      - cell "Versiones de batería" [ref=f60e343]
+                      - cell "15.6Ah, 23.4Ah y 36Ah" [ref=f60e344]
+                    - row [ref=f60e345]:
+                      - cell "Velocidad" [ref=f60e346]
+                      - cell "Limitada de fábrica a 25 km/h según normativa VMP" [ref=f60e347]
+                    - row [ref=f60e348]:
+                      - cell "Autonomía versión 15.6Ah" [ref=f60e349]
+                      - cell "Hasta 50-60 km en condiciones óptimas" [ref=f60e350]
+                    - row [ref=f60e351]:
+                      - cell "Autonomía versión 23.4Ah" [ref=f60e352]
+                      - cell "Hasta 70-80 km en condiciones óptimas" [ref=f60e353]
+                    - row [ref=f60e354]:
+                      - cell "Autonomía versión 36Ah" [ref=f60e355]
+                      - cell "Hasta 110 km en condiciones óptimas" [ref=f60e356]
+                    - row [ref=f60e357]:
+                      - cell "Tiempo de carga versión 15.6Ah" [ref=f60e358]
+                      - cell "6-8 horas" [ref=f60e359]
+                    - row [ref=f60e360]:
+                      - cell "Tiempo de carga versión 23.4Ah" [ref=f60e361]
+                      - cell "9-12 horas" [ref=f60e362]
+                    - row [ref=f60e363]:
+                      - cell "Tiempo de carga versión 36Ah" [ref=f60e364]
+                      - cell "10-14 horas" [ref=f60e365]
+                    - row [ref=f60e366]:
+                      - cell "Ruedas" [ref=f60e367]
+                      - cell "10 pulgadas" [ref=f60e368]
+                    - row [ref=f60e369]:
+                      - cell "Freno delantero" [ref=f60e370]
+                      - cell "Mecánico" [ref=f60e371]
+                    - row [ref=f60e372]:
+                      - cell "Freno trasero" [ref=f60e373]
+                      - cell "Mecánico" [ref=f60e374]
+                    - row [ref=f60e375]:
+                      - cell "Suspensión" [ref=f60e376]
+                      - cell "Amortiguadores delanteros y traseros" [ref=f60e377]
+                    - row [ref=f60e378]:
+                      - cell "Pantalla" [ref=f60e379]
+                      - cell "LED + NFC" [ref=f60e380]
+                    - row [ref=f60e381]:
+                      - cell "Faro delantero" [ref=f60e382]
+                      - cell "Sí" [ref=f60e383]
+                    - row [ref=f60e384]:
+                      - cell "Luz trasera" [ref=f60e385]
+                      - cell "Sí" [ref=f60e386]
+                    - row [ref=f60e387]:
+                      - cell "Diseño plegable" [ref=f60e388]
+                      - cell "Sí" [ref=f60e389]
+                    - row [ref=f60e390]:
+                      - cell "Color" [ref=f60e391]
+                      - cell "Negro" [ref=f60e392]
+                    - row [ref=f60e393]:
+                      - cell "Peso versión 15.6Ah" [ref=f60e394]
+                      - cell "30 kg" [ref=f60e395]
+                    - row [ref=f60e396]:
+                      - cell "Peso versión 23.4Ah" [ref=f60e397]
+                      - cell "28 kg" [ref=f60e398]
+                    - row [ref=f60e399]:
+                      - cell "Peso versión 36Ah" [ref=f60e400]
+                      - cell "29 kg" [ref=f60e401]
+                    - row [ref=f60e402]:
+                      - cell "Carga máxima" [ref=f60e403]
+                      - cell "120 kg" [ref=f60e404]
+                    - row [ref=f60e405]:
+                      - cell "Cargador" [ref=f60e406]
+                      - cell "54,6V 2A" [ref=f60e407]
+                    - row [ref=f60e408]:
+                      - cell "Protección" [ref=f60e409]
+                      - cell "IP54 contra humedad" [ref=f60e410]
+                    - row [ref=f60e411]:
+                      - cell "Pendiente máxima" [ref=f60e412]
+                      - cell "25º" [ref=f60e413]
+                    - row [ref=f60e414]:
+                      - cell "Dimensiones" [ref=f60e415]
+                      - cell "1350 x 300 x 520 mm" [ref=f60e416]
+                    - row [ref=f60e417]:
+                      - cell "Certificados" [ref=f60e418]
+                      - cell "CE, RoHS, FCC, DGT" [ref=f60e419]
+                    - row [ref=f60e420]:
+                      - cell "Garantía" [ref=f60e421]
+                      - cell "Comienza el día de la entrega. El cliente debe registrar el patinete en la página" [ref=f60e422]
+                    - row [ref=f60e423]:
+                      - cell "Tienda" [ref=f60e424]
+                      - cell "PatineteStore" [ref=f60e425]
+                - 'heading "Versión 15.6Ah: para ciudad y uso diario" [level=3] [ref=f60e426]'
+                - paragraph [ref=f60e427]:
+                  - text: La versión de
+                  - strong [ref=f60e428]: 15.6Ah
+                  - text: es perfecta si quieres un patinete potente para moverte por ciudad, ir al trabajo, clase o hacer trayectos diarios sin ir cargando todo el rato.
+                - paragraph [ref=f60e429]:
+                  - text: Ofrece una autonomía de hasta
+                  - strong [ref=f60e430]: 50-60 km
+                  - text: en condiciones óptimas. Es una opción equilibrada si buscas buen rendimiento sin irte a la batería más grande.
+                - 'heading "Versión 23.4Ah: más autonomía para rutas largas" [level=3] [ref=f60e431]'
+                - paragraph [ref=f60e432]:
+                  - text: La versión de
+                  - strong [ref=f60e433]: 23.4Ah
+                  - text: sube el nivel. Es ideal si haces más kilómetros, quieres salir de ruta o prefieres tener más margen de batería para no estar pendiente del cargador.
+                - paragraph [ref=f60e434]:
+                  - text: Ofrece una autonomía de hasta
+                  - strong [ref=f60e435]: 70-80 km
+                  - text: en condiciones óptimas. Además, tiene un peso de
+                  - strong [ref=f60e436]: 28 kg
+                  - text: ", lo que la convierte en una versión muy interesante para quienes buscan más autonomía sin disparar demasiado el peso."
+                - 'heading "Versión 36Ah: máxima autonomía para riders exigentes" [level=3] [ref=f60e437]'
+                - paragraph [ref=f60e438]:
+                  - text: La versión de
+                  - strong [ref=f60e439]: 36Ah
+                  - text: es la más bestia de la gama. Está pensada para quienes quieren máxima autonomía y no quieren quedarse cortos.
+                - paragraph [ref=f60e440]:
+                  - text: Puede alcanzar hasta
+                  - strong [ref=f60e441]: 110 km de autonomía
+                  - text: en condiciones óptimas. Es perfecta para rutas largas, uso intensivo o riders que quieren un patinete eléctrico potente con batería grande.
+                - heading "Potencia de 800W para moverte con soltura" [level=2] [ref=f60e442]
+                - paragraph [ref=f60e443]:
+                  - text: El motor de
+                  - strong [ref=f60e444]: 800W nominal
+                  - text: ofrece una respuesta fuerte y estable. Se nota mucho en salidas, cuestas y trayectos donde un patinete básico se queda corto.
+                - paragraph [ref=f60e445]:
+                  - text: Este Ecoxtrem está hecho para quienes buscan un
+                  - strong [ref=f60e446]: patinete eléctrico potente barato
+                  - text: ", con buena presencia y componentes pensados para aguantar el uso diario."
+                - heading "Ruedas de 10 pulgadas y doble suspensión" [level=2] [ref=f60e447]
+                - paragraph [ref=f60e448]:
+                  - text: Las ruedas de
+                  - strong [ref=f60e449]: 10 pulgadas
+                  - text: ayudan a ganar estabilidad y comodidad. Además, los
+                  - strong [ref=f60e450]: amortiguadores delanteros y traseros
+                  - text: hacen que la conducción sea mucho más suave.
+                - paragraph [ref=f60e451]: Si vas por calles con baches, carriles bici irregulares o zonas con suelo roto, la doble suspensión se agradece muchísimo. Menos golpes, más control y una sensación mucho más cómoda al conducir.
+                - heading "Frenos, luces y pantalla LED con NFC" [level=2] [ref=f60e452]
+                - paragraph [ref=f60e453]:
+                  - text: Este patinete viene equipado con
+                  - strong [ref=f60e454]: freno mecánico delantero y trasero
+                  - text: ", una combinación práctica para controlar mejor la frenada."
+                - paragraph [ref=f60e455]:
+                  - text: También incluye
+                  - strong [ref=f60e456]: faro delantero
+                  - text: ","
+                  - strong [ref=f60e457]: luz trasera
+                  - text: "y"
+                  - strong [ref=f60e458]: pantalla LED con NFC
+                  - text: ", para tener un manejo más cómodo y moderno. Es un patinete pensado para ciudad, rutas y riders que quieren algo más completo."
+                - heading "Diseño plegable, robusto y preparado para el día a día" [level=2] [ref=f60e459]
+                - paragraph [ref=f60e460]:
+                  - text: El diseño plegable permite guardarlo mejor en casa, llevarlo en el coche o moverlo cuando no vas montado. Tiene una carga máxima de
+                  - strong [ref=f60e461]: 120 kg
+                  - text: y protección
+                  - strong [ref=f60e462]: IP54 contra la humedad
+                  - text: .
+                - paragraph [ref=f60e463]: Su estructura en color negro le da un look serio, urbano y potente. Es de esos patinetes que llaman la atención sin tener que hacer demasiado ruido.
+            - generic: 
+          - generic [ref=f60e464]:
+            - heading "Más Adasmart que te pueden interesar:" [level=2] [ref=f60e465]
+            - generic [ref=f60e469]:
+              - generic [ref=f60e470]:
+                - generic:
+                  - link "Patinete Eléctrico Adasmart V":
+                    - /url: https://patinetestore.com/producto/patinete-electrico-adasmart-v/
+                    - img "Patinete Eléctrico Adasmart V" [ref=f60e471] [cursor=pointer]
+                - generic:
+                  - button "Vista Rápida"
+              - generic [ref=f60e472]:
+                - generic [ref=f60e473]:
+                  - generic [ref=f60e474]: Envío en 24-48 horas
+                  - paragraph [ref=f60e477]:
+                    - link "Patinete Eléctrico Adasmart V" [ref=f60e478] [cursor=pointer]:
+                      - /url: https://patinetestore.com/producto/patinete-electrico-adasmart-v/
+                - generic [ref=f60e479]: €899,00
+    - contentinfo [ref=f60e484]:
+      - region "Instagram feed" [ref=f60e489]:
+        - link "patinetestore_ on Instagram" [ref=f60e491] [cursor=pointer]:
+          - /url: https://www.instagram.com/patinetestore_/
+          - generic [ref=f60e497]:
+            - heading "patinetestore_" [level=3] [ref=f60e498]
+            - paragraph [ref=f60e499]:
+              - text: Tienda y Taller patinetes eléctricos
+              - img "🏁" [ref=f60e500]
+              - img "🥷🏽" [ref=f60e501]
+              - img "🛴" [ref=f60e502]
+              - text: Avenida del Cid, 4 Valencia
+        - list [ref=f60e503]:
+          - listitem [ref=f60e504]:
+            - 'link "asmr #patinete #escooter #asmr" [ref=f60e506] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeFNuD-IZ0m/
+          - listitem [ref=f60e510]:
+            - 'link "Como vinilar patinete eléctrico #patinete #vinilar" [ref=f60e512] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeB57zCo_Oz/
+          - listitem [ref=f60e516]:
+            - 'link "Always back to the line#escooter #crash #dualt" [ref=f60e518] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/DeAN95qRJH-/
+          - listitem [ref=f60e522]:
+            - link "Si vas a hacer el canelo, hazlo cuando no hay nadi" [ref=f60e524] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/Dd_jt9NIDvP/
+          - listitem [ref=f60e528]:
+            - 'link "Como copiar llave NFC en patinete eléctrico #nfc #" [ref=f60e530] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/Dd8_W1_ITu9/
+          - listitem [ref=f60e534]:
+            - 'link "Hemos comprado los nuevos Ecoxtrem Armored PRO #pa" [ref=f60e536] [cursor=pointer]':
+              - /url: https://www.instagram.com/reel/Dd600xwo6-O/
+        - generic [ref=f60e540]:
+          - button "Cargar más" [ref=f60e541] [cursor=pointer]
+          - link "Seguir en Instagram" [ref=f60e544] [cursor=pointer]:
+            - /url: https://www.instagram.com/patinetestore_/
+      - generic [ref=f60e548]:
+        - link [ref=f60e550] [cursor=pointer]:
+          - /url: https://patinetestore.com/
+        - list [ref=f60e553]:
+          - listitem [ref=f60e554]:
+            - link "Aviso legal" [ref=f60e555] [cursor=pointer]:
+              - /url: https://patinetestore.com/aviso-legal/
+          - listitem [ref=f60e556]:
+            - link "Política de devolución y reembolsos" [ref=f60e557] [cursor=pointer]:
+              - /url: https://patinetestore.com/politica-de-devolucion-y-reembolsos/
+          - listitem [ref=f60e558]:
+            - link "Métodos de pago" [ref=f60e559] [cursor=pointer]:
+              - /url: https://patinetestore.com/metodos-de-pago/
+          - listitem [ref=f60e560]:
+            - link "Política de privacidad" [ref=f60e561] [cursor=pointer]:
+              - /url: https://patinetestore.com/privacy-policy/
+          - listitem [ref=f60e562]:
+            - link "Mapa del sitio" [ref=f60e563] [cursor=pointer]:
+              - /url: https://patinetestore.com/sitemap_index.xml
+          - listitem [ref=f60e564]:
+            - link "Blog" [ref=f60e565] [cursor=pointer]:
+              - /url: https://patinetestore.com/blog/
+          - listitem [ref=f60e566]:
+            - link "Acceso B2B" [ref=f60e567] [cursor=pointer]:
+              - /url: https://patinetestore.com/my-account/
+      - generic [ref=f60e569]:
+        - group "Payment icons" [ref=f60e571]:
+          - generic [ref=f60e572]: Visa
+          - generic [ref=f60e576]: Klarna
+          - generic [ref=f60e589]: Apple Pay
+          - generic [ref=f60e593]: Cash On Delivery
+          - generic [ref=f60e597]: Cash on Pickup
+          - generic [ref=f60e601]: Google Pay
+          - generic [ref=f60e605]: MasterCard
+          - generic [ref=f60e612]: PayPal
+          - generic [ref=f60e616]: Revolut
+        - generic [ref=f60e622]:
+          - text: Copyright 2026 ©
+          - strong [ref=f60e623]: Patinete Store
+  - text:          
+  - generic:
+    - button "¡Contacta con nosotros! Abrir chat" [ref=f60e624] [cursor=pointer]
+    - generic: "1"
+    - dialog "Patinete Store"
+  - status [ref=f60e626]
