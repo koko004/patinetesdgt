@@ -1,21 +1,311 @@
-# fichas actualizadas: 12/223
-# ofertas emparejadas: 15/18
+# fichas actualizadas: 62/223
+# ofertas emparejadas: 141/308
 
-OK  [0.65] smartgyro | patinete electrico smartgyro z one 2 gray certificado | 299.0 EUR -> smartgyro-z-one-a1045
-OK  [0.65] smartgyro | patinete electrico smartgyro k1 | 459.0 EUR -> smartgyro-k1-a1209
-??  [0.42] smartgyro | patinete electrico smartgyro rockway gl | 599.0 EUR -> dudoso:smartgyro-rockway-gt-a1190
-OK  [0.65] smartgyro | patinete electrico smartgyro rockway gt | 599.0 EUR -> smartgyro-rockway-gt-a1190
-OK  [0.65] smartgyro | patinete electrico smartgyro k5 pro certificado | 679.0 EUR -> smartgyro-k5-pro-a1213
-??  [0.15] smartgyro | patinete electrico smartgyro speedway certificado | 699.0 EUR -> dudoso:smartgyro-rockway-pro-evo-a1162
-OK  [0.66] smartgyro | patinete electrico smartgyro rockway gts | 779.0 EUR -> smartgyro-rockway-gts-a1189
-OK  [0.65] smartgyro | patinete electrico smartgyro k5 pro lr certificado | 779.0 EUR -> smartgyro-k5-pro-a1213
-OK  [0.7] smartgyro | patinete electrico smartgyro crossover dual max 2 certificado | 799.0 EUR -> smartgyro-crossover-dual-max-2-a1176
-??  [0.35] smartgyro | patinete electrico smartgyro speedway pro certificado | 799.0 EUR -> dudoso:smartgyro-rockway-pro-evo-a1162
-OK  [0.71] smartgyro | patinete electrico smartgyro rockway gt dual | 799.0 EUR -> smartgyro-rockway-gt-dual-a1215
-OK  [0.72] smartgyro | patinete electrico smartgyro crossover dual max 2 lr certificado | 799.0 EUR -> smartgyro-crossover-dual-max-2-lr-a1175
-OK  [0.65] smartgyro | patinete electrico smartgyro raptor evo | 799.0 EUR -> smartgyro-raptor-evo-a1165
-OK  [0.65] smartgyro | patinete electrico smartgyro ryder 2 certificado | 799.01 EUR -> smartgyro-ryder-a1105
-OK  [0.72] smartgyro | patinete electrico smartgyro crossover dual xt | 899.0 EUR -> smartgyro-crossover-dual-xt-a1205
-OK  [0.68] smartgyro | patinete electrico smartgyro raptor evo lr | 899.01 EUR -> smartgyro-raptor-evo-a1164
-OK  [0.65] smartgyro | patinete electrico smartgyro raptor dual evo | 949.0 EUR -> smartgyro-raptor-evo-a1165
-OK  [0.66] smartgyro | patinete electrico smartgyro raptor dual evo lr | 1099.0 EUR -> smartgyro-raptor-evo-a1164
+??  [0.05] ecoxtrem | patinete electrico bison homologado dgt | 699.0 EUR -> dudoso:pure-advance-flex
+??  [0.43] electyum | Patinete Eléctrico Xiaomi Electric Scooter 6 | 429.0 EUR -> dudoso:xiaomi-4-pro-2
+OK  [0.9] electyum | Patinete Eléctrico KuKirin G2 Pro | 489.0 EUR -> kukirin-g2-pro-a1156
+??  [0.43] electyum | Patinete Eléctrico SmartGyro Rockway GL | 585.0 EUR -> dudoso:smartgyro-rockway-gt-a1190
+OK  [1.0] electyum | Adasmart X | 599.0 EUR -> adasmart-x-b1067
+OK  [0.9] electyum | Adasmart X 15,6Ah (Homologado DGT) | 599.0 EUR -> adasmart-x-b1067
+??  [0.16] electyum | Patinete Eléctrico Segway ZT3 Pro E | 648.0 EUR -> dudoso:pure-advance-flex
+OK  [0.9] electyum | Patinete Eléctrico SmartGyro K5 PRO | 659.0 EUR -> smartgyro-k5-pro-a1213
+OK  [0.9] electyum | Patinete Eléctrico Zwheel ZWolf | 659.0 EUR -> zwheel-zwolf-a1199
+OK  [0.9] electyum | Patinete Eléctrico ICe M5 | 740.0 EUR -> ice-m5-a1013
+OK  [0.61] electyum | Adasmart V Dual | 749.0 EUR -> adasmart-v-b1152
+OK  [0.61] electyum | Adasmart V Dual | 749.0 EUR -> adasmart-v-b1152
+OK  [0.9] electyum | Ecoxtrem Tank M41 Dual | 788.0 EUR -> ecoxtrem-m41-tank-dual-a1182
+OK  [1.0] electyum | Adasmart XE | 799.0 EUR -> adasmart-xe-b1077
+OK  [1.0] electyum | Adasmart XE | 799.0 EUR -> adasmart-xe-b1077
+OK  [0.6] electyum | Patinete Eléctrico Ecoxtrem M41 Armored Dual | 868.0 EUR -> ecoxtrem-m41-armored-a1224
+??  [0.57] electyum | Odyssr Rodeo Mono | 898.0 EUR -> dudoso:odyssr-rodeo-b1144
+??  [0.32] electyum | Patinete Eléctrico ICe Q3 EVO Dual | 939.0 EUR -> dudoso:ice-q3-evolution-a1065
+??  [0.51] electyum | Odyssr Rodeo Dual | 995.0 EUR -> dudoso:odyssr-rodeo-b1144
+??  [0.39] electyum | Patinete Eléctrico ICe Q3 EVO 2026 | 999.0 EUR -> dudoso:ice-q3-evolution-a1065
+??  [0.43] electyum | Patinete Eléctrico Rovoron R7 Lite DGT | 1090.0 EUR -> dudoso:rovoron-r7-b1137
+OK  [0.75] electyum | Adasmart Tank Dual | 1099.0 EUR -> adasmart-tank-b1087
+??  [0.56] electyum | Adasmart Tank DUAL 48V 23,4Ah (Homologado DGT) | 1099.0 EUR -> dudoso:adasmart-tank-b1087
+??  [0.51] electyum | Odyssr Drift Dual | 1289.0 EUR -> dudoso:odyssr-drift-b1145
+??  [0.12] electyum | Scooter eléctrico Tivoli 1500W | 1400.0 EUR -> dudoso:pure-advance-flex
+SIN [0.0] electyum | Littium Ibiza Dogma 04 | 1590.0 EUR -> sin ficha
+OK  [0.9] electyum | Patinete Eléctrico Rovoron R7 Pro | 1595.0 EUR -> rovoron-r7-pro-b1148
+SIN [0.0] electyum | Littium Ibiza Rainbow | 1790.0 EUR -> sin ficha
+SIN [0.0] electyum | Super Soco TS Street Hunter | 3699.0 EUR -> sin ficha
+SIN [0.0] electyum | Super Soco TC MAX | 3940.0 EUR -> sin ficha
+??  [0.11] imoveblue | Ninebot F3 E | 50.0 EUR -> dudoso:ninebot-f2-pro-b1004
+BARATO? [0.9] imoveblue | Navee XT5 Pro | 50.0 EUR -> dudoso:navee-xt5-pro-c1009
+??  [0.41] imoveblue | Kamikaze K1 Max | 84.0 EUR -> dudoso:kamikaze-k1-max-a1207
+??  [0.1] imoveblue | Odyssr Alpha | 100.0 EUR -> dudoso:odyssr-rodeo-b1144
+??  [0.07] imoveblue | Segway Ninebot Max G3 | 100.0 EUR -> dudoso:ninebot-e2-plus-b1052
+??  [0.07] imoveblue | Segway Ninebot E3 Pro E | 100.0 EUR -> dudoso:ninebot-f2-pro-b1004
+BARATO? [0.9] imoveblue | smartGyro Rockway PRO EVO | 100.0 EUR -> dudoso:smartgyro-rockway-pro-evo-a1162
+??  [0.06] imoveblue | Ninebot KickScooter MAX G2 E | 100.0 EUR -> dudoso:ninebot-f2-b1002
+BARATO? [0.91] imoveblue | smartGyro CROSSOVER DUAL MAX 2 LR | 200.0 EUR -> dudoso:smartgyro-crossover-dual-max-2-lr-a1175
+BARATO? [0.9] imoveblue | NIU KQi 300X | 200.0 EUR -> dudoso:niu-kqi-300x-b1054
+OK  [0.9] imoveblue | Joyor C10 | 250.0 EUR -> joyor-c10-a1153
+BARATO? [0.9] imoveblue | Rovoron S7 | 291.0 EUR -> dudoso:rovoron-s7-b1146
+OK  [0.9] imoveblue | smartGyro Z-One 2 certificado | 299.0 EUR -> smartgyro-z-one-a1045
+OK  [0.9] imoveblue | smartGyro Z-One 2 certificado | 299.0 EUR -> smartgyro-z-one-a1045
+??  [0.09] imoveblue | Ninebot E2 E II certificado | 309.0 EUR -> dudoso:ninebot-e2-plus-b1052
+??  [0.06] imoveblue | Ninebot KickScooter E2 Plus 2 E certificado | 319.0 EUR -> dudoso:ninebot-f2-plus-b1003
+BARATO? [0.9] imoveblue | Kaabo Mantis King GT... | 350.0 EUR -> dudoso:kaabo-mantis-king-gt-a1098
+??  [0.08] imoveblue | Segway Ninebot E3 E certificado | 399.0 EUR -> dudoso:ninebot-f2-pro-b1104
+??  [0.06] imoveblue | Ninebot KickScooter E2 PRO E Certificado | 399.0 EUR -> dudoso:ninebot-e2-plus-b1052
+OK  [0.9] imoveblue | Joyor LiteGo Certificado | 399.0 EUR -> joyor-litego-a1089
+BARATO? [0.64] imoveblue | Dualtron Sonic Alien | 400.0 EUR -> dudoso:dualtron-sonic-alien-b1136
+??  [0.09] imoveblue | Ninebot F2 E II certificado | 429.0 EUR -> dudoso:ninebot-e2-plus-b1052
+OK  [0.9] imoveblue | NIU KQi2 Pro Certificado | 449.0 EUR -> niu-kqi2-pro-b1041
+OK  [0.9] imoveblue | NIU KQi2 Pro Certificado | 449.0 EUR -> niu-kqi2-pro-b1041
+OK  [0.9] imoveblue | smartGyro K1 Certificado | 449.0 EUR -> smartgyro-k1-a1209
+OK  [0.9] imoveblue | smartGyro Z-Pro Certificado | 459.0 EUR -> smartgyro-z-pro-a1046
+OK  [0.9] imoveblue | smartGyro Z-Pro Certificado | 459.0 EUR -> smartgyro-z-pro-a1046
+OK  [0.9] imoveblue | Ecoxtrem Deimos certificado | 499.0 EUR -> ecoxtrem-deimos-a1229
+OK  [0.9] imoveblue | Ecoxtrem Deimos certificado | 499.0 EUR -> ecoxtrem-deimos-a1229
+OK  [0.9] imoveblue | Joyor Y10 Certificado DGT | 500.0 EUR -> joyor-y10-a1114
+??  [0.46] imoveblue | ICe Q5 EVO 60V | 500.0 EUR -> dudoso:ice-q5-evolution-a1067
+??  [0.08] imoveblue | Ninebot F2 Pro II E certificado | 529.0 EUR -> dudoso:ninebot-e2-plus-b1052
+??  [0.52] imoveblue | Zwheel ZFox Max Urban Dark Certificado | 549.0 EUR -> dudoso:zwheel-zfox-max-a1068
+??  [0.06] imoveblue | Ninebot KickScooter F2 Plus E certificado | 549.0 EUR -> dudoso:ninebot-e2-plus-b1052
+??  [0.52] imoveblue | Zwheel ZFox Max Sky City Certificado | 559.0 EUR -> dudoso:zwheel-zfox-max-a1068
+??  [0.5] imoveblue | Zwheel ZFox Max Autumn Sunrise Certificado | 559.0 EUR -> dudoso:zwheel-zfox-max-a1068
+??  [0.49] imoveblue | smartGyro Rockway GL certificado | 599.0 EUR -> dudoso:smartgyro-rockway-gt-a1190
+BARATO? [0.73] imoveblue | Dualtron Mini Special Long Body Certificado | 599.0 EUR -> dudoso:dualtron-aminia-special-long-body-b1095
+OK  [0.9] imoveblue | Inmotion Climber Certificado | 599.0 EUR -> inmotion-climber
+BARATO? [0.73] imoveblue | Dualtron Mini Special Long Body Certificado | 599.0 EUR -> dudoso:dualtron-aminia-special-long-body-b1095
+??  [0.5] imoveblue | Zwheel ZRino SE Certificado | 599.0 EUR -> dudoso:zwheel-zrino-a1020
+OK  [0.9] imoveblue | Youin XL3 | 599.0 EUR -> youin-xl3-a1082
+??  [0.57] imoveblue | Ecoxtrem M41 Tank Ultimate Certificado | 639.0 EUR -> dudoso:ecoxtrem-m41-tank-a1143
+??  [0.57] imoveblue | Ecoxtrem M41 Tank Ultimate Certificado | 639.0 EUR -> dudoso:ecoxtrem-m41-tank-a1143
+OK  [0.9] imoveblue | Ecoxtrem Deimos Dual certificado | 649.0 EUR -> ecoxtrem-deimos-dual-a1228
+??  [0.07] imoveblue | Segway Ninebot F3 Pro E | 649.0 EUR -> dudoso:ninebot-f2-pro-b1004
+OK  [0.9] imoveblue | Ecoxtrem Deimos Dual certificado | 649.0 EUR -> ecoxtrem-deimos-dual-a1228
+OK  [0.9] imoveblue | Navee NT5 MAX certificado | 659.0 EUR -> navee-nt5-max-c1021
+??  [0.08] imoveblue | Segway ZT3 Pro E Certificado | 679.0 EUR -> dudoso:ninebot-f2-pro-b1104
+OK  [0.9] imoveblue | smartGyro K5 PRO certificado | 679.0 EUR -> smartgyro-k5-pro-a1213
+??  [0.55] imoveblue | Ecoxtrem M41 Armored One Pro Certificado | 689.0 EUR -> dudoso:ecoxtrem-m41-armored-a1224
+??  [0.55] imoveblue | Ecoxtrem M41 Armored One Pro Certificado | 689.0 EUR -> dudoso:ecoxtrem-m41-armored-a1224
+??  [0.37] imoveblue | Dualtron Togo Pro Certificado | 690.0 EUR -> dudoso:dualtron-togo-limited-b1061
+OK  [0.9] imoveblue | smartGyro Rockway GT Certificado | 699.0 EUR -> smartgyro-rockway-gt-a1190
+??  [0.3] imoveblue | Ecoxtrem Bison GT Carbon Design Certificado | 699.0 EUR -> dudoso:ecoxtrem-bison-a1085
+??  [0.18] imoveblue | SmartGyro SpeedWay Certificado | 699.0 EUR -> dudoso:smartgyro-rockway-pro-evo-a1162
+OK  [0.9] imoveblue | Zwheel ZRino Certificado | 699.0 EUR -> zwheel-zrino-a1020
+??  [0.3] imoveblue | Ecoxtrem Bison GT Carbon Design Certificado | 699.0 EUR -> dudoso:ecoxtrem-bison-a1085
+OK  [0.9] imoveblue | Joyor T-PRO | 749.0 EUR -> joyor-t-pro-a1219
+OK  [0.9] imoveblue | Joyor S-PRO Certificado | 749.0 EUR -> joyor-s-pro-a1113
+OK  [0.9] imoveblue | Ecoxtrem Bison Certificado | 749.0 EUR -> ecoxtrem-bison-a1085
+OK  [0.9] imoveblue | ICe M5 certificado | 749.0 EUR -> ice-m5-a1013
+OK  [0.9] imoveblue | Zwheel Zwolf certificado | 749.0 EUR -> zwheel-zwolf-a1199
+OK  [0.9] imoveblue | Ecoxtrem Bison Certificado | 749.0 EUR -> ecoxtrem-bison-a1085
+OK  [0.63] imoveblue | Ecoxtrem Deimos Dual PRO certificado | 749.0 EUR -> ecoxtrem-deimos-dual-a1228
+OK  [0.63] imoveblue | Ecoxtrem Deimos Dual PRO certificado | 749.0 EUR -> ecoxtrem-deimos-dual-a1228
+??  [0.48] imoveblue | Kamikaze K1 Max Certificado | 759.0 EUR -> dudoso:kamikaze-k1-max-a1207
+??  [0.15] imoveblue | Kaabo Urban certificado | 759.0 EUR -> dudoso:urban-glide-100-max-a1135
+??  [0.15] imoveblue | Kaabo Urban certificado | 759.0 EUR -> dudoso:urban-glide-100-max-a1135
+OK  [0.9] imoveblue | smartGyro Rockway GTS Certificado | 779.0 EUR -> smartgyro-rockway-gts-a1189
+OK  [0.9] imoveblue | smartGyro K5 PRO LR certificado | 779.0 EUR -> smartgyro-k5-pro-a1214
+OK  [0.9] imoveblue | smartGyro Raptor Evo | 790.0 EUR -> smartgyro-raptor-evo-a1165
+OK  [0.71] imoveblue | smartgyro Rockway GT Dual ceritificado | 790.0 EUR -> smartgyro-rockway-gt-dual-a1215
+OK  [0.69] imoveblue | Ecoxtrem M41 Tank Dual Motor Certificado | 799.0 EUR -> ecoxtrem-m41-tank-dual-a1182
+OK  [0.65] imoveblue | Teverun Fighter Q Certificado | 799.0 EUR -> teverun-fighter-mini-q-b1100
+OK  [0.69] imoveblue | Ecoxtrem M41 Tank Dual Motor Certificado | 799.0 EUR -> ecoxtrem-m41-tank-dual-a1182
+OK  [0.65] imoveblue | Teverun Fighter Q Certificado | 799.0 EUR -> teverun-fighter-mini-q-b1100
+OK  [0.9] imoveblue | smartGyro CROSSOVER DUAL MAX 2 Certificado | 799.0 EUR -> smartgyro-crossover-dual-max-2-a1176
+OK  [0.69] imoveblue | SmartGyro Rockway PRO certificado | 799.0 EUR -> smartgyro-rockway-pro-evo-a1162
+OK  [0.9] imoveblue | Zwheel ZLion PRO Certificado | 799.0 EUR -> zwheel-zlion-pro-a1084
+OK  [0.9] imoveblue | smartGyro CROSSOVER DUAL MAX 2 Certificado | 799.0 EUR -> smartgyro-crossover-dual-max-2-a1176
+OK  [0.9] imoveblue | Zwheel ZLion PRO Certificado | 799.0 EUR -> zwheel-zlion-pro-a1084
+??  [0.12] imoveblue | Ecoxtrem Rocket 1000W matriculable | 809.0 EUR -> dudoso:ecoxtrem-boop-a1144
+??  [0.12] imoveblue | Ecoxtrem Rocket 1000W matriculable | 809.0 EUR -> dudoso:ecoxtrem-boop-a1144
+OK  [0.9] imoveblue | Zwheel ZRino DUO Certificado | 829.0 EUR -> zwheel-zrino-duo-a1021
+OK  [0.9] imoveblue | Zwheel ZCougar Certificado | 829.0 EUR -> zwheel-zcougar-a1038
+??  [0.45] imoveblue | ICe Q3 EVO certificado | 849.0 EUR -> dudoso:ice-q3-evolution-a1065
+OK  [0.61] imoveblue | ICe Q3 EVO ONE Certificado | 849.0 EUR -> ice-q3-evolution-one-a1066
+??  [0.45] imoveblue | ICe Q3 EVO certificado | 849.0 EUR -> dudoso:ice-q3-evolution-a1065
+OK  [0.61] imoveblue | ICe Q3 EVO ONE Certificado | 849.0 EUR -> ice-q3-evolution-one-a1066
+??  [0.35] imoveblue | Kamikaze K1 Max Tokyo Drift | 849.0 EUR -> dudoso:kamikaze-k1-max-a1207
+OK  [0.64] imoveblue | Ecoxtrem M41 Armored LR Certificado | 879.0 EUR -> ecoxtrem-m41-armored-a1224
+OK  [0.64] imoveblue | Ecoxtrem M41 Armored LR Certificado | 879.0 EUR -> ecoxtrem-m41-armored-a1224
+OK  [0.9] imoveblue | smartGyro Crossover Dual XT certificado | 890.0 EUR -> smartgyro-crossover-dual-xt-a1205
+OK  [0.9] imoveblue | smartGyro Raptor Evo LR | 890.0 EUR -> smartgyro-raptor-evo-a1164
+OK  [0.68] imoveblue | Teverun Blade Mini Certificado | 890.0 EUR -> teverun-blade-mini-ultra-b1118
+OK  [0.9] imoveblue | smartGyro Ryder 2 certificado | 890.0 EUR -> smartgyro-ryder-a1105
+OK  [0.68] imoveblue | Teverun Blade Mini Certificado | 890.0 EUR -> teverun-blade-mini-ultra-b1118
+??  [0.55] imoveblue | Odyssr Rodeo Mono Certificado | 890.0 EUR -> dudoso:odyssr-rodeo-b1144
+??  [0.39] imoveblue | Ecoxtrem Armored Dual PRO certificado | 899.0 EUR -> dudoso:ecoxtrem-m41-armored-a1224
+??  [0.56] imoveblue | Dualtron Aminia Certificado | 899.0 EUR -> dudoso:dualtron-aminia-special-b1094
+??  [0.39] imoveblue | Ecoxtrem Armored Dual PRO certificado | 899.0 EUR -> dudoso:ecoxtrem-m41-armored-a1224
+??  [0.56] imoveblue | Dualtron Aminia Certificado | 899.0 EUR -> dudoso:dualtron-aminia-special-b1094
+SIN [0.0] imoveblue | ETRIC Vortex Certificado | 899.0 EUR -> sin ficha
+SIN [0.0] imoveblue | ETRIC Vortex Certificado | 899.0 EUR -> sin ficha
+OK  [0.65] imoveblue | Youin XL MAX Certificado | 949.0 EUR -> youin-xl-max-a1080
+??  [0.5] imoveblue | Zwheel Zwolf Plus certificado | 949.0 EUR -> dudoso:zwheel-zwolf-a1199
+??  [0.16] imoveblue | Ecoxtrem Spirit Plus matriculable | 969.0 EUR -> dudoso:ecoxtrem-deimos-dual-a1228
+??  [0.16] imoveblue | Ecoxtrem Spirit Plus matriculable | 969.0 EUR -> dudoso:ecoxtrem-deimos-dual-a1228
+OK  [0.9] imoveblue | Rovoron R5 certificado | 990.0 EUR -> rovoron-r5-b1158
+??  [0.55] imoveblue | Odyssr Rodeo Dual Certificado | 990.0 EUR -> dudoso:odyssr-rodeo-b1144
+OK  [0.9] imoveblue | Teverun Space Certificado | 990.0 EUR -> teverun-space-b1130
+SIN [0.0] imoveblue | E-twow GTS SPORT certificado | 999.0 EUR -> sin ficha
+??  [0.43] imoveblue | ICe Q3 Evo 2026 certificado | 999.0 EUR -> dudoso:ice-q3-evolution-a1065
+SIN [0.0] imoveblue | E-twow GTS SPORT certificado | 999.0 EUR -> sin ficha
+OK  [0.69] imoveblue | smartGyro Raptor Dual Evo | 999.0 EUR -> smartgyro-raptor-evo-a1165
+OK  [0.9] imoveblue | Masscity Blade M10 PRO Certificado | 999.0 EUR -> masscity-blade-m10-pro-a1086
+??  [0.39] imoveblue | Dualtron Togo Max Certificado | 1049.0 EUR -> dudoso:dualtron-togo-limited-b1061
+OK  [0.9] imoveblue | Rovoron R7 Certificado | 1069.0 EUR -> rovoron-r7-b1137
+OK  [0.9] imoveblue | Rovoron R7 Certificado | 1069.0 EUR -> rovoron-r7-b1137
+OK  [0.75] imoveblue | smartGyro Raptor Dual Evo LR | 1090.0 EUR -> smartgyro-raptor-evo-a1164
+??  [0.58] imoveblue | Ecoxtrem M41 Tank Xanzer certificado | 1099.0 EUR -> dudoso:ecoxtrem-m41-tank-a1143
+OK  [0.9] imoveblue | Zwheel ZWolf DUO certificado | 1159.0 EUR -> zwheel-zwolf-duo-a1201
+??  [0.15] imoveblue | Ecoxtrem Mumbai matriculable | 1190.0 EUR -> dudoso:ecoxtrem-deimos-dual-a1228
+??  [0.15] imoveblue | Ecoxtrem Mumbai matriculable | 1190.0 EUR -> dudoso:ecoxtrem-deimos-dual-a1228
+OK  [0.6] imoveblue | Rovoron R5 Pro certificado REACONDICIONADO | 1240.0 EUR -> rovoron-r5-pro-b1159
+OK  [0.6] imoveblue | Rovoron R5 Pro certificado REACONDICIONADO | 1240.0 EUR -> rovoron-r5-pro-b1159
+??  [0.33] imoveblue | Kaabo Mantis X Plus certificado REACONDICIONADO | 1249.0 EUR -> dudoso:kaabo-mantis-king-gt-a1098
+??  [0.33] imoveblue | Kaabo Mantis X Plus certificado REACONDICIONADO | 1249.0 EUR -> dudoso:kaabo-mantis-king-gt-a1098
+OK  [0.71] imoveblue | Teverun Fighter Mini Certificado | 1290.0 EUR -> teverun-fighter-mini-q-b1100
+??  [0.55] imoveblue | Odyssr Drift Dual Certificado | 1290.0 EUR -> dudoso:odyssr-drift-b1145
+OK  [0.71] imoveblue | Teverun Fighter Mini Certificado | 1290.0 EUR -> teverun-fighter-mini-q-b1100
+??  [0.39] imoveblue | Kaabo Mantis X Plus certificado | 1349.0 EUR -> dudoso:kaabo-mantis-king-gt-a1098
+??  [0.39] imoveblue | Kaabo Mantis X Plus certificado | 1349.0 EUR -> dudoso:kaabo-mantis-king-gt-a1098
+OK  [0.9] imoveblue | Rovoron R5 Pro certificado | 1390.0 EUR -> rovoron-r5-pro-b1159
+OK  [0.9] imoveblue | Rovoron R5 Pro certificado | 1390.0 EUR -> rovoron-r5-pro-b1159
+??  [0.43] imoveblue | ICe Q5 Evo 2026 Certificado | 1399.0 EUR -> dudoso:ice-q5-evolution-a1067
+OK  [0.9] imoveblue | Rovoron R7 PRO certificado | 1399.0 EUR -> rovoron-r7-pro-b1148
+??  [0.43] imoveblue | ICe Q5 Evo 2026 Certificado | 1399.0 EUR -> dudoso:ice-q5-evolution-a1067
+OK  [0.9] imoveblue | Rovoron R7 PRO certificado | 1399.0 EUR -> rovoron-r7-pro-b1148
+OK  [0.9] imoveblue | Dualtron Forever Limited Certificado | 1490.0 EUR -> dualtron-forever-limited-b1107
+??  [0.09] imoveblue | Segway GT3 E Certificado | 1490.0 EUR -> dudoso:ninebot-f2-pro-b1104
+OK  [0.9] imoveblue | Dualtron Forever Limited Certificado | 1490.0 EUR -> dualtron-forever-limited-b1107
+OK  [0.9] imoveblue | Navee XT5 ULTRA certificado | 1490.0 EUR -> navee-xt5-ultra-c1010
+OK  [0.9] imoveblue | Teverun Blade Mini Ultra Certificado | 1599.0 EUR -> teverun-blade-mini-ultra-b1118
+OK  [0.9] imoveblue | Teverun Blade Mini Ultra Certificado | 1599.0 EUR -> teverun-blade-mini-ultra-b1118
+??  [0.4] imoveblue | Dualtron Achilleus Limited 60V 31Ah REACONDICIONADO Certificado | 1629.0 EUR -> dudoso:dualtron-forever-limited-b1107
+??  [0.4] imoveblue | Dualtron Achilleus Limited 60V 31Ah REACONDICIONADO Certificado | 1629.0 EUR -> dudoso:dualtron-forever-limited-b1107
+OK  [0.64] imoveblue | MASSCITY Teverun BLADE GT 2 II + Certificado | 1649.0 EUR -> masscity-blade-gt-ii-a1087
+??  [0.53] imoveblue | Teverun Fighter Mini 2026 motor Bosch certificado | 1690.0 EUR -> dudoso:teverun-fighter-mini-q-b1100
+??  [0.53] imoveblue | Teverun Fighter Mini 2026 motor Bosch certificado | 1690.0 EUR -> dudoso:teverun-fighter-mini-q-b1100
+OK  [0.9] imoveblue | Dualtron Victor Luxury Plus Certificado 60V 37Ah | 1699.0 EUR -> dualtron-victor-luxury-plus-b1060
+OK  [0.9] imoveblue | Dualtron Victor Luxury Plus Certificado 60V 37Ah | 1699.0 EUR -> dualtron-victor-luxury-plus-b1060
+??  [0.16] imoveblue | Ecoxtrem Centauro | 1699.0 EUR -> dudoso:ecoxtrem-m41-tank-a1143
+??  [0.16] imoveblue | Ecoxtrem Centauro | 1699.0 EUR -> dudoso:ecoxtrem-m41-tank-a1143
+??  [0.48] imoveblue | Dualtron Achilleus Limited Certificado | 1790.0 EUR -> dudoso:dualtron-forever-limited-b1107
+??  [0.48] imoveblue | Dualtron Achilleus Limited Certificado | 1790.0 EUR -> dudoso:dualtron-forever-limited-b1107
+OK  [0.9] imoveblue | Dualtron Victor Limited Certificado | 1869.0 EUR -> dualtron-victor-limited-b1059
+OK  [0.9] imoveblue | Dualtron Victor Limited Certificado | 1869.0 EUR -> dualtron-victor-limited-b1059
+??  [0.1] imoveblue | Kaabo Wolf Warrior X Max certificado | 1899.0 EUR -> dudoso:kaabo-mantis-king-gt-a1098
+??  [0.1] imoveblue | Kaabo Wolf Warrior X Max certificado | 1899.0 EUR -> dudoso:kaabo-mantis-king-gt-a1098
+??  [0.49] imoveblue | Teverun Fighter Mini PRO Carbon Bosch Certificado | 2290.0 EUR -> dudoso:teverun-fighter-mini-q-b1100
+??  [0.45] imoveblue | Dualtron Thunder 3 Certificado reacondicionado | 3340.0 EUR -> dudoso:dualtron-thunder-iii-b1101
+??  [0.45] imoveblue | Dualtron Thunder 3 Certificado reacondicionado | 3340.0 EUR -> dudoso:dualtron-thunder-iii-b1101
+??  [0.58] imoveblue | Dualtron Thunder 3 Certificado | 3490.0 EUR -> dudoso:dualtron-thunder-iii-b1101
+??  [0.58] imoveblue | Dualtron Thunder 3 Certificado | 3490.0 EUR -> dudoso:dualtron-thunder-iii-b1101
+OK  [0.9] kukirin.es | KuKirin G2 Pro | 449.0 EUR -> kukirin-g2-pro-a1156
+OK  [0.9] kukirin.es | Patinete eléctrico KuKirin G2 | 458.0 EUR -> kukirin-g2-c1011
+OK  [0.9] myurbanscoot | smartgyro k1 dgt | 449.0 EUR -> smartgyro-k1-a1209
+??  [0.44] myurbanscoot | kamikaze k1 lite dgt | 469.0 EUR -> dudoso:kamikaze-k1-lite-a1206
+SIN [0.0] myurbanscoot | g2 xtreme f1 dgt | 529.0 EUR -> sin ficha
+OK  [0.9] myurbanscoot | kukirin g2 dgt | 539.0 EUR -> kukirin-g2-c1011
+??  [0.16] myurbanscoot | kamikaze k1 dgt | 539.0 EUR -> dudoso:kamikaze-k1-lite-a1206
+??  [0.54] myurbanscoot | smartgyro rockway gl dgt | 599.0 EUR -> dudoso:smartgyro-rockway-gt-a1190
+??  [0.56] myurbanscoot | ecoxtrem tank m41 ultimate dgt | 599.0 EUR -> dudoso:ecoxtrem-m41-tank-a1143
+??  [0.44] myurbanscoot | kamikaze k1 plus dgt | 599.0 EUR -> dudoso:kamikaze-k1-plus-a1208
+??  [0.59] myurbanscoot | ecoxtrem m41 armored one pro dgt | 699.0 EUR -> dudoso:ecoxtrem-m41-armored-a1224
+OK  [0.9] myurbanscoot | smartgyro k5 pro dgt | 699.0 EUR -> smartgyro-k5-pro-a1213
+OK  [0.9] myurbanscoot | smartgyro rockway gt dgt | 699.0 EUR -> smartgyro-rockway-gt-a1190
+OK  [0.9] myurbanscoot | smartgyro k5 pro lr dgt | 779.0 EUR -> smartgyro-k5-pro-a1214
+OK  [0.9] myurbanscoot | smartgyro rockway gts dgt | 779.0 EUR -> smartgyro-rockway-gts-a1189
+SIN [0.0] myurbanscoot | xtreme f1 max dgt | 799.0 EUR -> sin ficha
+??  [0.55] myurbanscoot | ecoxtrem m41 tank dual motor frenos hidraulicos | 799.0 EUR -> dudoso:ecoxtrem-m41-tank-dual-a1182
+??  [0.42] myurbanscoot | kamikaze k1 max dgt | 859.0 EUR -> dudoso:kamikaze-k1-max-a1207
+OK  [0.69] myurbanscoot | ecoxtrem m41 armored lr dgt | 895.0 EUR -> ecoxtrem-m41-armored-a1224
+??  [0.55] myurbanscoot | teverun blade mini pro dgt dual motor | 975.0 EUR -> dudoso:teverun-blade-mini-ultra-b1118
+OK  [0.9] myurbanscoot | rovoron r7 dgt | 1049.0 EUR -> rovoron-r7-b1137
+OK  [0.63] myurbanscoot | teverun blade mini ultra dgt dua lmotor | 1149.0 EUR -> teverun-blade-mini-ultra-b1118
+OK  [0.62] myurbanscoot | ecoxtrem m41 tank xanzer dgt | 1199.0 EUR -> ecoxtrem-m41-tank-a1143
+OK  [0.9] myurbanscoot | rovoron r7 pro dgt | 1599.0 EUR -> rovoron-r7-pro-b1148
+OK  [0.9] myurbanscoot | rovoron s7 dgt | 2499.0 EUR -> rovoron-s7-b1146
+OK  [0.64] myurbanscoot | dualtron sonic alien dgt | 3889.0 EUR -> dualtron-sonic-alien-b1136
+??  [0.03] patinetestore | Damper de Dirección Kukirin G4 | 74.9 EUR -> dudoso:kukirin-g2-c1011
+??  [0.59] patinetestore | SmartGyro Z-One 2 Gray | 294.0 EUR -> dudoso:smartgyro-z-one-a1045
+??  [0.1] patinetestore | Patinete Eléctrico Ecoxtrem PUCK Homologado por la DGT | 299.0 EUR -> dudoso:ecoxtrem-boop-a1144
+??  [0.38] patinetestore | Patinete eléctrico KAMIKAZE K1 Lite DGT | 470.0 EUR -> dudoso:kamikaze-k1-lite-a1206
+??  [0.42] patinetestore | Patinete eléctrico Smartgyro Rockway GL 2026 | 485.49 EUR -> dudoso:smartgyro-rockway-gt-a1190
+OK  [0.9] patinetestore | Patinete Eléctrico Ecoxtrem Deimos DGT | 498.9 EUR -> ecoxtrem-deimos-a1229
+OK  [0.9] patinetestore | Patinete eléctrico KuKirin G2 PRO DGT | 499.0 EUR -> kukirin-g2-pro-a1156
+OK  [0.9] patinetestore | Navee ST3 Pro DGT | 499.0 EUR -> navee-st3-pro-c1005
+??  [0.13] patinetestore | Patinete Eléctrico Xtreme F1 DGT | 528.01 EUR -> dudoso:pure-advance-flex
+??  [0.2] patinetestore | Patinete eléctrico KAMIKAZE K1 DGT | 529.0 EUR -> dudoso:kamikaze-k1-lite-a1206
+OK  [0.9] patinetestore | Zwheel Zwolf DGT | 579.0 EUR -> zwheel-zwolf-a1199
+??  [0.35] patinetestore | Patinete Eléctrico Ecoxtrem Bison GT Carbon | 589.0 EUR -> dudoso:ecoxtrem-bison-a1085
+OK  [0.9] patinetestore | Patinete eléctrico KuKirin G2 | 590.0 EUR -> kukirin-g2-c1011
+OK  [0.9] patinetestore | Smartgyro Rockway GT 2026 | 595.0 EUR -> smartgyro-rockway-gt-a1190
+??  [0.56] patinetestore | Patinete eléctrico Ecoxtrem M41 Tank Single | 599.0 EUR -> dudoso:ecoxtrem-m41-tank-a1143
+??  [0.38] patinetestore | Patinete eléctrico KAMIKAZE K1 Plus DGT | 599.0 EUR -> dudoso:kamikaze-k1-plus-a1208
+OK  [0.9] patinetestore | Patinete Eléctrico Adasmart X | 599.0 EUR -> adasmart-x-b1067
+??  [0.58] patinetestore | Patinete Eléctrico Ecoxtrem Deimos DGT Dual Motor | 647.9 EUR -> dudoso:ecoxtrem-deimos-dual-a1228
+??  [0.15] patinetestore | Ecoxtrem Negro 1 Motor DGT - MODIFICADO | 650.0 EUR -> dudoso:ecoxtrem-m41-armored-a1224
+??  [0.29] patinetestore | VENDIDO - Ecoxtrem ARMORED ONE CUPRA DGT - MODIFICADO | 650.0 EUR -> dudoso:ecoxtrem-m41-armored-a1224
+OK  [0.9] patinetestore | Patinete Eléctrico Navee NT5 MAX | 659.0 EUR -> navee-nt5-max-c1021
+OK  [0.63] patinetestore | Smartgyro Crossover Dual Max 2 LR EXCLUSIVO FRENOS HIDRÁULICOS | 689.0 EUR -> smartgyro-crossover-dual-max-2-lr-a1175
+??  [0.37] patinetestore | Patinete Eléctrico Ecoxtrem Armored ONE PRO | 689.5 EUR -> dudoso:ecoxtrem-m41-armored-a1224
+OK  [0.9] patinetestore | Smartgyro K2 PRO | 699.0 EUR -> smartgyro-k2-pro-a1061
+??  [0.32] patinetestore | Patinete Eléctrico Ecoxtrem Deimos Dual PRO naranja con frenos hidráulicos NUTT | 749.0 EUR -> dudoso:ecoxtrem-deimos-dual-a1228
+OK  [0.9] patinetestore | Smartgyro Rockway EVO PRO | 754.0 EUR -> smartgyro-rockway-pro-evo-a1162
+OK  [0.9] patinetestore | Patinete Eléctrico Smartgyro K5 PRO LR | 774.0 EUR -> smartgyro-k5-pro-a1214
+OK  [0.61] patinetestore | Smartgyro Raptor EVO LR OFERTA LIQUIDACIÓN | 794.0 EUR -> smartgyro-raptor-evo-a1164
+OK  [0.9] patinetestore | SmartGyro Ryder 2 | 794.0 EUR -> smartgyro-ryder-a1105
+??  [0.14] patinetestore | Patinete Eléctrico Xtreme F1 Max DGT | 798.0 EUR -> dudoso:pure-advance-flex
+??  [0.56] patinetestore | Patinete Eléctrico Ecoxtrem M41 Tank Dual (Frenos hidráulicos) | 799.0 EUR -> dudoso:ecoxtrem-m41-tank-dual-a1182
+??  [0.31] patinetestore | Patinete eléctrico KAMIKAZE K1 MAX Tokio Drift | 860.0 EUR -> dudoso:kamikaze-k1-max-a1207
+??  [0.42] patinetestore | Ecoxtrem M41 Armored Dual LR 24Ah homologado por la DGT | 879.0 EUR -> dudoso:ecoxtrem-m41-armored-a1224
+??  [0.38] patinetestore | Patinete eléctrico KuKirin G2 Master 2025 | 887.0 EUR -> dudoso:kukirin-g2-c1011
+??  [0.17] patinetestore | Ecoxtrem Armored Dual Pro azul oscuro, mástil limpio sin anagramas y pieza delantera azul, con luces RGB | 895.0 EUR -> dudoso:ecoxtrem-m41-tank-dual-a1182
+OK  [0.9] patinetestore | Zwheel Zwolf DUO DGT | 899.0 EUR -> zwheel-zwolf-duo-a1201
+??  [0.15] patinetestore | Ecoxtrem Verde 1 Motor DGT - MODIFICADO | 899.0 EUR -> dudoso:ecoxtrem-boop-a1144
+OK  [0.9] patinetestore | Patinete Eléctrico Rovoron R7 DGT | 1045.0 EUR -> rovoron-r7-b1137
+??  [0.26] patinetestore | Ecoxtrem Armored Dual PRO Modificado DGT en color blanco | 1068.0 EUR -> dudoso:ecoxtrem-m41-tank-dual-a1182
+??  [0.41] patinetestore | ecoxtrem armored dual modificado | 1120.0 EUR -> dudoso:ecoxtrem-m41-armored-a1224
+??  [0.22] patinetestore | Ecoxtrem Armored Dual Red Bull Glitter DGT - MODIFICADO por PatineteStore | 1150.0 EUR -> dudoso:ecoxtrem-m41-tank-dual-a1182
+OK  [0.9] patinetestore | Patinete Eléctrico Rovoron R7 PRO DGT | 1295.0 EUR -> rovoron-r7-pro-b1148
+??  [0.15] patinetestore | Patinete Eléctrico Kaabo Wolf X Plus DGT | 1349.0 EUR -> dudoso:pure-advance-flex
+OK  [0.69] patinetestore | Dualtron Forever Limited MAX DGT 30Ah | 1399.0 EUR -> dualtron-forever-limited-b1107
+OK  [0.9] patinetestore | Dualtron Victor Limited DGT | 1890.0 EUR -> dualtron-victor-limited-b1059
+OK  [0.9] patinetestore | Dualtron Victor Luxury PLUS DGT 60V 35Ah | 2085.0 EUR -> dualtron-victor-luxury-plus-b1060
+OK  [0.9] patinetestore | Patinete Eléctrico Rovoron S7 DGT | 2389.0 EUR -> rovoron-s7-b1146
+OK  [0.64] patinetestore | Dualtron Sonic Alien DGT | 3885.0 EUR -> dualtron-sonic-alien-b1136
+??  [0.29] sabway | Patinete eléctrico ICe Q3 EVO 48V 15Ah DUAL MOTOR Homologado DGT 2 | 280.0 EUR -> dudoso:ice-q3-evolution-a1065
+??  [0.05] sabway | Patinete eléctrico Mi Sabway Pro 350W Homologado DGT 2 | 389.9 EUR -> dudoso:pure-advance-flex
+??  [0.05] sabway | Patinete eléctrico KUICKWHEEL M16 PRO 36V 10,4Ah Homologado DGT 2 | 499.98 EUR -> dudoso:pure-advance-flex
+??  [0.36] sabway | Patinete eléctrico DUALTRON TOGO 48V 12Ah Homologado DGT 2 | 639.99 EUR -> dudoso:dualtron-togo-limited-b1061
+??  [0.06] sabway | Patinete eléctrico Dynamic Pro 600W Homologado DGT 2 | 689.9 EUR -> dudoso:pure-advance-flex
+??  [0.05] sabway | Patinete eléctrico KUICKWHEEL S1-C PRO 36V 13Ah Homologado DGT 2 | 699.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] sabway | Patinete eléctrico Dynamic Pro Rider 600W Homologado DGT 2 | 798.9 EUR -> dudoso:pure-advance-flex
+??  [0.36] sabway | SmartGyro Speedway PRO Homologado DGT | Patinete 1800W 2 | 799.0 EUR -> dudoso:smartgyro-rockway-pro-evo-a1162
+??  [0.05] sabway | Patinete eléctrico KUICKWHEEL S9 36V 15,6Ah Homologado DGT 2 | 799.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] sabway | Patinete eléctrico Dynamic Pro Rider Dual Motor Homologado DGT 2 | 1049.9 EUR -> dudoso:pure-advance-flex
+SIN [0.0] smartgyro | Patinete eléctrico... | 50.0 EUR -> sin ficha
+SIN [0.0] smartgyro | Patinete eléctrico... | 60.0 EUR -> sin ficha
+SIN [0.0] smartgyro | Patinete eléctrico... | 100.0 EUR -> sin ficha
+SIN [0.0] smartgyro | Patinete eléctrico... | 100.0 EUR -> sin ficha
+SIN [0.0] smartgyro | Patinete eléctrico... | 100.0 EUR -> sin ficha
+??  [0.49] smartgyro | Patinete eléctrico smartGyro Z-One 2 Gray Certificado | 299.0 EUR -> dudoso:smartgyro-z-one-a1045
+OK  [0.9] smartgyro | Patinete eléctrico Smartgyro K1 | 459.0 EUR -> smartgyro-k1-a1209
+??  [0.43] smartgyro | Patinete eléctrico smartGyro Rockway GL | 599.0 EUR -> dudoso:smartgyro-rockway-gt-a1190
+OK  [0.9] smartgyro | Patinete eléctrico smartGyro K5 PRO Certificado | 679.0 EUR -> smartgyro-k5-pro-a1213
+??  [0.12] smartgyro | Patinete eléctrico smartGyro Speedway Certificado | 699.0 EUR -> dudoso:smartgyro-rockway-pro-evo-a1162
+OK  [0.9] smartgyro | Patinete eléctrico smartGyro Rockway GTS | 779.0 EUR -> smartgyro-rockway-gts-a1189
+OK  [0.9] smartgyro | Patinete eléctrico smartGyro K5 PRO LR Certificado | 779.0 EUR -> smartgyro-k5-pro-a1214
+OK  [0.9] smartgyro | Patinete eléctrico smartGyro CROSSOVER DUAL MAX 2 | 799.0 EUR -> smartgyro-crossover-dual-max-2-a1176
+??  [0.38] smartgyro | Patinete eléctrico smartGyro Speedway PRO Certificado | 799.0 EUR -> dudoso:smartgyro-rockway-pro-evo-a1162
+OK  [0.9] smartgyro | Patinete eléctrico smartGyro Rockway GT DUAL | 799.0 EUR -> smartgyro-rockway-gt-dual-a1215
+OK  [0.9] smartgyro | Patinete eléctrico smartGyro Raptor Evo | 799.0 EUR -> smartgyro-raptor-evo-a1165
+OK  [0.9] smartgyro | Patinete eléctrico smartGyro Crossover Dual XT | 899.0 EUR -> smartgyro-crossover-dual-xt-a1205
+OK  [0.9] smartgyro | Patinete eléctrico smartGyro Raptor Evo LR | 899.01 EUR -> smartgyro-raptor-evo-a1164
+??  [0.14] tallerdelpatinete | Llave encendido con Voltimetro Smartgyro 2.0 | 59.9 EUR -> dudoso:smartgyro-raptor-dual-evo-a1166
+??  [0.59] tallerdelpatinete | Mando Limitador / Deslimitador Smartgyro Crossover Dual Max 2... | 68.9 EUR -> dudoso:smartgyro-crossover-dual-max-2-a1176
+??  [0.22] tallerdelpatinete | Mando Limitador / Deslimitador SmartGyro K2 | 89.9 EUR -> dudoso:smartgyro-k2-pro-xl-a1090
+??  [0.21] tallerdelpatinete | Mando Limitador / Deslimitador Kukirin G2 Master 2025 | 120.0 EUR -> dudoso:kukirin-g2-pro-a1156
+??  [0.55] tallerdelpatinete | Patinete Eléctrico Ecoxtrem Deimos Dual Motor Homologado DGT | 649.0 EUR -> dudoso:ecoxtrem-deimos-dual-a1228
+??  [0.33] tallerdelpatinete | Patinete Eléctrico Ecoxtrem Armored Dual PRO Homologado DGT | 895.0 EUR -> dudoso:ecoxtrem-m41-armored-a1224
+??  [0.13] tallerdelpatinete | Cómo contratar un seguro para patinete eléctrico | 1000.0 EUR -> dudoso:pure-advance-flex
+??  [0.13] tallerdelpatinete | Cómo contratar un seguro para patinete eléctrico | 1000.0 EUR -> dudoso:pure-advance-flex
+OK  [0.9] tallerdelpatinete | Patinete Eléctrico Rovoron R7 Homologado DGT | 1045.0 EUR -> rovoron-r7-b1137
+OK  [0.9] tallerdelpatinete | Patinete Eléctrico Rovoron S7 Homologado DGT | 2389.0 EUR -> rovoron-s7-b1146

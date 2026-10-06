@@ -13,31 +13,43 @@ Uso:
 
 Genera: merge_report.txt (emparejados, dudosos, sin emparejar)
 """
-import json, re, sys
+import json, re, sys, unicodedata
 from difflib import SequenceMatcher
 from pathlib import Path
 
 BASE = Path(__file__).parent
 ROOT = BASE.parent
-MIN_SCORE = 0.55
+STOP = {"patinete", "patinetes", "electrico", "electricos", "electrica",
+        "certificado", "certificada", "homologado", "homologada", "dgt", "vmp",
+        "scooter", "version", "versiones", "eu", "e"}
+NUM_RE = re.compile(r"^\d+(\.\d+)?$")
+SPEC_RE = re.compile(r"^\d+(\.\d+)?(v|ah|w)$|^\d+[a-z]*ah$")
+MIN_SCORE = 0.60
 
 
 def norm(s):
-    return re.sub(r"[^a-z0-9]+", " ", (s or "").lower()).strip()
+    s = unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode()
+    return re.sub(r"[^a-z0-9]+", " ", s.lower()).strip()
 
 
-def score(modelo, nombre):
+def score(modelo, nombre, brand=""):
     a, b = norm(modelo), norm(nombre)
     if not a or not b:
         return 0.0
+    stop = STOP | set(norm(brand).split())
+    ta = {t for t in a.split() if t not in stop and not SPEC_RE.match(t) and not NUM_RE.match(t)}
+    tb = {t for t in b.split() if t not in stop and not NUM_RE.match(t) and not SPEC_RE.match(t)}
+    if not ta or not tb:
+        return 0.0
     r = SequenceMatcher(None, a, b).ratio()
-    ta, tb = set(a.split()), set(b.split())
-    overlap = len(ta & tb) / max(1, len(ta))
-    base = 0.6 * r + 0.4 * overlap
-    if ta and ta <= tb:
-        # el modelo aparece integro en el nombre de la oferta: casi seguro
-        base = max(base, 0.65)
-    return base
+    inter = len(ta & tb)
+    prec = inter / len(tb)
+    rec = inter / len(ta)
+    f1 = 2 * prec * rec / (prec + rec) if (prec + rec) else 0.0
+    s = 0.5 * r + 0.5 * f1
+    if ta == tb:
+        s = max(s, 0.9)
+    return max(0.0, s)
 
 
 def load_enriched(src):
@@ -70,12 +82,20 @@ def main():
                 extra = alias.get(norm(f["marca"]), [])
                 if not any(t in nb for t in extra):
                     continue
-            s = score(f["modelo"], of["nombre"])
+            s = score(f["modelo"], of["nombre"], f["marca"])
             if s > best_s:
                 best, best_s = f, s
-        of["_ficha"] = best["id"] if best and best_s >= MIN_SCORE else None
+        cheap = False
+        if best and best_s >= MIN_SCORE and best.get("precio"):
+            # compuerta anti-cuotas: oferta <45% del precio conocido = sospechosa
+            if of["precio"] < 0.45 * best["precio"]:
+                cheap = True
+        of["_ficha"] = best["id"] if best and best_s >= MIN_SCORE and not cheap else None
         of["_score"] = round(best_s, 2)
-        status = "OK " if of["_ficha"] else ("?? " if best else "SIN")
+        if cheap:
+            status = "BARATO?"
+        else:
+            status = "OK " if of["_ficha"] else ("?? " if best else "SIN")
         report.append(f"{status} [{of['_score']}] {of['tienda']} | {of['nombre']} | {of['precio']} EUR "
                       f"-> {of['_ficha'] or ('dudoso:' + best['id'] if best else 'sin ficha')}")
 

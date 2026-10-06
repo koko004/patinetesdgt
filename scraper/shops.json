@@ -2,7 +2,7 @@
   {"tienda": "imoveblue", "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt"},
   {"tienda": "myurbanscoot", "url": "https://myurbanscoot.com/es/categories/patinetes-electricos?dgt=dgt"},
   {"tienda": "ecoxtrem", "url": "https://ecoxtrem.com/patinetes-electricos-homologados"},
-  {"tienda": "kukirin.es", "url": "https://kukirin.es/"},
+  {"tienda": "kukirin.es", "url": "https://kukirin.es/", "collect": "/producto/"},
   {"tienda": "smartgyro", "url": "https://smartgyro.es/todos-los-patinetes"},
   {"tienda": "sabway", "url": "https://sabway.es/shop/203-patinetes-electricos-homologados?order=product.position.asc&productListView=grid"},
   {"tienda": "patinetestore", "url": "https://patinetestore.com/categoria-producto/patinetes-electricos/"},
