@@ -1,1 +1,58 @@
-[]
+[
+ {
+  "tienda": "sabway",
+  "nombre": "Patinete eléctrico KUICKWHEEL M16 PRO 36V 10,4Ah Homologado DGT 2",
+  "precio": 499.98,
+  "url": "https://sabway.es/shop/205-kuickwheel?order=product.position.asc&productListView=grid",
+  "slot": "sabway-kuickwheel"
+ },
+ {
+  "tienda": "sabway",
+  "nombre": "Patinete eléctrico KUICKWHEEL M16 PRO 36V 10,4Ah Homologado DGT 2",
+  "precio": 499.98,
+  "url": "https://sabway.es/shop/205-kuickwheel?order=product.position.asc&productListView=list",
+  "slot": "sabway-kuickwheel"
+ },
+ {
+  "tienda": "sabway",
+  "nombre": "Patinete eléctrico KUICKWHEEL M16 PRO 36V 10,4Ah Homologado DGT 2",
+  "precio": 499.98,
+  "url": "https://sabway.es/shop/kuickwheel/2080-patinete-electrico-kuickwheel-m16-pro-36v-104ah-homologado-dgt.html",
+  "slot": "sabway-kuickwheel"
+ },
+ {
+  "tienda": "sabway",
+  "nombre": "patinete electrico kuickwheel m16 pro 36v 104ah homologado dgt",
+  "precio": 499.98,
+  "url": "https://sabway.es/shop/kuickwheel/2080-patinete-electrico-kuickwheel-m16-pro-36v-104ah-homologado-dgt.html",
+  "slot": "sabway-kuickwheel"
+ },
+ {
+  "tienda": "sabway",
+  "nombre": "Patinete eléctrico KUICKWHEEL S1-C PRO 36V 13Ah Homologado DGT 2",
+  "precio": 699.0,
+  "url": "https://sabway.es/shop/kuickwheel/2081-patinete-electrico-kuickwheel-s1-c-pro-36v-13ah-homologado-dgt.html",
+  "slot": "sabway-kuickwheel"
+ },
+ {
+  "tienda": "sabway",
+  "nombre": "patinete electrico kuickwheel s1 c pro 36v 13ah homologado dgt",
+  "precio": 699.0,
+  "url": "https://sabway.es/shop/kuickwheel/2081-patinete-electrico-kuickwheel-s1-c-pro-36v-13ah-homologado-dgt.html",
+  "slot": "sabway-kuickwheel"
+ },
+ {
+  "tienda": "sabway",
+  "nombre": "Patinete eléctrico KUICKWHEEL S9 36V 15,6Ah Homologado DGT 2",
+  "precio": 799.0,
+  "url": "https://sabway.es/shop/kuickwheel/2083-patinete-electrico-kuickwheel-s9-36v-156ah-homologado-dgt.html",
+  "slot": "sabway-kuickwheel"
+ },
+ {
+  "tienda": "sabway",
+  "nombre": "patinete electrico kuickwheel s9 36v 156ah homologado dgt",
+  "precio": 799.0,
+  "url": "https://sabway.es/shop/kuickwheel/2083-patinete-electrico-kuickwheel-s9-36v-156ah-homologado-dgt.html",
+  "slot": "sabway-kuickwheel"
+ }
+]

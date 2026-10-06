@@ -1,1 +1,30 @@
-[]
+[
+ {
+  "tienda": "rcb",
+  "nombre": "Intermitente RCB D7 PRO ABE Ultra Elektroroller (RCB D7 PRO Ultra NFC+Señal de giro)",
+  "precio": 899.0,
+  "url": "https://www.rcb-scooter.com/es/products/rcb-d7-pro-abe-elektroroller-rcb-tech-d7-pro-2025-es",
+  "slot": "rcb"
+ },
+ {
+  "tienda": "rcb",
+  "nombre": "Intermitente RCB D7 PRO ABE Ultra Elektroroller (RCB D7 PRO Ultra NFC+Señal de giro)",
+  "precio": 899.0,
+  "url": "https://www.rcb-scooter.com/es/products/rcb-d7-abe-elektroroller-intermitente-ultra-rcb-d7-abe-nfc-intermitente",
+  "slot": "rcb"
+ },
+ {
+  "tienda": "rcb",
+  "nombre": "Intermitente RCB D7 PRO ABE Ultra Elektroroller (RCB D7 PRO Ultra NFC+Señal de giro)",
+  "precio": 899.0,
+  "url": "https://www.rcb-scooter.com/es/products/rcb-d5-pro-abe-elektroroller-intermitente-ultra-rcb-d5-pro-nfc-intermitente",
+  "slot": "rcb"
+ },
+ {
+  "tienda": "rcb",
+  "nombre": "Intermitente RCB D7 PRO ABE Ultra Elektroroller (RCB D7 PRO Ultra NFC+Señal de giro)",
+  "precio": 899.0,
+  "url": "https://www.rcb-scooter.com/es/products/rcb-d5-abe-elektroroller-intermitente-ultra-rcb-d5-nfc-intermitente",
+  "slot": "rcb"
+ }
+]

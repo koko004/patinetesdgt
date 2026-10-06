@@ -1,5 +1,5 @@
 # fichas actualizadas: 71/295
-# ofertas emparejadas: 157/372
+# ofertas emparejadas: 159/502
 
 SIN [0.0] cecotec | Bongo D20E Connected Patinete eléctrico ligero con potencia máxima de 500 W y una velocidad máxima de 20 km/h y hasta 20 | 159.0 EUR -> sin ficha
 SIN [0.0] cecotec | Bongo D20E Connected + Phone holder Patinete eléctrico ligero con potencia máxima de 500 W y una velocidad máxima de 20 | 199.0 EUR -> sin ficha
@@ -57,8 +57,26 @@ OK  [0.68] hikerboy | Curtis Plus Electric Scooter | 549.0 EUR -> hikerboy-curti
 OK  [0.68] hikerboy | Curtis Dual Electric Scooter | 609.0 EUR -> hikerboy-curtis-dual-c1015
 OK  [0.68] hikerboy | Curtis Dual Electric Scooter | 609.0 EUR -> hikerboy-curtis-dual-c1015
 OK  [0.68] hikerboy | Curtis Dual Electric Scooter | 609.0 EUR -> hikerboy-curtis-dual-c1015
+SIN [0.0] imoveblue | Skateflash | 50.0 EUR -> sin ficha
 ??  [0.11] imoveblue | Ninebot F3 E | 50.0 EUR -> dudoso:ninebot-f2-pro-b1004
 BARATO? [0.9] imoveblue | Navee XT5 Pro | 50.0 EUR -> dudoso:navee-xt5-pro-c1009
+??  [0.44] imoveblue | ICe Q5 EVO 2026 60V | 50.0 EUR -> dudoso:ice-q5-evolution-a1067
+??  [0.44] imoveblue | ICe Q5 EVO 2026 60V | 50.0 EUR -> dudoso:ice-q5-evolution-a1067
+??  [0.44] imoveblue | ICe Q5 EVO 2026 60V | 50.0 EUR -> dudoso:ice-q5-evolution-a1067
+??  [0.44] imoveblue | ICe Q5 EVO 2026 60V | 50.0 EUR -> dudoso:ice-q5-evolution-a1067
+??  [0.44] imoveblue | ICe Q5 EVO 2026 60V | 50.0 EUR -> dudoso:ice-q5-evolution-a1067
+??  [0.44] imoveblue | ICe Q5 EVO 2026 60V | 50.0 EUR -> dudoso:ice-q5-evolution-a1067
+??  [0.44] imoveblue | ICe Q5 EVO 2026 60V | 50.0 EUR -> dudoso:ice-q5-evolution-a1067
+??  [0.44] imoveblue | ICe Q5 EVO 2026 60V | 50.0 EUR -> dudoso:ice-q5-evolution-a1067
+??  [0.44] imoveblue | ICe Q5 EVO 2026 60V | 50.0 EUR -> dudoso:ice-q5-evolution-a1067
+??  [0.44] imoveblue | ICe Q5 EVO 2026 60V | 50.0 EUR -> dudoso:ice-q5-evolution-a1067
+??  [0.44] imoveblue | ICe Q5 EVO 2026 60V | 50.0 EUR -> dudoso:ice-q5-evolution-a1067
+??  [0.44] imoveblue | ICe Q5 EVO 2026 60V | 50.0 EUR -> dudoso:ice-q5-evolution-a1067
+??  [0.44] imoveblue | ICe Q5 EVO 2026 60V | 50.0 EUR -> dudoso:ice-q5-evolution-a1067
+??  [0.44] imoveblue | ICe Q5 EVO 2026 60V | 50.0 EUR -> dudoso:ice-q5-evolution-a1067
+??  [0.44] imoveblue | ICe Q5 EVO 2026 60V | 50.0 EUR -> dudoso:ice-q5-evolution-a1067
+??  [0.44] imoveblue | ICe Q5 EVO 2026 60V | 50.0 EUR -> dudoso:ice-q5-evolution-a1067
+??  [0.44] imoveblue | ICe Q5 EVO 2026 60V | 50.0 EUR -> dudoso:ice-q5-evolution-a1067
 ??  [0.41] imoveblue | Kamikaze K1 Max | 84.0 EUR -> dudoso:kamikaze-k1-max-a1207
 ??  [0.1] imoveblue | Odyssr Alpha | 100.0 EUR -> dudoso:odyssr-rodeo-b1144
 ??  [0.07] imoveblue | Segway Ninebot Max G3 | 100.0 EUR -> dudoso:ninebot-e2-plus-b1052
@@ -223,6 +241,111 @@ OK  [0.9] imoveblue | Dualtron Victor Limited Certificado | 1869.0 EUR -> dualtr
 ??  [0.45] imoveblue | Dualtron Thunder 3 Certificado reacondicionado | 3340.0 EUR -> dudoso:dualtron-thunder-iii-b1101
 ??  [0.58] imoveblue | Dualtron Thunder 3 Certificado | 3490.0 EUR -> dudoso:dualtron-thunder-iii-b1101
 ??  [0.58] imoveblue | Dualtron Thunder 3 Certificado | 3490.0 EUR -> dudoso:dualtron-thunder-iii-b1101
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+??  [0.05] imoveblue | patinetes electricos certificados dgt | 4390.0 EUR -> dudoso:pure-advance-flex
+SIN [0.0] imoveblue | reviews | 4390.0 EUR -> sin ficha
 SIN [0.0] isinwheel | patinete electrico de desplazamientos iscooter i9max de 500 w | 298.99 EUR -> sin ficha
 SIN [0.0] isinwheel | isinwheel s9 max patinete electrico | 319.99 EUR -> sin ficha
 SIN [0.0] isinwheel | isinwheel® GT2 Patinete Eléctrico con Homologación DGT | 578.99 EUR -> sin ficha
@@ -322,15 +445,21 @@ OK  [0.64] patinetestore | Dualtron Sonic Alien DGT | 3885.0 EUR -> dualtron-son
 SIN [0.0] pccomponentes | menos de 200 | 200.0 EUR -> sin ficha
 SIN [0.0] pccomponentes | tablets | 200.0 EUR -> sin ficha
 SIN [0.0] pccomponentes | basicos hasta 799 | 799.0 EUR -> sin ficha
+??  [0.11] rcb | Intermitente RCB D7 PRO ABE Ultra Elektroroller (RCB D7 PRO Ultra NFC+Señal de giro) | 899.0 EUR -> dudoso:rcb-d7-c1023
+??  [0.11] rcb | Intermitente RCB D7 PRO ABE Ultra Elektroroller (RCB D7 PRO Ultra NFC+Señal de giro) | 899.0 EUR -> dudoso:rcb-d7-c1023
+??  [0.11] rcb | Intermitente RCB D7 PRO ABE Ultra Elektroroller (RCB D7 PRO Ultra NFC+Señal de giro) | 899.0 EUR -> dudoso:rcb-d7-c1023
+??  [0.11] rcb | Intermitente RCB D7 PRO ABE Ultra Elektroroller (RCB D7 PRO Ultra NFC+Señal de giro) | 899.0 EUR -> dudoso:rcb-d7-c1023
 ??  [0.29] sabway | Patinete eléctrico ICe Q3 EVO 48V 15Ah DUAL MOTOR Homologado DGT 2 | 280.0 EUR -> dudoso:ice-q3-evolution-a1065
 OK  [0.9] sabway | Patinete eléctrico Mi Sabway Pro 350W Homologado DGT 2 | 389.9 EUR -> sabway-mi-sabway-pro-a1123
+OK  [0.9] sabway | Patinete eléctrico KUICKWHEEL M16 PRO 36V 10,4Ah Homologado DGT 2 | 499.98 EUR -> kuickwheel-m16-pro-versi-n-10-4ah-b1024
+OK  [0.9] sabway | Patinete eléctrico KUICKWHEEL M16 PRO 36V 10,4Ah Homologado DGT 2 | 499.98 EUR -> kuickwheel-m16-pro-versi-n-10-4ah-b1024
 OK  [0.9] sabway | Patinete eléctrico KUICKWHEEL M16 PRO 36V 10,4Ah Homologado DGT 2 | 499.98 EUR -> kuickwheel-m16-pro-versi-n-10-4ah-b1024
 ??  [0.36] sabway | Patinete eléctrico DUALTRON TOGO 48V 12Ah Homologado DGT 2 | 639.99 EUR -> dudoso:dualtron-togo-limited-b1061
 ??  [0.06] sabway | Patinete eléctrico Dynamic Pro 600W Homologado DGT 2 | 689.9 EUR -> dudoso:pure-advance-flex
 OK  [0.9] sabway | Patinete eléctrico KUICKWHEEL S1-C PRO 36V 13Ah Homologado DGT 2 | 699.0 EUR -> kuickwheel-s1-c-pro-versiones-13ah-16ah-b1023
 ??  [0.05] sabway | Patinete eléctrico Dynamic Pro Rider 600W Homologado DGT 2 | 798.9 EUR -> dudoso:pure-advance-flex
-??  [0.36] sabway | SmartGyro Speedway PRO Homologado DGT | Patinete 1800W 2 | 799.0 EUR -> dudoso:smartgyro-rockway-pro-evo-a1162
 OK  [0.9] sabway | Patinete eléctrico KUICKWHEEL S9 36V 15,6Ah Homologado DGT 2 | 799.0 EUR -> kuickwheel-s9-versi-n-15-6ah-b1035
+??  [0.36] sabway | SmartGyro Speedway PRO Homologado DGT | Patinete 1800W 2 | 799.0 EUR -> dudoso:smartgyro-rockway-pro-evo-a1162
 ??  [0.05] sabway | Patinete eléctrico Dynamic Pro Rider Dual Motor Homologado DGT 2 | 1049.9 EUR -> dudoso:pure-advance-flex
 SIN [0.0] smartgyro | Patinete eléctrico... | 50.0 EUR -> sin ficha
 SIN [0.0] smartgyro | Patinete eléctrico... | 60.0 EUR -> sin ficha
@@ -360,6 +489,7 @@ OK  [0.9] smartgyro | Patinete eléctrico smartGyro Raptor Evo LR | 899.01 EUR -
 ??  [0.13] tallerdelpatinete | Cómo contratar un seguro para patinete eléctrico | 1000.0 EUR -> dudoso:pure-advance-flex
 OK  [0.9] tallerdelpatinete | Patinete Eléctrico Rovoron R7 Homologado DGT | 1045.0 EUR -> rovoron-r7-b1137
 OK  [0.9] tallerdelpatinete | Patinete Eléctrico Rovoron S7 Homologado DGT | 2389.0 EUR -> rovoron-s7-b1146
+??  [0.19] xiaomi | redmi-note-17-series | 80.0 EUR -> dudoso:xiaomi-xiaomi-electric-scooter-elite-es-b1092
 ??  [0.09] xiaomi | d24924e8427ef61282c680c35e527ec8.pdf | 279.99 EUR -> dudoso:xiaomi-4-pro-2
 ??  [0.11] xiaomi | bf2716bb02dbbcb0d3aeba528555a6b1.pdf | 319.99 EUR -> dudoso:xiaomi-ddhbc09lq-versiones-01-02-b1069-b1089
 ??  [0.13] xiaomi | poco x8 | 319.99 EUR -> dudoso:xiaomi-xiaomi-electric-scooter-5-max-es-b1080

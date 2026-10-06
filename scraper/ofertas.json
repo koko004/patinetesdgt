@@ -348,999 +348,2026 @@
  },
  {
   "tienda": "imoveblue",
+  "nombre": "Skateflash",
+  "precio": 50.0,
+  "url": "https://www.imoveblue.es/26_skateflash",
+  "slot": "imoveblue-skateflash"
+ },
+ {
+  "tienda": "imoveblue",
   "nombre": "Ninebot F3 E",
   "precio": 50.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1482-ninebot-f3-e.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1482-ninebot-f3-e.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Navee XT5 Pro",
   "precio": 50.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1727-navee-xt5-pro.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1727-navee-xt5-pro.html",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "ICe Q5 EVO 2026 60V",
+  "precio": 50.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?order=product.position.asc&productListView=grid",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "ICe Q5 EVO 2026 60V",
+  "precio": 50.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?order=product.position.asc&productListView=list",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "ICe Q5 EVO 2026 60V",
+  "precio": 50.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?order=product.sales.desc",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "ICe Q5 EVO 2026 60V",
+  "precio": 50.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?order=product.position.asc",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "ICe Q5 EVO 2026 60V",
+  "precio": 50.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?order=product.name.asc",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "ICe Q5 EVO 2026 60V",
+  "precio": 50.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?order=product.name.desc",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "ICe Q5 EVO 2026 60V",
+  "precio": 50.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?order=product.price.asc",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "ICe Q5 EVO 2026 60V",
+  "precio": 50.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?order=product.price.desc",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "ICe Q5 EVO 2026 60V",
+  "precio": 50.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?order=product.reference.asc",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "ICe Q5 EVO 2026 60V",
+  "precio": 50.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?order=product.reference.desc",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "ICe Q5 EVO 2026 60V",
+  "precio": 50.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?order=product.position.asc&resultsPerPage=12",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "ICe Q5 EVO 2026 60V",
+  "precio": 50.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?order=product.position.asc&resultsPerPage=24",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "ICe Q5 EVO 2026 60V",
+  "precio": 50.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?order=product.position.asc&resultsPerPage=36",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "ICe Q5 EVO 2026 60V",
+  "precio": 50.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?order=product.position.asc&resultsPerPage=9999999",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "ICe Q5 EVO 2026 60V",
+  "precio": 50.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?page=2",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "ICe Q5 EVO 2026 60V",
+  "precio": 50.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "ICe Q5 EVO 2026 60V",
+  "precio": 50.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?page=3",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Kamikaze K1 Max",
   "precio": 84.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1900-kamikaze-k1-max.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1900-kamikaze-k1-max.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Odyssr Alpha",
   "precio": 100.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1882-odyssr-alpha-72v-42ah-.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1882-odyssr-alpha-72v-42ah-.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Segway Ninebot Max G3",
   "precio": 100.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1472-ninebot-max-g3.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1472-ninebot-max-g3.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Segway Ninebot E3 Pro E",
   "precio": 100.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1591-segway-ninebot-e3-pro-e.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1591-segway-ninebot-e3-pro-e.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "smartGyro Rockway PRO EVO",
   "precio": 100.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1515-smartgyro-rockway-pro-evo.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1515-smartgyro-rockway-pro-evo.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ninebot KickScooter MAX G2 E",
   "precio": 100.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1105-ninebot-kickscooter-max-g2-e.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1105-ninebot-kickscooter-max-g2-e.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "smartGyro CROSSOVER DUAL MAX 2 LR",
   "precio": 200.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1480-smartgyro-crossover-dual-max-2-lr.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1480-smartgyro-crossover-dual-max-2-lr.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "NIU KQi 300X",
   "precio": 200.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1345-niu-kqi-300x.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1345-niu-kqi-300x.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Joyor C10",
   "precio": 250.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1505-joyor-c10-.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1505-joyor-c10-.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Rovoron S7",
   "precio": 291.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1729-rovoron-s7.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1729-rovoron-s7.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "smartGyro Z-One 2 certificado",
   "precio": 299.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1595-7834-smartgyro-z-one-2.html#/5-color-gris"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1595-7834-smartgyro-z-one-2.html#/5-color-gris",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "smartGyro Z-One 2 certificado",
   "precio": 299.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1595-smartgyro-z-one-2.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1595-smartgyro-z-one-2.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ninebot E2 E II certificado",
   "precio": 309.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1725-ninebot-e2-e-ii-.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1725-ninebot-e2-e-ii-.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ninebot KickScooter E2 Plus 2 E certificado",
   "precio": 319.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1129-ninebot-kickscooter-e2-plus-2-e-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1129-ninebot-kickscooter-e2-plus-2-e-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Kaabo Mantis King GT...",
   "precio": 350.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/918-kaabo-mantis-king-gt.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/918-kaabo-mantis-king-gt.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Segway Ninebot E3 E certificado",
   "precio": 399.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1494-ninebot-e3-e.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1494-ninebot-e3-e.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ninebot KickScooter E2 PRO E Certificado",
   "precio": 399.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1243-ninebot-kickscooter-e2-pro-e-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1243-ninebot-kickscooter-e2-pro-e-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Joyor LiteGo Certificado",
   "precio": 399.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1229-joyor-litego-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1229-joyor-litego-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Dualtron Sonic Alien",
   "precio": 400.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1617-dualtron-sonic-alien.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1617-dualtron-sonic-alien.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ninebot F2 E II certificado",
   "precio": 429.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1680-ninebot-f2-e-ii-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1680-ninebot-f2-e-ii-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "NIU KQi2 Pro Certificado",
   "precio": 449.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1287-7225-niu-kqi2-pro-certificado.html#/8-color-blanco"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1287-7225-niu-kqi2-pro-certificado.html#/8-color-blanco",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "NIU KQi2 Pro Certificado",
   "precio": 449.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1287-niu-kqi2-pro-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1287-niu-kqi2-pro-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "smartGyro K1 Certificado",
   "precio": 449.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1715-smartgyro-k1.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1715-smartgyro-k1.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "smartGyro Z-Pro Certificado",
   "precio": 459.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1176-7172-smartgyro-z-pro-certificado.html#/11-color-negro"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1176-7172-smartgyro-z-pro-certificado.html#/11-color-negro",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "smartGyro Z-Pro Certificado",
   "precio": 459.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1176-smartgyro-z-pro-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1176-smartgyro-z-pro-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem Deimos certificado",
   "precio": 499.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1853-8341-ecoxtrem-deimos.html#/11-color-negro"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1853-8341-ecoxtrem-deimos.html#/11-color-negro",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem Deimos certificado",
   "precio": 499.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1853-ecoxtrem-deimos.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1853-ecoxtrem-deimos.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Joyor Y10 Certificado DGT",
   "precio": 500.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/121-joyor-y10-500w.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/121-joyor-y10-500w.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "ICe Q5 EVO 60V",
   "precio": 500.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/660-ice-q5-evo-2026-60v.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/660-ice-q5-evo-2026-60v.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ninebot F2 Pro II E certificado",
   "precio": 529.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1679-ninebot-f2-pro-ii-e-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1679-ninebot-f2-pro-ii-e-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Zwheel ZFox Max Urban Dark Certificado",
   "precio": 549.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1223-zwheel-zfox-max-urban-dark-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1223-zwheel-zfox-max-urban-dark-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ninebot KickScooter F2 Plus E certificado",
   "precio": 549.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1113--ninebot-kickscooter-f2-plus-e-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1113--ninebot-kickscooter-f2-plus-e-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Zwheel ZFox Max Sky City Certificado",
   "precio": 559.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1230-zwheel-zfox-max-sky-city-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1230-zwheel-zfox-max-sky-city-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Zwheel ZFox Max Autumn Sunrise Certificado",
   "precio": 559.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1231-zwheel-zfox-max-sky-city-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1231-zwheel-zfox-max-sky-city-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "smartGyro Rockway GL certificado",
   "precio": 599.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1760-smartgyro-rockway-gl.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1760-smartgyro-rockway-gl.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Dualtron Mini Special Long Body Certificado",
   "precio": 599.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1340-8236-dualtron-mini-special-long-body-certificado.html#/357-version_dualtron_mini-52v_13h_un_motor"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1340-8236-dualtron-mini-special-long-body-certificado.html#/357-version_dualtron_mini-52v_13h_un_motor",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Inmotion Climber Certificado",
   "precio": 599.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/897-inmotion-climber.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/897-inmotion-climber.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Dualtron Mini Special Long Body Certificado",
   "precio": 599.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1340-dualtron-mini-special-long-body-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1340-dualtron-mini-special-long-body-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Zwheel ZRino SE Certificado",
   "precio": 599.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1222-zwheel-zrino-se-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1222-zwheel-zrino-se-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Youin XL3",
   "precio": 599.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1444-youin-xl3.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1444-youin-xl3.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem M41 Tank Ultimate Certificado",
   "precio": 639.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1393-7947-ecoxtrem-m41-tank-certificado.html#/408-color-negro_verde"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1393-7947-ecoxtrem-m41-tank-certificado.html#/408-color-negro_verde",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem M41 Tank Ultimate Certificado",
   "precio": 639.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1393-ecoxtrem-m41-tank-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1393-ecoxtrem-m41-tank-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem Deimos Dual certificado",
   "precio": 649.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1852-8376-ecoxtrem-deimos.html#/16-color-amarillo"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1852-8376-ecoxtrem-deimos.html#/16-color-amarillo",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Segway Ninebot F3 Pro E",
   "precio": 649.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1545-ninebot-f3-pro-e.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1545-ninebot-f3-pro-e.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem Deimos Dual certificado",
   "precio": 649.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1852-ecoxtrem-deimos.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1852-ecoxtrem-deimos.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Navee NT5 MAX certificado",
   "precio": 659.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1862-navee-nt5-max.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1862-navee-nt5-max.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Segway ZT3 Pro E Certificado",
   "precio": 679.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1351-segway-zt3-pro-e.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1351-segway-zt3-pro-e.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "smartGyro K5 PRO certificado",
   "precio": 679.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1745-smartgyro-k5-pro.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1745-smartgyro-k5-pro.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem M41 Armored One Pro Certificado",
   "precio": 689.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1756-8211-ecoxtrem-m41-armored-one-pro.html#/10-color-rojo"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1756-8211-ecoxtrem-m41-armored-one-pro.html#/10-color-rojo",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem M41 Armored One Pro Certificado",
   "precio": 689.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1756-ecoxtrem-m41-armored-one-pro.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1756-ecoxtrem-m41-armored-one-pro.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Dualtron Togo Pro Certificado",
   "precio": 690.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1677-dualtron-togo-pro-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1677-dualtron-togo-pro-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "smartGyro Rockway GT Certificado",
   "precio": 699.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1704-smartgyro-rockway-gt-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1704-smartgyro-rockway-gt-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem Bison GT Carbon Design Certificado",
   "precio": 699.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1392-7377-ecoxtrem-bison-gt-carbon-design.html#/10-color-rojo"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1392-7377-ecoxtrem-bison-gt-carbon-design.html#/10-color-rojo",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "SmartGyro SpeedWay Certificado",
   "precio": 699.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/630-smartgyro-speedway-v3.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/630-smartgyro-speedway-v3.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Zwheel ZRino Certificado",
   "precio": 699.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1089-zwheel-zrino.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1089-zwheel-zrino.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem Bison GT Carbon Design Certificado",
   "precio": 699.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1392-ecoxtrem-bison-gt-carbon-design.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1392-ecoxtrem-bison-gt-carbon-design.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Joyor T-PRO",
   "precio": 749.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1770-joyor-t-pro.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1770-joyor-t-pro.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Joyor S-PRO Certificado",
   "precio": 749.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1237-joyor-s-pro-certificado-dgt.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1237-joyor-s-pro-certificado-dgt.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem Bison Certificado",
   "precio": 749.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/435-7220-ecoxtrem-bison-certificado.html#/16-color-amarillo"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/435-7220-ecoxtrem-bison-certificado.html#/16-color-amarillo",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "ICe M5 certificado",
   "precio": 749.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/854-ice-m5.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/854-ice-m5.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Zwheel Zwolf certificado",
   "precio": 749.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1710-zwheel-zwolf.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1710-zwheel-zwolf.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem Bison Certificado",
   "precio": 749.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/435-ecoxtrem-bison-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/435-ecoxtrem-bison-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem Deimos Dual PRO certificado",
   "precio": 749.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1928-8468-ecoxtrem-deimos-dual-pro.html#/13-color-naranja"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1928-8468-ecoxtrem-deimos-dual-pro.html#/13-color-naranja",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem Deimos Dual PRO certificado",
   "precio": 749.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1928-ecoxtrem-deimos-dual-pro.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1928-ecoxtrem-deimos-dual-pro.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Kamikaze K1 Max Certificado",
   "precio": 759.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1887-kamikaze-k1-max.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1887-kamikaze-k1-max.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Kaabo Urban certificado",
   "precio": 759.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1918-8447-kaabo-urban.html#/11-color-negro"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1918-8447-kaabo-urban.html#/11-color-negro",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Kaabo Urban certificado",
   "precio": 759.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1918-kaabo-urban.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1918-kaabo-urban.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "smartGyro Rockway GTS Certificado",
   "precio": 779.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1713-smartgyro-rockway-gts.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1713-smartgyro-rockway-gts.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "smartGyro K5 PRO LR certificado",
   "precio": 779.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1846-smartgyro-k5-pro-lr.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1846-smartgyro-k5-pro-lr.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "smartGyro Raptor Evo",
   "precio": 790.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1504-smartgyro-raptor-evo.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1504-smartgyro-raptor-evo.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "smartgyro Rockway GT Dual ceritificado",
   "precio": 790.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1851-smartgyro-rockway-gt-dual.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1851-smartgyro-rockway-gt-dual.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem M41 Tank Dual Motor Certificado",
   "precio": 799.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1587-7943-ecoxtrem-m41-tank-dual-motor-certificado.html#/16-color-amarillo"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1587-7943-ecoxtrem-m41-tank-dual-motor-certificado.html#/16-color-amarillo",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Teverun Fighter Q Certificado",
   "precio": 799.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1560-7932-teverun-fighter-q.html#/403-versiones-52v_13ah_2x500w"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1560-7932-teverun-fighter-q.html#/403-versiones-52v_13ah_2x500w",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem M41 Tank Dual Motor Certificado",
   "precio": 799.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1587-ecoxtrem-m41-tank-dual-motor-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1587-ecoxtrem-m41-tank-dual-motor-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Teverun Fighter Q Certificado",
   "precio": 799.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1560-teverun-fighter-q.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1560-teverun-fighter-q.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "smartGyro CROSSOVER DUAL MAX 2 Certificado",
   "precio": 799.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1479-7567-smartgyro-crossover-dual-max-2.html#/358-bateria-48v_15ah"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1479-7567-smartgyro-crossover-dual-max-2.html#/358-bateria-48v_15ah",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "SmartGyro Rockway PRO certificado",
   "precio": 799.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/588-smartgyro-rockway-pro.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/588-smartgyro-rockway-pro.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Zwheel ZLion PRO Certificado",
   "precio": 799.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1386-7373-zwheel-zlion-pro.html#/5-color-gris"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1386-7373-zwheel-zlion-pro.html#/5-color-gris",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "smartGyro CROSSOVER DUAL MAX 2 Certificado",
   "precio": 799.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1479-smartgyro-crossover-dual-max-2.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1479-smartgyro-crossover-dual-max-2.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Zwheel ZLion PRO Certificado",
   "precio": 799.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1386-zwheel-zlion-pro.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1386-zwheel-zlion-pro.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem Rocket 1000W matriculable",
   "precio": 809.0,
-  "url": "https://www.imoveblue.es/patinete-electrico/115-7036-ecoxtrem-rocket-1000w-matriculable.html#/5-color-gris/86-matriculacion-no_incluir_gestion_matriculacion"
+  "url": "https://www.imoveblue.es/patinete-electrico/115-7036-ecoxtrem-rocket-1000w-matriculable.html#/5-color-gris/86-matriculacion-no_incluir_gestion_matriculacion",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem Rocket 1000W matriculable",
   "precio": 809.0,
-  "url": "https://www.imoveblue.es/patinete-electrico/115-ecoxtrem-rocket-1000w-matriculable.html"
+  "url": "https://www.imoveblue.es/patinete-electrico/115-ecoxtrem-rocket-1000w-matriculable.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Zwheel ZRino DUO Certificado",
   "precio": 829.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/866-zwheel-zrino-t4-duo.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/866-zwheel-zrino-t4-duo.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Zwheel ZCougar Certificado",
   "precio": 829.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1142-zwheel-zcougar-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1142-zwheel-zcougar-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "ICe Q3 EVO certificado",
   "precio": 849.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/964-6975-ice-q3-evo-.html#/283-version_ice_q3_evo-one_1_motor"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/964-6975-ice-q3-evo-.html#/283-version_ice_q3_evo-one_1_motor",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "ICe Q3 EVO ONE Certificado",
   "precio": 849.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1085-6977-ice-q3-evo-one.html#/283-version_ice_q3_evo-one_1_motor"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1085-6977-ice-q3-evo-one.html#/283-version_ice_q3_evo-one_1_motor",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "ICe Q3 EVO certificado",
   "precio": 849.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/964-ice-q3-evo-.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/964-ice-q3-evo-.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "ICe Q3 EVO ONE Certificado",
   "precio": 849.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1085-ice-q3-evo-one.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1085-ice-q3-evo-one.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Kamikaze K1 Max Tokyo Drift",
   "precio": 849.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1931-kamikaze-k1-max-tokyo-drift.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1931-kamikaze-k1-max-tokyo-drift.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem M41 Armored LR Certificado",
   "precio": 879.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1708-8095-ecoxtrem-m41-armored-dual.html#/5-color-gris"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1708-8095-ecoxtrem-m41-armored-dual.html#/5-color-gris",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem M41 Armored LR Certificado",
   "precio": 879.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1708-ecoxtrem-m41-armored-dual.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1708-ecoxtrem-m41-armored-dual.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "smartGyro Crossover Dual XT certificado",
   "precio": 890.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1916-smartgyro-crossover-dual-xt.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1916-smartgyro-crossover-dual-xt.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "smartGyro Raptor Evo LR",
   "precio": 890.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1503-smartgyro-raptor-evo-lr.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1503-smartgyro-raptor-evo-lr.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Teverun Blade Mini Certificado",
   "precio": 890.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1145-8031-teverun-blade-mini.html#/336-versiones-single_48v_156ah_ruedas_10_amarillo"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1145-8031-teverun-blade-mini.html#/336-versiones-single_48v_156ah_ruedas_10_amarillo",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "smartGyro Ryder 2 certificado",
   "precio": 890.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1596-smartgyro-ryder-2.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1596-smartgyro-ryder-2.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Teverun Blade Mini Certificado",
   "precio": 890.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1145-teverun-blade-mini.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1145-teverun-blade-mini.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Odyssr Rodeo Mono Certificado",
   "precio": 890.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1849-odyssr-rodeo-mono.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1849-odyssr-rodeo-mono.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem Armored Dual PRO certificado",
   "precio": 899.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1906-8424-ecoxtrem-armored-dual-pro.html#/11-color-negro"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1906-8424-ecoxtrem-armored-dual-pro.html#/11-color-negro",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Dualtron Aminia Certificado",
   "precio": 899.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1510-7674-dualtron-aminia-special.html#/353-bateria-single_motor_52v_13ah"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1510-7674-dualtron-aminia-special.html#/353-bateria-single_motor_52v_13ah",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem Armored Dual PRO certificado",
   "precio": 899.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1906-ecoxtrem-armored-dual-pro.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1906-ecoxtrem-armored-dual-pro.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Dualtron Aminia Certificado",
   "precio": 899.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1510-dualtron-aminia-special.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1510-dualtron-aminia-special.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "ETRIC Vortex Certificado",
   "precio": 899.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1166-7276-etric-vortex-dual-motor.html#/11-color-negro/312-versiones-1000w_un_motor"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1166-7276-etric-vortex-dual-motor.html#/11-color-negro/312-versiones-1000w_un_motor",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "ETRIC Vortex Certificado",
   "precio": 899.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1166-etric-vortex-dual-motor.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1166-etric-vortex-dual-motor.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Youin XL MAX Certificado",
   "precio": 949.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1445-youin-xl-max.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1445-youin-xl-max.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Zwheel Zwolf Plus certificado",
   "precio": 949.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1709-zwheel-zwolf-plus.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1709-zwheel-zwolf-plus.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem Spirit Plus matriculable",
   "precio": 969.0,
-  "url": "https://www.imoveblue.es/patinete-electrico/156-7844-ecoxtrem-spirit-plus-1800w-matriculable.html#/5-color-gris/86-matriculacion-no_incluir_gestion_matriculacion"
+  "url": "https://www.imoveblue.es/patinete-electrico/156-7844-ecoxtrem-spirit-plus-1800w-matriculable.html#/5-color-gris/86-matriculacion-no_incluir_gestion_matriculacion",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem Spirit Plus matriculable",
   "precio": 969.0,
-  "url": "https://www.imoveblue.es/patinete-electrico/156-ecoxtrem-spirit-plus-1800w-matriculable.html"
+  "url": "https://www.imoveblue.es/patinete-electrico/156-ecoxtrem-spirit-plus-1800w-matriculable.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Rovoron R5 certificado",
   "precio": 990.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1896-rovoron-r5.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1896-rovoron-r5.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Odyssr Rodeo Dual Certificado",
   "precio": 990.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1826-odyssr-rodeo-dual.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1826-odyssr-rodeo-dual.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Teverun Space Certificado",
   "precio": 990.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1702-teverun-space.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1702-teverun-space.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "E-twow GTS SPORT certificado",
   "precio": 999.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1769-8245-e-twow-gts-sport.html#/11-color-negro"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1769-8245-e-twow-gts-sport.html#/11-color-negro",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "ICe Q3 Evo 2026 certificado",
   "precio": 999.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1673-ice-q3-evo-2026.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1673-ice-q3-evo-2026.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "E-twow GTS SPORT certificado",
   "precio": 999.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1769-e-twow-gts-sport.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1769-e-twow-gts-sport.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "smartGyro Raptor Dual Evo",
   "precio": 999.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1501-smartgyro-raptor-dual-evo.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1501-smartgyro-raptor-dual-evo.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Masscity Blade M10 PRO Certificado",
   "precio": 999.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1240-masscity-blade-m10-pro-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1240-masscity-blade-m10-pro-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Dualtron Togo Max Certificado",
   "precio": 1049.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1701-new-dualtron-togo-max.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1701-new-dualtron-togo-max.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Rovoron R7 Certificado",
   "precio": 1069.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1717-8124-rovoron-r7.html#/11-color-negro"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1717-8124-rovoron-r7.html#/11-color-negro",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Rovoron R7 Certificado",
   "precio": 1069.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1717-rovoron-r7.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1717-rovoron-r7.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "smartGyro Raptor Dual Evo LR",
   "precio": 1090.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1500-smartgyro-raptor-dual-evo-lr.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1500-smartgyro-raptor-dual-evo-lr.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem M41 Tank Xanzer certificado",
   "precio": 1099.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1632-ecoxtrem-m41-tank-xanzer-.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1632-ecoxtrem-m41-tank-xanzer-.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Zwheel ZWolf DUO certificado",
   "precio": 1159.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1694-zwolf-duo.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1694-zwolf-duo.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem Mumbai matriculable",
   "precio": 1190.0,
-  "url": "https://www.imoveblue.es/motos-electricas/1470-7541-ecoxtrem-mumbai-matriculable.html#/11-color-negro/86-matriculacion-no_incluir_gestion_matriculacion"
+  "url": "https://www.imoveblue.es/motos-electricas/1470-7541-ecoxtrem-mumbai-matriculable.html#/11-color-negro/86-matriculacion-no_incluir_gestion_matriculacion",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem Mumbai matriculable",
   "precio": 1190.0,
-  "url": "https://www.imoveblue.es/motos-electricas/1470-ecoxtrem-mumbai-matriculable.html"
+  "url": "https://www.imoveblue.es/motos-electricas/1470-ecoxtrem-mumbai-matriculable.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Rovoron R5 Pro certificado REACONDICIONADO",
   "precio": 1240.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1933-8481-rovoron-r5-pro.html#/11-color-negro"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1933-8481-rovoron-r5-pro.html#/11-color-negro",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Rovoron R5 Pro certificado REACONDICIONADO",
   "precio": 1240.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1933-rovoron-r5-pro.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1933-rovoron-r5-pro.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Kaabo Mantis X Plus certificado REACONDICIONADO",
   "precio": 1249.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1920-8451-kaabo-mantis-x-plus.html#/11-color-negro"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1920-8451-kaabo-mantis-x-plus.html#/11-color-negro",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Kaabo Mantis X Plus certificado REACONDICIONADO",
   "precio": 1249.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1920-kaabo-mantis-x-plus.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1920-kaabo-mantis-x-plus.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Teverun Fighter Mini Certificado",
   "precio": 1290.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1148-7233-teverun-fighter-mini.html#/331-bateria-52v_208ah"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1148-7233-teverun-fighter-mini.html#/331-bateria-52v_208ah",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Odyssr Drift Dual Certificado",
   "precio": 1290.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1824-odyssr-drift-dual.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1824-odyssr-drift-dual.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Teverun Fighter Mini Certificado",
   "precio": 1290.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1148-teverun-fighter-mini.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1148-teverun-fighter-mini.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Kaabo Mantis X Plus certificado",
   "precio": 1349.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1917-8446-kaabo-mantis-x-plus.html#/11-color-negro"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1917-8446-kaabo-mantis-x-plus.html#/11-color-negro",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Kaabo Mantis X Plus certificado",
   "precio": 1349.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1917-kaabo-mantis-x-plus.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1917-kaabo-mantis-x-plus.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Rovoron R5 Pro certificado",
   "precio": 1390.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1897-8418-rovoron-r5-pro.html#/10-color-rojo"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1897-8418-rovoron-r5-pro.html#/10-color-rojo",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Rovoron R5 Pro certificado",
   "precio": 1390.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1897-rovoron-r5-pro.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1897-rovoron-r5-pro.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "ICe Q5 Evo 2026 Certificado",
   "precio": 1399.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/654-7872-ice-q5-evolution.html#/10-color-rojo/205-versiones_ice_q5-52v_23ah"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/654-7872-ice-q5-evolution.html#/10-color-rojo/205-versiones_ice_q5-52v_23ah",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Rovoron R7 PRO certificado",
   "precio": 1399.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1720-8156-rovoron-r7-pro-certificado.html#/11-color-negro"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1720-8156-rovoron-r7-pro-certificado.html#/11-color-negro",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "ICe Q5 Evo 2026 Certificado",
   "precio": 1399.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/654-ice-q5-evolution.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/654-ice-q5-evolution.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Rovoron R7 PRO certificado",
   "precio": 1399.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1720-rovoron-r7-pro-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1720-rovoron-r7-pro-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Dualtron Forever Limited Certificado",
   "precio": 1490.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1553-8102-dualtron-forever-limited.html#/418-bateria-60v_27ah"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1553-8102-dualtron-forever-limited.html#/418-bateria-60v_27ah",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Segway GT3 E Certificado",
   "precio": 1490.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1481-segway-gt3.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1481-segway-gt3.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Dualtron Forever Limited Certificado",
   "precio": 1490.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1553-dualtron-forever-limited.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1553-dualtron-forever-limited.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Navee XT5 ULTRA certificado",
   "precio": 1490.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1751-navee-xt5-ultra.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1751-navee-xt5-ultra.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Teverun Blade Mini Ultra Certificado",
   "precio": 1599.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1611-8436-teverun-blade-mini-ultra-.html#/434-motor-version_motores_bosch"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1611-8436-teverun-blade-mini-ultra-.html#/434-motor-version_motores_bosch",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Teverun Blade Mini Ultra Certificado",
   "precio": 1599.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1611-teverun-blade-mini-ultra-.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1611-teverun-blade-mini-ultra-.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Dualtron Achilleus Limited 60V 31Ah REACONDICIONADO Certificado",
   "precio": 1629.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1895-8415-dualtron-achilleus-limited.html#/11-color-negro/428-bateria-60v_37ah_samsung_version_2026"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1895-8415-dualtron-achilleus-limited.html#/11-color-negro/428-bateria-60v_37ah_samsung_version_2026",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Dualtron Achilleus Limited 60V 31Ah REACONDICIONADO Certificado",
   "precio": 1629.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1895-dualtron-achilleus-limited.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1895-dualtron-achilleus-limited.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "MASSCITY Teverun BLADE GT 2 II + Certificado",
   "precio": 1649.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1226-masscity-blade-gt-ii-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1226-masscity-blade-gt-ii-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Teverun Fighter Mini 2026 motor Bosch certificado",
   "precio": 1690.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1640-8170-teverun-fighter-mini-2025-motor-bosch.html#/420-bateria-52v_30ah_motor_bosch_intermitentes_v2026"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1640-8170-teverun-fighter-mini-2025-motor-bosch.html#/420-bateria-52v_30ah_motor_bosch_intermitentes_v2026",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Teverun Fighter Mini 2026 motor Bosch certificado",
   "precio": 1690.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1640-teverun-fighter-mini-2025-motor-bosch.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1640-teverun-fighter-mini-2025-motor-bosch.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Dualtron Victor Luxury Plus Certificado 60V 37Ah",
   "precio": 1699.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1336-8344-dualtron-victor-luxury-plus-certificado.html#/428-bateria-60v_37ah_samsung_version_2026"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1336-8344-dualtron-victor-luxury-plus-certificado.html#/428-bateria-60v_37ah_samsung_version_2026",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Dualtron Victor Luxury Plus Certificado 60V 37Ah",
   "precio": 1699.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1336-dualtron-victor-luxury-plus-certificado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1336-dualtron-victor-luxury-plus-certificado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem Centauro",
   "precio": 1699.0,
-  "url": "https://www.imoveblue.es/patinete-electrico/114-1486-ecoxtrem-centauro-3000w.html#/5-color-gris/86-matriculacion-no_incluir_gestion_matriculacion/214-version_centauro-3000w_bateria_60v_20ah"
+  "url": "https://www.imoveblue.es/patinete-electrico/114-1486-ecoxtrem-centauro-3000w.html#/5-color-gris/86-matriculacion-no_incluir_gestion_matriculacion/214-version_centauro-3000w_bateria_60v_20ah",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Ecoxtrem Centauro",
   "precio": 1699.0,
-  "url": "https://www.imoveblue.es/patinete-electrico/114-ecoxtrem-centauro-3000w.html"
+  "url": "https://www.imoveblue.es/patinete-electrico/114-ecoxtrem-centauro-3000w.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Dualtron Achilleus Limited Certificado",
   "precio": 1790.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1516-8070-dualtron-achilleus-limited.html#/10-color-rojo/168-bateria-60v_315ah"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1516-8070-dualtron-achilleus-limited.html#/10-color-rojo/168-bateria-60v_315ah",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Dualtron Achilleus Limited Certificado",
   "precio": 1790.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1516-dualtron-achilleus-limited.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1516-dualtron-achilleus-limited.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Dualtron Victor Limited Certificado",
   "precio": 1869.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1401-8317-dualtron-victor-limited.html#/428-bateria-60v_37ah_samsung_version_2026"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1401-8317-dualtron-victor-limited.html#/428-bateria-60v_37ah_samsung_version_2026",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Dualtron Victor Limited Certificado",
   "precio": 1869.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1401-dualtron-victor-limited.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1401-dualtron-victor-limited.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Kaabo Wolf Warrior X Max certificado",
   "precio": 1899.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1902-8422-kaabo-wolf-warrior-x-max.html#/11-color-negro"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1902-8422-kaabo-wolf-warrior-x-max.html#/11-color-negro",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Kaabo Wolf Warrior X Max certificado",
   "precio": 1899.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1902-kaabo-wolf-warrior-x-max.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1902-kaabo-wolf-warrior-x-max.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Teverun Fighter Mini PRO Carbon Bosch Certificado",
   "precio": 2290.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1838-teverun-fighter-mini-pro-2026-60v-31ah-bosch.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1838-teverun-fighter-mini-pro-2026-60v-31ah-bosch.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Dualtron Thunder 3 Certificado reacondicionado",
   "precio": 3340.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1858-8351-dualtron-thunder-3-reacondicionado.html#/382-versiones_dualtron_thunder_3-version_2025_damper_doble_foco_deck_goma"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1858-8351-dualtron-thunder-3-reacondicionado.html#/382-versiones_dualtron_thunder_3-version_2025_damper_doble_foco_deck_goma",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Dualtron Thunder 3 Certificado reacondicionado",
   "precio": 3340.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1858-dualtron-thunder-3-reacondicionado.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1858-dualtron-thunder-3-reacondicionado.html",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Dualtron Thunder 3 Certificado",
   "precio": 3490.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1517-7837-dualtron-thunder-3.html#/382-versiones_dualtron_thunder_3-version_2025_damper_doble_foco_deck_goma"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1517-7837-dualtron-thunder-3.html#/382-versiones_dualtron_thunder_3-version_2025_damper_doble_foco_deck_goma",
+  "slot": "imoveblue"
  },
  {
   "tienda": "imoveblue",
   "nombre": "Dualtron Thunder 3 Certificado",
   "precio": 3490.0,
-  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1517-dualtron-thunder-3.html"
+  "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1517-dualtron-thunder-3.html",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Marca-Dualtron+%5C-+Minimotors",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Marca-E%5C-TWOW",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Marca-Ecoxtrem",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Marca-Fiido",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Marca-ICe",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Marca-Inmotion",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Marca-Joyor",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Marca-Kaabo",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Marca-Kamikaze",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Marca-Masscity",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Marca-Navee",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Marca-NIU",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Marca-Odyssr",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Marca-Rovoron+%5C-+Minimotors",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Marca-Segway+Ninebot",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Marca-SmartGyro",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Marca-Teverun",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Marca-Youin",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Marca-Zwheel",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Potencia+nominal-250W",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Potencia+nominal-300W",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Potencia+nominal-350W",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Potencia+nominal-400W",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Potencia+nominal-450W",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Potencia+nominal-500W",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Potencia+nominal-600W",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Potencia+nominal-700W",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Potencia+nominal-800W",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Potencia+nominal-900W",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Potencia+nominal-1000W",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Motor+tipo-Dual",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Motor+tipo-Single",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-6Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-8Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-9Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-10Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-12%2C8Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-12Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-13Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-15%2C6Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-15Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-16Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-17Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-18%2C2Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-20%2C8Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-20Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-21Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-23Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-24Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-25Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-26Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-27Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-28AH",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-30Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-31Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-32Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-35Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-36V+12Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-37Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-40Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+capacidad-42Ah",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Tama%C3%B1o+de+rueda-8%22",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Tama%C3%B1o+de+rueda-8%2C5%22",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Tama%C3%B1o+de+rueda-9%22",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Tama%C3%B1o+de+rueda-10%22",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Tama%C3%B1o+de+rueda-11%22",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Tama%C3%B1o+de+rueda-12%22",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-11",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-12",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-14",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-17",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-18",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-19",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-20",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-22",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-23",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-24",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-25",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-26",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-27",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-28",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-29",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-30",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-31",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-32",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-33",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-34kg",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-35",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-36",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-38",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-39",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-40",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-41",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-47",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-49",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-51",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=peso-53",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+voltaje+-24V",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+voltaje+-36V",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+voltaje+-48V",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+voltaje+-52V",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+voltaje+-60V",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+voltaje+-72V",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "patinetes electricos certificados dgt",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt?q=Bater%C3%ADa+voltaje+-84V",
+  "slot": "imoveblue"
+ },
+ {
+  "tienda": "imoveblue",
+  "nombre": "reviews",
+  "precio": 4390.0,
+  "url": "https://www.imoveblue.es/module/gsnippetsreviews/reviews?list=1",
+  "slot": "imoveblue"
  },
  {
   "tienda": "isinwheel",
@@ -1937,6 +2964,34 @@
   "url": "https://www.pccomponentes.com/categorias/portatiles/basicos-hasta-799"
  },
  {
+  "tienda": "rcb",
+  "nombre": "Intermitente RCB D7 PRO ABE Ultra Elektroroller (RCB D7 PRO Ultra NFC+Señal de giro)",
+  "precio": 899.0,
+  "url": "https://www.rcb-scooter.com/es/products/rcb-d7-pro-abe-elektroroller-rcb-tech-d7-pro-2025-es",
+  "slot": "rcb"
+ },
+ {
+  "tienda": "rcb",
+  "nombre": "Intermitente RCB D7 PRO ABE Ultra Elektroroller (RCB D7 PRO Ultra NFC+Señal de giro)",
+  "precio": 899.0,
+  "url": "https://www.rcb-scooter.com/es/products/rcb-d7-abe-elektroroller-intermitente-ultra-rcb-d7-abe-nfc-intermitente",
+  "slot": "rcb"
+ },
+ {
+  "tienda": "rcb",
+  "nombre": "Intermitente RCB D7 PRO ABE Ultra Elektroroller (RCB D7 PRO Ultra NFC+Señal de giro)",
+  "precio": 899.0,
+  "url": "https://www.rcb-scooter.com/es/products/rcb-d5-pro-abe-elektroroller-intermitente-ultra-rcb-d5-pro-nfc-intermitente",
+  "slot": "rcb"
+ },
+ {
+  "tienda": "rcb",
+  "nombre": "Intermitente RCB D7 PRO ABE Ultra Elektroroller (RCB D7 PRO Ultra NFC+Señal de giro)",
+  "precio": 899.0,
+  "url": "https://www.rcb-scooter.com/es/products/rcb-d5-abe-elektroroller-intermitente-ultra-rcb-d5-nfc-intermitente",
+  "slot": "rcb"
+ },
+ {
   "tienda": "sabway",
   "nombre": "Patinete eléctrico ICe Q3 EVO 48V 15Ah DUAL MOTOR Homologado DGT 2",
   "precio": 280.0,
@@ -1952,7 +3007,22 @@
   "tienda": "sabway",
   "nombre": "Patinete eléctrico KUICKWHEEL M16 PRO 36V 10,4Ah Homologado DGT 2",
   "precio": 499.98,
-  "url": "https://sabway.es/shop/kuickwheel/2080-patinete-electrico-kuickwheel-m16-pro-36v-104ah-homologado-dgt.html"
+  "url": "https://sabway.es/shop/205-kuickwheel?order=product.position.asc&productListView=grid",
+  "slot": "sabway-kuickwheel"
+ },
+ {
+  "tienda": "sabway",
+  "nombre": "Patinete eléctrico KUICKWHEEL M16 PRO 36V 10,4Ah Homologado DGT 2",
+  "precio": 499.98,
+  "url": "https://sabway.es/shop/205-kuickwheel?order=product.position.asc&productListView=list",
+  "slot": "sabway-kuickwheel"
+ },
+ {
+  "tienda": "sabway",
+  "nombre": "Patinete eléctrico KUICKWHEEL M16 PRO 36V 10,4Ah Homologado DGT 2",
+  "precio": 499.98,
+  "url": "https://sabway.es/shop/kuickwheel/2080-patinete-electrico-kuickwheel-m16-pro-36v-104ah-homologado-dgt.html",
+  "slot": "sabway-kuickwheel"
  },
  {
   "tienda": "sabway",
@@ -1970,7 +3040,8 @@
   "tienda": "sabway",
   "nombre": "Patinete eléctrico KUICKWHEEL S1-C PRO 36V 13Ah Homologado DGT 2",
   "precio": 699.0,
-  "url": "https://sabway.es/shop/kuickwheel/2081-patinete-electrico-kuickwheel-s1-c-pro-36v-13ah-homologado-dgt.html"
+  "url": "https://sabway.es/shop/kuickwheel/2081-patinete-electrico-kuickwheel-s1-c-pro-36v-13ah-homologado-dgt.html",
+  "slot": "sabway-kuickwheel"
  },
  {
   "tienda": "sabway",
@@ -1980,15 +3051,16 @@
  },
  {
   "tienda": "sabway",
-  "nombre": "SmartGyro Speedway PRO Homologado DGT | Patinete 1800W 2",
+  "nombre": "Patinete eléctrico KUICKWHEEL S9 36V 15,6Ah Homologado DGT 2",
   "precio": 799.0,
-  "url": "https://sabway.es/shop/smartgyro/2050-patinete-electrico-smartgyro-speedway-pro-homologado-dgt-8435089037623.html"
+  "url": "https://sabway.es/shop/kuickwheel/2083-patinete-electrico-kuickwheel-s9-36v-156ah-homologado-dgt.html",
+  "slot": "sabway-kuickwheel"
  },
  {
   "tienda": "sabway",
-  "nombre": "Patinete eléctrico KUICKWHEEL S9 36V 15,6Ah Homologado DGT 2",
+  "nombre": "SmartGyro Speedway PRO Homologado DGT | Patinete 1800W 2",
   "precio": 799.0,
-  "url": "https://sabway.es/shop/kuickwheel/2083-patinete-electrico-kuickwheel-s9-36v-156ah-homologado-dgt.html"
+  "url": "https://sabway.es/shop/smartgyro/2050-patinete-electrico-smartgyro-speedway-pro-homologado-dgt-8435089037623.html"
  },
  {
   "tienda": "sabway",
@@ -2166,80 +3238,100 @@
  },
  {
   "tienda": "xiaomi",
+  "nombre": "redmi-note-17-series",
+  "precio": 80.0,
+  "url": "https://www.mi.com/es/launch/redmi-note-17-series/",
+  "slot": "xiaomi"
+ },
+ {
+  "tienda": "xiaomi",
   "nombre": "d24924e8427ef61282c680c35e527ec8.pdf",
   "precio": 279.99,
-  "url": "https://i05.appmifile.com/269_operatorx_operatorx_operatorx_operatorx_pdf-merge/16/09/2026/d24924e8427ef61282c680c35e527ec8.pdf"
+  "url": "https://i05.appmifile.com/269_operatorx_operatorx_operatorx_operatorx_pdf-merge/16/09/2026/d24924e8427ef61282c680c35e527ec8.pdf",
+  "slot": "xiaomi"
  },
  {
   "tienda": "xiaomi",
   "nombre": "bf2716bb02dbbcb0d3aeba528555a6b1.pdf",
   "precio": 319.99,
-  "url": "https://i05.appmifile.com/35_operatorx_operatorx_operatorx_operatorx_pdf-merge/20/09/2026/bf2716bb02dbbcb0d3aeba528555a6b1.pdf"
+  "url": "https://i05.appmifile.com/35_operatorx_operatorx_operatorx_operatorx_pdf-merge/20/09/2026/bf2716bb02dbbcb0d3aeba528555a6b1.pdf",
+  "slot": "xiaomi"
  },
  {
   "tienda": "xiaomi",
   "nombre": "poco x8",
   "precio": 319.99,
-  "url": "https://www.mi.com/es/product/poco-x8/?skupanel=1"
+  "url": "https://www.mi.com/es/product/poco-x8/?skupanel=1",
+  "slot": "xiaomi"
  },
  {
   "tienda": "xiaomi",
   "nombre": "poco x8",
   "precio": 319.99,
-  "url": "https://www.mi.com/es/product/poco-x8/"
+  "url": "https://www.mi.com/es/product/poco-x8/",
+  "slot": "xiaomi"
  },
  {
   "tienda": "xiaomi",
   "nombre": "ddfcb1e8335966c11dde602f8532783.pdf",
   "precio": 379.99,
-  "url": "https://i05.appmifile.com/774_operatorx_operatorx_operatorx_operatorx_pdf-merge/16/09/2026/0ddfcb1e8335966c11dde602f8532783.pdf"
+  "url": "https://i05.appmifile.com/774_operatorx_operatorx_operatorx_operatorx_pdf-merge/16/09/2026/0ddfcb1e8335966c11dde602f8532783.pdf",
+  "slot": "xiaomi"
  },
  {
   "tienda": "xiaomi",
   "nombre": "b0c57dbb64d68d2f20eb8ac06cd3.pdf",
   "precio": 479.99,
-  "url": "https://i05.appmifile.com/18_operatorx_operatorx_operatorx_operatorx_pdf-merge/16/09/2026/6160b0c57dbb64d68d2f20eb8ac06cd3.pdf"
+  "url": "https://i05.appmifile.com/18_operatorx_operatorx_operatorx_operatorx_pdf-merge/16/09/2026/6160b0c57dbb64d68d2f20eb8ac06cd3.pdf",
+  "slot": "xiaomi"
  },
  {
   "tienda": "xiaomi",
   "nombre": "redmi note 17 pro 5g",
   "precio": 479.99,
-  "url": "https://www.mi.com/es/product/redmi-note-17-pro-5g/?skupanel=1"
+  "url": "https://www.mi.com/es/product/redmi-note-17-pro-5g/?skupanel=1",
+  "slot": "xiaomi"
  },
  {
   "tienda": "xiaomi",
   "nombre": "redmi note 17 pro 5g",
   "precio": 479.99,
-  "url": "https://www.mi.com/es/product/redmi-note-17-pro-5g/"
+  "url": "https://www.mi.com/es/product/redmi-note-17-pro-5g/",
+  "slot": "xiaomi"
  },
  {
   "tienda": "xiaomi",
   "nombre": "a797393b5ba014f97e5b44a4bdae678.pdf",
   "precio": 599.0,
-  "url": "https://i05.appmifile.com/59_operatorx_operatorx_operatorx_operatorx_pdf-merge/04/09/2026/5a797393b5ba014f97e5b44a4bdae678.pdf"
+  "url": "https://i05.appmifile.com/59_operatorx_operatorx_operatorx_operatorx_pdf-merge/04/09/2026/5a797393b5ba014f97e5b44a4bdae678.pdf",
+  "slot": "xiaomi"
  },
  {
   "tienda": "xiaomi",
   "nombre": "mijia front load washer dryer pro 10kg",
   "precio": 599.0,
-  "url": "https://www.mi.com/es/product/mijia-front-load-washer-dryer-pro-10kg/?skupanel=1"
+  "url": "https://www.mi.com/es/product/mijia-front-load-washer-dryer-pro-10kg/?skupanel=1",
+  "slot": "xiaomi"
  },
  {
   "tienda": "xiaomi",
   "nombre": "mijia front load washer dryer pro 10kg",
   "precio": 599.0,
-  "url": "https://www.mi.com/es/product/mijia-front-load-washer-dryer-pro-10kg/"
+  "url": "https://www.mi.com/es/product/mijia-front-load-washer-dryer-pro-10kg/",
+  "slot": "xiaomi"
  },
  {
   "tienda": "xiaomi",
   "nombre": "f6b56d3b6aec05845d52ceebfc868d.pdf",
   "precio": 599.99,
-  "url": "https://i05.appmifile.com/783_operatorx_operatorx_operatorx_operatorx_pdf-merge/16/09/2026/05f6b56d3b6aec05845d52ceebfc868d.pdf"
+  "url": "https://i05.appmifile.com/783_operatorx_operatorx_operatorx_operatorx_pdf-merge/16/09/2026/05f6b56d3b6aec05845d52ceebfc868d.pdf",
+  "slot": "xiaomi"
  },
  {
   "tienda": "xiaomi",
   "nombre": "redmi note 17 pro max 5g",
   "precio": 599.99,
-  "url": "https://www.mi.com/es/product/redmi-note-17-pro-max-5g/"
+  "url": "https://www.mi.com/es/product/redmi-note-17-pro-max-5g/",
+  "slot": "xiaomi"
  }
 ]

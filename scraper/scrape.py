@@ -129,29 +129,32 @@ EXTRACT_JS = r"""() => {
     const txt = (a.innerText || '').slice(0, 200);
     if (/€/.test(txt)) continue;  // ya capturado en paso 2
     if (SKIP_URL.test(a.getAttribute('href') || '')) continue;
-    let box = null;
+    const boxes = [];
     let el = a;
     for (let i = 0; i < 7 && el; i++) {
       el = el.parentElement;
       if (!el) break;
       const t = (el.innerText || '');
-      if (/€/.test(t) && t.length < 500) { box = el; break; }
+      if (/€/.test(t) && t.length < 2000) boxes.push(el);
     }
-    if (!box) continue;
-    const h = box.querySelector('h2,h3');
-    const img = box.querySelector('img');
-    let name = (h && h.innerText.trim()) || '';
-    if (!name && img && img.alt && img.alt.trim().length > 3 &&
-        !/^(thumbnail|product thumbnail|imagen|image|foto.*)$/i.test(img.alt.trim()))
-      name = img.alt.trim();
-    if (!name) name = cleanSlug(a.pathname);
-    name = name.slice(0, 120);
-    if (name.length < 3) continue;
-    let raw = (box.innerText || '').slice(0, 200);
-    const pr = box.querySelector('.price:not(.compare-at-price):not(s):not(del), '
-      + '.product-price .amount, .woocommerce-Price-amount');
-    if (pr && /€/.test(pr.innerText || '')) raw = pr.innerText.slice(0, 200);
-    out.push({name, price: null, raw, url: a.href});
+    boxes.sort((x, y) => (x.innerText || '').length - (y.innerText || '').length);
+    for (const box of boxes) {
+      const h = box.querySelector('h2,h3');
+      const img = box.querySelector('img');
+      let name = (h && h.innerText.trim()) || '';
+      if (!name && img && img.alt && img.alt.trim().length > 3 &&
+          !/^(thumbnail|product thumbnail|imagen|image|foto.*)$/i.test(img.alt.trim()))
+        name = img.alt.trim();
+      if (!name) name = cleanSlug(a.pathname);
+      name = name.slice(0, 120);
+      if (name.length < 3) continue;
+      let raw = (box.innerText || '').slice(0, 400);
+      const pr = box.querySelector('.price:not(.compare-at-price):not(s):not(del), '
+        + '.product-price .amount, .woocommerce-Price-amount');
+      if (pr && /€/.test(pr.innerText || '')) raw = pr.innerText.slice(0, 200);
+      out.push({name, price: null, raw, url: a.href});
+      break;
+    }
   }
   // 3) Enlace a pagina siguiente
   let next = null;
