@@ -67,21 +67,32 @@ def main():
     src = (ROOT / "data.js").read_text(encoding="utf-8")
     fichas, span = load_enriched(src)
     ofertas = json.loads((BASE / "ofertas.json").read_text(encoding="utf-8"))
+    shops = json.loads((BASE / "shops.json").read_text(encoding="utf-8"))
+    official = {}
+    for s in shops:
+        if "brand" in s:
+            official[s.get("slot", s["tienda"])] = s["brand"]
 
     report = []
     for of in ofertas:
         nb = norm(of["nombre"])
         best, best_s = None, 0.0
+        only_brand = official.get(of.get("slot", of["tienda"]))
         for f in fichas:
-            brand = norm(f["marca"]).split()
-            if not any(t in nb for t in brand if len(t) > 2):
-                # la marca de la ficha debe aparecer en el nombre de la oferta
-                # (excepcion: alias comunes)
-                alias = {"ninebot": ["ninebot", "segway"], "xiaomi": ["xiaomi"],
-                         "cecoc": ["cecotec"], "dualtron": ["dualtron", "minimotors"]}
-                extra = alias.get(norm(f["marca"]), [])
-                if not any(t in nb for t in extra):
+            if only_brand:
+                # tienda oficial: solo fichas de su marca
+                if norm(f["marca"]) != norm(only_brand):
                     continue
+            else:
+                brand = norm(f["marca"]).split()
+                if not any(t in nb for t in brand if len(t) > 2):
+                    # la marca de la ficha debe aparecer en el nombre de la oferta
+                    # (excepcion: alias comunes)
+                    alias = {"ninebot": ["ninebot", "segway"], "xiaomi": ["xiaomi"],
+                             "dualtron": ["dualtron", "minimotors"]}
+                    extra = alias.get(norm(f["marca"]), [])
+                    if not any(t in nb for t in extra):
+                        continue
             s = score(f["modelo"], of["nombre"], f["marca"])
             if s > best_s:
                 best, best_s = f, s

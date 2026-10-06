@@ -1,5 +1,82 @@
 [
  {
+  "tienda": "cecotec",
+  "nombre": "Bongo D20E Connected Patinete eléctrico ligero con potencia máxima de 500 W y una velocidad máxima de 20 km/h y hasta 20",
+  "precio": 159.0,
+  "url": "https://cecotec.es/es/patinetes-electricos/bongo-d20e-connected",
+  "slot": "cecotec"
+ },
+ {
+  "tienda": "cecotec",
+  "nombre": "Bongo D20E Connected + Phone holder Patinete eléctrico ligero con potencia máxima de 500 W y una velocidad máxima de 20",
+  "precio": 199.0,
+  "url": "https://cecotec.es/es/patinetes-electricos/patinete-electrico-bongo-d20e-connected-phone-holder",
+  "slot": "cecotec"
+ },
+ {
+  "tienda": "cecotec",
+  "nombre": "Siente la deportividad, acelera tus sentidos",
+  "precio": 256.0,
+  "url": "https://cecotec.es/es/",
+  "slot": "cecotec"
+ },
+ {
+  "tienda": "cecotec",
+  "nombre": "Siente la deportividad, acelera tus sentidos",
+  "precio": 256.0,
+  "url": "https://cecotec.es/es/movilidad",
+  "slot": "cecotec"
+ },
+ {
+  "tienda": "cecotec",
+  "nombre": "Siente la deportividad, acelera tus sentidos",
+  "precio": 256.0,
+  "url": "https://cecotec.es/es/patinetes-electricos",
+  "slot": "cecotec"
+ },
+ {
+  "tienda": "cecotec",
+  "nombre": "Bongo D30 Dream Patinete eléctrico de 350 W con un pico máximo de 650 W y 30 km de autonomía. Homologado para cumplir co",
+  "precio": 280.0,
+  "url": "https://cecotec.es/es/patinetes-electricos/bongo-d30-dream",
+  "slot": "cecotec"
+ },
+ {
+  "tienda": "cecotec",
+  "nombre": "Bongo D20E Connected Infinity Patinete eléctrico ligero con potencia máxima de 500 W y una velocidad máxima de 20 km/h y",
+  "precio": 285.0,
+  "url": "https://cecotec.es/es/patinetes-electricos/bongo-d20e-connected-infinity",
+  "slot": "cecotec"
+ },
+ {
+  "tienda": "cecotec",
+  "nombre": "Bongo D40 XL Suspension Connected Patinete eléctrico con doble suspensión, potencia máxima de 800 W y neumáticos de 10\"",
+  "precio": 329.0,
+  "url": "https://cecotec.es/es/patinetes-electricos/bongo-d40-xl-suspension-connected",
+  "slot": "cecotec"
+ },
+ {
+  "tienda": "cecotec",
+  "nombre": "Bongo Serie A Connected. Patinete eléctrico con Potencia máxima de 700 W, App Smartphone, Batería Intercambiable, autono",
+  "precio": 379.9,
+  "url": "https://cecotec.es/es/patinetes-electricos/bongo-serie-a-connected",
+  "slot": "cecotec"
+ },
+ {
+  "tienda": "cecotec",
+  "nombre": "Bongo Serie S+ Max Infinity Patinete eléctrico deportivo con ruedas tubeless de 10”, potencia máxima de 750 W y hasta 30",
+  "precio": 399.0,
+  "url": "https://cecotec.es/es/patinetes-electricos/bongo-serie-s-max-infinity",
+  "slot": "cecotec"
+ },
+ {
+  "tienda": "cecotec",
+  "nombre": "Bongo Serie S+ Max Unlimited Patinete eléctrico deportivo con ruedas tubeless de 10”, potencia máxima de 750 W y hasta 4",
+  "precio": 593.9,
+  "url": "https://cecotec.es/es/patinetes-electricos/bongo-serie-s-max-unlimited",
+  "slot": "cecotec"
+ },
+ {
   "tienda": "ecoxtrem",
   "nombre": "patinete electrico bison homologado dgt",
   "precio": 699.0,
@@ -178,6 +255,96 @@
   "nombre": "Super Soco TC MAX",
   "precio": 3940.0,
   "url": "https://electyum.com/products/moto-electrica-125-super-soco-tc-max"
+ },
+ {
+  "tienda": "etwow",
+  "nombre": "E-twow GTS SPORT  -Potencia 1000W - Autonomia 30Km - Homologado DGT",
+  "precio": 999.0,
+  "url": "https://www.etwow.es/producte/e-twow-gt-sport-oficial/"
+ },
+ {
+  "tienda": "etwow",
+  "nombre": "E-Twow TK2 TankTorq – Patinete Eléctrico Dual Motor 2x600W | 45km Autonomía | 60V",
+  "precio": 1199.0,
+  "url": "https://www.etwow.es/producte/e-twow-tk2-tank-tork-2/"
+ },
+ {
+  "tienda": "etwow",
+  "nombre": "E-Twow TK3 TankTorq – Patinete Eléctrico Dual Motor 2x750W | 45 km Autonomía | 60V",
+  "precio": 1299.0,
+  "url": "https://www.etwow.es/producte/e-twow-tk3-tanktorq/"
+ },
+ {
+  "tienda": "etwow",
+  "nombre": "Nuevo E-twow Oficial GT15 SPORT - Potencia 1000W - Autonomía 40-45Km - Homologado DGT",
+  "precio": 1490.0,
+  "url": "https://www.etwow.es/producte/e-twow-gt15-sport/"
+ },
+ {
+  "tienda": "etwow",
+  "nombre": "E-TWOW TK5 (Tank Tork 5) - Homologado DGT",
+  "precio": 1899.0,
+  "url": "https://www.etwow.es/producte/nuevo-e-twow-tk5-tank-tork-5-homologado-dgt/"
+ },
+ {
+  "tienda": "etwow",
+  "nombre": "Patinets Dual-GT15 Sport",
+  "precio": 1949.0,
+  "url": "https://www.etwow.es/producte/nuevo-dual-gt/"
+ },
+ {
+  "tienda": "hikerboy",
+  "nombre": "CURTIS Hikerboy Scooter",
+  "precio": 439.0,
+  "url": "https://hikerboyscooter.com/collections/the-curtis-series/products/curtis"
+ },
+ {
+  "tienda": "hikerboy",
+  "nombre": "CURTIS Hikerboy Scooter",
+  "precio": 439.0,
+  "url": "https://hikerboyscooter.com/collections/the-curtis-series/products/curtis?variant=45511902789824"
+ },
+ {
+  "tienda": "hikerboy",
+  "nombre": "CURTIS Hikerboy Scooter",
+  "precio": 439.0,
+  "url": "https://hikerboyscooter.com/collections/the-curtis-series/products/curtis?variant=45224520712384"
+ },
+ {
+  "tienda": "hikerboy",
+  "nombre": "Curtis Plus Electric Scooter",
+  "precio": 549.0,
+  "url": "https://hikerboyscooter.com/collections/the-curtis-series/products/curtis-plus"
+ },
+ {
+  "tienda": "hikerboy",
+  "nombre": "Curtis Plus Electric Scooter",
+  "precio": 549.0,
+  "url": "https://hikerboyscooter.com/collections/the-curtis-series/products/curtis-plus?variant=53997148897665"
+ },
+ {
+  "tienda": "hikerboy",
+  "nombre": "Curtis Plus Electric Scooter",
+  "precio": 549.0,
+  "url": "https://hikerboyscooter.com/collections/the-curtis-series/products/curtis-plus?variant=53997148963201"
+ },
+ {
+  "tienda": "hikerboy",
+  "nombre": "Curtis Dual Electric Scooter",
+  "precio": 609.0,
+  "url": "https://hikerboyscooter.com/collections/the-curtis-series/products/curtis-dual"
+ },
+ {
+  "tienda": "hikerboy",
+  "nombre": "Curtis Dual Electric Scooter",
+  "precio": 609.0,
+  "url": "https://hikerboyscooter.com/collections/the-curtis-series/products/curtis-dual?variant=53997156565377"
+ },
+ {
+  "tienda": "hikerboy",
+  "nombre": "Curtis Dual Electric Scooter",
+  "precio": 609.0,
+  "url": "https://hikerboyscooter.com/collections/the-curtis-series/products/curtis-dual?variant=54009846366593"
  },
  {
   "tienda": "imoveblue",
@@ -1176,6 +1343,78 @@
   "url": "https://www.imoveblue.es/patinetes-electricos-certificados-dgt/1517-dualtron-thunder-3.html"
  },
  {
+  "tienda": "isinwheel",
+  "nombre": "patinete electrico de desplazamientos iscooter i9max de 500 w",
+  "precio": 298.99,
+  "url": "https://www.isinwheel.es/products/patinete-electrico-de-desplazamientos-iscooter-i9max-de-500-w"
+ },
+ {
+  "tienda": "isinwheel",
+  "nombre": "isinwheel s9 max patinete electrico",
+  "precio": 319.99,
+  "url": "https://www.isinwheel.es/products/isinwheel-s9-max-patinete-electrico"
+ },
+ {
+  "tienda": "isinwheel",
+  "nombre": "isinwheel® GT2 Patinete Eléctrico con Homologación DGT",
+  "precio": 578.99,
+  "url": "https://www.isinwheel.es/products/isinwheel-gt2-patinete-electrico-todoterreno-800w"
+ },
+ {
+  "tienda": "isinwheel",
+  "nombre": "isinwheel sale",
+  "precio": 587.99,
+  "url": "https://www.isinwheel.es/pages/isinwheel-sale"
+ },
+ {
+  "tienda": "isinwheel",
+  "nombre": "patinete electrico",
+  "precio": 587.99,
+  "url": "https://www.isinwheel.es/collections/patinete-electrico"
+ },
+ {
+  "tienda": "isinwheel",
+  "nombre": "patinete electrico ninos",
+  "precio": 587.99,
+  "url": "https://www.isinwheel.es/collections/patinete-electrico-ninos"
+ },
+ {
+  "tienda": "isinwheel",
+  "nombre": "equipo",
+  "precio": 587.99,
+  "url": "https://www.isinwheel.es/collections/equipo"
+ },
+ {
+  "tienda": "isinwheel",
+  "nombre": "isinwheel.Europe",
+  "precio": 587.99,
+  "url": "https://www.facebook.com/isinwheel.Europe/"
+ },
+ {
+  "tienda": "isinwheel",
+  "nombre": "isinwheel global",
+  "precio": 587.99,
+  "url": "https://www.instagram.com/isinwheel_global/"
+ },
+ {
+  "tienda": "isinwheel",
+  "nombre": "UCSB6 vcjy AfL3F3fcfCV8A",
+  "precio": 587.99,
+  "url": "https://www.youtube.com/channel/UCSB6-vcjy-AfL3F3fcfCV8A"
+ },
+ {
+  "tienda": "isinwheel",
+  "nombre": "isinwheel.es",
+  "precio": 587.99,
+  "url": "https://www.isinwheel.es/"
+ },
+ {
+  "tienda": "isinwheel",
+  "nombre": "ix7 pro 1000w patinete electrico off road certificado dgt vmp espana",
+  "precio": 698.99,
+  "url": "https://www.isinwheel.es/products/ix7-pro-1000w-patinete-electrico-off-road-certificado-dgt-vmp-espana"
+ },
+ {
   "tienda": "kukirin.es",
   "nombre": "KuKirin G2 Pro",
   "precio": 449.0,
@@ -1330,6 +1569,66 @@
   "nombre": "dualtron sonic alien dgt",
   "precio": 3889.0,
   "url": "https://myurbanscoot.com/es/producto/dualtron-sonic-alien-dgt"
+ },
+ {
+  "tienda": "olsson",
+  "nombre": "GLIDE",
+  "precio": 119.99,
+  "url": "https://olssonandbrothers.es/productos/glide/"
+ },
+ {
+  "tienda": "olsson",
+  "nombre": "FRESH SLIM",
+  "precio": 199.0,
+  "url": "https://olssonandbrothers.es/productos/fresh-slim/"
+ },
+ {
+  "tienda": "olsson",
+  "nombre": "FRESH NEON.",
+  "precio": 229.99,
+  "url": "https://olssonandbrothers.es/productos/fresh-neon/"
+ },
+ {
+  "tienda": "olsson",
+  "nombre": "FRESH WILD RED",
+  "precio": 229.99,
+  "url": "https://olssonandbrothers.es/productos/fresh-wild-red/"
+ },
+ {
+  "tienda": "olsson",
+  "nombre": "FRESH PULSE",
+  "precio": 279.0,
+  "url": "https://olssonandbrothers.es/productos/fresh-pulse/"
+ },
+ {
+  "tienda": "olsson",
+  "nombre": "FRESH ADVANCED",
+  "precio": 299.99,
+  "url": "https://olssonandbrothers.es/productos/fresh-advanced/"
+ },
+ {
+  "tienda": "olsson",
+  "nombre": "QUANTUM BLUE",
+  "precio": 399.99,
+  "url": "https://olssonandbrothers.es/productos/quantum-azul/"
+ },
+ {
+  "tienda": "olsson",
+  "nombre": "QUANTUM GREY",
+  "precio": 399.99,
+  "url": "https://olssonandbrothers.es/productos/quantum/"
+ },
+ {
+  "tienda": "olsson",
+  "nombre": "MAMBA LITE",
+  "precio": 499.99,
+  "url": "https://olssonandbrothers.es/productos/mamba-lite/"
+ },
+ {
+  "tienda": "olsson",
+  "nombre": "MAMBA X-TREM DUAL",
+  "precio": 699.99,
+  "url": "https://olssonandbrothers.es/productos/mamba-xtrem-dual/"
  },
  {
   "tienda": "patinetestore",
@@ -1620,6 +1919,24 @@
   "url": "https://patinetestore.com/producto/dualtron-sonic-alien-dgt/"
  },
  {
+  "tienda": "pccomponentes",
+  "nombre": "menos de 200",
+  "precio": 200.0,
+  "url": "https://www.pccomponentes.com/categorias/smartphone-moviles/menos-de-200"
+ },
+ {
+  "tienda": "pccomponentes",
+  "nombre": "tablets",
+  "precio": 200.0,
+  "url": "https://www.pccomponentes.com/categorias/tablets?LGHVTFUY7TMax=200"
+ },
+ {
+  "tienda": "pccomponentes",
+  "nombre": "basicos hasta 799",
+  "precio": 799.0,
+  "url": "https://www.pccomponentes.com/categorias/portatiles/basicos-hasta-799"
+ },
+ {
   "tienda": "sabway",
   "nombre": "Patinete eléctrico ICe Q3 EVO 48V 15Ah DUAL MOTOR Homologado DGT 2",
   "precio": 280.0,
@@ -1846,5 +2163,83 @@
   "nombre": "Patinete Eléctrico Rovoron S7 Homologado DGT",
   "precio": 2389.0,
   "url": "https://tallerdelpatinete.es/producto/patinete-electrico-rovoron-s7/"
+ },
+ {
+  "tienda": "xiaomi",
+  "nombre": "d24924e8427ef61282c680c35e527ec8.pdf",
+  "precio": 279.99,
+  "url": "https://i05.appmifile.com/269_operatorx_operatorx_operatorx_operatorx_pdf-merge/16/09/2026/d24924e8427ef61282c680c35e527ec8.pdf"
+ },
+ {
+  "tienda": "xiaomi",
+  "nombre": "bf2716bb02dbbcb0d3aeba528555a6b1.pdf",
+  "precio": 319.99,
+  "url": "https://i05.appmifile.com/35_operatorx_operatorx_operatorx_operatorx_pdf-merge/20/09/2026/bf2716bb02dbbcb0d3aeba528555a6b1.pdf"
+ },
+ {
+  "tienda": "xiaomi",
+  "nombre": "poco x8",
+  "precio": 319.99,
+  "url": "https://www.mi.com/es/product/poco-x8/?skupanel=1"
+ },
+ {
+  "tienda": "xiaomi",
+  "nombre": "poco x8",
+  "precio": 319.99,
+  "url": "https://www.mi.com/es/product/poco-x8/"
+ },
+ {
+  "tienda": "xiaomi",
+  "nombre": "ddfcb1e8335966c11dde602f8532783.pdf",
+  "precio": 379.99,
+  "url": "https://i05.appmifile.com/774_operatorx_operatorx_operatorx_operatorx_pdf-merge/16/09/2026/0ddfcb1e8335966c11dde602f8532783.pdf"
+ },
+ {
+  "tienda": "xiaomi",
+  "nombre": "b0c57dbb64d68d2f20eb8ac06cd3.pdf",
+  "precio": 479.99,
+  "url": "https://i05.appmifile.com/18_operatorx_operatorx_operatorx_operatorx_pdf-merge/16/09/2026/6160b0c57dbb64d68d2f20eb8ac06cd3.pdf"
+ },
+ {
+  "tienda": "xiaomi",
+  "nombre": "redmi note 17 pro 5g",
+  "precio": 479.99,
+  "url": "https://www.mi.com/es/product/redmi-note-17-pro-5g/?skupanel=1"
+ },
+ {
+  "tienda": "xiaomi",
+  "nombre": "redmi note 17 pro 5g",
+  "precio": 479.99,
+  "url": "https://www.mi.com/es/product/redmi-note-17-pro-5g/"
+ },
+ {
+  "tienda": "xiaomi",
+  "nombre": "a797393b5ba014f97e5b44a4bdae678.pdf",
+  "precio": 599.0,
+  "url": "https://i05.appmifile.com/59_operatorx_operatorx_operatorx_operatorx_pdf-merge/04/09/2026/5a797393b5ba014f97e5b44a4bdae678.pdf"
+ },
+ {
+  "tienda": "xiaomi",
+  "nombre": "mijia front load washer dryer pro 10kg",
+  "precio": 599.0,
+  "url": "https://www.mi.com/es/product/mijia-front-load-washer-dryer-pro-10kg/?skupanel=1"
+ },
+ {
+  "tienda": "xiaomi",
+  "nombre": "mijia front load washer dryer pro 10kg",
+  "precio": 599.0,
+  "url": "https://www.mi.com/es/product/mijia-front-load-washer-dryer-pro-10kg/"
+ },
+ {
+  "tienda": "xiaomi",
+  "nombre": "f6b56d3b6aec05845d52ceebfc868d.pdf",
+  "precio": 599.99,
+  "url": "https://i05.appmifile.com/783_operatorx_operatorx_operatorx_operatorx_pdf-merge/16/09/2026/05f6b56d3b6aec05845d52ceebfc868d.pdf"
+ },
+ {
+  "tienda": "xiaomi",
+  "nombre": "redmi note 17 pro max 5g",
+  "precio": 599.99,
+  "url": "https://www.mi.com/es/product/redmi-note-17-pro-max-5g/"
  }
 ]

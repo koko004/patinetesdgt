@@ -1,11 +1,112 @@
 [
-  {"tienda": "imoveblue", "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt"},
-  {"tienda": "myurbanscoot", "url": "https://myurbanscoot.com/es/categories/patinetes-electricos?dgt=dgt"},
-  {"tienda": "ecoxtrem", "url": "https://ecoxtrem.com/patinetes-electricos-homologados"},
-  {"tienda": "kukirin.es", "url": "https://kukirin.es/", "collect": "/producto/"},
-  {"tienda": "smartgyro", "url": "https://smartgyro.es/todos-los-patinetes"},
-  {"tienda": "sabway", "url": "https://sabway.es/shop/203-patinetes-electricos-homologados?order=product.position.asc&productListView=grid"},
-  {"tienda": "patinetestore", "url": "https://patinetestore.com/categoria-producto/patinetes-electricos/"},
-  {"tienda": "electyum", "url": "https://electyum.com/collections/patinetes-electricos-homologados-dgt"},
-  {"tienda": "tallerdelpatinete", "url": "https://tallerdelpatinete.es/"}
+  {
+    "tienda": "imoveblue",
+    "url": "https://www.imoveblue.es/35-patinetes-electricos-certificados-dgt"
+  },
+  {
+    "tienda": "myurbanscoot",
+    "url": "https://myurbanscoot.com/es/categories/patinetes-electricos?dgt=dgt"
+  },
+  {
+    "tienda": "ecoxtrem",
+    "url": "https://ecoxtrem.com/patinetes-electricos-homologados",
+    "brand": "Ecoxtrem"
+  },
+  {
+    "tienda": "kukirin.es",
+    "url": "https://kukirin.es/",
+    "collect": "/producto/",
+    "brand": "KUKIRIN"
+  },
+  {
+    "tienda": "smartgyro",
+    "url": "https://smartgyro.es/todos-los-patinetes",
+    "brand": "SMARTGYRO"
+  },
+  {
+    "tienda": "sabway",
+    "url": "https://sabway.es/shop/203-patinetes-electricos-homologados?order=product.position.asc&productListView=grid"
+  },
+  {
+    "tienda": "patinetestore",
+    "url": "https://patinetestore.com/categoria-producto/patinetes-electricos/"
+  },
+  {
+    "tienda": "electyum",
+    "url": "https://electyum.com/collections/patinetes-electricos-homologados-dgt"
+  },
+  {
+    "tienda": "tallerdelpatinete",
+    "url": "https://tallerdelpatinete.es/"
+  },
+  {
+    "tienda": "cecotec",
+    "brand": "Cecotec",
+    "url": "https://cecotec.es/patinetes-electricos/"
+  },
+  {
+    "tienda": "etwow",
+    "url": "https://www.etwow.es/categoria-producte/patinetes/",
+    "brand": "E-TWOW"
+  },
+  {
+    "tienda": "hikerboy",
+    "url": "https://hikerboyscooter.com/collections/the-curtis-series",
+    "brand": "Hikerboy"
+  },
+  {
+    "tienda": "isinwheel",
+    "url": "https://www.isinwheel.es/products/isinwheel-gt2-patinete-electrico-todoterreno-800w",
+    "brand": "iSinwheel"
+  },
+  {
+    "tienda": "sabway",
+    "slot": "sabway-kuickwheel",
+    "url": "https://sabway.es/shop/205-kuickwheel",
+    "brand": "Kuickwheel"
+  },
+  {
+    "tienda": "olsson",
+    "url": "https://olssonandbrothers.es/categoria/patinetes-electricos/",
+    "brand": "OLSSON"
+  },
+  {
+    "tienda": "platum",
+    "url": "https://www.platum.com/e-scooter",
+    "brand": "Platum"
+  },
+  {
+    "tienda": "pureelectric",
+    "url": "https://www.pureelectric.com/collections/all-electric-scooters",
+    "brand": "PURE ELECTRIC"
+  },
+  {
+    "tienda": "rcb",
+    "url": "https://www.rcb-scooter.com/es/collections/scooter-electrico-para-adultos-1",
+    "brand": "RCB"
+  },
+  {
+    "tienda": "segway",
+    "url": "https://es-es.segway.com/ekickscooter.html",
+    "brand": "Segway"
+  },
+  {
+    "tienda": "imoveblue",
+    "slot": "imoveblue-skateflash",
+    "url": "https://www.imoveblue.es/busqueda?controller=search&s=skateflash"
+  },
+  {
+    "tienda": "pccomponentes",
+    "url": "https://www.pccomponentes.com/marcas/voltrock"
+  },
+  {
+    "tienda": "xiaomi",
+    "url": "https://www.mi.com/es/",
+    "brand": "XIAOMI"
+  },
+  {
+    "tienda": "wispeed",
+    "url": "https://www.wispeed.net/gb/210-e-scooter",
+    "brand": "Wispeed"
+  }
 ]

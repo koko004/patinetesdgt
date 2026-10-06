@@ -118,7 +118,7 @@ return `<div class="card"><div class="photo"><span>🛴</span>${ph}<button class
 }
 function applyFilters(){
 let t=q.value.toLowerCase(),list=ENRICHED.filter(e=>{
-if(fFicha.checked===false){/* show all enriched anyway */}
+if(fFicha.checked&&bestOffer(e).p===null)return false;
 if(fMarca.value&&e.marca!==fMarca.value)return false;
 if(t&&!(e.marca+' '+e.modelo).toLowerCase().includes(t))return false;
 if(R.precio.on){const bp=bestOffer(e).p;if(bp===null||bp<R.precio.lo||bp>R.precio.hi)return false;}

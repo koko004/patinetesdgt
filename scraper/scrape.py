@@ -308,7 +308,10 @@ def main():
                 else:
                     items = scrape_shop(page, s["tienda"], s["url"], maxp)
                 print(f"  -> {len(items)} ofertas", flush=True)
-                (BASE / f"ofertas_{s['tienda']}.json").write_text(
+                slot = s.get("slot", s["tienda"])
+                for it in items:
+                    it["slot"] = slot
+                (BASE / f"ofertas_{slot}.json").write_text(
                     json.dumps(items, ensure_ascii=False, indent=1), encoding="utf-8")
             except Exception as e:
                 print(f"  !! error {s['tienda']}: {e}", flush=True)

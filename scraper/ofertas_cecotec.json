@@ -1,0 +1,79 @@
+[
+ {
+  "tienda": "cecotec",
+  "nombre": "Bongo D20E Connected Patinete eléctrico ligero con potencia máxima de 500 W y una velocidad máxima de 20 km/h y hasta 20",
+  "precio": 159.0,
+  "url": "https://cecotec.es/es/patinetes-electricos/bongo-d20e-connected",
+  "slot": "cecotec"
+ },
+ {
+  "tienda": "cecotec",
+  "nombre": "Bongo Serie S+ Max Infinity Patinete eléctrico deportivo con ruedas tubeless de 10”, potencia máxima de 750 W y hasta 30",
+  "precio": 399.0,
+  "url": "https://cecotec.es/es/patinetes-electricos/bongo-serie-s-max-infinity",
+  "slot": "cecotec"
+ },
+ {
+  "tienda": "cecotec",
+  "nombre": "Bongo D40 XL Suspension Connected Patinete eléctrico con doble suspensión, potencia máxima de 800 W y neumáticos de 10\"",
+  "precio": 329.0,
+  "url": "https://cecotec.es/es/patinetes-electricos/bongo-d40-xl-suspension-connected",
+  "slot": "cecotec"
+ },
+ {
+  "tienda": "cecotec",
+  "nombre": "Bongo D20E Connected + Phone holder Patinete eléctrico ligero con potencia máxima de 500 W y una velocidad máxima de 20",
+  "precio": 199.0,
+  "url": "https://cecotec.es/es/patinetes-electricos/patinete-electrico-bongo-d20e-connected-phone-holder",
+  "slot": "cecotec"
+ },
+ {
+  "tienda": "cecotec",
+  "nombre": "Bongo Serie S+ Max Unlimited Patinete eléctrico deportivo con ruedas tubeless de 10”, potencia máxima de 750 W y hasta 4",
+  "precio": 593.9,
+  "url": "https://cecotec.es/es/patinetes-electricos/bongo-serie-s-max-unlimited",
+  "slot": "cecotec"
+ },
+ {
+  "tienda": "cecotec",
+  "nombre": "Bongo D30 Dream Patinete eléctrico de 350 W con un pico máximo de 650 W y 30 km de autonomía. Homologado para cumplir co",
+  "precio": 280.0,
+  "url": "https://cecotec.es/es/patinetes-electricos/bongo-d30-dream",
+  "slot": "cecotec"
+ },
+ {
+  "tienda": "cecotec",
+  "nombre": "Bongo Serie A Connected. Patinete eléctrico con Potencia máxima de 700 W, App Smartphone, Batería Intercambiable, autono",
+  "precio": 379.9,
+  "url": "https://cecotec.es/es/patinetes-electricos/bongo-serie-a-connected",
+  "slot": "cecotec"
+ },
+ {
+  "tienda": "cecotec",
+  "nombre": "Bongo D20E Connected Infinity Patinete eléctrico ligero con potencia máxima de 500 W y una velocidad máxima de 20 km/h y",
+  "precio": 285.0,
+  "url": "https://cecotec.es/es/patinetes-electricos/bongo-d20e-connected-infinity",
+  "slot": "cecotec"
+ },
+ {
+  "tienda": "cecotec",
+  "nombre": "Siente la deportividad, acelera tus sentidos",
+  "precio": 256.0,
+  "url": "https://cecotec.es/es/",
+  "slot": "cecotec"
+ },
+ {
+  "tienda": "cecotec",
+  "nombre": "Siente la deportividad, acelera tus sentidos",
+  "precio": 256.0,
+  "url": "https://cecotec.es/es/movilidad",
+  "slot": "cecotec"
+ },
+ {
+  "tienda": "cecotec",
+  "nombre": "Siente la deportividad, acelera tus sentidos",
+  "precio": 256.0,
+  "url": "https://cecotec.es/es/patinetes-electricos",
+  "slot": "cecotec"
+ }
+]

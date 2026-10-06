@@ -1,0 +1,20 @@
+[
+ {
+  "tienda": "pccomponentes",
+  "nombre": "basicos hasta 799",
+  "precio": 799.0,
+  "url": "https://www.pccomponentes.com/categorias/portatiles/basicos-hasta-799"
+ },
+ {
+  "tienda": "pccomponentes",
+  "nombre": "menos de 200",
+  "precio": 200.0,
+  "url": "https://www.pccomponentes.com/categorias/smartphone-moviles/menos-de-200"
+ },
+ {
+  "tienda": "pccomponentes",
+  "nombre": "tablets",
+  "precio": 200.0,
+  "url": "https://www.pccomponentes.com/categorias/tablets?LGHVTFUY7TMax=200"
+ }
+]
