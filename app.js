@@ -8,7 +8,9 @@ q2=document.getElementById('q2'),modalBg=document.getElementById('modal-bg'),mod
 const marcas=[...new Set(DGT_LIST.map(r=>r[0]))].sort((a,b)=>a.localeCompare(b,'es'));
 const FICHAS=new Set(ENRICHED.map(e=>e.marca+'|'+e.modelo));
 const fmt=(v,u)=> (v===null||v===undefined||v==='')?'—':(u?v+' '+u:v);
-const priceB=e=> e.precio===null?'<b>A consultar</b>':`<b>${e.precioEst?'≈':''}${e.precio} €</b>`;
+const priceB=e=>{const o=bestOffer(e);return o.p===null?'<b>A consultar</b>':`<b>${e.precioEst?'≈':''}${o.p} €</b>`;};
+const bestOffer=e=>{if(e.ofertas&&e.ofertas.length){const v=e.ofertas.filter(o=>o.p!=null).sort((a,b)=>a.p-b.p)[0];if(v)return v;}return {t:e.tienda,u:e.buy,p:e.precio};};
+const offerLinks=e=>{if(!(e.ofertas&&e.ofertas.length))return fmt(e.tienda);return `<span class="offers">${e.ofertas.slice().sort((a,b)=>(a.p??1e12)-(b.p??1e12)).map(o=>`<a target="_blank" rel="noopener" href="${o.u}">${o.t}${o.p!=null?` <small>${o.p} €</small>`:''}</a>`).join('')}</span>`;};
 const FEAT=new Set();
 const ipxLevel=s=>{if(!s)return -1;const m=/IPX?(\d)(\d)?/i.exec(s);if(!m)return -1;return m[2]?+m[2]:+m[1];};
 const hasDoubleSusp=s=>!!s&&(/tras/i.test(s)||/dual/i.test(s)||/damping/i.test(s)||/4 brazos/i.test(s)||/offroad/i.test(s));
@@ -36,7 +38,7 @@ dualSlider('vel',(a,b)=>a+' – '+b+' km/h',5);
 let CMP=[];try{CMP=JSON.parse(localStorage.getItem('patdgt_cmp')||'[]');}catch(e){CMP=[];}
 const CMPSAVE=()=>{try{localStorage.setItem('patdgt_cmp',JSON.stringify(CMP));}catch(e){}};
 const CMPROWS=[
- ['Precio',e=>e.precio===null?'A consultar':(e.precioEst?'≈':'')+e.precio+' €','min',e=>e.precio],
+ ['Precio',e=>{const o=bestOffer(e);return o.p===null?'A consultar':(e.precioEst?'≈':'')+o.p+' €';},'min',e=>bestOffer(e).p],
  ['Velocidad legal',e=>'25 km/h',null,null],
  ['Velocidad real',e=>fmt(e.velReal,'km/h'),'max',e=>e.velReal],
  ['Autonomía máx.',e=>fmt(e.autonomia,'km'),'max',e=>e.autonomia],
@@ -51,7 +53,7 @@ const CMPROWS=[
  ['Protección',e=>fmt(e.ipx),null,null],
  ['Tiempo de carga',e=>fmt(e.cargaH,'h'),'min',e=>e.cargaH],
  ['Certificado VMP',e=>e.cert,null,null],
- ['Tiendas',e=>fmt(e.tienda),null,null]
+ ['Tiendas',e=>offerLinks(e),null,null]
 ];
 function bestIdx(items,dir,numFn){
   if(!dir)return -1;
@@ -70,7 +72,7 @@ function openCompare(){
     const bi=bestIdx(items,dir,numFn);
     h+=`<tr><td>${label}</td>${items.map((e,i)=>`<td${i===bi?' class="best"':''}>${fn(e)}</td>`).join('')}</tr>`;
   });
-  h+=`<tr><td>Comprar</td>${items.map(e=>`<td><a class="cmp-buy" target="_blank" rel="noopener" href="${e.buy}">🛒 Ver ofertas</a></td>`).join('')}</tr>`;
+  h+=`<tr><td>Comprar</td>${items.map(e=>`<td><a class="cmp-buy" target="_blank" rel="noopener" href="${bestOffer(e).u}">🛒 Ver ofertas</a></td>`).join('')}</tr>`;
   h+=`</tbody></table></div><div class="buybox"><button class="btn-sm detail" id="cmp-close">Cerrar</button></div>`;
   cm.innerHTML=h;
   document.getElementById('cmp-bg').classList.add('open');
@@ -110,8 +112,8 @@ return `<div class="card"><div class="photo"><span>🛴</span>${ph}<button class
 <div class="spec"><b>${fmt(e.batWh,'Wh')}</b><span>Batería${e.volt?' '+e.volt+'V':''}</span></div>
 <div class="spec"><b>25 km/h</b><span>Vel. legal DGT</span></div>
 <div class="spec"><b>${fmt(e.velReal,'km/h')}</b><span>Vel. real hardware</span></div></div>
-<div class="price-row"><span class="old">${e.tienda}</span></div>
-<div class="card-actions"><a class="btn-sm buy" target="_blank" rel="noopener" href="${e.buy}">🛒 Comprar</a>
+<div class="price-row"><span class="store">🛒 ${bestOffer(e).t||''}</span></div>
+<div class="card-actions"><a class="btn-sm buy" target="_blank" rel="noopener" href="${bestOffer(e).u}">🛒 Comprar</a>
 <button class="btn-sm detail" data-id="${e.id}">Ficha</button></div></div>`;
 }
 function applyFilters(){
@@ -119,7 +121,7 @@ let t=q.value.toLowerCase(),list=ENRICHED.filter(e=>{
 if(fFicha.checked===false){/* show all enriched anyway */}
 if(fMarca.value&&e.marca!==fMarca.value)return false;
 if(t&&!(e.marca+' '+e.modelo).toLowerCase().includes(t))return false;
-if(R.precio.on&&(e.precio===null||e.precio<R.precio.lo||e.precio>R.precio.hi))return false;
+if(R.precio.on){const bp=bestOffer(e).p;if(bp===null||bp<R.precio.lo||bp>R.precio.hi)return false;}
 if(R.aut.on&&(e.autonomia===null||e.autonomia===undefined||e.autonomia<R.aut.lo||e.autonomia>R.aut.hi))return false;
 if(R.vel.on&&(e.velReal===null||e.velReal===undefined||e.velReal<R.vel.lo||e.velReal>R.vel.hi))return false;
 if(FEAT.has('nutt')&&!(e.frenos&&/nutt/i.test(e.frenos)))return false;
@@ -133,8 +135,8 @@ if(FEAT.has('doble')&&!hasDoubleSusp(e.susp))return false;
 if(fPot.value){const[a,b]=fPot.value.split('-').map(Number);if(e.potMax===null||e.potMax===undefined||e.potMax<a||e.potMax>b)return false;}
 return true;});
 const num=(v,d)=> (v===null||v===undefined)?d:v;
-if(fOrden.value==='precio-asc')list.sort((a,b)=>num(a.precio,1e12)-num(b.precio,1e12));
-if(fOrden.value==='precio-desc')list.sort((a,b)=>num(b.precio,-1)-num(a.precio,-1));
+if(fOrden.value==='precio-asc')list.sort((a,b)=>num(bestOffer(a).p,1e12)-num(bestOffer(b).p,1e12));
+if(fOrden.value==='precio-desc')list.sort((a,b)=>num(bestOffer(b).p,-1)-num(bestOffer(a).p,-1));
 if(fOrden.value==='autonomia-desc')list.sort((a,b)=>num(b.autonomia,-1)-num(a.autonomia,-1));
 if(fOrden.value==='potencia-desc')list.sort((a,b)=>num(b.potMax,-1)-num(a.potMax,-1));
 if(fOrden.value==='velreal-desc')list.sort((a,b)=>num(b.velReal,-1)-num(a.velReal,-1));
@@ -158,7 +160,7 @@ const mph=e.img?`<img class="modal-photo" loading="lazy" src="${e.img}" alt="${e
 modal.innerHTML=`<h2>${e.marca} · ${e.modelo}</h2>
 <p><span class="cert">Certificado VMP: ${e.cert}</span></p>${mph}
 <div class="kvs">
-<div class="kv"><b>${e.precio===null?'A consultar':(e.precioEst?'≈':'')+e.precio+' €'}</b><span>Precio ${e.precioEst?'estimado':'orientativo'}</span></div>
+<div class="kv"><b>${(()=>{const o=bestOffer(e);return o.p===null?'A consultar':(e.precioEst?'≈':'')+o.p+' €';})()}</b><span>Mejor precio${e.precioEst?' estimado':''}</span></div>
 <div class="kv"><b>25 km/h</b><span>Velocidad legal DGT</span></div>
 <div class="kv"><b>${fmt(e.velReal,'km/h')}</b><span>Velocidad real hardware</span></div>
 <div class="kv"><b>${e.potNom!=null&&e.potMax!=null?e.potNom+' W / '+e.potMax+' W':fmt(e.potMax!=null?e.potMax:e.potNom,'W')}</b><span>Potencia nominal / máx</span></div>
@@ -170,9 +172,9 @@ modal.innerHTML=`<h2>${e.marca} · ${e.modelo}</h2>
 <div class="kv"><b>${fmt(e.frenos)}</b><span>Frenos</span></div>
 <div class="kv"><b>${fmt(e.susp)}</b><span>Suspensión</span></div>
 <div class="kv"><b>${fmt(e.ipx)}</b><span>Protección</span></div>
-<div class="kv"><b>${fmt(e.tienda)}</b><span>Dónde comprar</span></div></div>
+<div class="kv"><b>${offerLinks(e)}</b><span>Dónde comprar · mejor precio primero</span></div></div>
 <p class="small" style="color:#5b6b82">En España los VMP deben circular limitados a 25 km/h; la velocidad real indica la capacidad del hardware (modo sport / deslimitado, solo para uso privado donde la ley lo permita). Todos llevan luces, reflectantes, timbre y nº de bastidor.</p>
-<div class="buybox"><a class="btn-sm buy" target="_blank" rel="noopener" href="${e.buy}">🛒 Ver ofertas</a>
+<div class="buybox"><a class="btn-sm buy" target="_blank" rel="noopener" href="${bestOffer(e).u}">🛒 Ver ofertas</a>
 <button class="btn-sm detail" onclick="document.getElementById('modal-bg').classList.remove('open')">Cerrar</button></div>`;
 modalBg.classList.add('open');
 });

@@ -1,0 +1,21 @@
+# fichas actualizadas: 12/223
+# ofertas emparejadas: 15/18
+
+OK  [0.65] smartgyro | patinete electrico smartgyro z one 2 gray certificado | 299.0 EUR -> smartgyro-z-one-a1045
+OK  [0.65] smartgyro | patinete electrico smartgyro k1 | 459.0 EUR -> smartgyro-k1-a1209
+??  [0.42] smartgyro | patinete electrico smartgyro rockway gl | 599.0 EUR -> dudoso:smartgyro-rockway-gt-a1190
+OK  [0.65] smartgyro | patinete electrico smartgyro rockway gt | 599.0 EUR -> smartgyro-rockway-gt-a1190
+OK  [0.65] smartgyro | patinete electrico smartgyro k5 pro certificado | 679.0 EUR -> smartgyro-k5-pro-a1213
+??  [0.15] smartgyro | patinete electrico smartgyro speedway certificado | 699.0 EUR -> dudoso:smartgyro-rockway-pro-evo-a1162
+OK  [0.66] smartgyro | patinete electrico smartgyro rockway gts | 779.0 EUR -> smartgyro-rockway-gts-a1189
+OK  [0.65] smartgyro | patinete electrico smartgyro k5 pro lr certificado | 779.0 EUR -> smartgyro-k5-pro-a1213
+OK  [0.7] smartgyro | patinete electrico smartgyro crossover dual max 2 certificado | 799.0 EUR -> smartgyro-crossover-dual-max-2-a1176
+??  [0.35] smartgyro | patinete electrico smartgyro speedway pro certificado | 799.0 EUR -> dudoso:smartgyro-rockway-pro-evo-a1162
+OK  [0.71] smartgyro | patinete electrico smartgyro rockway gt dual | 799.0 EUR -> smartgyro-rockway-gt-dual-a1215
+OK  [0.72] smartgyro | patinete electrico smartgyro crossover dual max 2 lr certificado | 799.0 EUR -> smartgyro-crossover-dual-max-2-lr-a1175
+OK  [0.65] smartgyro | patinete electrico smartgyro raptor evo | 799.0 EUR -> smartgyro-raptor-evo-a1165
+OK  [0.65] smartgyro | patinete electrico smartgyro ryder 2 certificado | 799.01 EUR -> smartgyro-ryder-a1105
+OK  [0.72] smartgyro | patinete electrico smartgyro crossover dual xt | 899.0 EUR -> smartgyro-crossover-dual-xt-a1205
+OK  [0.68] smartgyro | patinete electrico smartgyro raptor evo lr | 899.01 EUR -> smartgyro-raptor-evo-a1164
+OK  [0.65] smartgyro | patinete electrico smartgyro raptor dual evo | 949.0 EUR -> smartgyro-raptor-evo-a1165
+OK  [0.66] smartgyro | patinete electrico smartgyro raptor dual evo lr | 1099.0 EUR -> smartgyro-raptor-evo-a1164
