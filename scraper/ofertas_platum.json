@@ -1,1 +1,58 @@
-[]
+[
+ {
+  "tienda": "platum",
+  "nombre": "Automobili Lamborghini AL60",
+  "precio": 699.0,
+  "url": "https://www.platum.com/product-page/automobili-lamborghini-al60",
+  "slot": "platum"
+ },
+ {
+  "tienda": "platum",
+  "nombre": "Automobili Lamborghini AL36",
+  "precio": 349.0,
+  "url": "https://www.platum.com/product-page/automobili-lamborghini-al36",
+  "slot": "platum"
+ },
+ {
+  "tienda": "platum",
+  "nombre": "Automobili Lamborghini AL10",
+  "precio": 299.0,
+  "url": "https://www.platum.com/product-page/automobili-lamborghini-al10",
+  "slot": "platum"
+ },
+ {
+  "tienda": "platum",
+  "nombre": "Jeep JXP",
+  "precio": 699.0,
+  "url": "https://www.platum.com/product-page/jeep-jxp",
+  "slot": "platum"
+ },
+ {
+  "tienda": "platum",
+  "nombre": "Jeep JAF Dual",
+  "precio": 319.0,
+  "url": "https://www.platum.com/product-page/jeep-jaf-dual",
+  "slot": "platum"
+ },
+ {
+  "tienda": "platum",
+  "nombre": "Aprila eSRZ",
+  "precio": 279.0,
+  "url": "https://www.platum.com/product-page/aprila-esrz",
+  "slot": "platum"
+ },
+ {
+  "tienda": "platum",
+  "nombre": "Jeep JUC",
+  "precio": 549.0,
+  "url": "https://www.platum.com/product-page/jeep-juc",
+  "slot": "platum"
+ },
+ {
+  "tienda": "platum",
+  "nombre": "Ducati Pro-III",
+  "precio": 499.0,
+  "url": "https://www.platum.com/product-page/ducati-pro-iii",
+  "slot": "platum"
+ }
+]

@@ -73,7 +73,8 @@
   {
     "tienda": "platum",
     "url": "https://www.platum.com/e-scooter",
-    "brand": "Platum"
+    "brand": "Platum",
+    "collect": "/product-page/"
   },
   {
     "tienda": "pureelectric",

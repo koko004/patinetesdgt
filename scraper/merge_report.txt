@@ -1,5 +1,5 @@
 # fichas actualizadas: 73/295
-# ofertas emparejadas: 149/512
+# ofertas emparejadas: 149/520
 
 SIN [0.0] cecotec | Bongo D20E Connected Patinete eléctrico ligero con potencia máxima de 500 W y una velocidad máxima de 20 km/h y hasta 20 | 159.0 EUR -> sin ficha
 SIN [0.0] cecotec | Bongo D20E Connected + Phone holder Patinete eléctrico ligero con potencia máxima de 500 W y una velocidad máxima de 20 | 199.0 EUR -> sin ficha
@@ -456,6 +456,14 @@ OK  [0.64] patinetestore | Dualtron Sonic Alien DGT | 3885.0 EUR -> dualtron-son
 SIN [0.0] pccomponentes | menos de 200 | 200.0 EUR -> sin ficha
 SIN [0.0] pccomponentes | tablets | 200.0 EUR -> sin ficha
 SIN [0.0] pccomponentes | basicos hasta 799 | 799.0 EUR -> sin ficha
+SIN [0.0] platum | Aprila eSRZ | 279.0 EUR -> sin ficha
+??  [0.39] platum | Automobili Lamborghini AL10 | 299.0 EUR -> dudoso:platum-automobili-lamborghini-versi-n-alext-bronze-alext-green-b1075
+??  [0.14] platum | Jeep JAF Dual | 319.0 EUR -> dudoso:platum-jeep-versi-n-jad-b1105
+??  [0.39] platum | Automobili Lamborghini AL36 | 349.0 EUR -> dudoso:platum-automobili-lamborghini-versi-n-alext-bronze-alext-green-b1075
+??  [0.49] platum | Ducati Pro-III | 499.0 EUR -> dudoso:platum-ducati-versi-n-pro-l-b1076-b1121
+??  [0.25] platum | Jeep JUC | 549.0 EUR -> dudoso:platum-jeep-versi-n-jad-b1105
+??  [0.39] platum | Automobili Lamborghini AL60 | 699.0 EUR -> dudoso:platum-automobili-lamborghini-versi-n-alext-bronze-alext-green-b1075
+??  [0.25] platum | Jeep JXP | 699.0 EUR -> dudoso:platum-jeep-versi-n-jad-b1105
 SIN [0.0] rcb | Intermitente RCB D7 PRO ABE Ultra Elektroroller (RCB D7 PRO Ultra NFC+Señal de giro) | 899.0 EUR -> sin ficha
 SIN [0.0] rcb | Intermitente RCB D7 PRO ABE Ultra Elektroroller (RCB D7 PRO Ultra NFC+Señal de giro) | 899.0 EUR -> sin ficha
 SIN [0.0] rcb | Intermitente RCB D7 PRO ABE Ultra Elektroroller (RCB D7 PRO Ultra NFC+Señal de giro) | 899.0 EUR -> sin ficha
