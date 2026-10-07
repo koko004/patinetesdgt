@@ -30,7 +30,9 @@ EXCLUDE_RE = re.compile(
     r"cargador|pastilla|camara|neumatico|\bfreno\b|\bkit\b|tornillo|"
     r"display|gatillo|acelerador|puño|guardabarros|sillin|asiento|casco|"
     r"candado|soporte|bolsa|mochila|guante|luz\b|reflectante|camiseta|sudadera|"
-    r"bicicleta|kart|triciclo|\bmoto\b|ciclomotor|quad",
+    r"bicicleta|kart|triciclo|\bmoto\b|ciclomotor|quad|"
+    r"glove|helmet|\block\b|tire|tyre|charger|pump|\bbell\b|mirror|holder|"
+    r"basket|seat\b|saddle|griptape",
     re.I)
 
 

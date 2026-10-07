@@ -49,6 +49,11 @@ def score(modelo, nombre, brand=""):
     s = 0.5 * r + 0.5 * f1
     if ta == tb:
         s = max(s, 0.9)
+    extra = tb - ta
+    if extra:
+        # la oferta menciona algo que la ficha no tiene (Ultra, Dual...):
+        # penaliza salvo que haya ficha exacta mejor en otra parte
+        s -= 0.5 * len(extra) / len(tb)
     return max(0.0, s)
 
 
@@ -95,6 +100,12 @@ def main():
                         continue
             s = score(f["modelo"], of["nombre"], f["marca"])
             if s > best_s:
+                # los tokens con digitos (G2, 4Pro, 6Max...) mandan:
+                # si ambos tienen y son disjuntos, es otra generacion
+                df = {t for t in norm(f["modelo"]).split() if any(c.isdigit() for c in t)}
+                do = {t for t in nb.split() if any(c.isdigit() for c in t)}
+                if df and do and df.isdisjoint(do):
+                    continue
                 best, best_s = f, s
         cheap = False
         if best and best_s >= MIN_SCORE and best.get("precio"):
