@@ -21,7 +21,12 @@ BASE = Path(__file__).parent
 ROOT = BASE.parent
 STOP = {"patinete", "patinetes", "electrico", "electricos", "electrica",
         "certificado", "certificada", "homologado", "homologada", "dgt", "vmp",
-        "scooter", "version", "versiones", "eu", "e"}
+        "scooter", "version", "versiones", "eu", "e",
+        "tipo", "vpl", "vpm", "potencia", "pot", "nominal", "autonomia",
+        "velocidad", "vel", "carga", "bateria", "mah", "wh", "w", "kg",
+        "km", "neumatico", "neumaticos", "pulgadas",
+        "negro", "gris", "blanco", "azul", "plata", "rojo", "verde", "rosa",
+        "mate", "brillo", "color", "oscuro", "claro"}
 NUM_RE = re.compile(r"^\d+(\.\d+)?$")
 SPEC_RE = re.compile(r"^\d+(\.\d+)?(v|ah|w)$|^\d+[a-z]*ah$")
 MIN_SCORE = 0.60
@@ -74,13 +79,20 @@ def main():
     ofertas = json.loads((BASE / "ofertas.json").read_text(encoding="utf-8"))
     shops = json.loads((BASE / "shops.json").read_text(encoding="utf-8"))
     official = {}
+    name_cuts = {}
     for s in shops:
         if "brand" in s:
             official[s.get("slot", s["tienda"])] = s["brand"]
+        if "name_cut" in s:
+            name_cuts[s.get("slot", s["tienda"])] = s["name_cut"]
 
     report = []
     for of in ofertas:
-        nb = norm(of["nombre"])
+        raw_name = of["nombre"]
+        cut = name_cuts.get(of.get("slot", of["tienda"]))
+        if cut:
+            raw_name = raw_name.split(cut)[0]
+        nb = norm(raw_name)
         best, best_s = None, 0.0
         only_brand = official.get(of.get("slot", of["tienda"]))
         for f in fichas:
@@ -98,7 +110,7 @@ def main():
                     extra = alias.get(norm(f["marca"]), [])
                     if not any(t in nb for t in extra):
                         continue
-            s = score(f["modelo"], of["nombre"], f["marca"])
+            s = score(f["modelo"], raw_name, f["marca"])
             if s > best_s:
                 # los tokens con digitos (G2, 4Pro, 6Max...) mandan:
                 # si ambos tienen y son disjuntos, es otra generacion

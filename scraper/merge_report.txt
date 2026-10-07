@@ -1,5 +1,5 @@
 # fichas actualizadas: 73/295
-# ofertas emparejadas: 142/500
+# ofertas emparejadas: 149/512
 
 SIN [0.0] cecotec | Bongo D20E Connected Patinete eléctrico ligero con potencia máxima de 500 W y una velocidad máxima de 20 km/h y hasta 20 | 159.0 EUR -> sin ficha
 SIN [0.0] cecotec | Bongo D20E Connected + Phone holder Patinete eléctrico ligero con potencia máxima de 500 W y una velocidad máxima de 20 | 199.0 EUR -> sin ficha
@@ -42,7 +42,7 @@ OK  [0.9] electyum | Patinete Eléctrico Rovoron R7 Pro | 1595.0 EUR -> rovoron-
 SIN [0.0] electyum | Littium Ibiza Rainbow | 1790.0 EUR -> sin ficha
 SIN [0.0] electyum | Super Soco TS Street Hunter | 3699.0 EUR -> sin ficha
 SIN [0.0] electyum | Super Soco TC MAX | 3940.0 EUR -> sin ficha
-SIN [0.0] etwow | E-twow GTS SPORT  -Potencia 1000W - Autonomia 30Km - Homologado DGT | 999.0 EUR -> sin ficha
+??  [0.06] etwow | E-twow GTS SPORT  -Potencia 1000W - Autonomia 30Km - Homologado DGT | 999.0 EUR -> dudoso:e-twow-gts-versi-n-gts-a1210
 SIN [0.0] etwow | E-Twow TK2 TankTorq – Patinete Eléctrico Dual Motor 2x600W | 45km Autonomía | 60V | 1199.0 EUR -> sin ficha
 SIN [0.0] etwow | E-Twow TK3 TankTorq – Patinete Eléctrico Dual Motor 2x750W | 45 km Autonomía | 60V | 1299.0 EUR -> sin ficha
 SIN [0.0] etwow | Nuevo E-twow Oficial GT15 SPORT - Potencia 1000W - Autonomía 40-45Km - Homologado DGT | 1490.0 EUR -> sin ficha
@@ -359,6 +359,18 @@ SIN [0.0] isinwheel | isinwheel.es | 587.99 EUR -> sin ficha
 SIN [0.0] isinwheel | ix7 pro 1000w patinete electrico off road certificado dgt vmp espana | 698.99 EUR -> sin ficha
 OK  [0.9] kukirin.es | KuKirin G2 Pro | 449.0 EUR -> kukirin-g2-pro-a1156
 OK  [0.9] kukirin.es | Patinete eléctrico KuKirin G2 | 458.0 EUR -> kukirin-g2-c1011
+OK  [0.9] mediamarkt | Patinete eléctrico - OLSSON FRESH SLIM homologado DGT, Pot. máx. 500 W, Carga máx. 100 kg, 18 km autonomía, 5200 mAh, Azul | 169.9 EUR -> olsson-fresh-slim-a1117
+SIN [0.0] mediamarkt | Patinete eléctrico - Segway E2 Pro E, Tipo 1 / VPL, Potencia nominal 350W, Hasta 100 kg, Velocidad máx. 25 km/h, Negro | 299.0 EUR -> sin ficha
+OK  [0.77] mediamarkt | Patinete eléctrico - Xiaomi Electric Scooter 5 Plus, Tipo 1 / VPL, Pot nominal 400W, 120 kg, Vel máx 25km/h, Neumáticos 12", Batería 10200 m | 329.0 EUR -> xiaomi-xiaomi-electric-scooter-5-plus-es-b1117
+OK  [0.77] mediamarkt | Patinete eléctrico - Xiaomi Electric Scooter 6 Lite, Tipo 1 / VPL, Potencia Nominal 300W, Carga máx. 100kg, 10000 mAh, 25km/h, Negro/Gris | 329.0 EUR -> xiaomi-xiaomi-electric-scooter-6-lite-gl-b1134
+SIN [0.0] mediamarkt | Patinete eléctrico - Segway Ninebot E3 E, Tipo 1 / VPL, Potencia Nominal 400 W, Carga máx.100 kg, 7650 mAh, 25 km/h, Negro/Plata | 349.0 EUR -> sin ficha
+OK  [0.9] mediamarkt | Patinete eléctrico - Xiaomi Electric Scooter 4 Ultra, Tipo 1 / VPL, Pot. nominal 500W, 70km autonomía, Vel. 25 km/h, Carga rápida, 12000mAh, | 369.0 EUR -> xiaomi-xiaomi-electric-scooter-4-ultra-eu-b1011-b1033
+OK  [0.68] mediamarkt | Patinete eléctrico - Xiaomi Electric Scooter 6, Tipo 1 / VPL, Potencia Nominal 400 W, Carga Máx. 120 kg, 10000 mAh, 25 km/h, Negro | 399.0 EUR -> xiaomi-xiaomi-electric-scooter-6-gl-b1133
+OK  [0.9] mediamarkt | Patinete eléctrico - Xiaomi Electric Scooter 6 Pro, Tipo 1 / VPL, Potencia Nominal 400 W, Carga máx. 120 kg, 10000 mAh, 25 km/h, Negro y Gri | 509.0 EUR -> xiaomi-xiaomi-electric-scooter-6-pro-b1131
+??  [0.18] mediamarkt | Patinete eléctrico - Smartgyro Rockway GL, Tipo 1 / VPL, Potencia nominal 600 W,  13.000 mAh, 25 km/h, IPX4, Negro | 549.0 EUR -> dudoso:smartgyro-rockway-gt-a1190
+SIN [0.0] mediamarkt | Patinete eléctrico - Segway ZT3 Pro E, Tipo 2 / VPM, Potencia Nominal 650 W, Autonomía 70 km, Velocidad máx. 25 km/h, Hasta 120 kg, TCS, Neg | 635.0 EUR -> sin ficha
+OK  [0.9] mediamarkt | Patinete eléctrico - Smartgyro Crossover Dual Max 2, Tipo 1 / VPL, Potencia nominal 1000 W, Dual motor, Carga máx. 120 kg, 25km/h, Negro | 709.0 EUR -> smartgyro-crossover-dual-max-2-a1176
+SIN [0.0] mediamarkt | Patinete eléctrico - Segway Ninebot MAX G3 E, Tipo 1 / VPL, Potencia Nominal 700W, Carga máx. 130 kg, 12750 mAh, 25 km/h, Gris | 799.0 EUR -> sin ficha
 OK  [0.9] myurbanscoot | smartgyro k1 dgt | 449.0 EUR -> smartgyro-k1-a1209
 SIN [0.0] myurbanscoot | kamikaze k1 lite dgt | 469.0 EUR -> sin ficha
 SIN [0.0] myurbanscoot | g2 xtreme f1 dgt | 529.0 EUR -> sin ficha

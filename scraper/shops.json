@@ -103,5 +103,10 @@
     "tienda": "wispeed",
     "url": "https://www.wispeed.net/gb/210-e-scooter",
     "brand": "Wispeed"
+  },
+  {
+    "tienda": "mediamarkt",
+    "url": "https://www.mediamarkt.es/es/category/patinetes-el%C3%A9ctricos-820.html",
+    "name_cut": ","
   }
 ]
