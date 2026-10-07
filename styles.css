@@ -4,7 +4,7 @@
 .topbar{background:#0b1220;color:#fff;position:sticky;top:0;z-index:20}
 .topbar-inner{display:flex;align-items:center;gap:18px;padding:12px 18px}
 .logo{font-size:20px;font-weight:800;display:flex;align-items:center;gap:10px}.logo b{color:#3d8bff}
-.logo img{height:38px;width:auto;border-radius:8px}
+.logo img{height:44px;width:auto;border-radius:8px}
 .foot-logo{height:22px;width:auto;vertical-align:-5px;border-radius:5px}
 .topbar nav{display:flex;gap:14px;margin-left:auto}.topbar nav a{color:#cdd8ea;text-decoration:none;font-weight:600;font-size:14px}
 .badge-dgt{background:#12325e;border:1px solid #2b55a0;color:#bcd2ff;font-size:12px;padding:6px 10px;border-radius:999px;font-weight:700}
