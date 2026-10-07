@@ -43,9 +43,9 @@ def main():
 
     new = []
     for marca_dgt, modelo, cert in dgt:
-        if marca_dgt not in PROPER:
+        if marca_dgt.upper() not in PROPER:
             continue
-        marca = PROPER[marca_dgt]
+        marca = PROPER[marca_dgt.upper()]
         if marca + "|" + modelo in have:
             continue
         new.append({

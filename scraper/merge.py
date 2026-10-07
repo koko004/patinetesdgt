@@ -26,7 +26,10 @@ STOP = {"patinete", "patinetes", "electrico", "electricos", "electrica",
         "velocidad", "vel", "carga", "bateria", "mah", "wh", "w", "kg",
         "km", "neumatico", "neumaticos", "pulgadas",
         "negro", "gris", "blanco", "azul", "plata", "rojo", "verde", "rosa",
-        "mate", "brillo", "color", "oscuro", "claro"}
+        "mate", "brillo", "color", "oscuro", "claro",
+        "bongo", "maxima", "maximo", "minima", "minimo", "aprox"}
+VARIANT = {"ultra", "max", "pro", "plus", "lite", "dual", "limited", "luxury",
+           "evo", "gt", "air", "go"}
 NUM_RE = re.compile(r"^\d+(\.\d+)?$")
 SPEC_RE = re.compile(r"^\d+(\.\d+)?(v|ah|w)$|^\d+[a-z]*ah$")
 MIN_SCORE = 0.60
@@ -52,12 +55,15 @@ def score(modelo, nombre, brand=""):
     rec = inter / len(ta)
     f1 = 2 * prec * rec / (prec + rec) if (prec + rec) else 0.0
     s = 0.5 * r + 0.5 * f1
+    # palabras que distinguen variantes: con ellas no vale la contencion
+    extra = tb - ta
     if ta == tb:
         s = max(s, 0.9)
-    extra = tb - ta
-    if extra:
-        # la oferta menciona algo que la ficha no tiene (Ultra, Dual...):
-        # penaliza salvo que haya ficha exacta mejor en otra parte
+    elif ta and ta < tb and not (extra & VARIANT):
+        # el modelo aparece integro en la oferta: casi seguro
+        # (digitos y compuerta anti-cuotas siguen vigilando)
+        s = max(s, 0.8)
+    elif extra:
         s -= 0.5 * len(extra) / len(tb)
     return max(0.0, s)
 
@@ -112,11 +118,11 @@ def main():
                         continue
             s = score(f["modelo"], raw_name, f["marca"])
             if s > best_s:
-                # los tokens con digitos (G2, 4Pro, 6Max...) mandan:
-                # si ambos tienen y son disjuntos, es otra generacion
-                df = {t for t in norm(f["modelo"]).split() if any(c.isdigit() for c in t)}
-                do = {t for t in nb.split() if any(c.isdigit() for c in t)}
-                if df and do and df.isdisjoint(do):
+                # los numeros mandan (G2, 4Pro, 6Max...): si ambos tienen
+                # numeros y no comparten ninguno, es otra generacion
+                nf = set(re.findall(r"\d+", norm(f["modelo"])))
+                no = set(re.findall(r"\d+", nb))
+                if nf and no and nf.isdisjoint(no):
                     continue
                 best, best_s = f, s
         cheap = False
