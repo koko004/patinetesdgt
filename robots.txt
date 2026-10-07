@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.patinetesdgt.com/sitemap.xml
+Sitemap: https://www.patinetesdgt.es/sitemap.xml

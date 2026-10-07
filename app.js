@@ -187,4 +187,5 @@ const has=ENRICHED.some(e=>e.marca.toLowerCase()===r[0].toLowerCase().split(' ')
 return `<tr><td><b>${r[0]}</b></td><td>${r[1]}</td><td><code>${r[2]}</code></td><td>${FICHAS.has(r[0]+'|'+r[1])?'<span class="pill">ficha</span>':''}</td></tr>`;}).join('');
 }
 q2.addEventListener('input',()=>renderDGT(q2.value));
+try{const u=new URLSearchParams(location.search);const qq=u.get('q');if(qq){q.value=qq;}}catch(e){}
 applyFilters();renderDGT();renderCmpBar();
